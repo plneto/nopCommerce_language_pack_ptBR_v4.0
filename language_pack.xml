@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language Name="English" SupportedVersion="4.00">
 	<LocaleResource Name="Account.AccountActivation">
 		<Value>Account activation</Value>
@@ -1522,97 +1522,97 @@
 		<Value>The affiliate has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog">
-		<Value>Catalog</Value>
+		<Value>Catálogo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes">
-		<Value>Attributes</Value>
+		<Value>Atributos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes">
-		<Value>Checkout attributes</Value>
+		<Value>Atributos do Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.AddNew">
-		<Value>Add a new checkout attribute</Value>
+		<Value>Adicionar um novo atributo do checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.BackToList">
-		<Value>back to checkout attribute list</Value>
+		<Value>Voltar para lista de atributos do checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition">
-		<Value>Condition</Value>
+		<Value>Condição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.Attributes">
-		<Value>Attribute</Value>
+		<Value>Atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.Attributes.Hint">
-		<Value>Choose an attribute.</Value>
+		<Value>Escolha um atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.EnableCondition">
-		<Value>Enable condition</Value>
+		<Value>Ativar condição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.EnableCondition.Hint">
-		<Value>Check to specify a condition (depending on other attribute) when this attribute should be enabled (visible).</Value>
+		<Value>Marcar para especificar uma condição (dependendo de outro atributo) quando este atributo deve ser ativado (visível).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.NoAttributeExists">
-		<Value>No attribute exists that could be used as condition.</Value>
+		<Value>Não existe qualquer atributo que pode ser utilizado como condição.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.SaveBeforeEdit">
-		<Value>You need to save the checkout attribute before you can edit conditional attributes.</Value>
+		<Value>Você precisa salvar o atributo do checkout antes de poder editar atributos condicionais.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Deleted">
-		<Value>The attribute has been deleted successfully.</Value>
+		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Description">
-		<Value>Checkout attributes are displayed on the shopping cart page and provide the opportunity to offer more services to customers, i.e. gift wrapping, before placing the order.</Value>
+		<Value>Atributos de checkout são exibidos na página do carrinho de compras e proporciona a oportunidade de oferecer mais serviços aos clientes, por exemplo: papel de embrulho, antes de confirmar o pedido.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.EditAttributeDetails">
-		<Value>Edit checkout attribute details</Value>
+		<Value>Editar detalhes do atributo do checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.AttributeControlType">
-		<Value>Control type</Value>
+		<Value>Tipo de controle</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.AttributeControlType.Hint">
-		<Value>Choose how to display your attribute values.</Value>
+		<Value>Escolha como exibir seus valores de atributos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.DefaultValue">
-		<Value>Default value</Value>
+		<Value>Valor padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.DefaultValue.Hint">
-		<Value>Enter default value for attribute.</Value>
+		<Value>Introduzir o valor padrão para o atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.DisplayOrder.Hint">
-		<Value>The checkout attribute display order. 1 represents the first item in the list.</Value>
+		<Value>O atributo de ordem de exibição do checkout. 1 representa o primeiro item na lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.FileAllowedExtensions">
-		<Value>Allowed file extensions</Value>
+		<Value>Extensões de arquivos permitidas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.FileAllowedExtensions.Hint">
-		<Value>Specify a comma-separated list of allowed file extensions. Leave empty to allow any file extension.</Value>
+		<Value>Especifique uma lista separada por vírgulas de extensões de arquivo permitidos. Deixe em branco para permitir qualquer extensão de arquivo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.FileMaximumSize">
-		<Value>Maximum file size (KB)</Value>
+		<Value>O tamanho máximo do arquivo (KB)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.FileMaximumSize.Hint">
-		<Value>Specify maximum file size in kilobytes. Leave empty to skip this validation.</Value>
+		<Value>Especificar o tamanho máximo do arquivo em kilobytes. Deixe em branco para ignorar esta validação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsRequired">
-		<Value>Required</Value>
+		<Value>Requeridos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsRequired.Hint">
-		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
+		<Value>Quando um atributo é necessário, o cliente deve escolher um valor de atributo apropriado antes que ele possam continuar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsTaxExempt">
-		<Value>Tax exempt</Value>
+		<Value>Isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsTaxExempt.Hint">
-		<Value>Determines whether this option is tax exempt (tax will not be applied to this option at checkout).</Value>
+		<Value>Determina se esta opção é isenta de impostos (imposto não será aplicada a esta opção no check-out).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this attribute to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
