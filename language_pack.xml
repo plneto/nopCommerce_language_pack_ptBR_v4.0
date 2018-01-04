@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language Name="English" SupportedVersion="4.00">
 	<LocaleResource Name="Account.AccountActivation">
-		<Value>Account activation</Value>
+		<Value>Ativação da conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AccountActivation.Activated">
-		<Value>Your account has been activated</Value>
+		<Value>Sua conta foi ativada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AccountActivation.AlreadyActivated">
-		<Value>Your account already has been activated</Value>
+		<Value>Sua conta já foi ativada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Administration">
-		<Value>Administration</Value>
+		<Value>Administração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth">
-		<Value>External authentication</Value>
+		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.AddMoreRecords">
 		<Value>You can associate your account with some external authentication systems on the following page (login once using them):</Value>
@@ -31,10 +31,10 @@
 		<Value>External identifier</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.Or">
-		<Value>- or -</Value>
+		<Value>- ou -</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.Remove">
-		<Value>Remove</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar">
 		<Value>Avatar</Value>
@@ -43,7 +43,7 @@
 		<Value>Maximum avatar size is {0} bytes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.RemoveAvatar">
-		<Value>Remove avatar</Value>
+		<Value>Remover avatar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.UploadRules">
 		<Value>Avatar must be in GIF or JPEG format with the maximum size of 20 KB</Value>
@@ -61,13 +61,13 @@
 		<Value>You are not currently subscribed to any Back In Stock notification lists</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.ProductColumn">
-		<Value>Product</Value>
+		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword">
-		<Value>Change password</Value>
+		<Value>Mudar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Button">
-		<Value>Change password</Value>
+		<Value>Mudar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.EmailIsNotProvided">
 		<Value>Email is not entered</Value>
@@ -91,7 +91,7 @@
 		<Value>Password is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword">
-		<Value>New password</Value>
+		<Value>Nova senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword.EnteredPasswordsDoNotMatch">
 		<Value>The new password and confirmation password do not match.</Value>
@@ -148,7 +148,7 @@
 		<Value>Customer info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders">
-		<Value>Orders</Value>
+		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.NoOrders">
 		<Value>No orders</Value>
@@ -520,13 +520,13 @@
 		<Value>Log out</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.MyAccount">
-		<Value>My account</Value>
+		<Value>Minha conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Navigation">
-		<Value>My account</Value>
+		<Value>Minha conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Options">
-		<Value>Options</Value>
+		<Value>Opções</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery">
 		<Value>Password recovery</Value>
@@ -550,13 +550,13 @@
 		<Value>Email with instructions has been sent to you.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.EmailNotFound">
-		<Value>Email not found.</Value>
+		<Value>Email não encontrado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.LinkExpired">
 		<Value>Your password recovery link is expired</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword">
-		<Value>New password</Value>
+		<Value>Nova senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.EnteredPasswordsDoNotMatch">
 		<Value>The new password and confirmation password do not match.</Value>
@@ -3913,7 +3913,7 @@
 		<Value>Are you sure you want to perform this action?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNew">
-		<Value>Add new</Value>
+		<Value>Adcionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNewRecord">
 		<Value>Add new record</Value>
@@ -4057,7 +4057,7 @@
 		<Value>Zip file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration">
-		<Value>Configuration</Value>
+		<Value>Configuração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL">
 		<Value>Access control list</Value>
@@ -4288,7 +4288,7 @@
 		<Value>The country has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies">
-		<Value>Currencies</Value>
+		<Value>Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Added">
 		<Value>The new currency has been added successfully.</Value>
@@ -4564,7 +4564,7 @@
 		<Value>System name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages">
-		<Value>Languages</Value>
+		<Value>Idiomas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Added">
 		<Value>The new language has been added successfully.</Value>
@@ -9433,7 +9433,7 @@
 		<Value>Current wishlists</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers">
-		<Value>Customers</Value>
+		<Value>Clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes">
 		<Value>Custom customer attributes</Value>
@@ -9622,7 +9622,7 @@
 		<Value>The customer role has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers">
-		<Value>Customers</Value>
+		<Value>Clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog">
 		<Value>Activity log</Value>
@@ -10072,13 +10072,13 @@
 		<Value>You're not allowed to delete administrators. Only administrators can do it.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders">
-		<Value>Orders</Value>
+		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.CustomOrderNumber">
-		<Value>Order #</Value>
+		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.OrderStatus">
 		<Value>Order status</Value>
@@ -10573,7 +10573,7 @@
 		<Value>Show advertisements</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders">
-		<Value>Orders</Value>
+		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.Address1">
 		<Value>Address 1</Value>
@@ -10585,13 +10585,13 @@
 		<Value>back to order details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.City">
-		<Value>City</Value>
+		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.Company">
 		<Value>Company</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.EditAddress">
 		<Value>Edit address</Value>
@@ -10603,7 +10603,7 @@
 		<Value>Fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.FullName">
-		<Value>Full name</Value>
+		<Value>Nome completo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.Phone">
 		<Value>Phone</Value>
@@ -12268,7 +12268,7 @@
 		<Value>The return request has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Sales">
-		<Value>Sales</Value>
+		<Value>Vendas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average">
 		<Value>Order totals</Value>
@@ -12280,16 +12280,16 @@
 		<Value>All time</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.SumThisMonthOrders">
-		<Value>This Month</Value>
+		<Value>Este Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.SumThisWeekOrders">
-		<Value>This Week</Value>
+		<Value>Esta Semana</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.SumThisYearOrders">
-		<Value>This Year</Value>
+		<Value>Este Ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.SumTodayOrders">
-		<Value>Today</Value>
+		<Value>Hoje</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers">
 		<Value>Bestsellers</Value>
@@ -12307,7 +12307,7 @@
 		<Value>Bestsellers by quantity</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Category">
-		<Value>Category</Value>
+		<Value>Categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Category.Hint">
 		<Value>Search in a specific category.</Value>
@@ -12475,16 +12475,16 @@
 		<Value>The start date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.OrderStatistics">
-		<Value>Orders</Value>
+		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.OrderStatistics.Month">
-		<Value>Month</Value>
+		<Value>Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.OrderStatistics.Week">
-		<Value>Week</Value>
+		<Value>Semana</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.OrderStatistics.Year">
-		<Value>Year</Value>
+		<Value>Ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SearchTermReport">
 		<Value>Popular search keywords</Value>
@@ -12544,7 +12544,7 @@
 		<Value>The stock quantity has been reduced when an order item of the order #{0} was shipped</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System">
-		<Value>System</Value>
+		<Value>Sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log">
 		<Value>Log</Value>
@@ -13282,7 +13282,7 @@
 		<Value>Whether customers are allowed to select the page size from a predefined list of options.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails">
-		<Value>Customers</Value>
+		<Value>Clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.Hint">
 		<Value>A list of customer accounts which could be used to manage products and orders of this vendor (have access to the vendor portal). You can associate customers to a vendor on a customer details page. If you don't want the vendor to have access to the vendor portal, then do not associate any customer account with it.</Value>
@@ -13672,10 +13672,10 @@
 		<Value>(read)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ThankYou">
-		<Value>Thank you</Value>
+		<Value>Obrigado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ThankYou.Continue">
-		<Value>Continue</Value>
+		<Value>Continuar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.UseRewardPoints">
 		<Value>Use my reward points, {0} reward points ({1}) available</Value>
@@ -13684,67 +13684,67 @@
 		<Value>Your order has been successfully processed!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.AddNew">
-		<Value>Add new</Value>
+		<Value>Adcionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.All">
 		<Value>All</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.AreYouSure">
-		<Value>Are you sure?</Value>
+		<Value>Você tem certeza?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Back">
-		<Value>Back</Value>
+		<Value>Voltar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Cancel">
-		<Value>Cancel</Value>
+		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Close">
-		<Value>Close</Value>
+		<Value>Fechar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Config">
 		<Value>Config</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Confirm">
-		<Value>Confirm</Value>
+		<Value>Confirmar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Continue">
-		<Value>Continue</Value>
+		<Value>Continuar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Day">
-		<Value>Day</Value>
+		<Value>Dia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Delete">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.DeleteConfirmation">
-		<Value>Are you sure you want to delete this item?</Value>
+		<Value>Você tem certeza que você quer remover este item?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.DeleteConfirmationParam">
-		<Value>Are you sure you want to delete "{0}"?</Value>
+		<Value>Você tem certeza que você quer remover "{0}"?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Edit">
-		<Value>Edit</Value>
+		<Value>Editar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Error">
-		<Value>Error</Value>
+		<Value>Erro</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Cancel">
-		<Value>Cancel</Value>
+		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Delete">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.DownloadUploadedFile">
-		<Value>Download</Value>
+		<Value>Baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.DropFiles">
-		<Value>Drop files here to upload</Value>
+		<Value>Arraste arquivos aqui para fazer upload</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Processing">
-		<Value>Processing dropped files...</Value>
+		<Value>Processando arquivos arrastados...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.RemoveDownload">
-		<Value>Remove</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Retry">
 		<Value>Retry</Value>
@@ -13753,7 +13753,7 @@
 		<Value>Upload a file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Hide">
-		<Value>Hide</Value>
+		<Value>Esconder</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Home">
 		<Value>Home</Value>
@@ -13765,43 +13765,43 @@
 		<Value>Manage this page</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Month">
-		<Value>Month</Value>
+		<Value>Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.No">
-		<Value>No</Value>
+		<Value>Não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.NoCancel">
-		<Value>No, cancel</Value>
+		<Value>Não, cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Notification">
-		<Value>Notification</Value>
+		<Value>Notificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.OK">
 		<Value>OK</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Remove">
-		<Value>Remove</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Save">
-		<Value>Save</Value>
+		<Value>Salvar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Search">
-		<Value>Search</Value>
+		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Show">
-		<Value>Show</Value>
+		<Value>Mostrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Upload">
 		<Value>Upload</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.View">
-		<Value>View</Value>
+		<Value>Ver</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Wait...">
-		<Value>Wait...</Value>
+		<Value>Esperar...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Warning">
-		<Value>Warning</Value>
+		<Value>Aviso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.WrongCaptcha">
 		<Value>The characters didn't match the picture. Please try again.</Value>
@@ -13813,19 +13813,19 @@
 		<Value>Wrong email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Year">
-		<Value>Year</Value>
+		<Value>Ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Yes">
-		<Value>Yes</Value>
+		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs">
 		<Value>Contact us</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Button">
-		<Value>Submit</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Email">
-		<Value>Your email</Value>
+		<Value>Seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Email.Hint">
 		<Value>Enter your email address.</Value>
@@ -13843,7 +13843,7 @@
 		<Value>Enter enquiry</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName">
-		<Value>Your name</Value>
+		<Value>Seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName.Hint">
 		<Value>Enter your name.</Value>
@@ -13852,7 +13852,7 @@
 		<Value>Enter your name</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Subject">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Subject.Hint">
 		<Value>Enter subject.</Value>
@@ -13870,7 +13870,7 @@
 		<Value>Submit</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Email">
-		<Value>Your email</Value>
+		<Value>Seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Email.Hint">
 		<Value>Enter your email address.</Value>
@@ -13888,7 +13888,7 @@
 		<Value>Enter enquiry</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName">
-		<Value>Your name</Value>
+		<Value>Seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName.Hint">
 		<Value>Enter your name.</Value>
@@ -13897,7 +13897,7 @@
 		<Value>Enter your name</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Subject">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Subject.Hint">
 		<Value>Enter subject.</Value>
@@ -13912,16 +13912,16 @@
 		<Value>Copyright &amp;copy; {0} {1}. All rights reserved.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Currencies">
-		<Value>Currencies</Value>
+		<Value>Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Customer.Guest">
 		<Value>Guest</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Download">
-		<Value>Download</Value>
+		<Value>Baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Download.NA">
 		<Value>n/a</Value>
@@ -13930,13 +13930,13 @@
 		<Value>Download license</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Order">
-		<Value>Order #</Value>
+		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Product">
-		<Value>Product</Value>
+		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.IAgree">
-		<Value>I agree</Value>
+		<Value>Concordo</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.NoItems">
 		<Value>There are no downloadable products</Value>
@@ -14443,10 +14443,10 @@
 		<Value>YouTube</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.Information">
-		<Value>Information</Value>
+		<Value>Informação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.MyAccount">
-		<Value>My account</Value>
+		<Value>Minha conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.TaxShipping.ExclTax">
 		<Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
@@ -14761,22 +14761,22 @@
 		<Value>From: {0} &lt;{1}&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="HomePage">
-		<Value>Home page</Value>
+		<Value>Página Inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="HomePage.Products">
 		<Value>Featured products</Value>
 	</LocaleResource>
 	<LocaleResource Name="Languages">
-		<Value>Languages</Value>
+		<Value>Idiomas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Manufacturers">
-		<Value>Manufacturers</Value>
+		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Manufacturers.List">
-		<Value>Manufacturer List</Value>
+		<Value>Lista de Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Manufacturers.ViewAll">
-		<Value>View all</Value>
+		<Value>Ver todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Media.Category.ImageAlternateTextFormat">
 		<Value>Picture for category {0}</Value>
@@ -14785,13 +14785,13 @@
 		<Value>Show products in category {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Media.MagnificPopup.Close">
-		<Value>Close (Esc)</Value>
+		<Value>Fechar (Esc)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Media.MagnificPopup.Counter">
 		<Value>%curr% of %total%</Value>
 	</LocaleResource>
 	<LocaleResource Name="Media.MagnificPopup.Loading">
-		<Value>Loading...</Value>
+		<Value>Carregando...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Media.MagnificPopup.Next">
 		<Value>Next (Right arrow key)</Value>
@@ -15016,10 +15016,10 @@
 		<Value>Order Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Payment">
-		<Value>Payment</Value>
+		<Value>Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Payment.Method">
-		<Value>Payment Method</Value>
+		<Value>Forma de Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Payment.Status">
 		<Value>Payment Status</Value>
@@ -15034,19 +15034,19 @@
 		<Value>Pickup point address</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Print">
-		<Value>Print</Value>
+		<Value>Imprimir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Product(s)">
-		<Value>Product(s)</Value>
+		<Value>Produto(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Product(s).Name">
-		<Value>Name</Value>
+		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Product(s).Price">
-		<Value>Price</Value>
+		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Product(s).Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Product(s).SKU">
 		<Value>SKU</Value>
@@ -15106,7 +15106,7 @@
 		<Value>Shipped product(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s).Name">
-		<Value>Name</Value>
+		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s).Quantity">
 		<Value>Qty shipped</Value>
@@ -15130,7 +15130,7 @@
 		<Value>Tracking number</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ViewDetails">
-		<Value>View details</Value>
+		<Value>Ver detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents">
 		<Value>Shipment status events</Value>
@@ -15790,7 +15790,7 @@
 		<Value>Customers who bought this item also bought</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability">
-		<Value>Availability</Value>
+		<Value>Disponibilidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.AvailabilityRange">
 		<Value>Available in {0}</Value>
