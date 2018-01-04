@@ -10327,7 +10327,7 @@
 		<Value>Run report</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Dashboard">
-		<Value>Painel de instrumentos</Value>
+		<Value>Painel de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Dashboard.CommonStatistics">
 		<Value>Estatísticas comuns</Value>
