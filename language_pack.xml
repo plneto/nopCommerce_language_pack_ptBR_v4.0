@@ -1864,7 +1864,7 @@
 		<Value>Opções</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.AddNew">
-		<Value>Adcionar uma nova opção</Value>
+		<Value>Adicionar uma nova opção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.EditOptionDetails">
 		<Value>Edit option details</Value>
@@ -1954,7 +1954,7 @@
 		<Value>The new category has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.AddNew">
-		<Value>Adcionar uma nova categoria</Value>
+		<Value>Adicionar uma nova categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.BackToList">
 		<Value>voltar à lista de categorias</Value>
@@ -2140,7 +2140,7 @@
 		<Value>Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.AddNew">
-		<Value>Adcionar um novo produto</Value>
+		<Value>Adicionar um novo produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -3319,10 +3319,10 @@
 		<Value>Fotos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.AddButton">
-		<Value>Adcionar foto do produto</Value>
+		<Value>Adicionar foto do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.AddNew">
-		<Value>Adcionar uma nova foto</Value>
+		<Value>Adicionar uma nova foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -3913,7 +3913,7 @@
 		<Value>Are you sure you want to perform this action?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNew">
-		<Value>Adcionar novo</Value>
+		<Value>Adicionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNewRecord">
 		<Value>Add new record</Value>
@@ -3922,10 +3922,10 @@
 		<Value>All</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AreYouSure">
-		<Value>Are you sure?</Value>
+		<Value>Você tem certeza?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Cancel">
-		<Value>Cancel</Value>
+		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Change">
 		<Value>Change</Value>
@@ -3946,82 +3946,82 @@
 		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete.Selected">
-		<Value>Delete (selected)</Value>
+		<Value>Remover (selecionado)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.DeleteConfirmation">
-		<Value>Are you sure you want to delete this item?</Value>
+		<Value>Você tem certeza que você quer remover este item?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.DeleteConfirmationParam">
-		<Value>Are you sure you want to delete "{0}"?</Value>
+		<Value>Você tem certeza que você quer remover "{0}"?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Edit">
 		<Value>Editar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExcelFile">
-		<Value>Excel file</Value>
+		<Value>Arquivo excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Export">
-		<Value>Export</Value>
+		<Value>Exportar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToCsv">
-		<Value>Export to CSV</Value>
+		<Value>Exportar para CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel">
-		<Value>Export to Excel</Value>
+		<Value>Exportar para Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.All">
-		<Value>Export to Excel (all found)</Value>
+		<Value>Export para Excel (todos)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.Selected">
-		<Value>Export to Excel (selected)</Value>
+		<Value>Export para Excel (selecionados)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml">
-		<Value>Export to XML</Value>
+		<Value>Export para XML</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml.All">
-		<Value>Export to XML (all found)</Value>
+		<Value>Exportar para XML (todos)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml.Selected">
-		<Value>Export to XML (selected)</Value>
+		<Value>Exportar para XML (selecionados)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Go">
-		<Value>Go</Value>
+		<Value>Ir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Hide">
-		<Value>Hide</Value>
+		<Value>Esconder</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Import">
-		<Value>Import</Value>
+		<Value>Importar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromCsv">
-		<Value>Import from CSV</Value>
+		<Value>Importar de arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel">
-		<Value>Import from Excel</Value>
+		<Value>Importar de arquivo do Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel.ManyRecordsWarning">
-		<Value>Import requires a lot of memory resources. That's why it's not recommended to import more than 500 - 1,000 records at once. If you have more records, it's better to split them to multiple Excel files and import separately.</Value>
+		<Value>A importação requer bastante memória. Por este motivo não recomendamos importar mais do que 500 - 1,000 itens de cada vez. Se você tem mais itens, é recomendado dividí-los em vários arquivos de Excel e importá-los separadamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.List">
-		<Value>List</Value>
+		<Value>Lista</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.LoseUnsavedChanges">
-		<Value>You are going to lose any unsaved changes. Are you sure?</Value>
+		<Value>Você irá perder todas as alterações que não foram salvas. Você tem certeza?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.No">
-		<Value>No</Value>
+		<Value>Não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.NoCancel">
-		<Value>No, cancel</Value>
+		<Value>Não, cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Preview">
-		<Value>Preview</Value>
+		<Value>Visualização</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Save">
-		<Value>Save</Value>
+		<Value>Salvar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.SaveContinue">
-		<Value>Save and Continue Edit</Value>
+		<Value>Salvar e Continuar a Editar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Search">
 		<Value>Buscar</Value>
@@ -4570,7 +4570,7 @@
 		<Value>The new language has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.AddNew">
-		<Value>Adcionar um novo idioma</Value>
+		<Value>Adicionar um novo idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.BackToList">
 		<Value>voltar à lista de idiomas</Value>
@@ -8227,7 +8227,7 @@
 		<Value>The new store has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.AddNew">
-		<Value>Adcionar uma nova loja</Value>
+		<Value>Adicionar uma nova loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.BackToList">
 		<Value>back to store list</Value>
@@ -8371,7 +8371,7 @@
 		<Value>The new blog post has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.AddNew">
-		<Value>Adcionar uma nova publicação no blog</Value>
+		<Value>Adicionar uma nova publicação no blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.BackToList">
 		<Value>back to blog post list</Value>
@@ -11581,7 +11581,7 @@
 		<Value>A nova campanha foi adcionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.AddNew">
-		<Value>Adcionar uma nova campanha</Value>
+		<Value>Adicionar uma nova campanha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.BackToList">
 		<Value>back to campaign list</Value>
@@ -11689,13 +11689,13 @@
 		<Value>The new discount has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.AddNew">
-		<Value>Adcionar um novo desconto</Value>
+		<Value>Adicionar um novo desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.AppliedToCategories">
 		<Value>Applied to categories</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.AppliedToCategories.AddNew">
-		<Value>Adcionar uma nova categoria</Value>
+		<Value>Adicionar uma nova categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.AppliedToCategories.Category">
 		<Value>Categoria</Value>
@@ -11932,7 +11932,7 @@
 		<Value>Requerimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup">
-		<Value>Adcionar ao grupo</Value>
+		<Value>Adicionar ao grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup.Hint">
 		<Value>Choose the group you want the requirement group you’re creating to be assigned to</Value>
@@ -13684,7 +13684,7 @@
 		<Value>Your order has been successfully processed!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.AddNew">
-		<Value>Adcionar novo</Value>
+		<Value>Adicionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.All">
 		<Value>All</Value>
@@ -14497,7 +14497,7 @@
 		<Value>By</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Cancel">
-		<Value>Cancel</Value>
+		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.DeletePost">
 		<Value>Delete Post</Value>
@@ -15718,7 +15718,7 @@
 		<Value>Private Messages</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.CancelButton">
-		<Value>Cancel</Value>
+		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.Message">
 		<Value>Message:</Value>
