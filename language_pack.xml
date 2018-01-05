@@ -655,7 +655,7 @@
 		<Value>Vendor name is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture.ErrorMessage">
 		<Value>You can add only picture file</Value>
@@ -3001,7 +3001,7 @@
 		<Value>Enter gift card amount that can be used after purchase. If not specified, then product price will be used.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.PictureThumbnailUrl">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.PreOrderAvailabilityStartDateTimeUtc">
 		<Value>Pre-order availability start date</Value>
@@ -3025,7 +3025,7 @@
 		<Value>None</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductCost">
-		<Value>Product cost</Value>
+		<Value>Custo do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductCost.Hint">
 		<Value>Product cost is a prime product cost. This field is only for internal use, not visible for customers.</Value>
@@ -3118,7 +3118,7 @@
 		<Value>Set a search engine friendly page name e.g. 'the-best-product' to make your page URL 'http://www.yourStore.com/the-best-product'. Leave empty to generate it automatically based on the name of the product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShipSeparately">
-		<Value>Ship separately</Value>
+		<Value>Enviar separadamente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShipSeparately.Hint">
 		<Value>Check if the product should be shipped separately from other products (in single box). But notice that if the order includes several items of this product, all of them will be shipped in single box.</Value>
@@ -3130,7 +3130,7 @@
 		<Value>Short description is the text that is displayed in product list i.e. сategory / manufacturer pages.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShowOnHomePage">
-		<Value>Show on home page</Value>
+		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShowOnHomePage.Hint">
 		<Value>Check to display this product on your store's home page. Recommended for your most popular products.</Value>
@@ -3187,7 +3187,7 @@
 		<Value>Choose a vendor associated with this product. This can be useful when running a multi-vendor store to keep track of goods associated with vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Vendor.None">
-		<Value>No vendor</Value>
+		<Value>Nenhum fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.VisibleIndividually">
 		<Value>Visible individually</Value>
@@ -3217,7 +3217,7 @@
 		<Value>A largura do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.GiftCard">
-		<Value>Cartão de presente</Value>
+		<Value>Cartão Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Import.CategoriesDontExist">
 		<Value>Categories with the following names don''t exist: {0}</Value>
@@ -3229,22 +3229,22 @@
 		<Value>Product attributes with the following IDs don''t exist: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Imported">
-		<Value>Products have been imported successfully.</Value>
+		<Value>Os produtos foram importados com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Info">
 		<Value>Informação do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Inventory">
-		<Value>Inventory</Value>
+		<Value>Inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.DownloadPDF">
-		<Value>Download catalog as PDF</Value>
+		<Value>Baixar catálogo em PDF</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.GoDirectlyToSku">
-		<Value>Go directly to product SKU</Value>
+		<Value>Ir diretamente ao SKU do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.GoDirectlyToSku.Hint">
-		<Value>Enter product SKU and click Go.</Value>
+		<Value>Insira o SKU do produto e clique em Ir.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.ImportFromExcelTip">
 		<Value>Imported products are distinguished by SKU. If the SKU already exists, then its corresponding product will be updated.</Value>
@@ -3622,7 +3622,7 @@
 		<Value>Please provide a name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.Picture.Hint">
 		<Value>Choose a picture associated to this attribute value. This picture will replace the main product image when this product attribute value is clicked (selected).</Value>
@@ -3736,7 +3736,7 @@
 		<Value>Access control list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes">
 		<Value>Atributos de especificação</Value>
@@ -4921,7 +4921,7 @@
 		<Value>Search by name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.OfficialFeed.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.OfficialFeed.Price">
 		<Value>Preço</Value>
@@ -7153,7 +7153,7 @@
 		<Value>Access control list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Tabs">
 		<Value>Tabs and display options</Value>
@@ -7555,7 +7555,7 @@
 		<Value>Mini shopping cart</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.BlockTitle.Wishlist">
-		<Value>Wishlist</Value>
+		<Value>Lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.CartsSharedBetweenStores">
 		<Value>Carts shared between stores</Value>
@@ -7675,7 +7675,7 @@
 		<Value>Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.TaxDispaying">
 		<Value>Tax dispaying</Value>
@@ -7891,7 +7891,7 @@
 		<Value>Enter the number of vendors to display in vendor navigation block.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DatesAndRanges">
 		<Value>Dates and ranges</Value>
@@ -10783,7 +10783,7 @@
 		<Value>Edit order totals</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.GiftCardInfo">
-		<Value>Cartão de presente</Value>
+		<Value>Cartão Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.GiftCardInfo.Hint">
 		<Value>Applied gift card.</Value>
@@ -11218,7 +11218,7 @@
 		<Value>Do not to forget to update order totals after adding this product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Discount">
-		<Value>Discount</Value>
+		<Value>Desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Download">
 		<Value>Downloadable product</Value>
@@ -11257,7 +11257,7 @@
 		<Value>Upload license file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Price">
 		<Value>Preço</Value>
@@ -11287,7 +11287,7 @@
 		<Value>Lucro</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Report.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Report.Summary">
 		<Value>Resumo</Value>
@@ -11758,7 +11758,7 @@
 		<Value>The discount coupon code.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.Discount">
-		<Value>Discount</Value>
+		<Value>Desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.DiscountAmount">
 		<Value>Discount amount</Value>
@@ -13243,7 +13243,7 @@
 		<Value>Entered page name already exists, so it will be replaced by '{0}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors">
-		<Value>Vendors</Value>
+		<Value>Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Added">
 		<Value>The new vendor has been added successfully.</Value>
@@ -13357,7 +13357,7 @@
 		<Value>Page Size options should have unique items.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Picture.Hint">
 		<Value>The vendor picture.</Value>
@@ -13609,7 +13609,7 @@
 		<Value>Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Progress.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectBillingAddress">
 		<Value>Select billing address</Value>
@@ -13867,7 +13867,7 @@
 		<Value>Contact vendor</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Button">
-		<Value>Submit</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Email">
 		<Value>Seu email</Value>
@@ -14695,7 +14695,7 @@
 		<Value>Sticky</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Submit">
-		<Value>Submit</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.TextCannotBeEmpty">
 		<Value>Text cannot be empty</Value>
@@ -15148,7 +15148,7 @@
 		<Value>Location</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipping.Name">
 		<Value>Shipping Method</Value>
@@ -15316,7 +15316,7 @@
 		<Value>Vendor info</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Vendors">
-		<Value>Vendors</Value>
+		<Value>Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Vendors.Apply">
 		<Value>Apply for vendor account</Value>
@@ -15325,7 +15325,7 @@
 		<Value>View the private message</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Wishlist">
-		<Value>Wishlist</Value>
+		<Value>Lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.WishlistEmailAFriend">
 		<Value>Email wishlist to a friend</Value>
@@ -16594,7 +16594,7 @@
 		<Value>Calculated during checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.GiftCardInfo">
-		<Value>Gift Card</Value>
+		<Value>Cartão Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.GiftCardInfo.Code">
 		<Value>({0})</Value>
@@ -16606,7 +16606,7 @@
 		<Value>Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.OrderTotalDiscount">
-		<Value>Discount</Value>
+		<Value>Desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.PaymentMethodAdditionalFee">
 		<Value>Payment method additional fee</Value>
@@ -16615,25 +16615,25 @@
 		<Value>{0} reward points</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.RewardPoints.WillEarn">
-		<Value>You will earn</Value>
+		<Value>Você irá ganhar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.RewardPoints.WillEarn.Point">
-		<Value>{0} points</Value>
+		<Value>{0} pontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.Shipping">
-		<Value>Shipping</Value>
+		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.Shipping.Method">
 		<Value>({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.Shipping.NotRequired">
-		<Value>Not required</Value>
+		<Value>Não requerido</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.SubTotal">
 		<Value>Sub-Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.SubTotalDiscount">
-		<Value>Discount</Value>
+		<Value>Desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Totals.Tax">
 		<Value>Imposto</Value>
@@ -16681,7 +16681,7 @@
 		<Value>Please check back in a little while.</Value>
 	</LocaleResource>
 	<LocaleResource Name="StoreTheme">
-		<Value>Select store theme</Value>
+		<Value>Selecione o tema da loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Tax.Exclusive">
 		<Value>Show prices tax exclusive</Value>
@@ -16702,7 +16702,7 @@
 		<Value>Senha errada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors">
-		<Value>Vendors</Value>
+		<Value>Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount">
 		<Value>Apply for vendor account</Value>
@@ -16720,7 +16720,7 @@
 		<Value>You already applied for a vendor account. Please register as a new customer in order to apply for one more vendor account.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Button">
-		<Value>Submit</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Description">
 		<Value>Descrição</Value>
@@ -16735,16 +16735,16 @@
 		<Value>Email is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Name">
-		<Value>Vendor name</Value>
+		<Value>Nome do fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Name.Hint">
-		<Value>Enter vendor name.</Value>
+		<Value>Insira o nome do fornecedor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Name.Required">
 		<Value>Vendor name is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture.ErrorMessage">
 		<Value>You can add only picture file</Value>
@@ -16753,13 +16753,13 @@
 		<Value>Your request has been submitted successfully. We'll contact you soon.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.List">
-		<Value>Vendor List</Value>
+		<Value>List de fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ViewAll">
-		<Value>View all</Value>
+		<Value>Ver todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist">
-		<Value>Wishlist</Value>
+		<Value>Lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.AddToCart.Error">
 		<Value>Some product(s) from wishlist could not be moved to the cart for some reasons.</Value>
