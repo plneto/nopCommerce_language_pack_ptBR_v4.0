@@ -117,12 +117,12 @@
 	<LocaleResource Name="Account.CheckUsernameAvailability.Available">
 		<Value>Nome de usuário disponível</Value>
 	</LocaleResource>
-	  <LocaleResource Name="Account.CheckUsernameAvailability.Button">
-	<Value>Verificar disponibilidade</Value>
-</LocaleResource>
-<LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
-	<Value>Nome de usuário atual</Value>
-</LocaleResource>
+	<LocaleResource Name="Account.CheckUsernameAvailability.Button">
+		<Value>Verificar disponibilidade</Value>
+	</LocaleResource>
+	<LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
+		<Value>Nome de usuário atual</Value>
+	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.EnterUsername">
 		<Value>Please enter username</Value>
 	</LocaleResource>
@@ -4126,7 +4126,7 @@
 		<Value>The types have been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries">
-		<Value>Countries</Value>
+		<Value>Países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Added">
 		<Value>The new country has been added successfully.</Value>
@@ -4690,16 +4690,16 @@
 		<Value>Nome do recurso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceName.Hint">
-		<Value>Search by a specific resource.</Value>
+		<Value>Buscar por recurso específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceValue">
 		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceValue.Hint">
-		<Value>Search by a specific resource value.</Value>
+		<Value>Buscar por valor de recurso específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Updated">
-		<Value>The language has been updated successfully.</Value>
+		<Value>O idioma foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.XmlFile">
 		<Value>Arquivo Xml</Value>
@@ -4723,7 +4723,7 @@
 		<Value>Please mark the checkbox(es) for the country or countries in which you want the payment method(s) not available</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.MethodRestrictions.Updated">
-		<Value>Settings have been updated successfully</Value>
+		<Value>As configurações foram atualizadas com sucesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods">
 		<Value>Formas de pagamento</Value>
@@ -4975,22 +4975,22 @@
 		<Value>{0} plugins and {1} themes have been uploaded</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings">
-		<Value>Settings</Value>
+		<Value>Configurações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings">
-		<Value>All settings (advanced)</Value>
+		<Value>Todas as configurações (avançado)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.Name">
-		<Value>Setting name</Value>
+		<Value>Nome da configuração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.Name.Required">
-		<Value>Please provide a setting name.</Value>
+		<Value>Por favor, forneça um nome de configuração.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.StoreName">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.StoreName.AllStores">
-		<Value>All stores</Value>
+		<Value>Todas as lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.Value">
 		<Value>Valor</Value>
@@ -4999,25 +4999,25 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingName.Hint">
-		<Value>Search by a specific setting name.</Value>
+		<Value>Buscar por nome de configuração específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingValue">
 		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingValue.Hint">
-		<Value>Search by a specific setting value.</Value>
+		<Value>Buscar por valor de ajuste específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog">
-		<Value>Blog settings</Value>
+		<Value>Configurações do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.AllowNotRegisteredUsersToLeaveComments">
-		<Value>Allow guests to leave comments</Value>
+		<Value>Permitir convidados a deixar comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.AllowNotRegisteredUsersToLeaveComments.Hint">
-		<Value>Check to allow guests to leave comments.</Value>
+		<Value>Marque para permitir que os convidados possam deixar comentários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlockTitle.BlogComments">
-		<Value>Blog comments</Value>
+		<Value>Comentários do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlockTitle.Common">
 		<Value>Comum</Value>
@@ -6100,7 +6100,7 @@
 		<Value>Set the page size for topics in forums e.g. '10' topics per page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon">
-		<Value>General settings</Value>
+		<Value>Configurações Gerais</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.AdminArea.UseRichEditorInMessageTemplates">
 		<Value>Use rich editor on message templates</Value>
