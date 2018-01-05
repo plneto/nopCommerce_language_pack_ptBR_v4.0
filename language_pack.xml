@@ -304,7 +304,7 @@
 		<Value>Password is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Country.Required">
 		<Value>Country is required</Value>
@@ -1210,7 +1210,7 @@
 		<Value>Choose how to display your attribute values.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder.Hint">
 		<Value>The address attribute display order. 1 represents the first item in the list.</Value>
@@ -1246,7 +1246,7 @@
 		<Value>Edit address value details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder.Hint">
 		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
@@ -1678,7 +1678,7 @@
 		<Value>Choose color to be used with the color squares attribute control.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.DisplayOrder.Hint">
 		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
@@ -1768,7 +1768,7 @@
 		<Value>The attribute value cost is the cost of all the different components which make up this value. This may be either the purchase price if the components are bought from outside suppliers, or the combined cost of materials and manufacturing processes if the component is made in-house.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.DisplayOrder.Hint">
 		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
@@ -1843,7 +1843,7 @@
 		<Value>Edit specification attribute details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.DisplayOrder.Hint">
 		<Value>The display order of the specification attribute.</Value>
@@ -1876,7 +1876,7 @@
 		<Value>Choose color to be used instead of an option text name (it'll be displayed as "color square").</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.DisplayOrder.Hint">
 		<Value>The display order of the option.</Value>
@@ -2008,7 +2008,7 @@
 		<Value>No discounts available. Create at least one discount before mapping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.DisplayOrder.Hint">
 		<Value>Set the category's display order. 1 represents the top of the list.</Value>
@@ -2143,7 +2143,7 @@
 		<Value>Adcionar um novo produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.Fields.IsFeaturedProduct">
 		<Value>Is featured product?</Value>
@@ -2215,7 +2215,7 @@
 		<Value>No discounts available. Create at least one discount before mapping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.DisplayOrder.Hint">
 		<Value>Set the manufacturer's display order. 1 represents the top of the list.</Value>
@@ -2329,7 +2329,7 @@
 		<Value>Add a new product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.IsFeaturedProduct">
 		<Value>Is featured product?</Value>
@@ -2488,7 +2488,7 @@
 		<Value>Add new associated product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.AssociatedProducts.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.AssociatedProducts.Fields.Product">
 		<Value>Produto</Value>
@@ -2731,7 +2731,7 @@
 		<Value>No discounts available. Create at least one discount before mapping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DisplayOrder.Hint">
 		<Value>Display order of the product. 1 represents the top of the list.</Value>
@@ -3046,7 +3046,7 @@
 		<Value>Choose a product template. This template defines how this product will be displayed in public store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductType">
-		<Value>Product type</Value>
+		<Value>Tipo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductType.Hint">
 		<Value>Product type can be simple or grouped. In most cases your product will have the Simple product type. You need to use Grouped product type when a new product consists of one or more existing products that will be displayed on one single product details page.</Value>
@@ -3181,7 +3181,7 @@
 		<Value>The text of the user agreement.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Vendor.Hint">
 		<Value>Choose a vendor associated with this product. This can be useful when running a multi-vendor store to keep track of goods associated with vendor.</Value>
@@ -3265,19 +3265,19 @@
 		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer.Hint">
-		<Value>Buscar por um fabricante específico.</Value>
+		<Value>Buscar por fabricante específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductName">
 		<Value>Nome do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductName.Hint">
-		<Value>A product name.</Value>
+		<Value>O nome do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductType">
-		<Value>Product type</Value>
+		<Value>Tipo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductType.Hint">
-		<Value>Search by a product type.</Value>
+		<Value>Buscar por tipo de produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchPublished">
 		<Value>Publicado</Value>
@@ -3286,34 +3286,34 @@
 		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.Hint">
-		<Value>Search by a "Published" property.</Value>
+		<Value>Buscar pela propriedade "Publicado".</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.PublishedOnly">
-		<Value>Published only</Value>
+		<Value>Somente publicados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.UnpublishedOnly">
-		<Value>Unpublished only</Value>
+		<Value>Somente não publicados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchStore">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchVendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchVendor.Hint">
-		<Value>Search by a specific vendor.</Value>
+		<Value>Buscar por fornecedor específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchWarehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazém</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchWarehouse.Hint">
-		<Value>Search by a specific warehouse.</Value>
+		<Value>Buscar por armazém específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Mappings">
-		<Value>Mappings</Value>
+		<Value>Mapeamentos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures">
 		<Value>Fotos</Value>
@@ -3325,7 +3325,7 @@
 		<Value>Adcionar uma nova foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.DisplayOrder.Hint">
 		<Value>Display order of the picture. 1 represents the top of the list.</Value>
@@ -3475,7 +3475,7 @@
 		<Value>Choose how to display your attribute values.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.DisplayOrder.Hint">
 		<Value>The attribute display order. 1 represents the first item in the list.</Value>
@@ -3595,7 +3595,7 @@
 		<Value>Allow customers enter the quantity of associated product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.DisplayOrder.Hint">
 		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
@@ -3715,7 +3715,7 @@
 		<Value>Add new related product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.RelatedProducts.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.RelatedProducts.Fields.Product">
 		<Value>Produto</Value>
@@ -3760,13 +3760,13 @@
 		<Value>Choose attribute type.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.CustomValue">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.CustomValue.Hint">
 		<Value>Custom value (text, hyperlink, etc).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.DisplayOrder.Hint">
 		<Value>Display order of the specification attribute. 1 represents the top of the list.</Value>
@@ -3790,7 +3790,7 @@
 		<Value>The value of the specification attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.Value">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Hint">
 		<Value>Specification attributes are product features i.e, screen size, number of USB-ports, visible on product details page. Specification attributes can be used for filtering products on the category details page.  Unlike product attributes, specification attributes are used for information purposes only.</Value>
@@ -3943,7 +3943,7 @@
 		<Value>CSV file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete.Selected">
 		<Value>Delete (selected)</Value>
@@ -3955,7 +3955,7 @@
 		<Value>Are you sure you want to delete "{0}"?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Edit">
-		<Value>Edit</Value>
+		<Value>Editar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExcelFile">
 		<Value>Excel file</Value>
@@ -4159,7 +4159,7 @@
 		<Value>Allow shipping to customers located in this country.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder.Hint">
 		<Value>The display order for this country. 1 represents the top of the list.</Value>
@@ -4258,7 +4258,7 @@
 		<Value>An abbreviation for this state/province.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder.Hint">
 		<Value>The display order for this state. 1 represents the top of the list.</Value>
@@ -4363,7 +4363,7 @@
 		<Value>Currency culture must be valid.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.DisplayOrder.Hint">
 		<Value>The display order of this currency. 1 represents the top of the list.</Value>
@@ -4552,7 +4552,7 @@
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.FriendlyName">
 		<Value>Friendly name</Value>
@@ -4591,7 +4591,7 @@
 		<Value>This property allows a store owner to specify a default currency for a language. If not specified, then the default currency display order will be used.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.DisplayOrder.Hint">
 		<Value>The display order of this language. 1 represents the top of the list.</Value>
@@ -4669,31 +4669,31 @@
 		<Value>String resources</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Name">
-		<Value>Resource name</Value>
+		<Value>Nome do recurso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Name.Required">
-		<Value>Please provide a resource name.</Value>
+		<Value>Por favor providencie o nome do recurso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Value">
 		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Value.Required">
-		<Value>Please provide a resource value.</Value>
+		<Value>Por favor providencie o valor do recurso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.NameAlreadyExists">
-		<Value>A resource already exists with the name: {0}</Value>
+		<Value>Um recurso já existe com o nome: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SaveBeforeEdit">
-		<Value>You need to save the language before you can make or change resources for this language.</Value>
+		<Value>Você precisa salvar o idioma antes de poder criar ou mudar recursos deste idioma.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceName">
-		<Value>Resource name</Value>
+		<Value>Nome do recurso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceName.Hint">
 		<Value>Search by a specific resource.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceValue">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.SearchResourceValue.Hint">
 		<Value>Search by a specific resource value.</Value>
@@ -4702,22 +4702,22 @@
 		<Value>The language has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.XmlFile">
-		<Value>Xml file</Value>
+		<Value>Arquivo Xml</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.XmlFile.Note1">
-		<Value>NOTE: It can take up to several minutes.</Value>
+		<Value>NOTA: Isto pode demorar vários minutos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.XmlFile.Note2">
-		<Value>NOTE: DO NOT click twice.</Value>
+		<Value>NOTA: NÃO clique duas vezes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment">
-		<Value>Payment</Value>
+		<Value>Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.MethodRestrictions">
-		<Value>Payment restrictions</Value>
+		<Value>Restrições de pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.MethodRestrictions.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.MethodRestrictions.Description">
 		<Value>Please mark the checkbox(es) for the country or countries in which you want the payment method(s) not available</Value>
@@ -4726,10 +4726,10 @@
 		<Value>Settings have been updated successfully</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods">
-		<Value>Payment methods</Value>
+		<Value>Formas de pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.BackToList">
-		<Value>back to payment method list</Value>
+		<Value>voltar à lista de formas de pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Configure">
 		<Value>Configure</Value>
@@ -4738,13 +4738,13 @@
 		<Value>You can download more plugins in our &lt;a href="https://www.nopcommerce.com/marketplace.aspx?category=2&amp;utm_source=admin-panel&amp;utm_medium=payment-plugins&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.FriendlyName">
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.Logo">
 		<Value>Logo</Value>
@@ -4804,19 +4804,19 @@
 		<Value>Choose one or several customer roles i.e. administrators, vendors, guests, who will be able to use this plugin. If you don't need this option just leave this field empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Author">
-		<Value>Author</Value>
+		<Value>Autor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Configure">
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Delete">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Delete.Progress">
-		<Value>Deleting plugin...</Value>
+		<Value>Removendo plugin...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.DisplayOrder.Hint">
 		<Value>The display order of the plugin. 1 represents the top of the list.</Value>
@@ -4831,28 +4831,28 @@
 		<Value>Friendly name is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Group">
-		<Value>Group</Value>
+		<Value>Grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Install">
-		<Value>Install</Value>
+		<Value>Instalar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Install.Progress">
-		<Value>Installing plugin...</Value>
+		<Value>Instalando plugin...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Installation">
-		<Value>Installation</Value>
+		<Value>Instalação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Installed">
-		<Value>Installed</Value>
+		<Value>Instalado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.IsEnabled">
-		<Value>Is enabled</Value>
+		<Value>Está habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.IsEnabled.Hint">
 		<Value>Indicates whether the plugin is enabled/active.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this plugin to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -4864,19 +4864,19 @@
 		<Value>System name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Uninstall">
-		<Value>Uninstall</Value>
+		<Value>Desinstalar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Uninstall.Progress">
-		<Value>Uninstalling plugin...</Value>
+		<Value>Desinstalando plugin...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Version">
-		<Value>Version</Value>
+		<Value>Versão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Group">
-		<Value>Group</Value>
+		<Value>Grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Group.Hint">
-		<Value>Search by a group.</Value>
+		<Value>Buscar por grupo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Info">
 		<Value>Plugin Info</Value>
@@ -4993,7 +4993,7 @@
 		<Value>All stores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.Value">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingName">
 		<Value>Nome</Value>
@@ -5002,7 +5002,7 @@
 		<Value>Search by a specific setting name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingValue">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.SearchSettingValue.Hint">
 		<Value>Search by a specific setting value.</Value>
@@ -5479,7 +5479,7 @@
 		<Value>Check to show product SKU on the product details page in public store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.SortOptions.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.SortOptions.IsActive">
 		<Value>Is active</Value>
@@ -6979,7 +6979,7 @@
 		<Value>The return request action has been deleted successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.DisplayOrder.Hint">
 		<Value>The return request action display order. 1 represents the first item in the list.</Value>
@@ -7039,7 +7039,7 @@
 		<Value>The return request reason has been deleted successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.DisplayOrder.Hint">
 		<Value>The return request reason display order. 1 represents the first item in the list.</Value>
@@ -7189,7 +7189,7 @@
 		<Value>Descontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayStockAvailability">
 		<Value>Display availability</Value>
@@ -7279,7 +7279,7 @@
 		<Value>Product template</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductType">
-		<Value>Product type</Value>
+		<Value>Tipo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Published">
 		<Value>Publicado</Value>
@@ -7327,7 +7327,7 @@
 		<Value>Multiple warehouses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.VisibleIndividually">
 		<Value>Visible individually</Value>
@@ -7672,7 +7672,7 @@
 		<Value>Common</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Payment">
-		<Value>Payment</Value>
+		<Value>Pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Shipping">
 		<Value>Shipping</Value>
@@ -7915,7 +7915,7 @@
 		<Value>Edit delivery date details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Fields.DisplayOrder.Hint">
 		<Value>The display order of this delivery date. 1 represents the top of the list.</Value>
@@ -7948,7 +7948,7 @@
 		<Value>NOTE: if you change your primary dimension, then do not forget to update the appropriate ratios of the units</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.IsPrimaryDimension">
 		<Value>Is primary dimension</Value>
@@ -7981,7 +7981,7 @@
 		<Value>NOTE: if you change your primary weight, then do not forget to update the appropriate ratios of the units</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.IsPrimaryWeight">
 		<Value>Is primary weight</Value>
@@ -8032,7 +8032,7 @@
 		<Value>Enter shipping method description.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Fields.DisplayOrder.Hint">
 		<Value>The display order of this shipping method. 1 represents the top of the list.</Value>
@@ -8062,7 +8062,7 @@
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.FriendlyName">
 		<Value>Friendly name</Value>
@@ -8098,7 +8098,7 @@
 		<Value>Edit product availability range details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.DisplayOrder.Hint">
 		<Value>The display order of this product availability range. 1 represents the top of the list.</Value>
@@ -8131,7 +8131,7 @@
 		<Value>You can download more plugins in our &lt;a href="https://www.nopcommerce.com/marketplace.aspx?category=3&amp;utm_source=admin-panel&amp;utm_medium=shipping-plugins&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.FriendlyName">
 		<Value>Friendly name</Value>
@@ -8152,7 +8152,7 @@
 		<Value>Shipping method restrictions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Restrictions.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Restrictions.Description">
 		<Value>Please mark the checkbox(es) for the country or countries in which you want the shipping method(s) not available</Value>
@@ -8269,7 +8269,7 @@
 		<Value>This property allows a store owner to specify a default language for a store. If not specified, then the default language display order will be used.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.DisplayOrder.Hint">
 		<Value>The display order for this store. 1 represents the top of the list.</Value>
@@ -8323,7 +8323,7 @@
 		<Value>Categorias de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Categories.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Categories.Fields.Name">
 		<Value>Nome</Value>
@@ -9124,7 +9124,7 @@
 		<Value>Poll answers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.Name">
 		<Value>Nome</Value>
@@ -9154,7 +9154,7 @@
 		<Value>Check to allow guests to vote.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder.Hint">
 		<Value>The display order of this poll. 1 represents the top of the list.</Value>
@@ -9247,7 +9247,7 @@
 		<Value>The body of your topic.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.DisplayOrder.Hint">
 		<Value>The topic display order. 1 represents the first item in the list. It's used with properties such as "Include in top menu" or "Include in footer".</Value>
@@ -9391,7 +9391,7 @@
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.FriendlyName">
 		<Value>Friendly name</Value>
@@ -9463,7 +9463,7 @@
 		<Value>Choose how to display your attribute values.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.DisplayOrder.Hint">
 		<Value>The customer attribute display order. 1 represents the first item in the list.</Value>
@@ -9499,7 +9499,7 @@
 		<Value>Edit customer value details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.DisplayOrder.Hint">
 		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
@@ -9769,7 +9769,7 @@
 		<Value>Company is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Country.Hint">
 		<Value>The country.</Value>
@@ -10129,7 +10129,7 @@
 		<Value>Choose a store. It's useful only when you have "Points accumulated for all stores" setting disabled.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsValue">
-		<Value>Value</Value>
+		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsValue.Hint">
 		<Value>Enter points to add. Negative values are also supported (reduce points).</Value>
@@ -11092,7 +11092,7 @@
 		<Value>Search by a specific store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Vendor.Hint">
 		<Value>Search by a specific vendor. You'll see orders with products from a specified vendor.</Value>
@@ -11281,7 +11281,7 @@
 		<Value>Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Report.Profit">
 		<Value>Lucro</Value>
@@ -11362,7 +11362,7 @@
 		<Value>Search by a specific city.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Country.Hint">
 		<Value>Search by a specific country.</Value>
@@ -11467,7 +11467,7 @@
 		<Value>Shipment status events</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Date">
 		<Value>Date</Value>
@@ -11938,7 +11938,7 @@
 		<Value>Choose the group you want the requirement group you’re creating to be assigned to</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup.Title">
-		<Value>Group</Value>
+		<Value>Grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.SaveBeforeEdit">
 		<Value>You need to save the discount before you can add requirements for this discount page.</Value>
@@ -12361,7 +12361,7 @@
 		<Value>Filter report by orders placed in a specific store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Vendor.Hint">
 		<Value>Search by a specific vendor.</Value>
@@ -12376,7 +12376,7 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.Fields.CountryName">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.Fields.SumOrders">
 		<Value>Order total</Value>
@@ -12463,7 +12463,7 @@
 		<Value>Load products only from a specific store (available in this store).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchVendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchVendor.Hint">
 		<Value>Load products only by a specific vendor (owned by this vendor).</Value>
@@ -12658,7 +12658,7 @@
 		<Value>Database is restored</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Delete">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Download">
 		<Value>Download</Value>
@@ -13090,7 +13090,7 @@
 		<Value>Category templates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Category.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Category.Name">
 		<Value>Nome</Value>
@@ -13108,7 +13108,7 @@
 		<Value>Manufacturer templates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Manufacturer.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Manufacturer.Name">
 		<Value>Nome</Value>
@@ -13126,7 +13126,7 @@
 		<Value>Product templates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Product.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Product.IgnoredProductTypes">
 		<Value>Ignored product type IDs (advanced)</Value>
@@ -13147,7 +13147,7 @@
 		<Value>Topic templates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Topic.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Templates.Topic.Name">
 		<Value>Nome</Value>
@@ -13297,7 +13297,7 @@
 		<Value>The description of the vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.DisplayOrder">
-		<Value>Display order</Value>
+		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.DisplayOrder.Hint">
 		<Value>Set the vendor's display order. 1 represents the top of the list.</Value>
@@ -15136,7 +15136,7 @@
 		<Value>Shipment status events</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Date">
 		<Value>Date</Value>
@@ -15763,7 +15763,7 @@
 		<Value>Back to messages</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.DeleteButton">
-		<Value>Delete</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.From">
 		<Value>From:</Value>
@@ -16069,7 +16069,7 @@
 		<Value>Quantity</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Wishlist.AddToWishlist">
 		<Value>Add to wishlist</Value>
@@ -16078,7 +16078,7 @@
 		<Value>Update</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.DateOfBirth">
 		<Value>Date Of Birth</Value>
@@ -16324,7 +16324,7 @@
 		<Value>Search term minimum length is {0} characters</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.Vendor">
-		<Value>Vendor</Value>
+		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart">
 		<Value>Shopping cart</Value>
@@ -16417,7 +16417,7 @@
 		<Value>Estimate shipping</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Country">
-		<Value>Country</Value>
+		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Country.Required">
 		<Value>Country is required</Value>
