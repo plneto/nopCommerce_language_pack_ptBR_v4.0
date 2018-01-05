@@ -133,46 +133,46 @@
 		<Value>Company Details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses">
-		<Value>Addresses</Value>
+		<Value>Endereços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses.AddNew">
 		<Value>Add new address</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses.Edit">
-		<Value>Edit address</Value>
+		<Value>Editar endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses.NoAddresses">
-		<Value>No addresses</Value>
+		<Value>Nenhum endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerInfo">
-		<Value>Customer info</Value>
+		<Value>Informações do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders">
 		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.NoOrders">
-		<Value>No orders</Value>
+		<Value>Nenhum pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.OrderDate">
-		<Value>Order Date</Value>
+		<Value>Data do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.OrderDetails">
-		<Value>Details</Value>
+		<Value>Detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.OrderNumber">
-		<Value>Order Number</Value>
+		<Value>Número do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.OrderTotal">
-		<Value>Order Total</Value>
+		<Value>Total do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders">
-		<Value>Recurring payments</Value>
+		<Value>Pagamentos recorrentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.Cancel">
-		<Value>Cancel payment</Value>
+		<Value>Cancelar pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.CycleInfo">
 		<Value>Cycle info</Value>
@@ -184,7 +184,7 @@
 		<Value>Initial order</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.NextPayment">
-		<Value>Next payment</Value>
+		<Value>Próximo pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.RetryLastPayment">
 		<Value>Retry last payment</Value>
@@ -208,10 +208,10 @@
 		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Pending">
-		<Value>Pending</Value>
+		<Value>Pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.NoRecords">
-		<Value>You haven't written any reviews yet</Value>
+		<Value>Você ainda não escreveu nenhuma avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ProductReviewFor">
 		<Value>Product review for</Value>
@@ -223,7 +223,7 @@
 		<Value>Return Action:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Comments">
-		<Value>Your Comments:</Value>
+		<Value>Seus Comentários:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Date">
 		<Value>Date Requested:</Value>
@@ -238,7 +238,7 @@
 		<Value>Return #{0} - {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.UploadedFile">
-		<Value>Uploaded file:</Value>
+		<Value>Arquivo enviado:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.UploadedFile.Download">
 		<Value>Download</Value>
@@ -247,28 +247,28 @@
 		<Value>Downloadable products</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation">
-		<Value>Email validation</Value>
+		<Value>Validação de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation.AlreadyChanged">
-		<Value>Your email already has been validated</Value>
+		<Value>Seu email já foi validado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation.Changed">
-		<Value>Your email has been validated</Value>
+		<Value>Seu email foi validado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.EmailAlreadyExists">
-		<Value>The e-mail address is already in use</Value>
+		<Value>O endereço de e-mail já está em uso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.EmailTooLong">
-		<Value>E-mail address is too long</Value>
+		<Value>O endereço de e-mail é muito longo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.NewEmailIsNotValid">
-		<Value>New email is not valid</Value>
+		<Value>O novo email não é válido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.UsernameAlreadyExists">
-		<Value>The username is already in use</Value>
+		<Value>O nome de usuário já está em uso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
-		<Value>Username is too long</Value>
+		<Value>O nome de usuário é muito longo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
 		<Value>I accept privacy policy</Value>
@@ -280,7 +280,7 @@
 		<Value>Please accept privacy policy</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.City">
-		<Value>City</Value>
+		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.City.Required">
 		<Value>City is required</Value>
@@ -310,7 +310,7 @@
 		<Value>Country is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth">
-		<Value>Date of birth</Value>
+		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth.MinimumAge">
 		<Value>You have to be {0}</Value>
@@ -328,7 +328,7 @@
 		<Value>Email is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.EmailToRevalidate">
-		<Value>New email</Value>
+		<Value>Novo email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.EmailToRevalidate.Note">
 		<Value>(not validated yet)</Value>
@@ -340,7 +340,7 @@
 		<Value>Fax is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.FirstName">
-		<Value>First name</Value>
+		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.FirstName.Required">
 		<Value>First name is required.</Value>
@@ -349,13 +349,13 @@
 		<Value>Gender</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Gender.Female">
-		<Value>Female</Value>
+		<Value>Feminino</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Gender.Male">
-		<Value>Male</Value>
+		<Value>Masculino</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.LastName">
-		<Value>Last name</Value>
+		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.LastName.Required">
 		<Value>Last name is required.</Value>
@@ -364,7 +364,7 @@
 		<Value>Newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password">
-		<Value>Password</Value>
+		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password.EnteredPasswordsDoNotMatch">
 		<Value>The password and confirmation password do not match.</Value>
@@ -385,7 +385,7 @@
 		<Value>Signature</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado / província</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StateProvince.Required">
 		<Value>State / province is required</Value>
@@ -403,10 +403,10 @@
 		<Value>Street address 2 is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Timezone">
-		<Value>Time zone</Value>
+		<Value>Fuso horário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Username">
-		<Value>Username</Value>
+		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Username.Required">
 		<Value>Username is required.</Value>
@@ -424,7 +424,7 @@
 		<Value>status: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ZipPostalCode">
-		<Value>Zip / postal code</Value>
+		<Value>CEP / código postal</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ZipPostalCode.Required">
 		<Value>Zip / postal code is required</Value>
@@ -433,7 +433,7 @@
 		<Value>Forum subscriptions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
-		<Value>Delete Selected</Value>
+		<Value>Remover Selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.Description">
 		<Value>You will receive an e-mail when a new forum topic/post is created.</Value>
@@ -454,7 +454,7 @@
 		<Value>Click here to finish impersonated session.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login">
-		<Value>Log in</Value>
+		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.CheckoutAsGuest">
 		<Value>Checkout as Guest</Value>
@@ -469,7 +469,7 @@
 		<Value>Please enter your email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.Password">
-		<Value>Password</Value>
+		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.RememberMe">
 		<Value>Remember me?</Value>
@@ -481,7 +481,7 @@
 		<Value>Forgot password?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.LoginButton">
-		<Value>Log in</Value>
+		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.NewCustomer">
 		<Value>New Customer</Value>
@@ -1057,7 +1057,7 @@
 		<Value>Used contact us form</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.Login">
-		<Value>Login</Value>
+		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.Logout">
 		<Value>Sair</Value>
@@ -1492,7 +1492,7 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.OrderStatus.Hint">
 		<Value>Search by a specific order status e.g. Complete.</Value>
@@ -4492,7 +4492,7 @@
 		<Value>Mark as default email account</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.Password">
-		<Value>Password</Value>
+		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.Password.Change">
 		<Value>Change password</Value>
@@ -9313,7 +9313,7 @@
 		<Value>Override the page title. The default is the name of the topic.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Password">
-		<Value>Password</Value>
+		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Password.Hint">
 		<Value>The password to access the content of this topic.</Value>
@@ -9652,7 +9652,7 @@
 		<Value>Add a new customer</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses">
-		<Value>Addresses</Value>
+		<Value>Endereços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.AddButton">
 		<Value>Add new address</Value>
@@ -9667,7 +9667,7 @@
 		<Value>back to customer details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.EditAddress">
-		<Value>Edit address</Value>
+		<Value>Editar endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.Updated">
 		<Value>The address has been updated successfully.</Value>
@@ -9751,7 +9751,7 @@
 		<Value>Remove affiliate</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City">
-		<Value>City</Value>
+		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City.Hint">
 		<Value>The city.</Value>
@@ -9790,7 +9790,7 @@
 		<Value>No customer roles available. Create at least one customer role before mapping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.DateOfBirth">
-		<Value>Date of birth</Value>
+		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.DateOfBirth.Hint">
 		<Value>The customer's date of birth.</Value>
@@ -9877,7 +9877,7 @@
 		<Value>Check to subscribe to newsletter.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Password">
-		<Value>Password</Value>
+		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Password.Change">
 		<Value>Change password</Value>
@@ -10009,7 +10009,7 @@
 		<Value>Search by company.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchDateOfBirth">
-		<Value>Date of birth</Value>
+		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchDateOfBirth.Day">
 		<Value>Day</Value>
@@ -10081,7 +10081,7 @@
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.OrderTotal">
 		<Value>Order total</Value>
@@ -10267,7 +10267,7 @@
 		<Value>Order total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.OrderStatus.Hint">
 		<Value>Search by a specific order status e.g. Complete.</Value>
@@ -10810,7 +10810,7 @@
 		<Value>incl imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.OrderStatus.Cancel">
 		<Value>Cancel order</Value>
@@ -11356,7 +11356,7 @@
 		<Value>Shipments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.City">
-		<Value>City</Value>
+		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.City.Hint">
 		<Value>Search by a specific city.</Value>
@@ -12112,7 +12112,7 @@
 		<Value>Next payment date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.PaymentStatus">
 		<Value>Payment status</Value>
@@ -12334,7 +12334,7 @@
 		<Value>Search in a specific manufacturer.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.OrderStatus.Hint">
 		<Value>Search by a specific order status e.g. Complete.</Value>
@@ -12385,7 +12385,7 @@
 		<Value>Number of orders</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.OrderStatus">
-		<Value>Order status</Value>
+		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.OrderStatus.Hint">
 		<Value>Search by a specific order status e.g. Complete.</Value>
@@ -14233,7 +14233,7 @@
 		<Value>Complete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Pending">
-		<Value>Pending</Value>
+		<Value>Pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Processing">
 		<Value>Processing</Value>
@@ -14248,7 +14248,7 @@
 		<Value>Item(s) repaired</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Pending">
-		<Value>Pending</Value>
+		<Value>Pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Received">
 		<Value>Received</Value>
@@ -14269,7 +14269,7 @@
 		<Value>Partially refunded</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Pending">
-		<Value>Pending</Value>
+		<Value>Pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Refunded">
 		<Value>Refunded</Value>
@@ -14425,7 +14425,7 @@
 		<Value>Customer service</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs">
-		<Value>Follow us</Value>
+		<Value>Siga-nos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs.Facebook">
 		<Value>Facebook</Value>
@@ -15004,7 +15004,7 @@
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.OrderDate">
-		<Value>Order Date</Value>
+		<Value>Data do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.OrderInformation">
 		<Value>Order information</Value>
@@ -15013,7 +15013,7 @@
 		<Value>Order Status</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.OrderTotal">
-		<Value>Order Total</Value>
+		<Value>Total do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Payment">
 		<Value>Pagamento</Value>
@@ -15250,7 +15250,7 @@
 		<Value>Forum Subscriptions</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Login">
-		<Value>Login</Value>
+		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Manufacturers">
 		<Value>Fabricantes</Value>
@@ -15319,7 +15319,7 @@
 		<Value>Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Vendors.Apply">
-		<Value>Apply for vendor account</Value>
+		<Value>Solicite uma conta de fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ViewPM">
 		<Value>View the private message</Value>
@@ -15853,7 +15853,7 @@
 		<Value>Delivery date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Details">
-		<Value>Details</Value>
+		<Value>Detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Discontinued">
 		<Value>Sorry - this product is no longer available</Value>
@@ -16705,7 +16705,7 @@
 		<Value>Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount">
-		<Value>Apply for vendor account</Value>
+		<Value>Solicite uma conta de fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.AcceptTermsOfService">
 		<Value>Eu aceito os termos de serviço</Value>
