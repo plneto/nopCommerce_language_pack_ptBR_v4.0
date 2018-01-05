@@ -517,7 +517,7 @@
 		<Value>Account is not registered</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Logout">
-		<Value>Log out</Value>
+		<Value>Sair</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.MyAccount">
 		<Value>Minha conta</Value>
@@ -1060,7 +1060,7 @@
 		<Value>Login</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.Logout">
-		<Value>Logout</Value>
+		<Value>Sair</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.PlaceOrder">
 		<Value>Fez um novo pedido (ID = {0})</Value>
@@ -1750,7 +1750,7 @@
 		<Value>Please provide a name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues">
 		<Value>Predefined values</Value>
@@ -2020,7 +2020,7 @@
 		<Value>Display in the top menu bar. If this category is a subcategory, then ensure that its parent category also has this property enabled.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this category to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -2863,7 +2863,7 @@
 		<Value>The product length.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this product to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty. In order to use this functionality you have to disable the following setting: Configuration &gt; Catalog settings &gt; Ignore "limit per store" rules (sitewide).</Value>
@@ -3493,7 +3493,7 @@
 		<Value>Enter text prompt (you can leave it empty).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Updated">
 		<Value>The attribute has been updated successfully.</Value>
@@ -4039,7 +4039,7 @@
 		<Value>Padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Update">
-		<Value>Update</Value>
+		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.UploadFile">
 		<Value>Please upload a file</Value>
@@ -4165,7 +4165,7 @@
 		<Value>The display order for this country. 1 represents the top of the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this country to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -4381,7 +4381,7 @@
 		<Value>Is primary store currency</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this currency to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -4594,7 +4594,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.DisplayOrder.Hint">
-		<Value>The display order of this language. 1 represents the top of the list.</Value>
+		<Value>A order de exibição deste idioma. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.FlagImage">
 		<Value>Bandeira</Value>
@@ -4603,19 +4603,19 @@
 		<Value>Nome do arquivo da imagem da bandeira</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.FlagImageFileName.Hint">
-		<Value>The flag image file name. The image should be saved into \images\flags\ directory.</Value>
+		<Value>O nome do arquivo de imagem da bandeira. A imagen deve ser salva no diretório \images\flags\.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.LanguageCulture">
 		<Value>Cultura do idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.LanguageCulture.Hint">
-		<Value>The language specific culture code.</Value>
+		<Value>O código de cultura específica do idioma.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.LanguageCulture.Validation">
-		<Value>Language culture must be valid.</Value>
+		<Value>A cultura do idioma tem que ser válida.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this language to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -4636,13 +4636,13 @@
 		<Value>Determines whether this language is published and can therefore be selected by visitors to your store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.Rtl">
-		<Value>Right-to-left</Value>
+		<Value>Direita-para-esquerda</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.Rtl.Hint">
 		<Value>Check to enable right-to-left support for this language. The active theme should support RTL (have appropriate CSS style file). And it affects only public store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.UniqueSeoCode">
-		<Value>Unique SEO code</Value>
+		<Value>Código único de SEO</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.UniqueSeoCode.Hint">
 		<Value>The unique two letter SEO code. It's used to generate URLs like 'http://www.yourStore.com/en/' when you have more than one published language. 'SEO friendly URLs with multiple languages' option should also be enabled.</Value>
@@ -4657,16 +4657,16 @@
 		<Value>Importar recursos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Imported">
-		<Value>The resources have been imported.</Value>
+		<Value>Os recursos foram importados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.PublishedLanguageRequired">
 		<Value>At least one published language is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources">
-		<Value>String resources</Value>
+		<Value>Recursos de texto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Name">
 		<Value>Nome do recurso</Value>
@@ -8422,7 +8422,7 @@
 		<Value>The language of this blog entry. A customer will only see the blog entries for their selected language.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this blog post to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -8479,7 +8479,7 @@
 		<Value>Title is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore">
 		<Value>Loja</Value>
@@ -8851,7 +8851,7 @@
 		<Value>Indicating whether the message template is active.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this template to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -9040,7 +9040,7 @@
 		<Value>The language of this news entry. A customer will only see the news entries for their selected language.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this news item to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -9100,7 +9100,7 @@
 		<Value>Title is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.List.SearchStore">
 		<Value>Loja</Value>
@@ -9289,7 +9289,7 @@
 		<Value>Check if this topic is password protected.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this topic to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -9364,7 +9364,7 @@
 		<Value>The URL of this topic.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.List.SearchStore">
 		<Value>Loja</Value>
@@ -10534,7 +10534,7 @@
 		<Value>Limpar cache</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Header.Logout">
-		<Value>Logout</Value>
+		<Value>Sair</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Header.PublicStore">
 		<Value>Loja pública</Value>
@@ -11011,7 +11011,7 @@
 		<Value>Void (Offline)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Info">
-		<Value>Info</Value>
+		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.BillingCountry">
 		<Value>Billing country</Value>
@@ -15823,7 +15823,7 @@
 		<Value>Compare products</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.AddToCompareList">
-		<Value>Add to compare list</Value>
+		<Value>Adicionar à lista de comparação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Clear">
 		<Value>Clear list</Value>
@@ -16072,10 +16072,10 @@
 		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Wishlist.AddToWishlist">
-		<Value>Add to wishlist</Value>
+		<Value>Adicionar à lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Wishlist.AddToWishlist.Update">
-		<Value>Update</Value>
+		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.Country">
 		<Value>País</Value>
@@ -16327,22 +16327,22 @@
 		<Value>Fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart">
-		<Value>Shopping cart</Value>
+		<Value>Carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart">
-		<Value>Add to cart</Value>
+		<Value>Adicionar ao carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart.Update">
-		<Value>Update</Value>
+		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCompareList">
-		<Value>Add to compare list</Value>
+		<Value>Adicionar à lista de comparação</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToWishlist">
-		<Value>Add to wishlist</Value>
+		<Value>Adicionar à lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToWishlist.Update">
-		<Value>Update</Value>
+		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AllowedQuantities">
 		<Value>Allowed quantities for this product: {0}</Value>
@@ -16351,7 +16351,7 @@
 		<Value>{0}. {1}. {2}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AvailabilityRange">
-		<Value>Available in {0}</Value>
+		<Value>Disponível em {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.BuyingDisabled">
 		<Value>Buying is disabled for this product</Value>
@@ -16363,7 +16363,7 @@
 		<Value>Your cart has standard and auto-ship (recurring) items. Only one product type is allowed per order.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CartIsEmpty">
-		<Value>Your Shopping Cart is empty!</Value>
+		<Value>Seu Carrinho de Compras está vazio!</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CheckoutAttributes.PriceAdjustment">
 		<Value>{0} [{1}]</Value>
@@ -16372,16 +16372,16 @@
 		<Value>Your cart has auto-ship (recurring) items with conflicting shipment schedules. Only one auto-ship schedule is allowed per order.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ContinueShopping">
-		<Value>Continue shopping</Value>
+		<Value>Continuar comprando</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CrossSells">
 		<Value>Based on your selection, you may be interested in the following items</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CustomerEnteredPrice.RangeError">
-		<Value>The price must be from {0} to {1}</Value>
+		<Value>O preço deve ser de {0} a {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Discount.CannotBeUsedAnymore">
-		<Value>Sorry, you've used this discount already</Value>
+		<Value>Desculpe, você já usou este desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Discount.CannotBeUsedWithGiftCards">
 		<Value>Sorry, this discount cannot be used with gift cards in the cart</Value>
@@ -16426,13 +16426,13 @@
 		<Value>{0} ({1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado / província</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
 		<Value>Enter your destination to get a shipping estimate</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
-		<Value>Zip / postal code</Value>
+		<Value>CEP / código postal</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode.Required">
 		<Value>Zip / postal code is required</Value>
@@ -16441,7 +16441,7 @@
 		<Value>Your file successfully uploaded!</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode">
-		<Value>Gift Cards</Value>
+		<Value>Cartões Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Applied">
 		<Value>The gift card code was applied</Value>
@@ -16462,7 +16462,7 @@
 		<Value>({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Image">
-		<Value>Image</Value>
+		<Value>Imagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ItemTotal">
 		<Value>Total</Value>
@@ -16498,10 +16498,10 @@
 		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.UnitPrice">
-		<Value>Unit price</Value>
+		<Value>Preço unitário</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.ViewCart">
-		<Value>Go to cart</Value>
+		<Value>Ir para o carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.MinimumQuantity">
 		<Value>The minimum quantity allowed for purchase is {0}.</Value>
@@ -16510,7 +16510,7 @@
 		<Value>Product is not available</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.OutOfStock">
-		<Value>Out of stock</Value>
+		<Value>Fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.PreOrder">
 		<Value>Pre-order</Value>
@@ -16519,19 +16519,19 @@
 		<Value>Product(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ProductDeleted">
-		<Value>Product is deleted</Value>
+		<Value>O product foi removido</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ProductUnpublished">
-		<Value>Product is not published</Value>
+		<Value>O product não está publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Quantity">
-		<Value>Qty.</Value>
+		<Value>Qtd.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.QuantityExceedsStock">
 		<Value>Your quantity exceeds stock on hand. The maximum quantity that can be added is {0}.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.QuantityShouldPositive">
-		<Value>Quantity should be positive</Value>
+		<Value>A quantidade deve ser positiva</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.RecipientEmailError">
 		<Value>Enter valid recipient email</Value>
@@ -16543,7 +16543,7 @@
 		<Value>[Auto-ship, Every {0} {1}]</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Remove">
-		<Value>Remove</Value>
+		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Rent">
 		<Value>Rent</Value>
@@ -16645,7 +16645,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.UpdateCart">
-		<Value>Update shopping cart</Value>
+		<Value>Atualizar carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.UpdateCartItem">
 		<Value>Atualizar qtd</Value>
@@ -16708,7 +16708,7 @@
 		<Value>Apply for vendor account</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.AcceptTermsOfService">
-		<Value>I accept terms of service</Value>
+		<Value>Eu aceito os termos de serviço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.AcceptTermsOfService.Read">
 		<Value>(read)</Value>
@@ -16771,7 +16771,7 @@
 		<Value>Email a friend</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.Button">
-		<Value>Send email</Value>
+		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail">
 		<Value>Friend's email</Value>
@@ -16816,7 +16816,7 @@
 		<Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.UpdateCart">
-		<Value>Update wishlist</Value>
+		<Value>Atualizar lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.WishlistOf">
 		<Value>Wishlist of {0}</Value>
