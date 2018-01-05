@@ -205,7 +205,7 @@
 		<Value>My product reviews</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Approved">
-		<Value>Approved</Value>
+		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Pending">
 		<Value>Pending</Value>
@@ -640,7 +640,7 @@
 		<Value>Vendor info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Email">
 		<Value>Email</Value>
@@ -1645,7 +1645,7 @@
 		<Value>An option indicating whether shippable products are required in order to display this attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TaxCategory">
-		<Value>Tax category</Value>
+		<Value>Categoria de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TaxCategory.Hint">
 		<Value>The tax classification for this attribute (used to calculate tax). You can manage tax categories by selecting Configuration : Tax : Tax Categories.</Value>
@@ -1714,7 +1714,7 @@
 		<Value>You need to save the checkout attribute before you can add values for this checkout attribute page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes">
-		<Value>Product attributes</Value>
+		<Value>Atributos do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Added">
 		<Value>The new attribute has been added successfully.</Value>
@@ -1735,7 +1735,7 @@
 		<Value>Edit product attribute details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Description.Hint">
 		<Value>The description of the product attribute.</Value>
@@ -1822,7 +1822,7 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes">
-		<Value>Specification attributes</Value>
+		<Value>Atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Added">
 		<Value>The new attribute has been added successfully.</Value>
@@ -1903,13 +1903,13 @@
 		<Value>You need to save the specification attribute before you can add options for this specification attribute page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit">
-		<Value>Bulk edit products</Value>
+		<Value>Editar produtos em massa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.Fields.ManageInventoryMethod">
-		<Value>Manage inventory</Value>
+		<Value>Gerenciar inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.Fields.Name">
 		<Value>Nome</Value>
@@ -1933,13 +1933,13 @@
 		<Value>Categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.List.SearchCategory.Hint">
-		<Value>Search by a specific category.</Value>
+		<Value>Buscar por categoria específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.List.SearchManufacturer">
 		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.List.SearchManufacturer.Hint">
-		<Value>Search by a specific manufacturer.</Value>
+		<Value>Buscar por fabricante específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.BulkEdit.List.SearchProductName">
 		<Value>Nome do produto</Value>
@@ -1951,7 +1951,7 @@
 		<Value>Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Added">
-		<Value>The new category has been added successfully.</Value>
+		<Value>A nova categoria foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.AddNew">
 		<Value>Adicionar uma nova categoria</Value>
@@ -2164,22 +2164,22 @@
 		<Value>Low stock report</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers">
-		<Value>Manufacturers</Value>
+		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Added">
-		<Value>The new manufacturer has been added successfully.</Value>
+		<Value>O novo fabricante foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.AddNew">
-		<Value>Add a new manufacturer</Value>
+		<Value>Adicionar um novo fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.BackToList">
-		<Value>back to manufacturer list</Value>
+		<Value>voltar à lista de fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Deleted">
-		<Value>The manufacturer has been deleted successfully.</Value>
+		<Value>O fabricante foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.EditManufacturerDetails">
-		<Value>Edit manufacturer details</Value>
+		<Value>Editar os detalhes do fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AclCustomerRoles">
 		<Value>Limited to customer roles</Value>
@@ -2188,7 +2188,7 @@
 		<Value>Select customer roles for which the manufacturer will be shown. Leave empty if you want this manufacturer to be visible to all users.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AllowCustomersToSelectPageSize">
-		<Value>Allow customers to select page size</Value>
+		<Value>Permitir que clientes selecionem o tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AllowCustomersToSelectPageSize.Hint">
 		<Value>Whether customers are allowed to select the page size from a predefined list of options.</Value>
@@ -2197,10 +2197,10 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Deleted">
-		<Value>Deleted</Value>
+		<Value>Removido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Description.Hint">
 		<Value>The description of the manufacturer.</Value>
@@ -2221,7 +2221,7 @@
 		<Value>Set the manufacturer's display order. 1 represents the top of the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.LimitedToStores">
-		<Value>Limited to stores</Value>
+		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.LimitedToStores.Hint">
 		<Value>Option to limit this manufacturer to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
@@ -2254,13 +2254,13 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Name.Hint">
-		<Value>The manufacturer's name.</Value>
+		<Value>O nome do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Name.Required">
 		<Value>Please provide a name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize">
-		<Value>Page size</Value>
+		<Value>Tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize.Hint">
 		<Value>Set the page size for products in this manufacturer e.g. '4' products per page.</Value>
@@ -2278,10 +2278,10 @@
 		<Value>Page Size options should have unique items.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Picture">
-		<Value>Picture</Value>
+		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Picture.Hint">
-		<Value>The manufacturer picture.</Value>
+		<Value>A foto do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PriceRanges">
 		<Value>Price ranges</Value>
@@ -2302,7 +2302,7 @@
 		<Value>Set a search engine friendly page name e.g. 'the-best-manufacturer' to make your page URL 'http://www.yourStore.com/the-best-manufacturer'. Leave empty to generate it automatically based on the name of the manufacturer.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Imported">
-		<Value>Manufacturers have been imported successfully.</Value>
+		<Value>Os fabricantes foram importados com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Info">
 		<Value>Manufacturer info</Value>
@@ -2311,22 +2311,22 @@
 		<Value>Imported manufacturers are distinguished by ID. If the ID already exists, then its corresponding manufacturer will be updated. You should not specify ID (leave 0) for new manufacturers.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchManufacturerName">
-		<Value>Manufacturer name</Value>
+		<Value>Nome do fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchManufacturerName.Hint">
-		<Value>A manufacturer name.</Value>
+		<Value>O nome do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchStore">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products">
-		<Value>Products</Value>
+		<Value>Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.AddNew">
-		<Value>Add a new product</Value>
+		<Value>Adicionar um novo produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -2344,43 +2344,43 @@
 		<Value>The manufacturer has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews">
-		<Value>Product reviews</Value>
+		<Value>Avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.ApproveSelected">
-		<Value>Approve selected</Value>
+		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.BackToList">
-		<Value>back to product review list</Value>
+		<Value>voltar à list de avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Deleted">
-		<Value>The product review has been deleted successfully.</Value>
+		<Value>A avaliação do produto foi removida com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Remover selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.DisapproveSelected">
-		<Value>Disapprove selected</Value>
+		<Value>Desaprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.EditProductReviewDetails">
-		<Value>Edit product review details</Value>
+		<Value>Editar detalhes da avaliação do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn">
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn.Hint">
-		<Value>The date/time that the review was created.</Value>
+		<Value>A data/hora em que a avaliação foi criada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer">
 		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer.Hint">
-		<Value>The customer who created the review.</Value>
+		<Value>O cliente que criou a avaliação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.IsApproved">
-		<Value>Is approved</Value>
+		<Value>Está aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.IsApproved.Hint">
-		<Value>Is the review approved? Marking it as approved means that it is visible to all your site's visitors.</Value>
+		<Value>A avaliação está aprovada? Marcá-la como aprovada a tornará visível para todos os visitantes do site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Product">
 		<Value>Produto</Value>
@@ -2416,10 +2416,10 @@
 		<Value>A store name in which this review was written.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title">
-		<Value>Title</Value>
+		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title.Hint">
-		<Value>The title of the product review.</Value>
+		<Value>O título da avaliação do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title.Required">
 		<Value>Title is required.</Value>
@@ -2437,7 +2437,7 @@
 		<Value>The creation to date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved">
-		<Value>Approved</Value>
+		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.All">
 		<Value>All</Value>
@@ -2473,13 +2473,13 @@
 		<Value>The product review has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products">
-		<Value>Products</Value>
+		<Value>Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Added">
-		<Value>The new product has been added successfully.</Value>
+		<Value>O novo produto foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.AddNew">
-		<Value>Add a new product</Value>
+		<Value>Adicionar um novo produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.AssociatedProducts">
 		<Value>Associated products (variants)</Value>
@@ -2503,40 +2503,40 @@
 		<Value>You need to save the product before you can add associated products for this product page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.BackToList">
-		<Value>back to product list</Value>
+		<Value>voltar à list de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.CommonInfo">
-		<Value>General information</Value>
+		<Value>Informações gerais</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copied">
-		<Value>The product has been copied successfully</Value>
+		<Value>O produto foi copiado com sucesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy">
-		<Value>Copy product</Value>
+		<Value>Copiar produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.CopyImages">
-		<Value>Copy images</Value>
+		<Value>Copiar imagens</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.CopyImages.Hint">
-		<Value>Check to copy the images.</Value>
+		<Value>Marque para copiar as imagens.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.Name">
-		<Value>New product name</Value>
+		<Value>Nome do novo produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.Name.Hint">
-		<Value>The name of the new product.</Value>
+		<Value>O nome do novo produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.Name.New">
-		<Value>{0} - copy</Value>
+		<Value>{0} - cópia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.Published">
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.Published.Hint">
-		<Value>Check to mark a product as published.</Value>
+		<Value>Marque para deixar o produto publicado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Copy.SKU.New">
-		<Value>{0}-copy</Value>
+		<Value>{0}-cópia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.CrossSells">
 		<Value>Cross-sells</Value>
@@ -2554,16 +2554,16 @@
 		<Value>You need to save the product before you can add cross-sell products for this product page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Deleted">
-		<Value>The product has been deleted successfully.</Value>
+		<Value>O produto foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.DownloadableProduct">
 		<Value>Downloadable product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.EditProductDetails">
-		<Value>Edit product details</Value>
+		<Value>Editar os detalhes do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ExceededMaximumNumber">
-		<Value>The maximum allowed number of products has been exceeded ({0})</Value>
+		<Value>O número máximo de produtos permitidos foi excedido ({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AclCustomerRoles">
 		<Value>Customer roles</Value>
@@ -2578,10 +2578,10 @@
 		<Value>The additional shipping charge.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do Admin</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AdminComment.Hint">
-		<Value>This comment is for internal use only, not visible for customers.</Value>
+		<Value>Este comentário é somente para uso interno, invisível para cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowAddingOnlyExistingAttributeCombinations">
 		<Value>Allow only existing attribute combinations</Value>
@@ -2596,13 +2596,13 @@
 		<Value>Allow customers to subscribe to a notification list for a product that has gone out of stock.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews">
-		<Value>Allow customer reviews</Value>
+		<Value>Permitir avaliações de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews.Hint">
 		<Value>Check to allow customers to review this product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowedQuantities">
-		<Value>Allowed quantities</Value>
+		<Value>Quantidades permitidas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowedQuantities.Hint">
 		<Value>Enter a comma separated list of quantities you want this product to be restricted to. Instead of a quantity textbox that allows them to enter any quantity, they will receive a dropdown list of the values you enter here.</Value>
@@ -2668,16 +2668,16 @@
 		<Value>Check to display baseprice of a product. This is required according to the German law (PAngV). If you sell 500ml of beer for 1,50 euro, then you have to display baseprice: 3.00 euro per 1L.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.BasepriceUnit">
-		<Value>Unit of product</Value>
+		<Value>Unidade do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.BasepriceUnit.Hint">
-		<Value>Enter a unit of product.</Value>
+		<Value>Insira a unidade do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice">
-		<Value>Call for price</Value>
+		<Value>Contate-nos para saber o preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice.Hint">
-		<Value>Check to show "Call for Pricing" or "Call for quote" instead of price.</Value>
+		<Value>Marque para mostrar "Contate-nos para saber o preço" ou "Contate-nos para pedir uma cotação" ao invés do preço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Categories">
 		<Value>Categorias</Value>
@@ -2686,7 +2686,7 @@
 		<Value>Choose categories. You can manage product categories by selecting Catalog &gt; Categories.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Categories.NoCategoriesAvailable">
-		<Value>No categories available.</Value>
+		<Value>Nenhuma categoria disponível.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -2701,7 +2701,7 @@
 		<Value>An option indicating whether customer should enter price.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DeliveryDate">
-		<Value>Delivery date</Value>
+		<Value>Data de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DeliveryDate.Hint">
 		<Value>Choose a delivery date which will be displayed in the public store. You can manage delivery dates by selecting Configuration &gt; Shipping &gt; Dates and ranges.</Value>
@@ -2710,10 +2710,10 @@
 		<Value>None</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DisableBuyButton">
-		<Value>Disable buy button</Value>
+		<Value>Desativar botão de comprar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DisableBuyButton.Hint">
-		<Value>Check to disable the buy button for this product. This may be necessary for products that are 'available upon request'.</Value>
+		<Value>Marque para desativar o botão de comprar para este produto. Isto pode ser necessário para produtos que são 'disponíveis mediante solicitação'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DisableWishlistButton">
 		<Value>Disable wishlist button</Value>
@@ -2767,7 +2767,7 @@
 		<Value>The number of days during customers keeps access to the file (e.g. 14). Leave this field blank to allow continuous downloads.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.FullDescription">
-		<Value>Full description</Value>
+		<Value>Descrição completa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.FullDescription.Hint">
 		<Value>Full description is the text that is displayed in product page.</Value>
@@ -2845,7 +2845,7 @@
 		<Value>Check if the product can be shipped. You can manage shipping settings by selecting Configuration &gt; Shipping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTaxExempt">
-		<Value>Tax exempt</Value>
+		<Value>Isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTaxExempt.Hint">
 		<Value>Determines whether this product is tax exempt (tax will not be applied to this product at checkout).</Value>
@@ -2887,7 +2887,7 @@
 		<Value>The manufacturer's part number for this product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers">
-		<Value>Manufacturers</Value>
+		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.Hint">
 		<Value>Choose the manufacturer. You can manage manufacturers by selecting Catalog &gt; Manufacturers.</Value>
@@ -2956,7 +2956,7 @@
 		<Value>If you have enabled 'Manage Stock' you can perform a number of different actions when the current stock quantity falls below (reaches) your minimum stock quantity.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name">
-		<Value>Product name</Value>
+		<Value>Nome do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name.Hint">
 		<Value>The name of the product.</Value>
@@ -3124,7 +3124,7 @@
 		<Value>Check if the product should be shipped separately from other products (in single box). But notice that if the order includes several items of this product, all of them will be shipped in single box.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShortDescription">
-		<Value>Short description</Value>
+		<Value>Descrição curta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShortDescription.Hint">
 		<Value>Short description is the text that is displayed in product list i.e. сategory / manufacturer pages.</Value>
@@ -3142,7 +3142,7 @@
 		<Value>Product stock keeping unit (SKU). Your internal unique identifier that can be used to track this product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.StockQuantity">
-		<Value>Stock quantity</Value>
+		<Value>Quantidade em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.StockQuantity.ChangedWarning">
 		<Value>Quantity has been changed while you were editing the product. Changes haven't been saved. Please ensure that everything is correct and click "Save" button one more time.</Value>
@@ -3151,7 +3151,7 @@
 		<Value>The current stock quantity of this product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.TaxCategory">
-		<Value>Tax category</Value>
+		<Value>Categoria de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.TaxCategory.Hint">
 		<Value>The tax classification for the product. You can manage tax categories by selecting Configuration &gt; Tax &gt; Tax Categories.</Value>
@@ -3163,7 +3163,7 @@
 		<Value>When a customer purchases a download product, they can download the item unlimited number of times.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.UpdatedOn">
-		<Value>Updated on</Value>
+		<Value>Atualizado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.UpdatedOn.Hint">
 		<Value>Date and time when this product was updated.</Value>
@@ -3196,7 +3196,7 @@
 		<Value>Check it if you want the product to be on catalog or search results. You can uncheck this box to hide associated products from catalog and make them accessible only from grouped product details page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Warehouse.Hint">
 		<Value>Choose the warehouse which will be used when calculating shipping rates. You can manage warehouses by selecting  Configuration &gt; Shipping &gt; Warehouses.</Value>
@@ -3205,19 +3205,19 @@
 		<Value>None</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Weight">
-		<Value>Weight</Value>
+		<Value>Peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Weight.Hint">
-		<Value>The product weight.</Value>
+		<Value>O peso do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Width">
-		<Value>Width</Value>
+		<Value>Largura</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Width.Hint">
-		<Value>The product width.</Value>
+		<Value>A largura do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.GiftCard">
-		<Value>Gift card</Value>
+		<Value>Cartão de presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Import.CategoriesDontExist">
 		<Value>Categories with the following names don''t exist: {0}</Value>
@@ -3232,7 +3232,7 @@
 		<Value>Products have been imported successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Info">
-		<Value>Product info</Value>
+		<Value>Informação do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Inventory">
 		<Value>Inventory</Value>
@@ -3355,7 +3355,7 @@
 		<Value>Preços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes">
-		<Value>Product attributes</Value>
+		<Value>Atributos do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations">
 		<Value>Attribute combinations</Value>
@@ -3412,7 +3412,7 @@
 		<Value>Product stock keeping unit (SKU). Your internal unique identifier that can be used to track this attribute combination.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.StockQuantity">
-		<Value>Stock quantity</Value>
+		<Value>Quantidade em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.StockQuantity.Hint">
 		<Value>The current stock quantity of this combination.</Value>
@@ -3688,7 +3688,7 @@
 		<Value>Stock qty</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductWarehouseInventory.Fields.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductWarehouseInventory.Fields.Warehouse.NotDefined">
 		<Value>No warehouses defined</Value>
@@ -3739,7 +3739,7 @@
 		<Value>Shipping</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes">
-		<Value>Specification attributes</Value>
+		<Value>Atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.AddButton">
 		<Value>Add attribute</Value>
@@ -3823,10 +3823,10 @@
 		<Value>Quantity adjustment</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.StockQuantity">
-		<Value>Stock quantity</Value>
+		<Value>Quantidade em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Hint">
 		<Value>Here you can see a history of the product stock quantity changes.</Value>
@@ -3928,7 +3928,7 @@
 		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Change">
-		<Value>Change</Value>
+		<Value>Mudar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Check">
 		<Value>Check</Value>
@@ -3940,7 +3940,7 @@
 		<Value>Configuration is not required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.CsvFile">
-		<Value>CSV file</Value>
+		<Value>Arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete">
 		<Value>Remover</Value>
@@ -4036,7 +4036,7 @@
 		<Value>Show</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Standard">
-		<Value>Standard</Value>
+		<Value>Padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Update">
 		<Value>Update</Value>
@@ -5020,7 +5020,7 @@
 		<Value>Blog comments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved">
 		<Value>Blog comments must be approved</Value>
@@ -5119,7 +5119,7 @@
 		<Value>Product page</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ProductReviews">
-		<Value>Product reviews</Value>
+		<Value>Avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ProductSorting">
 		<Value>Product sorting</Value>
@@ -5632,7 +5632,7 @@
 		<Value>Account</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.DefaultFields">
 		<Value>Default fields</Value>
@@ -6010,7 +6010,7 @@
 		<Value>Determines whether to allow private messages.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Forums.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Forums.BlockTitle.Feeds">
 		<Value>Feeds</Value>
@@ -6133,7 +6133,7 @@
 		<Value>CAPTCHA</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.FullText">
 		<Value>Full-Text</Value>
@@ -6541,10 +6541,10 @@
 		<Value>Check if you want to include categories in sitemap.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeManufacturers">
-		<Value>Sitemap includes manufacturers</Value>
+		<Value>Mapa do site inclui fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeManufacturers.Hint">
-		<Value>Check if you want to include manufacturers in sitemap.</Value>
+		<Value>Marque se você quer incluir fabricantes no mapa do site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeProducts">
 		<Value>Mapa do site inclui produtos</Value>
@@ -6571,7 +6571,7 @@
 		<Value>Check to allow a customer to type a subject on the contact us page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.TwitterLink">
-		<Value>Twitter page URL</Value>
+		<Value>URL da página do Twitter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.TwitterLink.Hint">
 		<Value>Specify your Twitter page URL. Leave empty if you have no such page.</Value>
@@ -6616,16 +6616,16 @@
 		<Value>The default size (pixels) for associated product images (part of 'grouped' products).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.AvatarPictureSize">
-		<Value>Avatar image size</Value>
+		<Value>Tamanho da imagem do avatar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.AvatarPictureSize.Hint">
 		<Value>The default size (pixels) for avatar images.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.BlockTitle.OtherPages">
-		<Value>Other pages</Value>
+		<Value>Outras páginas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.BlockTitle.Product">
 		<Value>Produto</Value>
@@ -6667,10 +6667,10 @@
 		<Value>The default size (pixels) for manufacturer thumbnail images.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.MaximumImageSize">
-		<Value>Maximum image size</Value>
+		<Value>Tamanho máximo da imagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.MaximumImageSize.Hint">
-		<Value>The maximum image size (longest side) allowed for image uploads.</Value>
+		<Value>O Tamanho máximo da imagem (lado maior) permitido para upload de imagens.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.MiniCartThumbPictureSize">
 		<Value>Mini-shopping cart thumbnail image size</Value>
@@ -6688,13 +6688,13 @@
 		<Value>Pictures are stored into...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.PicturesStoredIntoDatabase.Change">
-		<Value>Change</Value>
+		<Value>Mudar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.PicturesStoredIntoDatabase.Database">
-		<Value>database</Value>
+		<Value>banco de dados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.PicturesStoredIntoDatabase.FileSystem">
-		<Value>file system</Value>
+		<Value>sistema de arquivos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.PicturesStoredIntoDatabase.Hint">
 		<Value>A value indicating whether pictures are stored in database or file system.</Value>
@@ -6727,10 +6727,10 @@
 		<Value>The default size (pixels) for vendor thumbnail images.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Mode.Advanced">
-		<Value>Advanced</Value>
+		<Value>Avançado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Mode.Basic">
-		<Value>Basic</Value>
+		<Value>Básico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News">
 		<Value>News settings</Value>
@@ -6742,7 +6742,7 @@
 		<Value>Check to allow guests to leave comments.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.BlockTitle.NewsComments">
 		<Value>News comments</Value>
@@ -6805,10 +6805,10 @@
 		<Value>Check to activate related gift cards when an order is completed.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.AllowAdminsToBuyCallForPriceProducts">
-		<Value>Allow admins to buy "Call for price" products</Value>
+		<Value>Permitir que admins possam comprar produtos marcados como "Orçamento por telefone"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.AllowAdminsToBuyCallForPriceProducts.Hint">
-		<Value>Check to allow administrators (in impersonation mode) are allowed to buy products marked as "Call for price".</Value>
+		<Value>Marque para permitir que administradores (em modo de impersonação) possam comprar produtos marcados como "Orçamento por telefone".</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.AnonymousCheckoutAllowed">
 		<Value>Anonymous checkout allowed</Value>
@@ -6844,7 +6844,7 @@
 		<Value>Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.GiftCards">
 		<Value>Gift cards</Value>
@@ -7132,7 +7132,7 @@
 		<Value>Advanced product types</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.CommonInfo">
-		<Value>General information</Value>
+		<Value>Informações gerais</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Inventory">
 		<Value>Inventory</Value>
@@ -7162,7 +7162,7 @@
 		<Value>Settings</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CallForPrice">
-		<Value>Call for price</Value>
+		<Value>Orçamento por telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CreatedOn">
 		<Value>Criado em</Value>
@@ -7222,7 +7222,7 @@
 		<Value>Manufacturer part number</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Manufacturers">
-		<Value>Manufacturers</Value>
+		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.MarkAsNew">
 		<Value>Mark as new</Value>
@@ -7264,7 +7264,7 @@
 		<Value>PAngV (base price) enabled</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductAttributes">
-		<Value>Product attributes</Value>
+		<Value>Atributos do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductAvailabilityRange">
 		<Value>Product availability range</Value>
@@ -7306,7 +7306,7 @@
 		<Value>Show on home page</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.SpecificationAttributes">
-		<Value>Specification attributes</Value>
+		<Value>Atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.StockQuantityHistory">
 		<Value>Stock quantity history</Value>
@@ -7321,7 +7321,7 @@
 		<Value>Tier prices</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.UpdatedOn">
-		<Value>Updated on</Value>
+		<Value>Atualizado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.UseMultipleWarehouses">
 		<Value>Multiple warehouses</Value>
@@ -7336,7 +7336,7 @@
 		<Value>Warehouses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Weight">
-		<Value>Weight</Value>
+		<Value>Peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints">
 		<Value>Reward points</Value>
@@ -7354,7 +7354,7 @@
 		<Value>Specify how many days (hours) must elapse before earned points become active. Points earned by purchase cannot be redeemed until activated. For example, you may set the days before the points become available to 7. In this case, the points earned will be available for spending only 7 days after the purchase.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints.Description">
 		<Value>The Reward Points Program allows customers to earn points for certain actions they take on the site. Points are awarded based on making purchases and customer actions such as registration.</Value>
@@ -7435,7 +7435,7 @@
 		<Value>Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Shipping.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Shipping.BlockTitle.Notifications">
 		<Value>Notifications</Value>
@@ -7549,7 +7549,7 @@
 		<Value>Check to allow 'out of stock' products to be added to wishlist.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.BlockTitle.MiniShoppingCart">
 		<Value>Mini shopping cart</Value>
@@ -7669,7 +7669,7 @@
 		<Value>A value indicating whether customers are allowed to select tax display type.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Payment">
 		<Value>Pagamento</Value>
@@ -7858,7 +7858,7 @@
 		<Value>Catalog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Vendor.BlockTitle.Common">
-		<Value>Common</Value>
+		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Vendor.MaximumProductNumber">
 		<Value>Maximum number of products</Value>
@@ -8026,7 +8026,7 @@
 		<Value>Edit shipping method details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Fields.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Fields.Description.Hint">
 		<Value>Enter shipping method description.</Value>
@@ -8494,7 +8494,7 @@
 		<Value>Blog comments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.ApproveSelected">
-		<Value>Approve selected</Value>
+		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.DeleteSelected">
 		<Value>Delete selected</Value>
@@ -8515,7 +8515,7 @@
 		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.IsApproved">
-		<Value>Is approved</Value>
+		<Value>Está aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.StoreName">
 		<Value>Store name</Value>
@@ -8533,7 +8533,7 @@
 		<Value>The creation to date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved">
-		<Value>Approved</Value>
+		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.All">
 		<Value>All</Value>
@@ -8578,7 +8578,7 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.Description.Hint">
 		<Value>The description of the forum. This is the description that the customer will see.</Value>
@@ -8842,7 +8842,7 @@
 		<Value>The email account that will be used to send this message template.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.EmailAccount.Standard">
-		<Value>Standard</Value>
+		<Value>Padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -8926,7 +8926,7 @@
 		<Value>News comments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.ApproveSelected">
-		<Value>Approve selected</Value>
+		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.DeleteSelected">
 		<Value>Delete selected</Value>
@@ -8947,7 +8947,7 @@
 		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.IsApproved">
-		<Value>Is approved</Value>
+		<Value>Está aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.NewsItem">
 		<Value>News item</Value>
@@ -8968,7 +8968,7 @@
 		<Value>The creation to date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchApproved">
-		<Value>Approved</Value>
+		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchApproved.All">
 		<Value>All</Value>
@@ -9025,7 +9025,7 @@
 		<Value>Set the news item end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Full">
-		<Value>Full description</Value>
+		<Value>Descrição completa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Full.Hint">
 		<Value>The full description of this news entry.</Value>
@@ -9076,7 +9076,7 @@
 		<Value>Set a search engine friendly page name e.g. 'the-best-news' to make your page URL 'http://www.yourStore.com/the-best-news'. Leave empty to generate it automatically based on the title of the news.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Short">
-		<Value>Short description</Value>
+		<Value>Descrição curta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Short.Hint">
 		<Value>The short description of this news entry.</Value>
@@ -9427,7 +9427,7 @@
 		<Value>Unit price</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.UpdatedOn">
-		<Value>Updated on</Value>
+		<Value>Atualizado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentWishlists">
 		<Value>Current wishlists</Value>
@@ -9613,7 +9613,7 @@
 		<Value>The system name of the customer role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.TaxExempt">
-		<Value>Tax exempt</Value>
+		<Value>Isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.TaxExempt.Hint">
 		<Value>Check to allow customers in this role to make tax free purchases.</Value>
@@ -11098,7 +11098,7 @@
 		<Value>Search by a specific vendor. You'll see orders with products from a specified vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Warehouse.Hint">
 		<Value>Load orders with products from a specified warehouse.</Value>
@@ -11161,7 +11161,7 @@
 		<Value>Print PDF invoices (selected)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products">
-		<Value>Products</Value>
+		<Value>Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.AddNew">
 		<Value>Add product</Value>
@@ -11263,7 +11263,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.ProductName">
-		<Value>Product name</Value>
+		<Value>Nome do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Quantity">
 		<Value>Quantidade</Value>
@@ -11398,7 +11398,7 @@
 		<Value>Search by a specific tracking number.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Warehouse.Hint">
 		<Value>Load shipments with products from a specified warehouse.</Value>
@@ -11452,7 +11452,7 @@
 		<Value>SKU</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.Warehouse">
-		<Value>Warehouse</Value>
+		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.Warehouse.ChooseQty">
 		<Value>{0} ({1} qty in stock, {2} qty reserved, {3} qty planned)</Value>
@@ -13006,7 +13006,7 @@
 		<Value>Language</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Language.Standard">
-		<Value>Standard</Value>
+		<Value>Padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Name">
 		<Value>Nome</Value>
@@ -13291,7 +13291,7 @@
 		<Value>No customer account associated to this vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Description">
-		<Value>Description</Value>
+		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Description.Hint">
 		<Value>The description of the vendor.</Value>
@@ -15511,10 +15511,10 @@
 		<Value>SKU</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFProductCatalog.StockQuantity">
-		<Value>Stock quantity</Value>
+		<Value>Quantidade em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFProductCatalog.Weight">
-		<Value>Weight</Value>
+		<Value>Peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.AccessAdminPanel">
 		<Value>Access admin area</Value>
@@ -15817,7 +15817,7 @@
 		<Value>Home</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.CallForPrice">
-		<Value>Call for pricing</Value>
+		<Value>Orçamento por telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare">
 		<Value>Compare products</Value>
@@ -15829,7 +15829,7 @@
 		<Value>Clear list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.FullDescription">
-		<Value>Full description</Value>
+		<Value>Descrição completa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.List">
 		<Value>Compare products list</Value>
@@ -15844,7 +15844,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.ShortDescription">
-		<Value>Short description</Value>
+		<Value>Descrição curta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Title">
 		<Value>Compare products</Value>
@@ -15943,7 +15943,7 @@
 		<Value>Manufacturer part number</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Manufacturers">
-		<Value>Manufacturers</Value>
+		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.MinimumQuantityNotification">
 		<Value>This product has a minimum quantity of {0}</Value>
