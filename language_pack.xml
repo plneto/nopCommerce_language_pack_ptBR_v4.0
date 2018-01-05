@@ -13762,7 +13762,7 @@
 		<Value>Carregando próximo passo...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.ManagePage">
-		<Value>Gerencie esta página</Value>
+		<Value>Gerenciar esta página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Month">
 		<Value>Mês</Value>
