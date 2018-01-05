@@ -16,10 +16,10 @@
 		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.AddMoreRecords">
-		<Value>You can associate your account with some external authentication systems on the following page (login once using them):</Value>
+		<Value>Você pode associar sua conta com algum sistema de autenticação externo na página seguinte (entre uma vez usando este método):</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.AuthMethodName">
-		<Value>Authentication method</Value>
+		<Value>Forma de autenticação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.Email">
 		<Value>Email</Value>
@@ -28,7 +28,7 @@
 		<Value>A user with the specified email has been already registered. If this is your account, and you want to associate it with '{0}' external record, please login firstly.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.ExternalIdentifier">
-		<Value>External identifier</Value>
+		<Value>Identificador externo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.Or">
 		<Value>- ou -</Value>
@@ -40,7 +40,7 @@
 		<Value>Avatar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.MaximumUploadedFileSize">
-		<Value>Maximum avatar size is {0} bytes</Value>
+		<Value>O tamanho máximo do avatar é {0} bytes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.RemoveAvatar">
 		<Value>Remover avatar</Value>
@@ -52,7 +52,7 @@
 		<Value>Back in stock subscriptions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Remover selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.Description">
 		<Value>You will receive an e-mail when a particular product is back in stock.</Value>
@@ -76,53 +76,53 @@
 		<Value>The specified email could not be found</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.OldPasswordDoesntMatch">
-		<Value>Old password doesn't match</Value>
+		<Value>A senha antiga não corresponde</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.PasswordIsNotProvided">
-		<Value>Password is not entered</Value>
+		<Value>A senha não for inserida</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.PasswordMatchesWithPrevious">
 		<Value>You entered the password that is the same as one of the last passwords you used. Please create a new password.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword">
-		<Value>Confirm password</Value>
+		<Value>Confirmar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword.Required">
-		<Value>Password is required.</Value>
+		<Value>Senha requerida.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword">
 		<Value>Nova senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword.EnteredPasswordsDoNotMatch">
-		<Value>The new password and confirmation password do not match.</Value>
+		<Value>A nova senha e confirmação de senha não coincidem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword.LengthValidation">
-		<Value>The password should have at least {0} characters.</Value>
+		<Value>A senha deve ter pelo menos {0} caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword.Required">
-		<Value>New password is required.</Value>
+		<Value>Nova senha é necessária.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.OldPassword">
-		<Value>Old password</Value>
+		<Value>Senha antiga</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.OldPassword.Required">
-		<Value>Old password is required.</Value>
+		<Value>Senha antiga é necessária.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.PasswordIsExpired">
-		<Value>Your password has expired, please create a new one</Value>
+		<Value>Sua senha expirou, por favor crie uma nova senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Success">
-		<Value>Password was changed</Value>
-	</LocaleResource>
+		<Value>A senha foi alterada</Value>
+	</LocaleResource>>
 	<LocaleResource Name="Account.CheckUsernameAvailability.Available">
-		<Value>Username available</Value>
+		<Value>Nome de usuário disponível</Value>
 	</LocaleResource>
-	<LocaleResource Name="Account.CheckUsernameAvailability.Button">
-		<Value>Check Availability</Value>
-	</LocaleResource>
-	<LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
-		<Value>Current username</Value>
-	</LocaleResource>
+	  <LocaleResource Name="Account.CheckUsernameAvailability.Button">
+	<Value>Verificar disponibilidade</Value>
+</LocaleResource>
+<LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
+	<Value>Nome de usuário atual</Value>
+</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.EnterUsername">
 		<Value>Please enter username</Value>
 	</LocaleResource>
@@ -9694,7 +9694,7 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Fields.ExternalIdentifier">
-		<Value>External identifier</Value>
+		<Value>Identificador externo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Hint">
 		<Value>A list of external authentication identifiers.</Value>
@@ -13486,7 +13486,7 @@
 		<Value>Tags</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.OrderBy">
-		<Value>Sort by</Value>
+		<Value>Ordernar por</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.PageSize">
 		<Value>Display</Value>
