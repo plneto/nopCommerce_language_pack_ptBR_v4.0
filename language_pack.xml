@@ -88,7 +88,7 @@
 		<Value>Confirmar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword.Required">
-		<Value>Senha requerida.</Value>
+		<Value>Senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword">
 		<Value>Nova senha</Value>
@@ -100,13 +100,13 @@
 		<Value>A senha deve ter pelo menos {0} caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.NewPassword.Required">
-		<Value>Nova senha é necessária.</Value>
+		<Value>Nova senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.OldPassword">
 		<Value>Senha antiga</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.OldPassword.Required">
-		<Value>Senha antiga é necessária.</Value>
+		<Value>Senha antiga é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.PasswordIsExpired">
 		<Value>Sua senha expirou, por favor crie uma nova senha</Value>
@@ -271,43 +271,43 @@
 		<Value>O nome de usuário é muito longo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
-		<Value>I accept privacy policy</Value>
+		<Value>Eu aceito a política de privacidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Read">
-		<Value>(read)</Value>
+		<Value>(ler)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Required">
-		<Value>Please accept privacy policy</Value>
+		<Value>Por favor aceite a política de privacidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.City">
 		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.City.Required">
-		<Value>City is required</Value>
+		<Value>Cidade é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Company">
 		<Value>Company name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Company.Required">
-		<Value>Company name is required</Value>
+		<Value>Nome da empresa é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ConfirmEmail">
-		<Value>Confirm email</Value>
+		<Value>Confirmar e-mail</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ConfirmEmail.Required">
-		<Value>Email is required.</Value>
+		<Value>E-mail é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ConfirmPassword">
-		<Value>Confirm password</Value>
+		<Value>Confirme a senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ConfirmPassword.Required">
-		<Value>Password is required.</Value>
+		<Value>Senha é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Country">
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Country.Required">
-		<Value>Country is required</Value>
+		<Value>País é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth">
 		<Value>Data de nascimento</Value>
@@ -316,7 +316,7 @@
 		<Value>You have to be {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth.Required">
-		<Value>Date of birth is required</Value>
+		<Value>Data de nascimento é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Email">
 		<Value>Email</Value>
@@ -325,7 +325,7 @@
 		<Value>The email and confirmation email do not match.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Email.Required">
-		<Value>Email is required.</Value>
+		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.EmailToRevalidate">
 		<Value>Novo email</Value>
@@ -337,13 +337,13 @@
 		<Value>Fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Fax.Required">
-		<Value>Fax is required</Value>
+		<Value>Fax é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.FirstName">
-		<Value>Nome</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.FirstName.Required">
-		<Value>First name is required.</Value>
+		<Value>Primeiro nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Gender">
 		<Value>Gender</Value>
@@ -358,7 +358,7 @@
 		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.LastName.Required">
-		<Value>Last name is required.</Value>
+		<Value>Sobrenome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Newsletter">
 		<Value>Newsletter</Value>
@@ -373,22 +373,22 @@
 		<Value>The password should have at least {0} characters.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password.Required">
-		<Value>Password is required.</Value>
+		<Value>Senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Phone">
 		<Value>Phone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Phone.Required">
-		<Value>Phone is required</Value>
+		<Value>Telefone é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Signature">
-		<Value>Signature</Value>
+		<Value>Assinatura</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StateProvince">
-		<Value>Estado / província</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StateProvince.Required">
-		<Value>State / province is required</Value>
+		<Value>Estado é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StreetAddress">
 		<Value>Street address</Value>
@@ -409,7 +409,7 @@
 		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Username.Required">
-		<Value>Username is required.</Value>
+		<Value>Nome de usuário é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.VatNumber">
 		<Value>VAT number</Value>
@@ -424,10 +424,10 @@
 		<Value>status: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ZipPostalCode">
-		<Value>CEP / código postal</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.ZipPostalCode.Required">
-		<Value>Zip / postal code is required</Value>
+		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions">
 		<Value>Forum subscriptions</Value>
@@ -466,19 +466,19 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.Email.Required">
-		<Value>Please enter your email</Value>
+		<Value>Por favor insira seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.Password">
 		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.RememberMe">
-		<Value>Remember me?</Value>
+		<Value>Lembrar?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.UserName">
-		<Value>Username</Value>
+		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.ForgotPassword">
-		<Value>Forgot password?</Value>
+		<Value>Esqueceu sua senha?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.LoginButton">
 		<Value>Entrar</Value>
@@ -529,22 +529,22 @@
 		<Value>Opções</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery">
-		<Value>Password recovery</Value>
+		<Value>Recuperação de senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.ChangePasswordButton">
-		<Value>Recover</Value>
+		<Value>Recuperar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword">
-		<Value>Confirm password</Value>
+		<Value>Confirmar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword.Required">
-		<Value>Password is required.</Value>
+		<Value>Senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.Email">
-		<Value>Your email address</Value>
+		<Value>Seu endereço de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.Email.Required">
-		<Value>Enter your email</Value>
+		<Value>Insira seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.EmailHasBeenSent">
 		<Value>Email with instructions has been sent to you.</Value>
@@ -565,13 +565,13 @@
 		<Value>The password should have at least {0} characters.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.Required">
-		<Value>New password is required.</Value>
+		<Value>Nova senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.OldPassword">
-		<Value>Old password</Value>
+		<Value>Senha antiga</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.OldPassword.Required">
-		<Value>Old password is required.</Value>
+		<Value>Senha antiga é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.PasswordAlreadyHasBeenChanged">
 		<Value>Your password already has been changed. For changing it once more, you need to again recover the password.</Value>
@@ -580,7 +580,7 @@
 		<Value>Your password has been changed</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.RecoverButton">
-		<Value>Recover</Value>
+		<Value>Recuperar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.Tooltip">
 		<Value>Please enter your email address below. You will receive a link to reset your password.</Value>
@@ -589,19 +589,19 @@
 		<Value>Wrong password recovery token</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Preferences">
-		<Value>Preferences</Value>
+		<Value>Preferências</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register">
-		<Value>Register</Value>
+		<Value>Registrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Button">
-		<Value>Register</Value>
+		<Value>Registrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.EmailAlreadyExists">
 		<Value>The specified email already exists</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.EmailIsNotProvided">
-		<Value>Email is required.</Value>
+		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.PasswordIsNotProvided">
 		<Value>Password is not provided</Value>
@@ -646,13 +646,13 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Email.Required">
-		<Value>Email is required.</Value>
+		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Name.Required">
-		<Value>Vendor name is required.</Value>
+		<Value>Nome do fornecedor é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture">
 		<Value>Foto</Value>
@@ -661,19 +661,19 @@
 		<Value>You can add only picture file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture.Remove">
-		<Value>Remove picture</Value>
+		<Value>Remover foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourAddress">
-		<Value>Your Address</Value>
+		<Value>Seu endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourContactInformation">
 		<Value>Your Contact Information</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourPassword">
-		<Value>Your Password</Value>
+		<Value>Sua Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourPersonalDetails">
-		<Value>Your Personal Details</Value>
+		<Value>Seus Dados Pessoais</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAddressAttribute">
 		<Value>Added a new address attribute (ID = {0})</Value>
@@ -1093,73 +1093,73 @@
 		<Value>Endereço 1</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address1.Required">
-		<Value>Endereço 1 is required.</Value>
+		<Value>Endereço 1 é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address2">
 		<Value>Address 2</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address2.Required">
-		<Value>Address 2 is required.</Value>
+		<Value>Endereço 2 é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.City">
 		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.City.Required">
-		<Value>City is required.</Value>
+		<Value>Cidade é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Company">
-		<Value>Company</Value>
+		<Value>Empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Company.Required">
-		<Value>Company is required.</Value>
+		<Value>Empresa é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Country">
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Country.Required">
-		<Value>Country is required.</Value>
+		<Value>País é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Email">
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Email.Required">
-		<Value>Email is required.</Value>
+		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.FaxNumber">
-		<Value>Fax number</Value>
+		<Value>Número de fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.FaxNumber.Required">
-		<Value>Fax number is required.</Value>
+		<Value>Número de fax é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.FirstName">
-		<Value>Nome</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.FirstName.Required">
-		<Value>First name is required.</Value>
+		<Value>Primeiro nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.LastName">
 		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.LastName.Required">
-		<Value>Last name is required.</Value>
+		<Value>Sobrenome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.PhoneNumber">
-		<Value>Phone number</Value>
+		<Value>Número de telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.PhoneNumber.Required">
-		<Value>Phone number is required.</Value>
+		<Value>Número de telefone é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.StateProvince.Required">
-		<Value>State / province is required.</Value>
+		<Value>Estado é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.ZipPostalCode">
-		<Value>Zip / postal code</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.ZipPostalCode.Required">
-		<Value>Zip / postal code is required.</Value>
+		<Value>CEP é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.OtherNonUS">
 		<Value>Other (Non US)</Value>
@@ -1216,7 +1216,7 @@
 		<Value>The address attribute display order. 1 represents the first item in the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired">
-		<Value>Required</Value>
+		<Value>Obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired.Hint">
 		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
@@ -1225,10 +1225,10 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Hint">
-		<Value>The name of the address attribute.</Value>
+		<Value>O nome do atributo de endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Info">
 		<Value>Attribute info</Value>
@@ -1264,7 +1264,7 @@
 		<Value>The name of the address value.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.SaveBeforeEdit">
 		<Value>You need to save the address attribute before you can add values for this address attribute page.</Value>
@@ -1276,34 +1276,34 @@
 		<Value>Enter address 1.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address1.Required">
-		<Value>Address 1 is required.</Value>
+		<Value>Endereço 1 é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2">
 		<Value>Endereço 2</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2.Hint">
-		<Value>Enter address 2.</Value>
+		<Value>Insira o endereço 2.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2.Required">
-		<Value>Address 2 is required.</Value>
+		<Value>Endereço 2 é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.City">
 		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.City.Hint">
-		<Value>Enter city.</Value>
+		<Value>Insira a cidade.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.City.Required">
-		<Value>City is required.</Value>
+		<Value>Cidade é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Company">
-		<Value>Company</Value>
+		<Value>Empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Company.Hint">
-		<Value>Enter company.</Value>
+		<Value>Insira a empresa.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Company.Required">
-		<Value>Company is required.</Value>
+		<Value>Empresa é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Country">
 		<Value>País</Value>
@@ -1312,79 +1312,79 @@
 		<Value>Selecione o país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Country.Required">
-		<Value>Country is required.</Value>
+		<Value>País é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Email">
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Email.Hint">
-		<Value>Enter email.</Value>
+		<Value>Insira o email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Email.Required">
-		<Value>Email is required.</Value>
+		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FaxNumber">
-		<Value>Fax number</Value>
+		<Value>Número de fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FaxNumber.Hint">
-		<Value>Enter fax number.</Value>
+		<Value>Insira o número de fax.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FaxNumber.Required">
-		<Value>Fax number is required.</Value>
+		<Value>Número de fax é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FirstName">
-		<Value>Nome</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FirstName.Hint">
-		<Value>Enter first name.</Value>
+		<Value>Insira o primeiro nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.FirstName.Required">
-		<Value>First name is required.</Value>
+		<Value>Primeiro nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.LastName">
 		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.LastName.Hint">
-		<Value>Enter last name.</Value>
+		<Value>Insira o sobrenome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.LastName.Required">
-		<Value>Last name is required.</Value>
+		<Value>Sobrenome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.PhoneNumber">
-		<Value>Phone number</Value>
+		<Value>Número de telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.PhoneNumber.Hint">
-		<Value>Enter phone number.</Value>
+		<Value>Insira o número de telefone.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.PhoneNumber.Required">
-		<Value>Phone number is required.</Value>
+		<Value>Número de telfone é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.StateProvince.Hint">
-		<Value>Select state / province.</Value>
+		<Value>Selecione o estado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.StateProvince.Required">
-		<Value>State / province is required.</Value>
+		<Value>Estado é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.ZipPostalCode">
-		<Value>Zip / postal code</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Hint">
-		<Value>Enter zip / postal code.</Value>
+		<Value>Insira o CEP.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Required">
-		<Value>Zip / postal code is required.</Value>
+		<Value>CEP é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.OtherNonUS">
 		<Value>Other (Non US)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.SelectCountry">
-		<Value>Select country</Value>
+		<Value>Selecione o país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.SelectState">
-		<Value>Select state</Value>
+		<Value>Selecione o estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates">
 		<Value>Affiliates</Value>
@@ -1600,7 +1600,7 @@
 		<Value>Especificar o tamanho máximo do arquivo em kilobytes. Deixe em branco para ignorar esta validação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsRequired">
-		<Value>Requeridos</Value>
+		<Value>Obrigatórios</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.IsRequired.Hint">
 		<Value>Quando um atributo é necessário, o cliente deve escolher um valor de atributo apropriado antes que ele possam continuar.</Value>
@@ -1636,7 +1636,7 @@
 		<Value>The name of the checkout attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.ShippableProductRequired">
 		<Value>Shippable product required</Value>
@@ -1696,7 +1696,7 @@
 		<Value>The name of the checkout value.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.PriceAdjustment">
 		<Value>Price adjustment</Value>
@@ -1747,7 +1747,7 @@
 		<Value>The name of the product attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Info">
 		<Value>Informações</Value>
@@ -1786,7 +1786,7 @@
 		<Value>The attribute value name e.g. 'Blue' for Color attributes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.PriceAdjustment">
 		<Value>Price adjustment</Value>
@@ -1855,7 +1855,7 @@
 		<Value>The name of the specification attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Info">
 		<Value>Attribute info</Value>
@@ -1894,7 +1894,7 @@
 		<Value>O nome da opção.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.NumberOfAssociatedProducts">
 		<Value>Number of associated products</Value>
@@ -2050,7 +2050,7 @@
 		<Value>O nome da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSize">
 		<Value>Tamanho da página</Value>
@@ -2257,7 +2257,7 @@
 		<Value>O nome do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize">
 		<Value>Tamanho da página</Value>
@@ -2962,7 +2962,7 @@
 		<Value>O nome do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.NotifyAdminForQuantityBelow">
 		<Value>Notify for qty below</Value>
@@ -3094,7 +3094,7 @@
 		<Value>Add required product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.RequiredProductIds.Choose">
-		<Value>Choose</Value>
+		<Value>Escolha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.RequiredProductIds.Hint">
 		<Value>Specify comma separated list of required product IDs. NOTE: Ensure that there are no circular references (for example, A requires B, and B requires A).</Value>
@@ -3619,7 +3619,7 @@
 		<Value>The attribute value name e.g. 'Blue' for Color attributes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.Picture">
 		<Value>Foto</Value>
@@ -3904,7 +3904,7 @@
 		<Value>The name of the product tag.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.ProductCount">
 		<Value>Tagged products</Value>
@@ -4177,7 +4177,7 @@
 		<Value>The name of the country.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumberOfStates">
 		<Value>Number of states</Value>
@@ -4270,7 +4270,7 @@
 		<Value>The name of the state.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Published">
 		<Value>Publicado</Value>
@@ -4402,7 +4402,7 @@
 		<Value>Name must be less than or equal to 50 characters.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.Published">
 		<Value>Publicado</Value>
@@ -4627,7 +4627,7 @@
 		<Value>O nome deste idioma.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Fields.Published">
 		<Value>Publicado</Value>
@@ -4672,13 +4672,13 @@
 		<Value>Nome do recurso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Name.Required">
-		<Value>Por favor providencie o nome do recurso.</Value>
+		<Value>Por favor informe o nome do recurso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Value">
 		<Value>Valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.Fields.Value.Required">
-		<Value>Por favor providencie o valor do recurso.</Value>
+		<Value>Por favor informe o valor do recurso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Resources.NameAlreadyExists">
 		<Value>Um recurso já existe com o nome: {0}</Value>
@@ -6997,7 +6997,7 @@
 		<Value>The return request action name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Updated">
 		<Value>The return request action has been updated successfully.</Value>
@@ -7057,7 +7057,7 @@
 		<Value>The return request reason name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Updated">
 		<Value>The return request reason has been updated successfully.</Value>
@@ -7927,7 +7927,7 @@
 		<Value>Enter delivery date name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Hint">
 		<Value>List of delivery dates which will be available on the product details page.</Value>
@@ -7960,7 +7960,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.Ratio">
 		<Value>Ratio to primary dimension</Value>
@@ -7993,7 +7993,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.Ratio">
 		<Value>Ratio to primary weight</Value>
@@ -8044,7 +8044,7 @@
 		<Value>Enter shipping method name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Manage">
 		<Value>Manage shipping methods</Value>
@@ -8110,7 +8110,7 @@
 		<Value>Enter product availability range name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Hint">
 		<Value>List of availability range options which will be available in product details.</Value>
@@ -8197,7 +8197,7 @@
 		<Value>Enter a warehouse name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Updated">
 		<Value>The warehouse has been updated successfully.</Value>
@@ -8287,7 +8287,7 @@
 		<Value>Enter the name of your store e.g. Your Store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.SecureUrl">
 		<Value>Secure URL</Value>
@@ -8329,7 +8329,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Categories.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Providers">
 		<Value>Tax providers</Value>
@@ -9481,7 +9481,7 @@
 		<Value>The name of the customer attribute.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Info">
 		<Value>Attribute info</Value>
@@ -9517,7 +9517,7 @@
 		<Value>The name of the customer value.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.SaveBeforeEdit">
 		<Value>You need to save the customer attribute before you can add values for this customer attribute page.</Value>
@@ -9580,7 +9580,7 @@
 		<Value>The name of the customer role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.OverrideTaxDisplayType">
 		<Value>Override default tax display type</Value>
@@ -11824,7 +11824,7 @@
 		<Value>The name of the discount.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.RequiresCouponCode">
 		<Value>Requires coupon code</Value>
@@ -13336,7 +13336,7 @@
 		<Value>The name of the vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Name.Required">
-		<Value>Please provide a name.</Value>
+		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.PageSize">
 		<Value>Page size</Value>
@@ -13747,7 +13747,7 @@
 		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Retry">
-		<Value>Retry</Value>
+		<Value>Repetir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Upload">
 		<Value>Upload a file</Value>
@@ -13756,13 +13756,13 @@
 		<Value>Esconder</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Home">
-		<Value>Home</Value>
+		<Value>Início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.LoadingNextStep">
-		<Value>Loading next step...</Value>
+		<Value>Carregando próximo passo...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.ManagePage">
-		<Value>Manage this page</Value>
+		<Value>Gerencie esta página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Month">
 		<Value>Mês</Value>
@@ -16312,16 +16312,16 @@
 		<Value>to</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchBox.Tooltip">
-		<Value>Search store</Value>
+		<Value>Pesquisar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchInDescriptions">
-		<Value>Search In product descriptions</Value>
+		<Value>Pesquisar nas descrições dos produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTerm">
-		<Value>Search keyword</Value>
+		<Value>Pesquisar palavra-chave</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTermMinimumLengthIsNCharacters">
-		<Value>Search term minimum length is {0} characters</Value>
+		<Value>O tamanho mínimo da pesquisa é de {0} caracteres</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.Vendor">
 		<Value>Fornecedor</Value>
@@ -16489,10 +16489,10 @@
 		<Value>{0} item(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.ItemsText">
-		<Value>There are {0} in your cart.</Value>
+		<Value>Há {0} no seu carrinho.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.NoItems">
-		<Value>You have no items in your shopping cart.</Value>
+		<Value>Você não tem nenhum item no seu carrinho de compra.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.Quantity">
 		<Value>Quantidade</Value>
@@ -16651,7 +16651,7 @@
 		<Value>Atualizar qtd</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.WishlistDisabled">
-		<Value>Wishlist is disabled for this product</Value>
+		<Value>A lista de desejos está desativada para este produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Sitemap">
 		<Value>Mapa do site</Value>
