@@ -2827,7 +2827,7 @@
 		<Value>Check if it is a gift card. After adding gift card products to the shopping cart and completing the purchases, you can then search and view the list of all the purchased gift cards by selecting Gift Cards from the Sales menu.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRecurring">
-		<Value>Recurring product</Value>
+		<Value>Produto recorrente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRecurring.Hint">
 		<Value>Check if it is a recurring product. For any product, you can define a recurring cycle to enable the system to automatically create orders that repeat when a customer purchases such products.</Value>
@@ -2839,7 +2839,7 @@
 		<Value>Check if this is a rental product (price is set for some period). Please note that inventory management is not fully supported for rental products yet. It's recommended to set 'Manage inventory method' to 'Don't track inventory' now.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsShipEnabled">
-		<Value>Shipping enabled</Value>
+		<Value>Envio habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsShipEnabled.Hint">
 		<Value>Check if the product can be shipped. You can manage shipping settings by selecting Configuration &gt; Shipping.</Value>
@@ -2857,10 +2857,10 @@
 		<Value>Check if it's telecommunications, broadcasting and electronic services. It's used for tax calculation in Europe Union.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Length">
-		<Value>Length</Value>
+		<Value>Comprimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Length.Hint">
-		<Value>The product length.</Value>
+		<Value>O comprimento do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
@@ -2875,7 +2875,7 @@
 		<Value>Action to be taken when your current stock quantity falls below (reaches) the 'Minimum stock quantity'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod">
-		<Value>Inventory method</Value>
+		<Value>Método de inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod.Hint">
 		<Value>Select inventory method. There are three methods: Don’t track inventory, Track inventory and Track inventory by attributes. You should use Track inventory by attributes when the product has different combinations of these attributes and then manage inventory for this combinations.</Value>
@@ -2893,10 +2893,10 @@
 		<Value>Choose the manufacturer. You can manage manufacturers by selecting Catalog &gt; Manufacturers.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.NoManufacturersAvailable">
-		<Value>No manufacturers available.</Value>
+		<Value>Nenhum fabricante disponível.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNew">
-		<Value>Mark as new</Value>
+		<Value>Marcar como novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNew.Hint">
 		<Value>Check to mark  the product as new. Use this option for promoting new products.</Value>
@@ -2959,7 +2959,7 @@
 		<Value>Nome do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name.Hint">
-		<Value>The name of the product.</Value>
+		<Value>O nome do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name.Required">
 		<Value>Please provide a name.</Value>
@@ -2977,7 +2977,7 @@
 		<Value>Check if this product is not returnable. In this case a customer won't be allowed to submit return request.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice">
-		<Value>Old price</Value>
+		<Value>Preço antigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice.Hint">
 		<Value>The old price of the product. If you set an old price, this will display alongside the current price on the product page to show the difference in price.</Value>
@@ -3169,7 +3169,7 @@
 		<Value>Date and time when this product was updated.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.UseMultipleWarehouses">
-		<Value>Multiple warehouses</Value>
+		<Value>Vários armazéns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.UseMultipleWarehouses.Hint">
 		<Value>Check if you want to support shipping and inventory management from multiple warehouses.</Value>
@@ -8920,7 +8920,7 @@
 		<Value>The message template has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News">
-		<Value>News</Value>
+		<Value>Novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments">
 		<Value>News comments</Value>
@@ -8929,7 +8929,7 @@
 		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Remover selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.DisapproveSelected">
 		<Value>Disapprove selected</Value>
@@ -13810,7 +13810,7 @@
 		<Value>The reCAPTCHA response is invalid or malformed. Please try again.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.WrongEmail">
-		<Value>Wrong email</Value>
+		<Value>Email incorreto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Year">
 		<Value>Ano</Value>
@@ -13819,7 +13819,7 @@
 		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs">
-		<Value>Contact us</Value>
+		<Value>Contate-nos</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Button">
 		<Value>Enviar</Value>
@@ -13846,10 +13846,10 @@
 		<Value>Seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName.Hint">
-		<Value>Enter your name.</Value>
+		<Value>Insira seu nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName.Required">
-		<Value>Enter your name</Value>
+		<Value>Insira seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Subject">
 		<Value>Assunto</Value>
@@ -13894,28 +13894,28 @@
 		<Value>Enter your name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName.Required">
-		<Value>Enter your name</Value>
+		<Value>Insira seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Subject">
 		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Subject.Hint">
-		<Value>Enter subject.</Value>
+		<Value>Insira o assunto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Subject.Required">
-		<Value>Please enter subject</Value>
+		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.YourEnquiryHasBeenSent">
-		<Value>Your enquiry has been successfully sent to the vendor.</Value>
+		<Value>Sua pergunta foi enviada ao fabricante com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Content.CopyrightNotice">
-		<Value>Copyright &amp;copy; {0} {1}. All rights reserved.</Value>
+		<Value>Copyright &amp;copy; {0} {1}. Todos os direitos reservados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Currencies">
 		<Value>Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Customer.Guest">
-		<Value>Guest</Value>
+		<Value>Convidado</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Date">
 		<Value>Data</Value>
@@ -13927,7 +13927,7 @@
 		<Value>n/a</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.DownloadLicense">
-		<Value>Download license</Value>
+		<Value>Baixar licença</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.Fields.Order">
 		<Value>Pedido #</Value>
@@ -13978,7 +13978,7 @@
 		<Value>Associated to product</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeValueType.Simple">
-		<Value>Simple</Value>
+		<Value>Simples</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.AllowQtyBelow0">
 		<Value>Allow qty below 0</Value>
@@ -13990,22 +13990,22 @@
 		<Value>No backorders</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.DownloadActivationType.Manually">
-		<Value>Manually</Value>
+		<Value>Manualmente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.DownloadActivationType.WhenOrderIsPaid">
 		<Value>When order is paid</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.GiftCardType.Physical">
-		<Value>Physical</Value>
+		<Value>Físico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.GiftCardType.Virtual">
 		<Value>Virtual</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.DisableBuyButton">
-		<Value>Disable buy button</Value>
+		<Value>Desativar o botão comprar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Nothing">
-		<Value>Nothing</Value>
+		<Value>Nada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Unpublish">
 		<Value>Unpublish</Value>
@@ -14023,49 +14023,49 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
-		<Value>Name: A to Z</Value>
+		<Value>Nome: A to Z</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameDesc">
-		<Value>Name: Z to A</Value>
+		<Value>Nome: Z to A</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.Position">
-		<Value>Position</Value>
+		<Value>Posição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceAsc">
-		<Value>Price: Low to High</Value>
+		<Value>Preço: Baixo a Alto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceDesc">
-		<Value>Price: High to Low</Value>
+		<Value>Preço: Alto a Baixo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.GroupedProduct">
 		<Value>Grouped (product with variants)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.SimpleProduct">
-		<Value>Simple</Value>
+		<Value>Simples</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Days">
-		<Value>Days</Value>
+		<Value>Dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Months">
-		<Value>Months</Value>
+		<Value>Meses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Weeks">
-		<Value>Weeks</Value>
+		<Value>Semanas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Years">
-		<Value>Years</Value>
+		<Value>Anos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Days">
-		<Value>Days</Value>
+		<Value>Dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Months">
-		<Value>Months</Value>
+		<Value>Meses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Weeks">
-		<Value>Weeks</Value>
+		<Value>Semanas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Years">
-		<Value>Years</Value>
+		<Value>Anos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.CustomHtmlText">
 		<Value>Custom HTML text</Value>
@@ -14077,7 +14077,7 @@
 		<Value>Hyperlink</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.Option">
-		<Value>Option</Value>
+		<Value>Opção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Common.FulltextSearchMode.And">
 		<Value>Using CONTAINS and AND with prefix_term</Value>
@@ -14089,16 +14089,16 @@
 		<Value>Using CONTAINS and OR with prefix_term</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowEmails">
-		<Value>Show emails</Value>
+		<Value>Mostrar emails</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowFirstName">
-		<Value>Show first name</Value>
+		<Value>Mostrar nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowFullNames">
-		<Value>Show full names</Value>
+		<Value>Mostrar nomes completos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowUsernames">
-		<Value>Show usernames</Value>
+		<Value>Mostrar nomes de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Clear">
 		<Value>Clear</Value>
@@ -14110,10 +14110,10 @@
 		<Value>Hashed</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.RewardPointsActivatingDelayPeriod.Days">
-		<Value>Days</Value>
+		<Value>Dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.RewardPointsActivatingDelayPeriod.Hours">
-		<Value>Hours</Value>
+		<Value>Horas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding001">
 		<Value>Default rounding</Value>
@@ -14146,7 +14146,7 @@
 		<Value>N times per customer</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.Unlimited">
-		<Value>Unlimited</Value>
+		<Value>Ilimitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToCategories">
 		<Value>Assigned to categories</Value>
@@ -14167,10 +14167,10 @@
 		<Value>Assigned to products</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Discounts.RequirementGroupInteractionType.And">
-		<Value>AND</Value>
+		<Value>E</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Discounts.RequirementGroupInteractionType.Or">
-		<Value>OR</Value>
+		<Value>OU</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Forums.EditorType.BBCodeEditor">
 		<Value>BBCode editor</Value>
@@ -14215,16 +14215,16 @@
 		<Value>Warning</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Messages.MessageDelayPeriod.Days">
-		<Value>Days</Value>
+		<Value>Dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Messages.MessageDelayPeriod.Hours">
-		<Value>Hours</Value>
+		<Value>Horas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Messages.QueuedEmailPriority.High">
-		<Value>High</Value>
+		<Value>Alta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Messages.QueuedEmailPriority.Low">
-		<Value>Low</Value>
+		<Value>Baixa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Cancelled">
 		<Value>Cancelled</Value>
@@ -14239,7 +14239,7 @@
 		<Value>Processing</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Cancelled">
-		<Value>Cancelled</Value>
+		<Value>Cancelado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ItemsRefunded">
 		<Value>Item(s) refunded</Value>
@@ -14251,7 +14251,7 @@
 		<Value>Pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Received">
-		<Value>Received</Value>
+		<Value>Recebido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.RequestRejected">
 		<Value>Request rejected</Value>
@@ -14260,10 +14260,10 @@
 		<Value>Return authorized</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Authorized">
-		<Value>Authorized</Value>
+		<Value>Autorizado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Paid">
-		<Value>Paid</Value>
+		<Value>Pago</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.PartiallyRefunded">
 		<Value>Partially refunded</Value>
@@ -14314,7 +14314,7 @@
 		<Value>Pages should have WWW prefix</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.Delivered">
-		<Value>Delivered</Value>
+		<Value>Entregue</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.NotYetShipped">
 		<Value>Not yet shipped</Value>
@@ -14323,7 +14323,7 @@
 		<Value>Partially shipped</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.Shipped">
-		<Value>Shipped</Value>
+		<Value>Enviado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.ShippingNotRequired">
 		<Value>Shipping not required</Value>
@@ -14344,13 +14344,13 @@
 		<Value>Including tax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Empty">
-		<Value>Empty</Value>
+		<Value>Vazio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Invalid">
-		<Value>Invalid</Value>
+		<Value>Inválido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Unknown">
-		<Value>Unknown</Value>
+		<Value>Desconhecido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Valid">
 		<Value>Valid</Value>
@@ -14359,13 +14359,13 @@
 		<Value>All</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Plugins.LoadPluginsMode.InstalledOnly">
-		<Value>Installed</Value>
+		<Value>Instalado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Plugins.LoadPluginsMode.NotInstalledOnly">
 		<Value>Not installed</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.Automatic">
-		<Value>Automatic</Value>
+		<Value>Automático</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.Manual">
 		<Value>Manual</Value>
@@ -14422,7 +14422,7 @@
 		<Value>or </Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.CustomerService">
-		<Value>Customer service</Value>
+		<Value>Serviço ao cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs">
 		<Value>Siga-nos</Value>
@@ -14764,7 +14764,7 @@
 		<Value>Página Inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="HomePage.Products">
-		<Value>Featured products</Value>
+		<Value>Produtos em destaque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Languages">
 		<Value>Idiomas</Value>
@@ -14881,7 +14881,7 @@
 		<Value>Discount:</Value>
 	</LocaleResource>
 	<LocaleResource Name="News">
-		<Value>News</Value>
+		<Value>Novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Archive">
 		<Value>News archive</Value>
@@ -14935,46 +14935,46 @@
 		<Value>View News Archive</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Email.Placeholder">
-		<Value>Enter your email here...</Value>
+		<Value>Insira seu email aqui...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Email.Wrong">
-		<Value>Enter valid email</Value>
+		<Value>Insira um email válido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Options.Send">
-		<Value>Send</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Options.Subscribe">
-		<Value>Subscribe</Value>
+		<Value>Se inscrever</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Options.Unsubscribe">
-		<Value>Unsubscribe</Value>
+		<Value>Cancelar inscrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.ResultActivated">
-		<Value>Your subscription has been activated.</Value>
+		<Value>Sua inscrição foi ativada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.ResultAlreadyDeactivated">
-		<Value>Your subscription already has been deactivated.</Value>
+		<Value>Sua inscrição já foi desativada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.ResultDeactivated">
-		<Value>Your subscription has been deactivated.</Value>
+		<Value>Sua inscrição foi desativada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Subscribe">
-		<Value>Sign up for our newsletter</Value>
+		<Value>Inscreva-se na nossa newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.SubscribeEmailSent">
-		<Value>Thank you for signing up! A verification email has been sent. We appreciate your interest.</Value>
+		<Value>Obrigado por se inscrever! Um email de verificação foi enviado. Agradecemos seu interesse.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Title">
 		<Value>Newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.UnsubscribeEmailSent">
-		<Value>A verification email has been sent. Thank you!</Value>
+		<Value>Um email de verificação foi enviado. Obrigado!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Nop.Web.Framework.Validators.MaxDecimal">
 		<Value>The value is out of range. Maximum value is {0}.99</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.BillingAddress">
-		<Value>Billing Address</Value>
+		<Value>Endereço de Cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Email">
 		<Value>Email</Value>
@@ -15832,13 +15832,13 @@
 		<Value>Descrição completa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.List">
-		<Value>Compare products list</Value>
+		<Value>Lista de comparação de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.NoItems">
-		<Value>You have no items to compare.</Value>
+		<Value>Você não tem produtos para comparar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Price">
 		<Value>Preço</Value>
@@ -15847,16 +15847,16 @@
 		<Value>Descrição curta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Title">
-		<Value>Compare products</Value>
+		<Value>Compare produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.DeliveryDate">
-		<Value>Delivery date</Value>
+		<Value>Data de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Details">
 		<Value>Detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Discontinued">
-		<Value>Sorry - this product is no longer available</Value>
+		<Value>Desculpe - este produto não está mais disponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.DownloadSample">
 		<Value>Download sample</Value>
@@ -15865,7 +15865,7 @@
 		<Value>Email a friend</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.Button">
-		<Value>Send email</Value>
+		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail">
 		<Value>Friend's email</Value>
@@ -15892,16 +15892,16 @@
 		<Value>Email a friend</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.YourEmailAddress">
-		<Value>Your email address</Value>
+		<Value>Seu endereço de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.YourEmailAddress.Hint">
-		<Value>Enter your email address.</Value>
+		<Value>Insira seu endereço de email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.YourEmailAddress.Required">
-		<Value>Enter your email</Value>
+		<Value>Insira seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EnterProductPrice">
-		<Value>Please enter your price</Value>
+		<Value>Por favor insira seu preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EnterProductPrice.Range">
 		<Value>The price must be from {0} to {1}</Value>
@@ -15910,10 +15910,10 @@
 		<Value>{0} excl tax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.FeaturedProducts">
-		<Value>Featured products</Value>
+		<Value>Produtos em destaque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.FreeShipping">
-		<Value>Free shipping</Value>
+		<Value>Frete grátis</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.Message">
 		<Value>Mensagem</Value>
@@ -15925,16 +15925,16 @@
 		<Value>Recipient's Name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.SenderEmail">
-		<Value>Your Email</Value>
+		<Value>Seu Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.SenderName">
-		<Value>Your Name</Value>
+		<Value>Seu Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GTIN">
 		<Value>GTIN</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.InclTaxSuffix">
-		<Value>{0} incl tax</Value>
+		<Value>{0} incl imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Manufacturer">
 		<Value>Fabricante</Value>
@@ -15949,7 +15949,7 @@
 		<Value>This product has a minimum quantity of {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.NewProducts">
-		<Value>New products</Value>
+		<Value>Novos produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.NewProducts.RSS">
 		<Value>RSS</Value>
@@ -16024,7 +16024,7 @@
 		<Value>Qty</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RecentlyViewedProducts">
-		<Value>Recently viewed products</Value>
+		<Value>Produtos vistos recentemente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RelatedProducts">
 		<Value>Related products</Value>
