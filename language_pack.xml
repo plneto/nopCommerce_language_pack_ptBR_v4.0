@@ -1414,7 +1414,7 @@
 		<Value>Edit affiliate details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.Active">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.Active.Hint">
 		<Value>A value indicating whether the affiliate is active.</Value>
@@ -1480,7 +1480,7 @@
 		<Value>Affiliated orders</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.CustomOrderNumber">
 		<Value>Pedido #</Value>
@@ -2194,7 +2194,7 @@
 		<Value>Whether customers are allowed to select the page size from a predefined list of options.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Deleted">
 		<Value>Deleted</Value>
@@ -2317,7 +2317,7 @@
 		<Value>A manufacturer name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -2365,13 +2365,13 @@
 		<Value>Edit product review details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn.Hint">
 		<Value>The date/time that the review was created.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer.Hint">
 		<Value>The customer who created the review.</Value>
@@ -2410,7 +2410,7 @@
 		<Value>Review text is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Store.Hint">
 		<Value>A store name in which this review was written.</Value>
@@ -2458,13 +2458,13 @@
 		<Value>Search by a specific product.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchText">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchText.Hint">
 		<Value>Search in title and review text.</Value>
@@ -2689,7 +2689,7 @@
 		<Value>No categories available.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CreatedOn.Hint">
 		<Value>Date and time when this product was created.</Value>
@@ -3817,7 +3817,7 @@
 		<Value>Created On</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.QuantityAdjustment">
 		<Value>Quantity adjustment</Value>
@@ -3862,7 +3862,7 @@
 		<Value>Specify the price.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Quantity.Hint">
 		<Value>Specify quantity for which this tier price will be available.</Value>
@@ -3874,7 +3874,7 @@
 		<Value>The start date of the tier price in Coordinated Universal Time (UTC).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Store.All">
 		<Value>All stores</Value>
@@ -4087,7 +4087,7 @@
 		<Value>Activity Log Type</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.Comment">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CreatedOn">
 		<Value>Created On</Value>
@@ -4105,7 +4105,7 @@
 		<Value>The creation to date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CustomerEmail">
 		<Value>Customer Email</Value>
@@ -4318,7 +4318,7 @@
 		<Value>Edit currency details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Fields.CreatedOn.Hint">
 		<Value>The date/time the currency was created.</Value>
@@ -4558,7 +4558,7 @@
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.SystemName">
 		<Value>System name</Value>
@@ -4987,7 +4987,7 @@
 		<Value>Please provide a setting name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.StoreName">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.AllSettings.Fields.StoreName.AllStores">
 		<Value>All stores</Value>
@@ -5482,7 +5482,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.SortOptions.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.SortOptions.Name">
 		<Value>Nome</Value>
@@ -7165,7 +7165,7 @@
 		<Value>Call for price</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CrossSellsProducts">
 		<Value>Cross-sells products</Value>
@@ -8068,7 +8068,7 @@
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.Logo">
 		<Value>Logo</Value>
@@ -8137,7 +8137,7 @@
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.Logo">
 		<Value>Logo</Value>
@@ -8215,7 +8215,7 @@
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.SMSProviders.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.SMSProviders.Fields.SystemName">
 		<Value>System name</Value>
@@ -8482,7 +8482,7 @@
 		<Value>Info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -8509,10 +8509,10 @@
 		<Value>Comment</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.IsApproved">
 		<Value>Is approved</Value>
@@ -8548,7 +8548,7 @@
 		<Value>Search by a "Approved" property.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText.Hint">
 		<Value>Search in comment text.</Value>
@@ -8575,7 +8575,7 @@
 		<Value>Edit forum details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.Description">
 		<Value>Description</Value>
@@ -8629,7 +8629,7 @@
 		<Value>Edit Forum Group Details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.Fields.DisplayOrder">
 		<Value>Display Order</Value>
@@ -8836,7 +8836,7 @@
 		<Value>A delay before sending the message.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.EmailAccount">
-		<Value>Email account</Value>
+		<Value>Conta de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.EmailAccount.Hint">
 		<Value>The email account that will be used to send this message template.</Value>
@@ -8845,7 +8845,7 @@
 		<Value>Standard</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.IsActive.Hint">
 		<Value>Indicating whether the message template is active.</Value>
@@ -8869,7 +8869,7 @@
 		<Value>Send message immediately.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject.Hint">
 		<Value>The subject of the message (email). TIP - You can include tokens in your subject.</Value>
@@ -8878,7 +8878,7 @@
 		<Value>Subject is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -8941,10 +8941,10 @@
 		<Value>Comment title</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.IsApproved">
 		<Value>Is approved</Value>
@@ -8983,7 +8983,7 @@
 		<Value>Search by a "Approved" property.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchText">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchText.Hint">
 		<Value>Search in title and comment text.</Value>
@@ -9016,7 +9016,7 @@
 		<Value>View comments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.EndDate">
 		<Value>End date</Value>
@@ -9103,7 +9103,7 @@
 		<Value>Info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -9331,7 +9331,7 @@
 		<Value>Set a search engine friendly page name e.g. 'some-topic-name' to make your page URL 'http://www.yourStore.com/some-topic-name'. Leave empty to generate it automatically based on the title of the topic.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store.AllStores">
 		<Value>All stores</Value>
@@ -9367,7 +9367,7 @@
 		<Value>Info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -9397,7 +9397,7 @@
 		<Value>Friendly name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.SystemName">
 		<Value>System name</Value>
@@ -9406,16 +9406,16 @@
 		<Value>Current shopping carts</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Product">
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Total">
 		<Value>Total</Value>
@@ -9541,7 +9541,7 @@
 		<Value>Edit customer role details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.Active">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.Active.CantEditSystem">
 		<Value>System customer roles can't be disabled.</Value>
@@ -9634,7 +9634,7 @@
 		<Value>Comment</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog.IpAddress">
 		<Value>IP address</Value>
@@ -9709,7 +9709,7 @@
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.BackInStockSubscriptions.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.BackToList">
 		<Value>back to customer list</Value>
@@ -9730,7 +9730,7 @@
 		<Value>Edit customer details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Active">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Active.Hint">
 		<Value>Is this customer's account active. To disable/suspend a customer's account, uncheck this.</Value>
@@ -9775,7 +9775,7 @@
 		<Value>The country.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn.Hint">
 		<Value>The date the customer record is created.</Value>
@@ -10093,7 +10093,7 @@
 		<Value>Shipping status</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.PasswordChanged">
 		<Value>The password has been changed successfully.</Value>
@@ -10117,13 +10117,13 @@
 		<Value>Add (reduce) points</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsMessage">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsMessage.Hint">
 		<Value>Enter message (comment).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsStore.Hint">
 		<Value>Choose a store. It's useful only when you have "Points accumulated for all stores" setting disabled.</Value>
@@ -10138,7 +10138,7 @@
 		<Value>Date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Points">
 		<Value>Points</Value>
@@ -10147,7 +10147,7 @@
 		<Value>Points balance</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail">
 		<Value>Send email</Value>
@@ -10258,7 +10258,7 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.OrderCount">
 		<Value>Number of orders</Value>
@@ -10444,7 +10444,7 @@
 		<Value>Notify recipient</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.Message.Hint">
 		<Value>Enter message.</Value>
@@ -10975,7 +10975,7 @@
 		<Value>The status of the shipping.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.Store.Hint">
 		<Value>A store name in which this order was placed.</Value>
@@ -11086,7 +11086,7 @@
 		<Value>The start date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Store.Hint">
 		<Value>Search by a specific store.</Value>
@@ -11116,7 +11116,7 @@
 		<Value>Add order note</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.OrderNotes.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer">
 		<Value>Display to customer</Value>
@@ -11176,7 +11176,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.AddNew.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.AddNew.Quantity.Hint">
 		<Value>Enter quantity.</Value>
@@ -11266,7 +11266,7 @@
 		<Value>Product name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Products.RecurringPeriod">
 		<Value>[Auto-ship, Every {0} {1}]</Value>
@@ -11623,7 +11623,7 @@
 		<Value>Enter a specific date and time to send the campaign. Leave empty to send it immediately.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.EmailAccount">
-		<Value>Email account</Value>
+		<Value>Conta de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.EmailAccount.Hint">
 		<Value>The email account that will be used to send this campaign.</Value>
@@ -11644,7 +11644,7 @@
 		<Value>Choose a store which subscribers will get this email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.Subject">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.Subject.Hint">
 		<Value>The subject of your campaign email.</Value>
@@ -11923,16 +11923,16 @@
 		<Value>Interaction type in this group is</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveGroup">
-		<Value>Remove group</Value>
+		<Value>Remover grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveRequirement">
 		<Value>Remove requirement</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.Requirement.Title">
-		<Value>Requirement</Value>
+		<Value>Requerimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup">
-		<Value>Add to group</Value>
+		<Value>Adcionar ao grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup.Hint">
 		<Value>Choose the group you want the requirement group you’re creating to be assigned to</Value>
@@ -11953,7 +11953,7 @@
 		<Value>Newsletter subscribers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.Fields.Active">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.Fields.CreatedOn">
 		<Value>Subscribed on</Value>
@@ -11965,7 +11965,7 @@
 		<Value>Email is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.Fields.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.ImportEmailsSuccess">
 		<Value>{0} emails have been successfully imported</Value>
@@ -11983,13 +11983,13 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchActive">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchActive.ActiveOnly">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchActive.All">
-		<Value>All</Value>
+		<Value>Todas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchActive.Hint">
 		<Value>Search by a specific status e.g. Active.</Value>
@@ -12004,7 +12004,7 @@
 		<Value>Search by a specific email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchStore.Hint">
 		<Value>Search by a specific store.</Value>
@@ -12016,16 +12016,16 @@
 		<Value>The start date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments">
-		<Value>Recurring payments</Value>
+		<Value>Pagamentos recorrentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.BackToList">
-		<Value>back to recurring payment list</Value>
+		<Value>voltar à lista de pagamentos recorrentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Cancelled">
 		<Value>The payment has been cancelled successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Deleted">
-		<Value>The payment has been deleted successfully.</Value>
+		<Value>O pagamento foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Description">
 		<Value>Recurring payments are used for automatic renewal of consumable merchandise or subscription services.</Value>
@@ -12034,10 +12034,10 @@
 		<Value>Edit recurring payment details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.Customer.Hint">
-		<Value>Customer.</Value>
+		<Value>Cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.CycleLength">
 		<Value>Cycle length</Value>
@@ -12067,7 +12067,7 @@
 		<Value>Initial order of this recurring payment.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.IsActive.Hint">
 		<Value>Determines whether this recurring payment is active.</Value>
@@ -12076,7 +12076,7 @@
 		<Value>Next payment date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.PaymentType">
-		<Value>Payment type</Value>
+		<Value>Tipo de pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.PaymentType.Hint">
 		<Value>Indicates the payment type (Manual or Automatic).</Value>
@@ -12100,7 +12100,7 @@
 		<Value>Cancel recurring payment</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.CustomOrderNumber">
 		<Value>Created order</Value>
@@ -12154,7 +12154,7 @@
 		<Value>Date when the return request has been submitted.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Customer.Hint">
 		<Value>Customer information.</Value>
@@ -12184,7 +12184,7 @@
 		<Value>Product information.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Quantity.Hint">
 		<Value>Entered quantity.</Value>
@@ -12226,7 +12226,7 @@
 		<Value>Download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.UploadedFile.Hint">
-		<Value>File uploaded by customer</Value>
+		<Value>Arquivo enviado pelo cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Notified">
 		<Value>The customer has been notified successfully.</Value>
@@ -12295,7 +12295,7 @@
 		<Value>Bestsellers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.BillingCountry">
-		<Value>Billing country</Value>
+		<Value>País de cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.BillingCountry.Hint">
 		<Value>Filter by order billing country.</Value>
@@ -12325,10 +12325,10 @@
 		<Value>Total amount (excl tax)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Fields.TotalQuantity">
-		<Value>Total quantity</Value>
+		<Value>Quantidade total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Manufacturer">
-		<Value>Manufacturer</Value>
+		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Manufacturer.Hint">
 		<Value>Search in a specific manufacturer.</Value>
@@ -12355,7 +12355,7 @@
 		<Value>The start date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Store">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Store.Hint">
 		<Value>Filter report by orders placed in a specific store.</Value>
@@ -12451,13 +12451,13 @@
 		<Value>Load products only from a specific category.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchManufacturer">
-		<Value>Manufacturer</Value>
+		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchManufacturer.Hint">
 		<Value>Load products only from a specific manufacturer.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchStore">
-		<Value>Store</Value>
+		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.SearchStore.Hint">
 		<Value>Load products only from a specific store (available in this store).</Value>
@@ -12514,13 +12514,13 @@
 		<Value>The stock quantity has been increased by deleting a shipment from the order #{0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.Edit">
-		<Value>The stock quantity has been edited</Value>
+		<Value>A quantidade em estoque foi editada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.EditOrder">
-		<Value>The stock quantity has been changed by editing the order #{0}</Value>
+		<Value>A quantidade em estoque foi alterada ao editar o pedido #{0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.EditWarehouse">
-		<Value>Products have been moved {0} {1}</Value>
+		<Value>Produtos foram movidos {0} {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.EditWarehouse.New">
 		<Value>to the {0}</Value>
@@ -12565,13 +12565,13 @@
 		<Value>Delete selected</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.Fields.CreatedOn.Hint">
 		<Value>Date/Time the log entry was created.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.Fields.Customer">
-		<Value>Customer</Value>
+		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.Fields.Customer.Hint">
 		<Value>Name of the customer who caused the exception.</Value>
@@ -12631,16 +12631,16 @@
 		<Value>Select a log level.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.List.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.List.Message.Hint">
-		<Value>Message.</Value>
+		<Value>Mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.ViewLogDetails">
 		<Value>View log entry details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance">
-		<Value>Maintenance</Value>
+		<Value>Manutenção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.BackupCreated">
 		<Value>The backup created</Value>
@@ -12649,10 +12649,10 @@
 		<Value>Backup file "{0}" deleted</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.BackupNow">
-		<Value>Backup now</Value>
+		<Value>Fazer backup agora</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.DatabaseBackups">
-		<Value>Database backups</Value>
+		<Value>Backups do banco de dados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.DatabaseRestored">
 		<Value>Database is restored</Value>
@@ -12664,16 +12664,16 @@
 		<Value>Download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.FileName">
-		<Value>File Name</Value>
+		<Value>Nome do Arquivo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.FileSize">
-		<Value>File Size</Value>
+		<Value>Tamanho do Arquivo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Progress">
 		<Value>Processing database backup...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Restore">
-		<Value>Restore</Value>
+		<Value>Restaurar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts">
 		<Value>Deleting abandoned shopping carts</Value>
@@ -12736,7 +12736,7 @@
 		<Value>back to message queue</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.DeleteAll">
-		<Value>Delete all</Value>
+		<Value>Remover todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Deleted">
 		<Value>The queued email has been deleted successfully.</Value>
@@ -12745,7 +12745,7 @@
 		<Value>All queued emails have been deleted successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Remover selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.EditQueuedEmailDetails">
 		<Value>Edit message queue item</Value>
@@ -12772,16 +12772,16 @@
 		<Value>Body</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.Body.Hint">
-		<Value>Message body.</Value>
+		<Value>Corpo da mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.CC">
 		<Value>Cc</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.CC.Hint">
-		<Value>Cc address.</Value>
+		<Value>Endereço cc.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.CreatedOn.Hint">
 		<Value>Date/Time message added to queue.</Value>
@@ -12793,13 +12793,13 @@
 		<Value>The specific send date and time.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.EmailAccountName">
-		<Value>Email account</Value>
+		<Value>Conta de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.EmailAccountName.Hint">
 		<Value>The email account that will be used to send this email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.From">
-		<Value>From</Value>
+		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.From.Hint">
 		<Value>From address.</Value>
@@ -12865,7 +12865,7 @@
 		<Value>Enter send attempts.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.Subject">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.Subject.Hint">
 		<Value>Message subject.</Value>
@@ -13000,7 +13000,7 @@
 		<Value>ID</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.IsActive">
-		<Value>Is active</Value>
+		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Language">
 		<Value>Language</Value>
@@ -13264,7 +13264,7 @@
 		<Value>Edit vendor details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Active">
-		<Value>Active</Value>
+		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.Active.Hint">
 		<Value>A value indicating whether the vendor is active.</Value>
@@ -13390,7 +13390,7 @@
 		<Value>Add vendor note</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.VendorNotes.Fields.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.VendorNotes.Fields.Note">
 		<Value>Note</Value>
@@ -13444,7 +13444,7 @@
 		<Value>Enter comment</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.LeaveYourComment">
 		<Value>Leave your comment</Value>
@@ -14020,7 +14020,7 @@
 		<Value>Track inventory by product attributes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
 		<Value>Name: A to Z</Value>
@@ -14851,7 +14851,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Messages.Order.Product(s).Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Messages.Order.Product(s).SKU">
 		<Value>SKU: {0}</Value>
@@ -14905,7 +14905,7 @@
 		<Value>Enter comment title</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.LeaveYourComment">
 		<Value>Leave your comment</Value>
@@ -15382,7 +15382,7 @@
 		<Value>Company: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFInvoice.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFInvoice.Discount">
 		<Value>Discount:</Value>
@@ -15409,7 +15409,7 @@
 		<Value>Order notes:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFInvoice.OrderNotes.CreatedOn">
-		<Value>Created on</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFInvoice.OrderNotes.Note">
 		<Value>Note</Value>
@@ -15493,7 +15493,7 @@
 		<Value>Product Name</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFPackagingSlip.QTY">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="PDFPackagingSlip.Shipment">
 		<Value>Shipment #{0}</Value>
@@ -15697,13 +15697,13 @@
 		<Value>Delete selected</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.FromColumn">
-		<Value>From</Value>
+		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.MarkAsUnread">
 		<Value>Mark selected as unread</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.SubjectColumn">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.ToColumn">
 		<Value>To</Value>
@@ -15745,7 +15745,7 @@
 		<Value>Delete selected</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.SubjectColumn">
-		<Value>Subject</Value>
+		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.ToColumn">
 		<Value>To</Value>
@@ -15916,7 +15916,7 @@
 		<Value>Free shipping</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.RecipientEmail">
 		<Value>Recipient's Email</Value>
@@ -15937,7 +15937,7 @@
 		<Value>{0} incl tax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Manufacturer">
-		<Value>Manufacturer</Value>
+		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ManufacturerPartNumber">
 		<Value>Manufacturer part number</Value>
@@ -16066,7 +16066,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.TierPrices.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Vendor">
 		<Value>Fornecedor</Value>
@@ -16186,7 +16186,7 @@
 		<Value>Review title is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.From">
-		<Value>From</Value>
+		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Helpfulness.OnlyRegistered">
 		<Value>Only registered customers can set review helpfulness</Value>
@@ -16246,7 +16246,7 @@
 		<Value>Date</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.Message">
-		<Value>Message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.Points">
 		<Value>Points</Value>
@@ -16297,7 +16297,7 @@
 		<Value>Automatically search sub categories</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.Manufacturer">
-		<Value>Manufacturer</Value>
+		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.NoResultsText">
 		<Value>No products were found that matched your criteria.</Value>
@@ -16306,7 +16306,7 @@
 		<Value>Price range</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.PriceRange.From">
-		<Value>From</Value>
+		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.PriceRange.To">
 		<Value>to</Value>
@@ -16495,7 +16495,7 @@
 		<Value>You have no items in your shopping cart.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.Quantity">
-		<Value>Quantity</Value>
+		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.UnitPrice">
 		<Value>Unit price</Value>
