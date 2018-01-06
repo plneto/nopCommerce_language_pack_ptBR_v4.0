@@ -3121,7 +3121,7 @@
 		<Value>Enviar separadamente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShipSeparately.Hint">
-		<Value>Check if the product should be shipped separately from other products (in single box). But notice that if the order includes several items of this product, all of them will be shipped in single box.</Value>
+		<Value>Marque se o produto deve ser enviado separadamente dos outros produtos (em uma caixa única). Mas observe que se o pedido incluir vários itens deste produto, todos serão enviado em caixas únicas.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShortDescription">
 		<Value>Descrição curta</Value>
@@ -3656,8 +3656,8 @@
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Hint">
 		<Value>
-      Product attributes are quantifiable or descriptive aspects of a product (such as, color). For example, if you were to create an attribute for color, with the values of blue, green, yellow, and so on, you may want to apply this attribute to shirts, which you sell in various colors (you can adjust a price or weight for any of existing attribute values).
-      You can add attribute for your product using existing list of attributes, or if you need to create a new one go to Catalog &gt; Attributes &gt; Product attributes. Please notice that if you want to manage inventory by product attributes (e.g. 5 green shirts and 3 blue ones), then ensure that "Inventory method" is set to "Track inventory by product attributes".
+      Os atributos do produto são aspectos quantificáveis ou descritivos de um produto (assim como, cor). Por exemplo, se você fosse criar um atributo para cor, com os valores azul, verde, amarelo, e outras, você pode querer aplicar este atributo à camisas, as quais você vende em várias cores (você pode ajustar o preço ou peso para cada atributo existente).
+      Você pode adicionar atributos para seu produto usando a lista existente de atributos, ou se você precisar criar um atributo novo vá para Catálogo &gt; Atributos &gt; Attributos do produto. Por favor observe que se você quiser gerenciar estoque por atributo do produto (por exemplo 5 camisas verdes e 3 camisas azuis), então assegure-se que a "Forma de inventário" está configurado para "Controlar estoque por atributos do produto".
 		</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.NoAttributesAvailable">
@@ -3667,7 +3667,7 @@
 		<Value>You need to save the product before you can add attributes for this page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductWarehouseInventory">
-		<Value>Warehouses</Value>
+		<Value>Armazéns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductWarehouseInventory.Description1">
 		<Value>"Stock quantity" is total quantity. It's reduced from when a shipment is shipped.</Value>
@@ -7333,7 +7333,7 @@
 		<Value>Visible individually</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Warehouse">
-		<Value>Warehouses</Value>
+		<Value>Armazéns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Weight">
 		<Value>Peso</Value>
@@ -8164,7 +8164,7 @@
 		<Value>The settings have been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses">
-		<Value>Warehouses</Value>
+		<Value>Armazéns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Added">
 		<Value>The new warehouse has been added successfully.</Value>
@@ -8860,37 +8860,37 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Name.Hint">
-		<Value>The name of this template (read only).</Value>
+		<Value>O nome deste modelo (somente leitura).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.SendImmediately">
-		<Value>Send immediately</Value>
+		<Value>Enviar imediatamente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.SendImmediately.Hint">
-		<Value>Send message immediately.</Value>
+		<Value>Enviar mensagem imediatamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject">
 		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject.Hint">
-		<Value>The subject of the message (email). TIP - You can include tokens in your subject.</Value>
+		<Value>O assunto da mensagem (email). DICA - Você pode incluir tokens no assunto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject.Required">
-		<Value>Subject is required.</Value>
+		<Value>Assunto é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.List.SearchStore">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Pesquisar por uma loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test">
 		<Value>Test template</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.BackToTemplate">
-		<Value>back to template</Value>
+		<Value>voltar ao modelo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.Send">
-		<Value>Send</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.SendTo">
 		<Value>Send email to</Value>
@@ -8905,19 +8905,19 @@
 		<Value>Tokens</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.Tokens.Description">
-		<Value>Please enter tokens you want to be replaced below</Value>
+		<Value>Por favor insira os tokens que você quer que sejam substituídos abaixo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.Tokens.Hint">
-		<Value>Enter tokens.</Value>
+		<Value>Inserir tokens.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.TestDetails">
-		<Value>Send test email</Value>
+		<Value>Enviar email de teste</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Tokens.ConditionalStatement">
-		<Value>For conditional expressions use the token %if (your conditions ) ... endif%</Value>
+		<Value>Para expressões condicionais use o token %if (suas condições ) ... endif%</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Updated">
-		<Value>The message template has been updated successfully.</Value>
+		<Value>O modelo da mensagem foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News">
 		<Value>Novidades</Value>
@@ -10012,13 +10012,13 @@
 		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchDateOfBirth.Day">
-		<Value>Day</Value>
+		<Value>Dia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchDateOfBirth.Hint">
 		<Value>Filter by date of birth. Don't select any value to load all records.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchDateOfBirth.Month">
-		<Value>Month</Value>
+		<Value>Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchEmail">
 		<Value>Email</Value>
@@ -10294,13 +10294,13 @@
 		<Value>New customers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Month">
-		<Value>Month</Value>
+		<Value>Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Week">
 		<Value>Week</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Year">
-		<Value>Year</Value>
+		<Value>Ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers">
 		<Value>Registered customers</Value>
@@ -10609,10 +10609,10 @@
 		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.StateProvince">
-		<Value>Estado / província</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Address.ZipPostalCode">
-		<Value>CEP / código postal</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.BackToList">
 		<Value>voltar à lista de pedidos</Value>
@@ -13804,7 +13804,7 @@
 		<Value>Aviso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.WrongCaptcha">
-		<Value>The characters didn't match the picture. Please try again.</Value>
+		<Value>Os caracteres não correspondem com os da foto. Por favor tente novamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.WrongCaptchaV2">
 		<Value>The reCAPTCHA response is invalid or malformed. Please try again.</Value>
@@ -13828,19 +13828,19 @@
 		<Value>Seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Email.Hint">
-		<Value>Enter your email address.</Value>
+		<Value>Insira seu endereço de email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Email.Required">
-		<Value>Enter email</Value>
+		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry">
-		<Value>Enquiry</Value>
+		<Value>Pergunta</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Hint">
-		<Value>Enter your enquiry.</Value>
+		<Value>Insira sua pergunta.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Required">
-		<Value>Enter enquiry</Value>
+		<Value>Insira a pergunta</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName">
 		<Value>Seu nome</Value>
@@ -13855,16 +13855,16 @@
 		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Subject.Hint">
-		<Value>Enter subject.</Value>
+		<Value>Insira o assunto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Subject.Required">
-		<Value>Please enter subject</Value>
+		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
-		<Value>Your enquiry has been successfully sent to the store owner.</Value>
+		<Value>Sua pergunta foi enviada com sucesso para o dono da loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor">
-		<Value>Contact vendor</Value>
+		<Value>Entre em contato com o fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Button">
 		<Value>Enviar</Value>
@@ -13873,25 +13873,25 @@
 		<Value>Seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Email.Hint">
-		<Value>Enter your email address.</Value>
+		<Value>Insira seu endereço de email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Email.Required">
-		<Value>Enter email</Value>
+		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry">
-		<Value>Enquiry</Value>
+		<Value>Pergunta</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Hint">
-		<Value>Enter your enquiry.</Value>
+		<Value>Insira a pergunta.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Required">
-		<Value>Enter enquiry</Value>
+		<Value>Insira a pergunta</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName">
 		<Value>Seu nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName.Hint">
-		<Value>Enter your name.</Value>
+		<Value>Insira seu nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName.Required">
 		<Value>Insira seu nome</Value>
@@ -14944,7 +14944,7 @@
 		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Options.Subscribe">
-		<Value>Se inscrever</Value>
+		<Value>Assinar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Options.Unsubscribe">
 		<Value>Cancelar inscrição</Value>
@@ -16330,7 +16330,7 @@
 		<Value>Carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart">
-		<Value>Adicionar ao carrinho</Value>
+		<Value>Adicionar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart.Update">
 		<Value>Atualizar</Value>
@@ -16345,7 +16345,7 @@
 		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AllowedQuantities">
-		<Value>Allowed quantities for this product: {0}</Value>
+		<Value>Quantidades permitidas para este produto: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AssociatedAttributeWarning">
 		<Value>{0}. {1}. {2}</Value>
@@ -16375,7 +16375,7 @@
 		<Value>Continuar comprando</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CrossSells">
-		<Value>Based on your selection, you may be interested in the following items</Value>
+		<Value>Baseado na sua seleção, tavez você se interesse nos seguintes itens</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.CustomerEnteredPrice.RangeError">
 		<Value>O preço deve ser de {0} a {1}</Value>
@@ -16384,13 +16384,13 @@
 		<Value>Desculpe, você já usou este desconto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Discount.CannotBeUsedWithGiftCards">
-		<Value>Sorry, this discount cannot be used with gift cards in the cart</Value>
+		<Value>Desculpe, este desconto não pode ser usado com cartões presente no carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Discount.Expired">
-		<Value>Sorry, this offer is expired</Value>
+		<Value>Desculpe, esta oferta expirou</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Discount.NotStartedYet">
-		<Value>Sorry, this offer is not started yet</Value>
+		<Value>Desculpe, esta oferta ainda não começou</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.DiscountCouponCode">
 		<Value>Discount Code</Value>
@@ -16399,7 +16399,7 @@
 		<Value>The coupon code was applied</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.DiscountCouponCode.Button">
-		<Value>Apply coupon</Value>
+		<Value>Aplicar cupom</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.DiscountCouponCode.CurrentCode">
 		<Value>Entered coupon code - {0}</Value>
@@ -16420,22 +16420,22 @@
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Country.Required">
-		<Value>Country is required</Value>
+		<Value>País é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ShippingOptionWithRate">
 		<Value>{0} ({1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
-		<Value>Estado / província</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
 		<Value>Enter your destination to get a shipping estimate</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
-		<Value>CEP / código postal</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode.Required">
-		<Value>Zip / postal code is required</Value>
+		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.FileUploaded">
 		<Value>Your file successfully uploaded!</Value>
@@ -16447,7 +16447,7 @@
 		<Value>The gift card code was applied</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Button">
-		<Value>Add gift card</Value>
+		<Value>Adicionar cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.DontWorkWithAutoshipProducts">
 		<Value>You cannot use gift cards with auto-ship (recurring) items.</Value>
@@ -16468,7 +16468,7 @@
 		<Value>Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ItemYouSave">
-		<Value>You save: {0}</Value>
+		<Value>Você economiza: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.MaximumDiscountedQty">
 		<Value>Discounted qty: {0}</Value>
@@ -16507,7 +16507,7 @@
 		<Value>The minimum quantity allowed for purchase is {0}.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.NotAvailable">
-		<Value>Product is not available</Value>
+		<Value>O produto não está disponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.OutOfStock">
 		<Value>Fora de estoque</Value>
@@ -16516,7 +16516,7 @@
 		<Value>Pre-order</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Product(s)">
-		<Value>Product(s)</Value>
+		<Value>Produto(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.ProductDeleted">
 		<Value>O product foi removido</Value>
@@ -16546,7 +16546,7 @@
 		<Value>Remover</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Rent">
-		<Value>Rent</Value>
+		<Value>Aluguel</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Rental.EnterEndDate">
 		<Value>Enter rental end date</Value>
@@ -16567,7 +16567,7 @@
 		<Value>This product requires the following product is added to the cart: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.SelectAttribute">
-		<Value>Please select {0}</Value>
+		<Value>Por favor selecione {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.SenderEmailError">
 		<Value>Enter valid sender email</Value>
@@ -16675,10 +16675,10 @@
 		<Value>Product tags</Value>
 	</LocaleResource>
 	<LocaleResource Name="StoreClosed">
-		<Value>This store is currently closed</Value>
+		<Value>Esta loja está fechada no momento</Value>
 	</LocaleResource>
 	<LocaleResource Name="StoreClosed.Hint">
-		<Value>Please check back in a little while.</Value>
+		<Value>Por favot verifique novamente mais tarde.</Value>
 	</LocaleResource>
 	<LocaleResource Name="StoreTheme">
 		<Value>Selecione o tema da loja</Value>
