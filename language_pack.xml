@@ -202,7 +202,7 @@
 		<Value>Return Item(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews">
-		<Value>My product reviews</Value>
+		<Value>Minhas avaliações de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Approved">
 		<Value>Aprovado</Value>
@@ -562,7 +562,7 @@
 		<Value>The new password and confirmation password do not match.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.LengthValidation">
-		<Value>The password should have at least {0} characters.</Value>
+		<Value>A senha deve ter pelo menos {0} caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.Required">
 		<Value>Nova senha é obrigatório.</Value>
@@ -574,10 +574,10 @@
 		<Value>Senha antiga é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.PasswordAlreadyHasBeenChanged">
-		<Value>Your password already has been changed. For changing it once more, you need to again recover the password.</Value>
+		<Value>Sua senha já foi alterada. Para alterá-la mais uma vez, você precisa recuperar sua senha novamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.PasswordHasBeenChanged">
-		<Value>Your password has been changed</Value>
+		<Value>Sua senha foi alterada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.RecoverButton">
 		<Value>Recuperar</Value>
@@ -610,7 +610,7 @@
 		<Value>The specified username already exists</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
-		<Value>Username is required.</Value>
+		<Value>Nome de usuário é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.AdminApproval">
 		<Value>Your account will be activated after approving by administrator.</Value>
@@ -625,19 +625,19 @@
 		<Value>Your registration has been successfully completed. You have just been sent an email containing membership activation instructions.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.Standard">
-		<Value>Your registration completed</Value>
+		<Value>Seu registro está completo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Unsuccessful">
 		<Value>Registration was not complete. Please correct the errors and try again.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.RewardPoints">
-		<Value>Reward points</Value>
+		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ShoppingCart">
-		<Value>Shopping Cart</Value>
+		<Value>Carrinho de Compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo">
-		<Value>Vendor info</Value>
+		<Value>Informações do fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Description">
 		<Value>Descrição</Value>
@@ -7339,7 +7339,7 @@
 		<Value>Peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints">
-		<Value>Reward points</Value>
+		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints.ActivatePointsImmediately">
 		<Value>Activate points immediately</Value>
@@ -7375,7 +7375,7 @@
 		<Value>spent will earn</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints.Earning.Hint3">
-		<Value>reward points</Value>
+		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.RewardPoints.Enabled">
 		<Value>Enabled</Value>
@@ -10105,7 +10105,7 @@
 		<Value>Activation email has been successfully sent.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints">
-		<Value>Reward points</Value>
+		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.ActivatedLater">
 		<Value>The points will be activated on {0}</Value>
@@ -10927,7 +10927,7 @@
 		<Value>This is a recurring order. See the appropriate recurring payment record.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.RedeemedRewardPoints">
-		<Value>Reward points</Value>
+		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.RedeemedRewardPoints.Hint">
 		<Value>Redeemed reward points.</Value>
@@ -15304,7 +15304,7 @@
 		<Value>Shipment details</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ShoppingCart">
-		<Value>Shopping Cart</Value>
+		<Value>Carrinho de Compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Sitemap">
 		<Value>Mapa do site</Value>
