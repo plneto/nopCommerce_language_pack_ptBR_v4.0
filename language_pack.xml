@@ -46,10 +46,10 @@
 		<Value>Remover avatar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.UploadRules">
-		<Value>Avatar must be in GIF or JPEG format with the maximum size of 20 KB</Value>
+		<Value>Avatar deve ter o formato GIF ou JPEG com um tamanho máximo de 20 KB</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions">
-		<Value>Back in stock subscriptions</Value>
+		<Value>Notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
 		<Value>Remover selecionado</Value>
@@ -2590,10 +2590,10 @@
 		<Value>Check to allow adding to the cart/wishlist only attribute combinations that exist and have stock greater than zero. In this case you have to create all existing product attribute combinations that you have in stock.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowBackInStockSubscriptions">
-		<Value>Allow back in stock subscriptions</Value>
+		<Value>Permitir notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowBackInStockSubscriptions.Hint">
-		<Value>Allow customers to subscribe to a notification list for a product that has gone out of stock.</Value>
+		<Value>Permitir que clientes inscrevam-se para receber notificações de produtos que estão fora de estoque.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews">
 		<Value>Permitir avaliações de clientes</Value>
@@ -5779,10 +5779,10 @@
 		<Value>Configure se 'Sexo' está habilitado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideBackInStockSubscriptionsTab">
-		<Value>Hide 'Back in stock subscriptions' tab</Value>
+		<Value>Esconder aba 'Notificações de produtos fora de estoque'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideBackInStockSubscriptionsTab.Hint">
-		<Value>Check to hide 'Back in stock subscriptions' tab on 'My account' page.</Value>
+		<Value>Marque para esconder a aba 'Notificações de produtos fora de estoque' na página 'Minha conta'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideDownloadableProductsTab">
 		<Value>Hide 'Downloadable products' tab</Value>
@@ -7108,7 +7108,7 @@
 		<Value>Allow only existing attribute combinations</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AllowBackInStockSubscriptions">
-		<Value>Allow back in stock subscriptions</Value>
+		<Value>Permitir notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AllowCustomerReviews">
 		<Value>Allow customer reviews</Value>
@@ -8671,7 +8671,7 @@
 		<Value>This message template is used when a new blog comment to the certain blog post is created. The message is received by a store owner. You can set up this option by ticking the checkbox &lt;strong&gt;Notify about new blog comments&lt;/strong&gt; in Configuration - Settings - Blog settings.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.BackInStock">
-		<Value>This message template is used when the customer subscribed for the certain product which is unavailable at the moment to notify the customer about the product being back to stock again. You can set up this option by ticking the checkbox &lt;strong&gt;Allow back in stock subscriptions&lt;/strong&gt; in Product info tab - Inventory section.</Value>
+		<Value>Este modelo de mensagem é usado quando o cliente se inscrever para certos produtos os quais estão indisponíveis no momento para notificar o cliente sobre o produto estar em estoque novamente. Você pode configurar esta opção ao marcar a caixa &lt;strong&gt;Notificações de produtos fora de estoque&lt;/strong&gt; na aba Informações do produto - Seção inventário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.EmailRevalidationMessage">
 		<Value>This message template is used when a customer changes an email address in his account. The customer receives a message to confirm an email address used when changing email address.</Value>
@@ -9700,7 +9700,7 @@
 		<Value>A list of external authentication identifiers.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.BackInStockSubscriptions">
-		<Value>Back in stock subscriptions</Value>
+		<Value>Notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.BackInStockSubscriptions.CreatedOn">
 		<Value>Subscribed on</Value>
