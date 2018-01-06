@@ -130,7 +130,7 @@
 		<Value>Username not available</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CompanyDetails">
-		<Value>Company Details</Value>
+		<Value>Dados da Empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses">
 		<Value>Endereços</Value>
@@ -286,7 +286,7 @@
 		<Value>Cidade é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Company">
-		<Value>Company name</Value>
+		<Value>Nome da empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Company.Required">
 		<Value>Nome da empresa é obrigatório</Value>
@@ -346,7 +346,7 @@
 		<Value>Primeiro nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Gender">
-		<Value>Gender</Value>
+		<Value>Sexo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Gender.Female">
 		<Value>Feminino</Value>
@@ -5773,10 +5773,10 @@
 		<Value>Check if 'Fax number' is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.GenderEnabled">
-		<Value>'Gender' enabled</Value>
+		<Value>'Sexo' habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.GenderEnabled.Hint">
-		<Value>Set if 'Gender' is enabled.</Value>
+		<Value>Configure se 'Sexo' está habilitado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideBackInStockSubscriptionsTab">
 		<Value>Hide 'Back in stock subscriptions' tab</Value>
@@ -8245,7 +8245,7 @@
 		<Value>Enter your company address.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.CompanyName">
-		<Value>Company name</Value>
+		<Value>Nome da empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores.Fields.CompanyName.Hint">
 		<Value>Enter your company name.</Value>
@@ -9718,16 +9718,16 @@
 		<Value>A customer in the Vendors role should have a vendor account associated.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.CurrentShoppingCart">
-		<Value>Current shopping cart</Value>
+		<Value>Carrinho de compras atual</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.CurrentWishlist">
-		<Value>Current wishlist</Value>
+		<Value>Lista de desejos atual</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Deleted">
-		<Value>The customer has been deleted successfully.</Value>
+		<Value>O cliente foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.EditCustomerDetails">
-		<Value>Edit customer details</Value>
+		<Value>Editar dados do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Active">
 		<Value>Ativo</Value>
@@ -9736,55 +9736,55 @@
 		<Value>Is this customer's account active. To disable/suspend a customer's account, uncheck this.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do admin</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.AdminComment.Hint">
-		<Value>Admin comment. For internal use.</Value>
+		<Value>Comentário do admin. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate">
-		<Value>Affiliate</Value>
+		<Value>Afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate.Hint">
-		<Value>The affiliate who the customer is linked to.</Value>
+		<Value>O afiliado o qual o cliente está vinculado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate.Remove">
-		<Value>Remove affiliate</Value>
+		<Value>Remover afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City">
 		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City.Hint">
-		<Value>The city.</Value>
+		<Value>A cidade.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City.Required">
-		<Value>City is required</Value>
+		<Value>Cidade é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Company">
-		<Value>Company name</Value>
+		<Value>Nome da empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Company.Hint">
-		<Value>The company name.</Value>
+		<Value>O nome da empresa.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Company.Required">
-		<Value>Company is required.</Value>
+		<Value>Empresa é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Country">
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Country.Hint">
-		<Value>The country.</Value>
+		<Value>O país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn">
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn.Hint">
-		<Value>The date the customer record is created.</Value>
+		<Value>A data em que o registro do cliente foi criado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Funções de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.Hint">
-		<Value>Choose customer roles of this user.</Value>
+		<Value>Escolha as funções de cliente deste usuário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.NoRoles">
 		<Value>No customer roles available. Create at least one customer role before mapping.</Value>
@@ -9793,34 +9793,34 @@
 		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.DateOfBirth.Hint">
-		<Value>The customer's date of birth.</Value>
+		<Value>A data de nascimento do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Email">
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Email.Hint">
-		<Value>The customer's email.</Value>
+		<Value>O email do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Email.Required">
-		<Value>Please provide an email.</Value>
+		<Value>Por favor insira um email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Fax">
 		<Value>Fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Fax.Hint">
-		<Value>The fax.</Value>
+		<Value>O número de fax.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Fax.Required">
-		<Value>Fax is required</Value>
+		<Value>Fax é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.FirstName">
-		<Value>First name</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.FirstName.Hint">
-		<Value>The customer's first name.</Value>
+		<Value>O primeiro nome do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.FirstName.Required">
-		<Value>Please provide a first name.</Value>
+		<Value>Por favor insira o primeiro nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.FullName">
 		<Value>Nome</Value>
@@ -15217,13 +15217,13 @@
 		<Value>Conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.AccountActivation">
-		<Value>Account Activation</Value>
+		<Value>Ativação de conta</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.AllProductTags">
-		<Value>All product tags</Value>
+		<Value>Todas as TAGs de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.BackInStockSubscriptions">
-		<Value>Back in stock subscriptions</Value>
+		<Value>Notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Blog">
 		<Value>Blog</Value>
@@ -15232,19 +15232,19 @@
 		<Value>Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.CompareProducts">
-		<Value>Compare Products</Value>
+		<Value>Comparar Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactUs">
-		<Value>Contact Us</Value>
+		<Value>Contate-nos</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactVendor">
-		<Value>Contact Vendor - {0}</Value>
+		<Value>Entre em contato com o fornecedor - {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.CustomerProductReviews">
-		<Value>My product reviews</Value>
+		<Value>Minhas avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.EmailRevalidation">
-		<Value>Email validation</Value>
+		<Value>Validação de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ForumSubscriptions">
 		<Value>Forum Subscriptions</Value>
@@ -16483,7 +16483,7 @@
 		<Value>Maximum file size is {0} KB</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.MaximumWishlistItems">
-		<Value>The maximum number of distinct products allowed in the wishlist is {0}.</Value>
+		<Value>O número máximo de produtos distintos permitidos na lista de desejos é {0}.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.Items">
 		<Value>{0} item(s)</Value>
@@ -16492,7 +16492,7 @@
 		<Value>Há {0} no seu carrinho.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.NoItems">
-		<Value>Você não tem nenhum item no seu carrinho de compra.</Value>
+		<Value>Você não tem nenhum item no seu carrinho de compras.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Mini.Quantity">
 		<Value>Quantidade</Value>
