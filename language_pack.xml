@@ -2761,7 +2761,7 @@
 		<Value>A value indicating when download links will be enabled.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DownloadExpirationDays">
-		<Value>Number of days</Value>
+		<Value>Número de dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.DownloadExpirationDays.Hint">
 		<Value>The number of days during customers keeps access to the file (e.g. 14). Leave this field blank to allow continuous downloads.</Value>
@@ -4534,22 +4534,22 @@
 		<Value>Send Test Email (save settings first by clicking "Save" button)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.SendTestEmail.Button">
-		<Value>Send test email</Value>
+		<Value>Enviar email de teste</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.SendTestEmail.Success">
-		<Value>Email has been successfully sent.</Value>
+		<Value>O email foi enviado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.Updated">
 		<Value>The email account has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods">
-		<Value>External authentication</Value>
+		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.BackToList">
 		<Value>back to extenal authentication method list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Configure">
-		<Value>Configure</Value>
+		<Value>Configurar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -4561,7 +4561,7 @@
 		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages">
 		<Value>Idiomas</Value>
@@ -5638,7 +5638,7 @@
 		<Value>Default fields</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.ExternalAuthentication">
-		<Value>External authentication</Value>
+		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.Password">
 		<Value>Password and security</Value>
@@ -9685,7 +9685,7 @@
 		<Value>A customer with a vendor associated could not be in "Administrators" role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth">
-		<Value>External authentication</Value>
+		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Fields.AuthMethodName">
 		<Value>Authentication method</Value>
@@ -14629,28 +14629,28 @@
 		<Value>Limit results to previous:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.1day">
-		<Value>1 day</Value>
+		<Value>1 dia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.1month">
-		<Value>1 month</Value>
+		<Value>1 mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.1year">
-		<Value>1 year</Value>
+		<Value>1 ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.2weeks">
-		<Value>2 weeks</Value>
+		<Value>2 semanas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.3months">
-		<Value>3 months</Value>
+		<Value>3 meses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.6months">
-		<Value>6 months</Value>
+		<Value>6 meses</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.7days">
-		<Value>7 days</Value>
+		<Value>7 dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.LimitResultsToPrevious.AllResults">
-		<Value>All results</Value>
+		<Value>Todos os resultados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Search.SearchInForum">
 		<Value>Search in forum:</Value>
@@ -14725,7 +14725,7 @@
 		<Value>Unwatch Topic</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Views">
-		<Value>Views</Value>
+		<Value>Visualizações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Votes">
 		<Value>Votes</Value>
@@ -15268,25 +15268,25 @@
 		<Value>Página não encontrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.PasswordRecovery">
-		<Value>Password Recovery</Value>
+		<Value>Recuperação de Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.PrivateMessages">
-		<Value>Private Messages</Value>
+		<Value>Mensagens Privadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductEmailAFriend">
-		<Value>Email A Friend</Value>
+		<Value>Envar Email para Amigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductReviews">
 		<Value>Product Reviews</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductsByTag">
-		<Value>Products tagged with '{0}'</Value>
+		<Value>Produtos marcados com '{0}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Profile">
-		<Value>Profile</Value>
+		<Value>Perfil</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.RecentlyViewedProducts">
-		<Value>Recently Viewed Products</Value>
+		<Value>Produtos visto recentemente</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Register">
 		<Value>Register</Value>
@@ -15310,10 +15310,10 @@
 		<Value>Mapa do site</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.StoreClosed">
-		<Value>Store closed</Value>
+		<Value>Loja fechada</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.VendorInfo">
-		<Value>Vendor info</Value>
+		<Value>Informações do fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Vendors">
 		<Value>Fornecedores</Value>
@@ -15322,7 +15322,7 @@
 		<Value>Solicite uma conta de fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ViewPM">
-		<Value>View the private message</Value>
+		<Value>Ver as mensagens privadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.Wishlist">
 		<Value>Lista de desejos</Value>
@@ -15346,25 +15346,25 @@
 		<Value>Enter cardholder name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.CardNumber">
-		<Value>Card number</Value>
+		<Value>Número do cartão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.CardNumber.Required">
-		<Value>Enter card number</Value>
+		<Value>Insira o número do cartão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.CardNumber.Wrong">
-		<Value>Wrong card number</Value>
+		<Value>Número do cartão incorreto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.ExpirationDate">
-		<Value>Expiration date</Value>
+		<Value>Data de expiração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.ExpirationDate.Expired">
-		<Value>Card is expired</Value>
+		<Value>O cartão está expirado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.ExpireMonth.Required">
-		<Value>Expire month is required</Value>
+		<Value>Mês de expiração é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.ExpireYear.Required">
-		<Value>Expire year is required</Value>
+		<Value>Ano de expiração é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Payment.SelectCreditCard">
 		<Value>Select credit card</Value>
@@ -15958,7 +15958,7 @@
 		<Value>Click here to be informed automatically when we add new items to our site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.NoAssociatedProducts">
-		<Value>This product is sold out</Value>
+		<Value>Este produto está esgotado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price">
 		<Value>Preço</Value>
@@ -15967,19 +15967,19 @@
 		<Value>Preço antigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.Rental.Days">
-		<Value>{0} per {1} day(s)</Value>
+		<Value>{0} por {1} dia(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.Rental.Months">
-		<Value>{0} per {1} month(s)</Value>
+		<Value>{0} por {1} mês(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.Rental.Weeks">
-		<Value>{0} per {1} week(s)</Value>
+		<Value>{0} por {1} semana(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.Rental.Years">
-		<Value>{0} per {1} year(s)</Value>
+		<Value>{0} por {1} ano(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.RentalPrice">
-		<Value>Rental price</Value>
+		<Value>Preço de aluguel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.TaxShipping.ExclTax">
 		<Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
@@ -15988,19 +15988,19 @@
 		<Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.WithDiscount">
-		<Value>Your price</Value>
+		<Value>Seu preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.PriceRangeFrom">
-		<Value>From {0}</Value>
+		<Value>A partir de {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductAttributes.PriceAdjustment">
 		<Value>{0} [{1}{2}]</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductAttributes.PriceAdjustment.PerItem">
-		<Value> per item</Value>
+		<Value> por item</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductAttributes.PriceAdjustment.Quantity">
-		<Value>Enter quantity:</Value>
+		<Value>Insira a quantidade:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToCompareList">
 		<Value>The product has been added to your product comparison</Value>
@@ -16021,43 +16021,43 @@
 		<Value>The product has been added to your &lt;a href="{0}"&gt;wishlist&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Qty">
-		<Value>Qty</Value>
+		<Value>Qtd</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RecentlyViewedProducts">
 		<Value>Produtos vistos recentemente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RelatedProducts">
-		<Value>Related products</Value>
+		<Value>Produtos relacionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RentalEndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.RentalStartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Sku">
 		<Value>SKU</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Specs">
-		<Value>Products specifications</Value>
+		<Value>Especificações dos produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags">
-		<Value>Product tags</Value>
+		<Value>TAGs do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags.All">
-		<Value>All product tags</Value>
+		<Value>Todas as TAGs do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags.Count">
 		<Value>({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags.Popular">
-		<Value>Popular tags</Value>
+		<Value>TAGs populares</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags.Popular.ViewAll">
-		<Value>View all</Value>
+		<Value>Ver todas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Tags.ProductsTaggedWith">
-		<Value>Products tagged with '{0}'</Value>
+		<Value>Produtos marcados com '{0}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.TierPrices">
 		<Value>PRICE BREAKS - The more you buy, the more you save</Value>
@@ -16081,10 +16081,10 @@
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.DateOfBirth">
-		<Value>Date Of Birth</Value>
+		<Value>Data de Nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.FullName">
-		<Value>Full Name</Value>
+		<Value>Nome Completo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.JoinDate">
 		<Value>Join Date</Value>
