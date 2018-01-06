@@ -244,7 +244,7 @@
 		<Value>Download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.DownloadableProducts">
-		<Value>Downloadable products</Value>
+		<Value>Produtos para download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation">
 		<Value>Validação de email</Value>
@@ -5647,7 +5647,7 @@
 		<Value>Profile</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.TimeZone">
-		<Value>Time zone</Value>
+		<Value>Fuso horário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CheckUsernameAvailabilityEnabled">
 		<Value>Allow customers to check the availability of usernames</Value>
@@ -7159,7 +7159,7 @@
 		<Value>Tabs and display options</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Button">
-		<Value>Settings</Value>
+		<Value>Configurações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CallForPrice">
 		<Value>Orçamento por telefone</Value>
@@ -7180,10 +7180,10 @@
 		<Value>Dimensions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisableBuyButton">
-		<Value>Disable buy button</Value>
+		<Value>Desativar botão comprar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisableWishlistButton">
-		<Value>Disable wishlist button</Value>
+		<Value>Desativar botâo lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Discounts">
 		<Value>Descontos</Value>
@@ -7192,10 +7192,10 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayStockAvailability">
-		<Value>Display availability</Value>
+		<Value>Mostrar disponibilidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayStockQuantity">
-		<Value>Display stock qty</Value>
+		<Value>Mostrar qtd em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DownloadableProduct">
 		<Value>Downloadable product</Value>
@@ -7210,10 +7210,10 @@
 		<Value>ID</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.IsGiftCard">
-		<Value>Is gift card</Value>
+		<Value>É cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.IsRental">
-		<Value>Is rental</Value>
+		<Value>É aluguel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.LowStockActivity">
 		<Value>Low stock activity</Value>
@@ -7225,7 +7225,7 @@
 		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.MarkAsNew">
-		<Value>Mark as new</Value>
+		<Value>Marcar como novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.MarkAsNewEndDate">
 		<Value>Mark as new. End date</Value>
@@ -7246,7 +7246,7 @@
 		<Value>Check fields you want to see on the product details page in the "basic" mode.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ModalTitle">
-		<Value>Settings</Value>
+		<Value>Configurações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.NotifyAdminForQuantityBelow">
 		<Value>Notify for qty below</Value>
@@ -7255,10 +7255,10 @@
 		<Value>Not returnable</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.OldPrice">
-		<Value>Old price</Value>
+		<Value>Preço antigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.OneColumnProductPage">
-		<Value>One column product page</Value>
+		<Value>Página do produto de uma coluna</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.PAngV">
 		<Value>PAngV (base price) enabled</Value>
@@ -7270,13 +7270,13 @@
 		<Value>Product availability range</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductCost">
-		<Value>Product cost</Value>
+		<Value>Custo do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductTags">
-		<Value>Product tags</Value>
+		<Value>TAG de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductTemplate">
-		<Value>Product template</Value>
+		<Value>Modelo do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductType">
 		<Value>Tipo de produto</Value>
@@ -8182,7 +8182,7 @@
 		<Value>Edit warehouse details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.Address">
-		<Value>Address</Value>
+		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.AdminComment">
 		<Value>Admin comment</Value>
@@ -9826,46 +9826,46 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Gender">
-		<Value>Gender</Value>
+		<Value>Sexo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Gender.Female">
-		<Value>Female</Value>
+		<Value>Feminino</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Gender.Hint">
-		<Value>The customer's gender.</Value>
+		<Value>O sexo do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Gender.Male">
-		<Value>Male</Value>
+		<Value>Masculino</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.IPAddress">
-		<Value>IP Address</Value>
+		<Value>Endereço IP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.IPAddress.Hint">
-		<Value>The last used IP address.</Value>
+		<Value>O último endereço IP usado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.IsTaxExempt">
-		<Value>Is tax exempt</Value>
+		<Value>É isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.IsTaxExempt.Hint">
 		<Value>Determines whether the customer is tax exempt.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastActivityDate">
-		<Value>Last activity</Value>
+		<Value>Última atividade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastActivityDate.Hint">
-		<Value>The last activity date.</Value>
+		<Value>A última data de atividade.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastName">
-		<Value>Last name</Value>
+		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastName.Hint">
-		<Value>The customer's last name.</Value>
+		<Value>O sobrenome do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastName.Required">
 		<Value>Please provide a last name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastVisitedPage">
-		<Value>Last visited page</Value>
+		<Value>Última página visitada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastVisitedPage.Hint">
 		<Value>The last visited date (public store).</Value>
@@ -9874,43 +9874,43 @@
 		<Value>Newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Newsletter.Hint">
-		<Value>Check to subscribe to newsletter.</Value>
+		<Value>Marque para assinar a newsletter.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Password">
 		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Password.Change">
-		<Value>Change password</Value>
+		<Value>Mudar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Password.Hint">
-		<Value>The customer's password.</Value>
+		<Value>A senha do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Phone">
-		<Value>Phone</Value>
+		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Phone.Hint">
-		<Value>The phone.</Value>
+		<Value>O telefone.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Phone.Required">
-		<Value>Phone is required</Value>
+		<Value>Telefone é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.RegisteredInStore">
-		<Value>Registered in the store</Value>
+		<Value>Registrado na loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.RegisteredInStore.Hint">
 		<Value>Indicating in which store the customer is registered</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StateProvince.Hint">
-		<Value>The state / province.</Value>
+		<Value>O estado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress">
-		<Value>Address</Value>
+		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress.Hint">
-		<Value>The address.</Value>
+		<Value>O endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress.Required">
 		<Value>Street address is required</Value>
@@ -9925,22 +9925,22 @@
 		<Value>Street address 2 is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.SystemName.Hint">
 		<Value>The system name of the customer role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.TimeZoneId">
-		<Value>Time zone</Value>
+		<Value>Fuso horário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.TimeZoneId.Hint">
-		<Value>The time zone.</Value>
+		<Value>O fuso horário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username">
-		<Value>Username</Value>
+		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Hint">
-		<Value>The customer's username.</Value>
+		<Value>O nome de usuário do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Required">
 		<Value>Please provide a username.</Value>
@@ -9970,13 +9970,13 @@
 		<Value>Not a vendor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode">
-		<Value>Zip / postal code</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode.Hint">
-		<Value>The zip / postal code.</Value>
+		<Value>O CEP.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode.Required">
-		<Value>Zip / postal code is required</Value>
+		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.GuestsAndRegisteredRolesError">
 		<Value>The customer cannot be in both 'Guests' and 'Registered' customer roles</Value>
@@ -9985,7 +9985,7 @@
 		<Value>Place order (impersonate)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Impersonate.Button">
-		<Value>Place order</Value>
+		<Value>Fazer pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Impersonate.Description1">
 		<Value>During the order placement process, you will see almost exactly what the customer would see while browsing this site, with the exception of the header menu (you will see the following text 'Impersonated as customer@email.here - finish session'). Navigate to the products the customer wants and add them to the cart exactly as the customer would, then use the 'Checkout' button to proceed through the usual checkout process.</Value>
@@ -9994,7 +9994,7 @@
 		<Value>Note: Click 'finish session' link in order to finish this session</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Info">
-		<Value>Customer info</Value>
+		<Value>Informação do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles">
 		<Value>Customer roles</Value>
@@ -10051,7 +10051,7 @@
 		<Value>Search by a phone number.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername">
-		<Value>Username</Value>
+		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername.Hint">
 		<Value>Search by a specific username.</Value>
@@ -11386,7 +11386,7 @@
 		<Value>The start date (shipment creation date) for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StateProvince">
-		<Value>State / province</Value>
+		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StateProvince.Hint">
 		<Value>Search by a specific state.</Value>
@@ -13408,22 +13408,22 @@
 		<Value>Subscriptions are not allowed for this product</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.NotifyMe">
-		<Value>Notify me</Value>
+		<Value>Notificar-me</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.NotifyMeWhenAvailable">
-		<Value>Notify me when available</Value>
+		<Value>Avise-me quando estiver disponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.OnlyRegistered">
-		<Value>Only registered customers can use this feature</Value>
+		<Value>Somente clientes registrados podem usar esta funcionalidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.PopupTitle">
-		<Value>Receive an email when this arrives in stock</Value>
+		<Value>Receber um email quanto este produto chegar no estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.Tooltip">
-		<Value>You'll receive a onetime e-mail when this product is available for ordering again. We will not send you any other e-mails or add you to our newsletter; you will only be e-mailed about this product!</Value>
+		<Value>Você irá receber um email único quando este produto estiver disponível para compra novamente. Não enviaremos nenhum outro email ou adicionaremos você à nossa newsletter; você receberá e-mails somente sobre este produto!</Value>
 	</LocaleResource>
 	<LocaleResource Name="BackInStockSubscriptions.Unsubscribe">
-		<Value>Unsubscribe</Value>
+		<Value>Cancelar assinatura</Value>
 	</LocaleResource>
 	<LocaleResource Name="Bestsellers">
 		<Value>Bestsellers</Value>
@@ -13432,49 +13432,49 @@
 		<Value>Blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Archive">
-		<Value>Blog archive</Value>
+		<Value>Arquivo do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments">
-		<Value>Comments</Value>
+		<Value>Comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.CommentText">
-		<Value>Comment</Value>
+		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.CommentText.Required">
-		<Value>Enter comment</Value>
+		<Value>Insira comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.CreatedOn">
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.LeaveYourComment">
-		<Value>Leave your comment</Value>
+		<Value>Deixe seu comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.OnlyRegisteredUsersLeaveComments">
-		<Value>Only registered users can leave comments.</Value>
+		<Value>Somente usuários registrados podem deixar comentários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SeeAfterApproving">
 		<Value>Blog comment is successfully added. You will see it after approving by a store administrator.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SubmitButton">
-		<Value>New comment</Value>
+		<Value>Novo comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SuccessfullyAdded">
 		<Value>Blog comment is successfully added.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.CommentsLink">
-		<Value>Comments ({0:d})</Value>
+		<Value>Comentários ({0:d})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.FilteredByMonth">
 		<Value>Blog posts of '{0}' '{1}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.MoreInfo">
-		<Value>details</Value>
+		<Value>detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.RSS">
 		<Value>RSS</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.RSS.Hint">
-		<Value>Click here to be informed automatically when we add new items to our site.</Value>
+		<Value>Clique aqui para ser informado automaticamente quando adicionarmos novos itens no nosso site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.TagCloud">
 		<Value>Popular blog tags</Value>
@@ -13489,7 +13489,7 @@
 		<Value>Ordernar por</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.PageSize">
-		<Value>Display</Value>
+		<Value>Mostrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.PageSize.PerPage">
 		<Value>por página</Value>
@@ -13507,7 +13507,7 @@
 		<Value>Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Categories.Breadcrumb.Top">
-		<Value>Home</Value>
+		<Value>Início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Categories.TotalProducts">
 		<Value>({0})</Value>
@@ -13516,7 +13516,7 @@
 		<Value>Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.BillingAddress">
-		<Value>Billing address</Value>
+		<Value>Endereço de cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.BillToThisAddress">
 		<Value>Bill to this address</Value>
@@ -13555,16 +13555,16 @@
 		<Value>Próximo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.NoPaymentMethods">
-		<Value>No payment methods available</Value>
+		<Value>Nenhuma forma de pagamento disponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.OrderNumber">
 		<Value>Número do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.OrderSummary">
-		<Value>Order summary</Value>
+		<Value>Resumo do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.OrEnterNewAddress">
-		<Value>Or enter new address</Value>
+		<Value>Ou insira um novo endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.PaymentError">
 		<Value>Erro de pagamento: {0}</Value>
@@ -13588,7 +13588,7 @@
 		<Value>Pickup points could not be loaded</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.PickupPoints.SelectPickupPoint">
-		<Value>Select pickup point</Value>
+		<Value>Selecione o local de retirada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.PlacedOrderDetails">
 		<Value>Clique aqui para ver os detalhes do pedido.</Value>
@@ -13597,13 +13597,13 @@
 		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Progress.Cart">
-		<Value>Cart</Value>
+		<Value>Carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Progress.Complete">
-		<Value>Complete</Value>
+		<Value>Completar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Progress.Confirm">
-		<Value>Confirm</Value>
+		<Value>Confirmar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Progress.Payment">
 		<Value>Pagamento</Value>
@@ -13612,7 +13612,7 @@
 		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectBillingAddress">
-		<Value>Select billing address</Value>
+		<Value>Selecione endereço de cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectBillingAddressOrEnterNewOne">
 		<Value>Select a billing address from your address book or enter a new address.</Value>
@@ -13624,25 +13624,25 @@
 		<Value>{0} ({1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingAddress">
-		<Value>Select shipping address</Value>
+		<Value>Selecione endereço de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingAddressOrEnterNewOne">
 		<Value>Select a shipping address from your address book or enter a new address.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingMethod">
-		<Value>Select shipping method</Value>
+		<Value>Selecione forma de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingMethod.MethodAndFee">
 		<Value>{0} ({1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShippingAddress">
-		<Value>Shipping address</Value>
+		<Value>Endereço de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShippingIsNotAllowed">
 		<Value>Shipping is not allowed</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShippingMethod">
-		<Value>Shipping method</Value>
+		<Value>Forma de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShippingMethod.ShippingFromMultipleLocations">
 		<Value>Please note that your order will be shipped from multiple locations</Value>
@@ -13651,7 +13651,7 @@
 		<Value>Shipping options could not be loaded</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShipToSameAddress">
-		<Value>Ship to the same address</Value>
+		<Value>Enviar para o mesmo endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ShipToThisAddress">
 		<Value>Ship to this address</Value>
@@ -13660,7 +13660,7 @@
 		<Value>Submitting order information...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.TermsOfService">
-		<Value>Terms of service</Value>
+		<Value>Termos de serviço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.TermsOfService.IAccept">
 		<Value>I agree with the terms of service and I adhere to them unconditionally</Value>
@@ -13687,7 +13687,7 @@
 		<Value>Adicionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.AreYouSure">
 		<Value>Você tem certeza?</Value>
@@ -15964,7 +15964,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.OldPrice">
-		<Value>Old price</Value>
+		<Value>Preço antigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Price.Rental.Days">
 		<Value>{0} per {1} day(s)</Value>
@@ -16282,7 +16282,7 @@
 		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.AdvancedSearch">
-		<Value>Advanced search</Value>
+		<Value>Busca avançada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.Button">
 		<Value>Buscar</Value>
@@ -16300,25 +16300,25 @@
 		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.NoResultsText">
-		<Value>No products were found that matched your criteria.</Value>
+		<Value>Nenhum produto foi encontrado que correspondem ao seu critério.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.PriceRange">
-		<Value>Price range</Value>
+		<Value>Faixa de preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.PriceRange.From">
-		<Value>De</Value>
+		<Value>A partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.PriceRange.To">
-		<Value>to</Value>
+		<Value>a</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchBox.Tooltip">
-		<Value>Pesquisar</Value>
+		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchInDescriptions">
-		<Value>Pesquisar nas descrições dos produtos</Value>
+		<Value>Buscar nas descrições dos produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTerm">
-		<Value>Pesquisar palavra-chave</Value>
+		<Value>Buscar por palavra-chave</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTermMinimumLengthIsNCharacters">
 		<Value>O tamanho mínimo da pesquisa é de {0} caracteres</Value>
@@ -16330,7 +16330,7 @@
 		<Value>Carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart">
-		<Value>Adicionar</Value>
+		<Value>Comprar</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart.Update">
 		<Value>Atualizar</Value>
