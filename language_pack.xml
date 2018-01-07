@@ -15073,13 +15073,13 @@
 		<Value>{0} reward points</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments">
-		<Value>Shipments</Value>
+		<Value>Envios</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.DeliveryDate">
-		<Value>Date delivered</Value>
+		<Value>Data de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.DeliveryDate.NotYet">
-		<Value>Not yet</Value>
+		<Value>Ainda não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Email">
 		<Value>Email</Value>
@@ -15088,10 +15088,10 @@
 		<Value>Fax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ID">
-		<Value>Shipment #</Value>
+		<Value>Envio #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Information">
-		<Value>Shipment #{0}</Value>
+		<Value>Envio #{0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Order#">
 		<Value>Pedido #</Value>
@@ -15103,31 +15103,31 @@
 		<Value>Pickup point address</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s)">
-		<Value>Shipped product(s)</Value>
+		<Value>Produto(s) enviados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s).Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s).Quantity">
-		<Value>Qty shipped</Value>
+		<Value>Qtd enviado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Product(s).SKU">
 		<Value>SKU</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ShippedDate">
-		<Value>Date shipped</Value>
+		<Value>Data de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ShippedDate.NotYet">
-		<Value>Not yet</Value>
+		<Value>Ainda não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ShippingAddress">
-		<Value>Shipping Address</Value>
+		<Value>Endereço de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ShippingMethod">
-		<Value>Shipping Method</Value>
+		<Value>Forma de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.TrackingNumber">
-		<Value>Tracking number</Value>
+		<Value>Número de rastreamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ViewDetails">
 		<Value>Ver detalhes</Value>
@@ -15142,22 +15142,22 @@
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Event">
-		<Value>Event</Value>
+		<Value>Evento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Location">
-		<Value>Location</Value>
+		<Value>Localização</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipping">
 		<Value>Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipping.Name">
-		<Value>Shipping Method</Value>
+		<Value>Forma de Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipping.Status">
-		<Value>Shipping Status</Value>
+		<Value>Status de Envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShippingAddress">
-		<Value>Shipping Address</Value>
+		<Value>Endereço de Entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.SubTotal">
 		<Value>Sub-Total</Value>
