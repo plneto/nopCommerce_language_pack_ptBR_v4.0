@@ -5293,13 +5293,13 @@
 		<Value>The number of best sellers on home page to display when 'Show best sellers on home page' option is enabled.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfProductTags">
-		<Value>Number of product tags (cloud)</Value>
+		<Value>Número de TAGs de produto (núvem)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfProductTags.Hint">
-		<Value>The number of product tags that appear in the tag cloud.</Value>
+		<Value>O número de TAGs de produto que aparecem na núvem de TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.PageShareCode">
-		<Value>Share button code</Value>
+		<Value>Código do botão compartilhar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.PageShareCode.Hint">
 		<Value>A page share button code. By default, we're using AddThis service.</Value>
@@ -6553,10 +6553,10 @@
 		<Value>Check if you want to include products in sitemap.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeProductTags">
-		<Value>Sitemap includes product tags</Value>
+		<Value>Mapa do site inclui TAGs de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeProductTags.Hint">
-		<Value>Check if you want to include product tags in sitemap.</Value>
+		<Value>Marque se você quiser incluir as TAGs de produto no mapa to site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreClosed">
 		<Value>Loja fechada</Value>
@@ -15526,7 +15526,7 @@
 		<Value>Plugins. Access Web Service</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.AllowCustomerImpersonation">
-		<Value>Admin area. Allow Customer Impersonation</Value>
+		<Value>Área de administração. Allow Customer Impersonation</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.DisplayPrices">
 		<Value>Public store. Display Prices</Value>
@@ -15538,148 +15538,148 @@
 		<Value>Public store. Enable wishlist</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.HtmlEditor.ManagePictures">
-		<Value>Admin area. HTML Editor. Manage pictures</Value>
+		<Value>Área de administração. HTML Editor. Manage pictures</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageACL">
-		<Value>Admin area. Manage ACL</Value>
+		<Value>Área de administração. Manage ACL</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageActivityLog">
-		<Value>Admin area. Manage Activity Log</Value>
+		<Value>Área de administração. Manage Activity Log</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageAffiliates">
-		<Value>Admin area. Manage Affiliates</Value>
+		<Value>Área de administração. Manage Affiliates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageAttributes">
-		<Value>Admin area. Manage Attributes</Value>
+		<Value>Área de administração. Manage Attributes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageBlog">
-		<Value>Admin area. Manage Blog</Value>
+		<Value>Área de administração. Manage Blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCampaigns">
-		<Value>Admin area. Manage Campaigns</Value>
+		<Value>Área de administração. Manage Campaigns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCategories">
-		<Value>Admin area. Manage Categories</Value>
+		<Value>Área de administração. Manage Categories</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCountries">
-		<Value>Admin area. Manage Countries</Value>
+		<Value>Área de administração. Manage Countries</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrencies">
-		<Value>Admin area. Manage Currencies</Value>
+		<Value>Área de administração. Manage Currencies</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrentCarts">
-		<Value>Admin area. Manage Current Carts</Value>
+		<Value>Área de administração. Manage Current Carts</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCustomers">
-		<Value>Admin area. Manage Customers</Value>
+		<Value>Área de administração. Manage Customers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageDiscounts">
-		<Value>Admin area. Manage Discounts</Value>
+		<Value>Área de administração. Manage Discounts</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageEmailAccounts">
-		<Value>Admin area. Manage Email Accounts</Value>
+		<Value>Área de administração. Manage Email Accounts</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageExternalAuthenticationMethods">
-		<Value>Admin area. Manage External Authentication Methods</Value>
+		<Value>Área de administração. Manage External Authentication Methods</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageForums">
-		<Value>Admin area. Manage Forums</Value>
+		<Value>Área de administração. Manage Forums</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageGiftCards">
-		<Value>Admin area. Manage Gift Cards</Value>
+		<Value>Área de administração. Manage Gift Cards</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageLanguages">
-		<Value>Admin area. Manage Languages</Value>
+		<Value>Área de administração. Manage Languages</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageMaintenance">
-		<Value>Admin area. Manage Maintenance</Value>
+		<Value>Área de administração. Manage Maintenance</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageManufacturers">
-		<Value>Admin area. Manage Manufacturers</Value>
+		<Value>Área de administração. Manage Manufacturers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageMessageQueue">
-		<Value>Admin area. Manage Message Queue</Value>
+		<Value>Área de administração. Manage Message Queue</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageMessageTemplates">
-		<Value>Admin area. Manage Message Templates</Value>
+		<Value>Área de administração. Manage Message Templates</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageNews">
-		<Value>Admin area. Manage News</Value>
+		<Value>Área de administração. Manage News</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageNewsletterSubscribers">
-		<Value>Admin area. Manage Newsletter Subscribers</Value>
+		<Value>Área de administração. Manage Newsletter Subscribers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageOrders">
-		<Value>Admin area. Manage Orders</Value>
+		<Value>Área de administração. Manage Orders</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManagePaymentMethods">
-		<Value>Admin area. Manage Payment Methods</Value>
+		<Value>Área de administração. Manage Payment Methods</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManagePlugins">
-		<Value>Admin area. Manage Plugins</Value>
+		<Value>Área de administração. Manage Plugins</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManagePolls">
-		<Value>Admin area. Manage Polls</Value>
+		<Value>Área de administração. Manage Polls</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProductReviews">
-		<Value>Admin area. Manage Product Reviews</Value>
+		<Value>Área de administração. Manage Product Reviews</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProducts">
-		<Value>Admin area. Manage Products</Value>
+		<Value>Área de administração. Manage Products</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProductTags">
-		<Value>Admin area. Manage Product Tags</Value>
+		<Value>Área de administração. Gerenciar TAGs de Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageRecurringPayments">
-		<Value>Admin area. Manage Recurring Payments</Value>
+		<Value>Área de administração. Manage Recurring Payments</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageReturnRequests">
-		<Value>Admin area. Manage Return Requests</Value>
+		<Value>Área de administração. Manage Return Requests</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageScheduleTasks">
-		<Value>Admin area. Manage Schedule Tasks</Value>
+		<Value>Área de administração. Manage Schedule Tasks</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageSettings">
-		<Value>Admin area. Manage Settings</Value>
+		<Value>Área de administração. Manage Settings</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageShippingSettings">
-		<Value>Admin area. Manage Shipping Settings</Value>
+		<Value>Área de administração. Manage Shipping Settings</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageStores">
-		<Value>Admin area. Manage Stores</Value>
+		<Value>Área de administração. Manage Stores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageSystemLog">
-		<Value>Admin area. Manage System Log</Value>
+		<Value>Área de administração. Manage System Log</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageTaxSettings">
-		<Value>Admin area. Manage Tax Settings</Value>
+		<Value>Área de administração. Manage Tax Settings</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageTopics">
-		<Value>Admin area. Manage Topics</Value>
+		<Value>Área de administração. Gerenciar Tópicos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageVendors">
-		<Value>Admin area. Manage Vendors</Value>
+		<Value>Área de administração. Gerenciar Fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageWidgets">
-		<Value>Admin area. Manage Widgets</Value>
+		<Value>Área de administração. Gerenciar Widgets</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.OrderCountryReport">
-		<Value>Admin area. Access order country report</Value>
+		<Value>Área de administração. Access order country report</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.PublicStoreAllowNavigation">
-		<Value>Public store. Allow navigation</Value>
+		<Value>Loja pública. Permitir navegação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.OnlyRegisteredUsersVote">
-		<Value>Only registered users can vote.</Value>
+		<Value>Somente usuários registrados podem votar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.SelectAnswer">
-		<Value>Please select an answer</Value>
+		<Value>Por favor selecione uma resposta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.Title">
 		<Value>Community poll</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.TotalVotes">
-		<Value>{0} vote(s)...</Value>
+		<Value>{0} voto(s)...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.Vote">
 		<Value>Vote</Value>
@@ -15694,13 +15694,13 @@
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.FromColumn">
 		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.MarkAsUnread">
-		<Value>Mark selected as unread</Value>
+		<Value>Marcar selecionado como não lido</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.SubjectColumn">
 		<Value>Assunto</Value>
@@ -15709,124 +15709,124 @@
 		<Value>To</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.MessageCannotBeEmpty">
-		<Value>Message cannot be empty</Value>
+		<Value>A message não pode ficar vazia</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.PM">
 		<Value>PM</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.PrivateMessages">
-		<Value>Private Messages</Value>
+		<Value>Mensagens Privadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.CancelButton">
 		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.Message">
-		<Value>Message:</Value>
+		<Value>Mensagem:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.PostMessage">
 		<Value>Post a Private Message</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.SendButton">
-		<Value>Send</Value>
+		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.Subject">
-		<Value>Subject:</Value>
+		<Value>Assunto:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.Subject.Required">
-		<Value>Subject is required.</Value>
+		<Value>Assunto é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Send.To">
-		<Value>To:</Value>
+		<Value>Para:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.DateColumn">
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.SubjectColumn">
 		<Value>Assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.ToColumn">
-		<Value>To</Value>
+		<Value>Para</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.SentItems">
-		<Value>Sent Items</Value>
+		<Value>Itens Enviados</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.SubjectCannotBeEmpty">
 		<Value>Subject cannot be empty</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.TotalUnread">
-		<Value>({0} Unread)</Value>
+		<Value>({0} Não lidas)</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.BackButton">
-		<Value>Back to messages</Value>
+		<Value>Voltar à mensagens</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.DeleteButton">
 		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.From">
-		<Value>From:</Value>
+		<Value>De:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.ReplyButton">
-		<Value>Reply</Value>
+		<Value>Responder</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.Subject">
-		<Value>Subject:</Value>
+		<Value>Assunto:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.To">
-		<Value>To:</Value>
+		<Value>Para:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.ViewMessage">
-		<Value>View Message</Value>
+		<Value>Ver Mensagens</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.YouHaveUnreadPM">
-		<Value>You have {0} unread message(s) in your Inbox</Value>
+		<Value>Você tem {0} mensagem(ns) não lida(s) na sua Caixa de Entrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="ProductAttributes.Quantity">
-		<Value> - quantity {0}</Value>
+		<Value> - quantidade {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.AlsoPurchased">
-		<Value>Customers who bought this item also bought</Value>
+		<Value>Clientes que compraram este produto também compraram</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability">
 		<Value>Disponibilidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.AvailabilityRange">
-		<Value>Available in {0}</Value>
+		<Value>Disponível em {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.Backordering">
-		<Value>Out of Stock - on backorder and will be dispatched once in stock.</Value>
+		<Value>Fora de estoque - on backorder and will be dispatched once in stock.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.BackorderingWithDate">
-		<Value>Out of stock - on backorder and will be dispatched once in stock ({0}).</Value>
+		<Value>Fora de estoque - on backorder and will be dispatched once in stock ({0}).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.InStock">
-		<Value>In stock</Value>
+		<Value>Em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.InStockWithQuantity">
-		<Value>{0} in stock</Value>
+		<Value>{0} em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Availability.OutOfStock">
-		<Value>Out of stock</Value>
+		<Value>Fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.BasePrice">
 		<Value>equates to {0} per {1} {2}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Breadcrumb.Top">
-		<Value>Home</Value>
+		<Value>Início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.CallForPrice">
 		<Value>Orçamento por telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare">
-		<Value>Compare products</Value>
+		<Value>Comparar produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.AddToCompareList">
 		<Value>Adicionar à lista de comparação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.Clear">
-		<Value>Clear list</Value>
+		<Value>Limpar lista</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Compare.FullDescription">
 		<Value>Descrição completa</Value>
@@ -15862,34 +15862,34 @@
 		<Value>Download sample</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend">
-		<Value>Email a friend</Value>
+		<Value>Envie um e-mail para um amigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.Button">
 		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail">
-		<Value>Friend's email</Value>
+		<Value>Email do amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail.Hint">
-		<Value>Enter friend's email.</Value>
+		<Value>Insira o email do amigo(a).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail.Required">
-		<Value>Enter friend's email</Value>
+		<Value>Insira o email do amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.OnlyRegisteredUsers">
-		<Value>Only registered customers can use email a friend feature</Value>
+		<Value>Somente clientes registrados podem usar a funcionalidade "Envie um e-mail para um amigo"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.PersonalMessage">
-		<Value>Personal message</Value>
+		<Value>Mensagem Pessoal</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.PersonalMessage.Hint">
-		<Value>Enter personal message (optional).</Value>
+		<Value>Insira uma mensagem pessoal (opcional).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.SuccessfullySent">
-		<Value>Your message has been sent.</Value>
+		<Value>Sua mensagem foi enviada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.Title">
-		<Value>Email a friend</Value>
+		<Value>Envie um e-mail para um amigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.YourEmailAddress">
 		<Value>Seu endereço de email</Value>
@@ -15904,10 +15904,10 @@
 		<Value>Por favor insira seu preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EnterProductPrice.Range">
-		<Value>The price must be from {0} to {1}</Value>
+		<Value>O preço deve ser de {0} a {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ExclTaxSuffix">
-		<Value>{0} excl tax</Value>
+		<Value>{0} excl imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.FeaturedProducts">
 		<Value>Produtos em destaque</Value>
@@ -15919,10 +15919,10 @@
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.RecipientEmail">
-		<Value>Recipient's Email</Value>
+		<Value>Email do Destinatário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.RecipientName">
-		<Value>Recipient's Name</Value>
+		<Value>Nome do Destinatário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.GiftCard.SenderEmail">
 		<Value>Seu Email</Value>
@@ -15955,7 +15955,7 @@
 		<Value>RSS</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.NewProducts.RSS.Hint">
-		<Value>Click here to be informed automatically when we add new items to our site.</Value>
+		<Value>Clique aqui para ser informado automaticamente quando adicionarmos novos produtos ao nosso site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.NoAssociatedProducts">
 		<Value>Este produto está esgotado</Value>
@@ -16003,22 +16003,22 @@
 		<Value>Insira a quantidade:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToCompareList">
-		<Value>The product has been added to your product comparison</Value>
+		<Value>O produto foi adicionado à sua comparação de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToCompareList.Link">
-		<Value>The product has been added to your &lt;a href="{0}"&gt;product comparison&lt;/a&gt;</Value>
+		<Value>O produto foi adicionado à sua &lt;a href="{0}"&gt;comparação de produtos&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToTheCart">
-		<Value>The product has been added to your shopping cart</Value>
+		<Value>O produto foi adicionado ao seu carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToTheCart.Link">
-		<Value>The product has been added to your &lt;a href="{0}"&gt;shopping cart&lt;/a&gt;</Value>
+		<Value>O produto foi adicionado ao seu &lt;a href="{0}"&gt;carrinho de compras&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToTheWishlist">
-		<Value>The product has been added to your wishlist</Value>
+		<Value>O produto foi adicionado à sua lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.ProductHasBeenAddedToTheWishlist.Link">
-		<Value>The product has been added to your &lt;a href="{0}"&gt;wishlist&lt;/a&gt;</Value>
+		<Value>O produto foi adicionado à sua &lt;a href="{0}"&gt;lista de desejos&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Qty">
 		<Value>Qtd</Value>
@@ -16090,10 +16090,10 @@
 		<Value>Join Date</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.LatestPosts">
-		<Value>Latest Posts</Value>
+		<Value>Últimas Postagens</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.LatestPosts.NoPosts">
-		<Value>No posts found</Value>
+		<Value>Nenhuma postagem encontrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.PersonalInfo">
 		<Value>Profile Info</Value>
@@ -16102,19 +16102,19 @@
 		<Value>Posted</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.ProfileOf">
-		<Value>Profile: {0}</Value>
+		<Value>Perfil: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.Statistics">
-		<Value>Statistics</Value>
+		<Value>Estatísticas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.Topic">
-		<Value>Topic</Value>
+		<Value>Tópico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Profile.TotalPosts">
 		<Value>Total Posts</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Comments">
-		<Value>Comments</Value>
+		<Value>Comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.NoItemsSubmitted">
 		<Value>Your return request has not been submitted because you haven't chosen any items.</Value>
@@ -16123,7 +16123,7 @@
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Products.Price">
-		<Value>Unit price</Value>
+		<Value>Preço unitário</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Products.Quantity">
 		<Value>Qty. to return</Value>
@@ -16135,7 +16135,7 @@
 		<Value>Return reason</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.SelectProduct(s)">
-		<Value>Which items do you want to return?</Value>
+		<Value>Quais itens você quer devolver?</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Submit">
 		<Value>Submit return request</Value>
@@ -16153,22 +16153,22 @@
 		<Value>Why are you returning these items?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews">
-		<Value>Reviews</Value>
+		<Value>Avaliações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Date">
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.ExistingReviews">
-		<Value>Existing reviews</Value>
+		<Value>Avaliações existentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Rating">
 		<Value>Rating</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Rating.Bad">
-		<Value>Bad</Value>
+		<Value>Ruim</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Rating.Excellent">
-		<Value>Excellent</Value>
+		<Value>Excelente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.ReviewText">
 		<Value>Review text</Value>
@@ -16177,40 +16177,40 @@
 		<Value>Review text is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title">
-		<Value>Review title</Value>
+		<Value>Título da avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.MaxLengthValidation">
 		<Value>Max length of product review title is {0} chars</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.Required">
-		<Value>Review title is required.</Value>
+		<Value>Título da avaliação é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.From">
 		<Value>De</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Helpfulness.OnlyRegistered">
-		<Value>Only registered customers can set review helpfulness</Value>
+		<Value>Somente clientes registrados podem escolher a utilidade da avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Helpfulness.SuccessfullyVoted">
-		<Value>Successfully voted</Value>
+		<Value>Votado com sucesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Helpfulness.WasHelpful?">
-		<Value>Was this review helpful?</Value>
+		<Value>Esta avaliação foi útil?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Helpfulness.YourOwnReview">
-		<Value>You cannot vote for your own review</Value>
+		<Value>Você não pode votar na sua própria avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.OnlyRegisteredUsersCanWriteReviews">
-		<Value>Only registered users can write reviews</Value>
+		<Value>Somente usuários registrados podem escrever avaliações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Overview.AddNew">
-		<Value>Add your review</Value>
+		<Value>Adicione sua avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Overview.First">
-		<Value>Be the first to review this product</Value>
+		<Value>Seja o primeiro a avaliar este produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Overview.Reviews">
-		<Value>review(s)</Value>
+		<Value>avaliação(ões)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.ProductReviewPossibleOnlyAfterPurchasing">
 		<Value>Product can be reviewed only after purchasing it</Value>
@@ -16225,16 +16225,16 @@
 		<Value>You will see the product review after approving by a store administrator.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SubmitButton">
-		<Value>Submit review</Value>
+		<Value>Enviar avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SuccessfullyAdded">
 		<Value>Product review is successfully added.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.TotalReviews">
-		<Value>{0} review(s)</Value>
+		<Value>{0} avaliação(ões)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Write">
-		<Value>Write your own review</Value>
+		<Value>Escreva sua própria avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.ActivatedLater">
 		<Value>The points will be activated on {0}</Value>
