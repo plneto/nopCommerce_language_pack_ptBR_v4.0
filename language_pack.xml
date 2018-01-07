@@ -1021,7 +1021,7 @@
 		<Value>Started customer impersonation (Email: {0}, ID = {1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.ImportCategories">
-		<Value>{0} categories were imported</Value>
+		<Value>{0} categorias foram importadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.ImportManufacturers">
 		<Value>{0} fabricantes foram importados</Value>
@@ -1030,7 +1030,7 @@
 		<Value>{0} produtos foram importados</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.ImportStates">
-		<Value>{0} states and provinces were imported</Value>
+		<Value>{0} estados foram importados</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.InstallNewPlugin">
 		<Value>Installed a new plugin (FriendlyName: '{0}')</Value>
@@ -1042,16 +1042,16 @@
 		<Value>Added a news comment</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
-		<Value>Added a product review ('{0}')</Value>
+		<Value>Adicionou uma avaliação de produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddToCompareList">
-		<Value>Added a product to compare list ('{0}')</Value>
+		<Value>Adicionou um produto à lista de comparação ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddToShoppingCart">
-		<Value>Added a product to shopping cart ('{0}')</Value>
+		<Value>Adicionou um produto ao carrinho de compras ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddToWishlist">
-		<Value>Added a product to wishlist ('{0}')</Value>
+		<Value>Adicionou um produto à lista de desejos ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ContactUs">
 		<Value>Used contact us form</Value>
@@ -1069,13 +1069,13 @@
 		<Value>Sent PM to customer ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewCategory">
-		<Value>Public store. Viewed a category details page ('{0}')</Value>
+		<Value>Loja pública. Viewed a category details page ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewManufacturer">
-		<Value>Public store. Viewed a manufacturer details page ('{0}')</Value>
+		<Value>Loja pública. Viewed a manufacturer details page ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewProduct">
-		<Value>Public store. Viewed a product details page ('{0}')</Value>
+		<Value>Loja pública. Viewed a product details page ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.UninstallPlugin">
 		<Value>Uninstalled a plugin (FriendlyName: '{0}')</Value>
@@ -1387,7 +1387,7 @@
 		<Value>Selecione o estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates">
-		<Value>Affiliates</Value>
+		<Value>Afiliados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Added">
 		<Value>The new affiliate has been added successfully.</Value>
@@ -2566,7 +2566,7 @@
 		<Value>O número máximo de produtos permitidos foi excedido ({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AclCustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AclCustomerRoles.Hint">
 		<Value>Choose one or several customer roles i.e. administrators, vendors, guests, who will be able to see this product in catalog. If you don't need this option just leave this field empty. In order to use this functionality you have to disable the following setting: Configuration &gt; Catalog settings &gt; Ignore ACL rules (sitewide).</Value>
@@ -4045,7 +4045,7 @@
 		<Value>Please upload a file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.View">
-		<Value>View</Value>
+		<Value>Ver</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.WrongEmail">
 		<Value>Wrong email</Value>
@@ -4072,10 +4072,10 @@
 		<Value>The ACL has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog">
-		<Value>Activity Log</Value>
+		<Value>Log de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog">
-		<Value>Activity Log</Value>
+		<Value>Log de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.ActivityLogType">
 		<Value>Activity Log Type</Value>
@@ -4114,7 +4114,7 @@
 		<Value>A customer Email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLogType">
-		<Value>Activity Types</Value>
+		<Value>Tipos de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLogType.Fields.Enabled">
 		<Value>Is Enabled</Value>
@@ -5065,7 +5065,7 @@
 		<Value>Check to enable the blog RSS feed link in customers browser address bar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog">
-		<Value>Catalog settings</Value>
+		<Value>Configurações de catálogo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend">
 		<Value>Allow anonymous users to email a friend</Value>
@@ -5488,7 +5488,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser">
-		<Value>Customer settings</Value>
+		<Value>Configurações de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AcceptPrivacyPolicyEnabled">
 		<Value>'Accept privacy policy' enabled</Value>
@@ -5704,7 +5704,7 @@
 		<Value>Customer name format.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CustomerSettings">
-		<Value>Customer settings</Value>
+		<Value>Configurações de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.DateOfBirthEnabled">
 		<Value>'Date of Birth' enabled</Value>
@@ -6745,7 +6745,7 @@
 		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.BlockTitle.NewsComments">
-		<Value>News comments</Value>
+		<Value>Comentários das novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.Enabled">
 		<Value>News enabled</Value>
@@ -6796,7 +6796,7 @@
 		<Value>Check to display your news items on your store home page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order">
-		<Value>Order settings</Value>
+		<Value>Configurações de pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ActivateGiftCardsAfterCompletingOrder">
 		<Value>Activate gift cards after completing of an order</Value>
@@ -6847,7 +6847,7 @@
 		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.GiftCards">
-		<Value>Gift cards</Value>
+		<Value>Cartões presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.OrderTotals">
 		<Value>Order totals</Value>
@@ -6961,7 +6961,7 @@
 		<Value>Set the order ID counter. This is useful if you want your orders to start at a certain number. This only affects orders created going forward. The value must be greater than the current maximum order ID.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.OrderSettings">
-		<Value>Order settings</Value>
+		<Value>Configurações de pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions">
 		<Value>Return request actions</Value>
@@ -7096,7 +7096,7 @@
 		<Value>Require customers to accept or decline terms of service before processing the order (on the shopping cart page).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ACL">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AdditionalShippingCharge">
 		<Value>Additional shipping charge</Value>
@@ -7423,7 +7423,7 @@
 		<Value>Specify number of points awarded for registration.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Shipping">
-		<Value>Shipping settings</Value>
+		<Value>Configurações de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Shipping.AllowPickUpInStore">
 		<Value>"Pick Up in Store" enabled</Value>
@@ -7528,7 +7528,7 @@
 		<Value>Check to use warehouse location when requesting shipping rates. This is useful when you ship from multiple warehouses.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart">
-		<Value>Shopping cart settings</Value>
+		<Value>Configurações do carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.AllowAnonymousUsersToEmailWishlist">
 		<Value>Allow guests to email their wishlists</Value>
@@ -7660,7 +7660,7 @@
 		<Value>(check boxes if you want to set a custom value for this shop).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax">
-		<Value>Tax settings</Value>
+		<Value>Configurações de impostos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Tax.AllowCustomersToSelectTaxDisplayType">
 		<Value>Allow customers to select tax display type</Value>
@@ -8359,13 +8359,13 @@
 		<Value>The settings have been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement">
-		<Value>Content management</Value>
+		<Value>Gerenc. de conteúdo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog">
 		<Value>Blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts">
-		<Value>Blog posts</Value>
+		<Value>Postagens do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Added">
 		<Value>The new blog post has been added successfully.</Value>
@@ -8491,7 +8491,7 @@
 		<Value>The blog post has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments">
-		<Value>Blog comments</Value>
+		<Value>Comentários do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.ApproveSelected">
 		<Value>Aprovar selecionados</Value>
@@ -8554,7 +8554,7 @@
 		<Value>Search in comment text.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums">
-		<Value>Forums</Value>
+		<Value>Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum">
 		<Value>Forum</Value>
@@ -8653,7 +8653,7 @@
 		<Value>Manage Forums</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates">
-		<Value>Message templates</Value>
+		<Value>Modelos de mensagens</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.BackToList">
 		<Value>back to return message template list</Value>
@@ -8923,7 +8923,7 @@
 		<Value>Novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments">
-		<Value>News comments</Value>
+		<Value>Comentários das novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.ApproveSelected">
 		<Value>Aprovar selecionados</Value>
@@ -8989,7 +8989,7 @@
 		<Value>Search in title and comment text.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems">
-		<Value>News items</Value>
+		<Value>Postagens de novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Added">
 		<Value>The new news item has been added successfully.</Value>
@@ -9112,7 +9112,7 @@
 		<Value>The news item has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls">
-		<Value>Polls</Value>
+		<Value>Enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Added">
 		<Value>The new poll has been added successfully.</Value>
@@ -9211,7 +9211,7 @@
 		<Value>The poll has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics">
-		<Value>Topics (pages)</Value>
+		<Value>Tópicos (páginas)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Added">
 		<Value>The new topic has been added successfully.</Value>
@@ -9235,7 +9235,7 @@
 		<Value>Check to allow customer to view this topic details page when the store is closed.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.AclCustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.AclCustomerRoles.Hint">
 		<Value>Select customer roles for which the topic will be shown. Leave empty if you want this topic to be visible to all users.</Value>
@@ -9370,16 +9370,16 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Updated">
-		<Value>The topic has been updated successfully.</Value>
+		<Value>O tópico foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets">
 		<Value>Widgets</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.BackToList">
-		<Value>back to widget list</Value>
+		<Value>voltar à lista de widgets</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.ChooseZone">
 		<Value>Widget zone</Value>
@@ -9388,7 +9388,7 @@
 		<Value>Choose widget zone.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Configure">
-		<Value>Configure</Value>
+		<Value>Configurar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9400,10 +9400,10 @@
 		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts">
-		<Value>Current shopping carts</Value>
+		<Value>Carrinhos de compra atuais</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.Customer">
 		<Value>Cliente</Value>
@@ -9424,13 +9424,13 @@
 		<Value>Total items</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.UnitPrice">
-		<Value>Unit price</Value>
+		<Value>Preço unitário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentCarts.UpdatedOn">
 		<Value>Atualizado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.CurrentWishlists">
-		<Value>Current wishlists</Value>
+		<Value>Listas de desejo atuais</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers">
 		<Value>Clientes</Value>
@@ -9523,7 +9523,7 @@
 		<Value>You need to save the customer attribute before you can add values for this customer attribute page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Added">
 		<Value>The new customer role has been added successfully.</Value>
@@ -9625,7 +9625,7 @@
 		<Value>Clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog">
-		<Value>Activity log</Value>
+		<Value>Log de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog.ActivityLogType">
 		<Value>Activity Log Type</Value>
@@ -9997,7 +9997,7 @@
 		<Value>Informação do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles.Hint">
 		<Value>Filter by customer role.</Value>
@@ -10219,7 +10219,7 @@
 		<Value>Guest</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers">
-		<Value>Online customers</Value>
+		<Value>Clientes online</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.CustomerInfo">
 		<Value>Customer info</Value>
@@ -10243,7 +10243,7 @@
 		<Value>Location</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports">
-		<Value>Customer reports</Value>
+		<Value>Relatórios de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.BestByNumberOfOrders">
 		<Value>Customers by number of orders</Value>
@@ -10378,7 +10378,7 @@
 		<Value>Use download URL</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards">
-		<Value>Gift cards</Value>
+		<Value>Cartões presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Added">
 		<Value>The new gift card has been added successfully.</Value>
@@ -11950,7 +11950,7 @@
 		<Value>The discount has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions">
-		<Value>Newsletter subscribers</Value>
+		<Value>Assinantes da newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.Fields.Active">
 		<Value>Ativo</Value>
@@ -11971,7 +11971,7 @@
 		<Value>{0} emails have been successfully imported</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.CustomerRoles">
-		<Value>Customer roles</Value>
+		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.CustomerRoles.Hint">
 		<Value>Search by a specific customer role.</Value>
@@ -12292,7 +12292,7 @@
 		<Value>Hoje</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers">
-		<Value>Bestsellers</Value>
+		<Value>Mais vendidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.BillingCountry">
 		<Value>País de cobrança</Value>
@@ -12367,7 +12367,7 @@
 		<Value>Search by a specific vendor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country">
-		<Value>Country report</Value>
+		<Value>Relatório de países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.EndDate">
 		<Value>End date</Value>
@@ -12430,7 +12430,7 @@
 		<Value>view all</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold">
-		<Value>Products never purchased</Value>
+		<Value>Produtos nunca comprados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.EndDate">
 		<Value>End date</Value>
@@ -12676,7 +12676,7 @@
 		<Value>Restaurar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts">
-		<Value>Deleting abandoned shopping carts</Value>
+		<Value>Excluindo carrinhos de compra abandonados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts.OlderThan">
 		<Value>Created before</Value>
@@ -12685,7 +12685,7 @@
 		<Value>Delete shopping cart items created before the specified date.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts.TotalDeleted">
-		<Value>{0} items were deleted</Value>
+		<Value>{0} itens foram excluídos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles">
 		<Value>Deleting old exported files</Value>
@@ -12715,7 +12715,7 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart">
-		<Value>Only without shopping cart</Value>
+		<Value>Somente sem carrinhos de compra</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart.Hint">
 		<Value>A value indicating whether we need to find customers without shopping carts/wishlists. If unchecked, then all customers will be found.</Value>
@@ -13426,7 +13426,7 @@
 		<Value>Cancelar assinatura</Value>
 	</LocaleResource>
 	<LocaleResource Name="Bestsellers">
-		<Value>Bestsellers</Value>
+		<Value>Mais vendidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog">
 		<Value>Blog</Value>
@@ -14527,7 +14527,7 @@
 		<Value>Click here to be informed automatically of new posts and topics in the forum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Forums">
-		<Value>Forums</Value>
+		<Value>Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Home">
 		<Value>Home</Value>
@@ -14569,7 +14569,7 @@
 		<Value>Active discussions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.PageTitle.Default">
-		<Value>Forums</Value>
+		<Value>Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.PageTitle.MoveTopic">
 		<Value>Move Topic</Value>
@@ -15520,22 +15520,22 @@
 		<Value>Access admin area</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.AccessClosedStore">
-		<Value>Public store. Access a closed store</Value>
+		<Value>Loja pública. Acessar lojas fechadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.AccessWebService">
-		<Value>Plugins. Access Web Service</Value>
+		<Value>Plugins. Accessar Web Service</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.AllowCustomerImpersonation">
 		<Value>Área de administração. Allow Customer Impersonation</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.DisplayPrices">
-		<Value>Public store. Display Prices</Value>
+		<Value>Loja pública. Mostrar Preços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.EnableShoppingCart">
-		<Value>Public store. Enable shopping cart</Value>
+		<Value>Loja pública. Habilitar carrinho de compras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.EnableWishlist">
-		<Value>Public store. Enable wishlist</Value>
+		<Value>Loja pública. Habilitar lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.HtmlEditor.ManagePictures">
 		<Value>Área de administração. HTML Editor. Manage pictures</Value>
