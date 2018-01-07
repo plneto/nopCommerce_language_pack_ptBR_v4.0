@@ -34,7 +34,7 @@
 		<Value>- ou -</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.Remove">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar">
 		<Value>Avatar</Value>
@@ -43,7 +43,7 @@
 		<Value>O tamanho máximo do avatar é {0} bytes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.RemoveAvatar">
-		<Value>Remover avatar</Value>
+		<Value>Excluir avatar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Avatar.UploadRules">
 		<Value>Avatar deve ter o formato GIF ou JPEG com um tamanho máximo de 20 KB</Value>
@@ -52,7 +52,7 @@
 		<Value>Notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
-		<Value>Remover selecionado</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.Description">
 		<Value>You will receive an e-mail when a particular product is back in stock.</Value>
@@ -433,7 +433,7 @@
 		<Value>Forum subscriptions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
-		<Value>Remover Selecionado</Value>
+		<Value>Excluir Selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.Description">
 		<Value>You will receive an e-mail when a new forum topic/post is created.</Value>
@@ -661,7 +661,7 @@
 		<Value>You can add only picture file</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture.Remove">
-		<Value>Remover foto</Value>
+		<Value>Excluir foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourAddress">
 		<Value>Seu endereço</Value>
@@ -2356,7 +2356,7 @@
 		<Value>A avaliação do produto foi removida com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.DeleteSelected">
-		<Value>Remover selecionados</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.DisapproveSelected">
 		<Value>Desaprovar selecionados</Value>
@@ -3943,16 +3943,16 @@
 		<Value>Arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Delete.Selected">
-		<Value>Remover (selecionado)</Value>
+		<Value>Excluir (selecionado)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.DeleteConfirmation">
-		<Value>Você tem certeza que você quer remover este item?</Value>
+		<Value>Você tem certeza que você quer excluir este item?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.DeleteConfirmationParam">
-		<Value>Você tem certeza que você quer remover "{0}"?</Value>
+		<Value>Você tem certeza que você quer excluir "{0}"?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Edit">
 		<Value>Editar</Value>
@@ -4810,7 +4810,7 @@
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Delete">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Delete.Progress">
 		<Value>Removendo plugin...</Value>
@@ -8929,7 +8929,7 @@
 		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.DeleteSelected">
-		<Value>Remover selecionado</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.DisapproveSelected">
 		<Value>Disapprove selected</Value>
@@ -9748,7 +9748,7 @@
 		<Value>O afiliado o qual o cliente está vinculado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate.Remove">
-		<Value>Remover afiliado</Value>
+		<Value>Excluir afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.City">
 		<Value>Cidade</Value>
@@ -10135,7 +10135,7 @@
 		<Value>Enter points to add. Negative values are also supported (reduce points).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Message">
 		<Value>Mensagem</Value>
@@ -11470,7 +11470,7 @@
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Event">
 		<Value>Event</Value>
@@ -11923,10 +11923,10 @@
 		<Value>Interaction type in this group is</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveGroup">
-		<Value>Remover grupo</Value>
+		<Value>Excluir grupo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveRequirement">
-		<Value>Remove requirement</Value>
+		<Value>Excluir requerimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Requirements.Requirement.Title">
 		<Value>Requerimento</Value>
@@ -12025,7 +12025,7 @@
 		<Value>The payment has been cancelled successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Deleted">
-		<Value>O pagamento foi removido com sucesso.</Value>
+		<Value>O pagamento foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Description">
 		<Value>Recurring payments are used for automatic renewal of consumable merchandise or subscription services.</Value>
@@ -12115,40 +12115,40 @@
 		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.ProcessNextPayment">
-		<Value>Process next payment (create a new order)</Value>
+		<Value>Processar próximo pagamento (criar um novo pedido)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.History.ShippingStatus">
-		<Value>Shipping status</Value>
+		<Value>Status do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Info">
-		<Value>Recurring payment info</Value>
+		<Value>Informações do pagamento recorrente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.NextPaymentProcessed">
-		<Value>The payment has been processed successfully.</Value>
+		<Value>O pagamento foi processado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Updated">
-		<Value>The payment has been updated successfully.</Value>
+		<Value>O pagamento foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests">
-		<Value>Return requests</Value>
+		<Value>Pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.BackToList">
-		<Value>back to return request list</Value>
+		<Value>voltar à list de pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Deleted">
-		<Value>The return request has been deleted successfully.</Value>
+		<Value>O pedido de devolução foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Description">
 		<Value>The Return Request feature (RMA) enables customers to send products back to you. Here you can find all submitted return requests.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.EditReturnRequestDetails">
-		<Value>Edit return request details</Value>
+		<Value>Editar detalhes do pedido de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CreatedOn">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CreatedOn.Hint">
 		<Value>Date when the return request has been submitted.</Value>
@@ -12157,25 +12157,25 @@
 		<Value>Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Customer.Hint">
-		<Value>Customer information.</Value>
+		<Value>Informação do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomerComments">
-		<Value>Customer comments</Value>
+		<Value>Comentários do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomerComments.Hint">
-		<Value>Entered customer comments.</Value>
+		<Value>Comentários inseridos do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomNumber">
 		<Value>ID</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomNumber.Hint">
-		<Value>Return request identifier.</Value>
+		<Value>Identificador do pedido de devolução.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomOrderNumber">
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.CustomOrderNumber.Hint">
-		<Value>The unique number of the order.</Value>
+		<Value>O número único do pedido.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Product">
 		<Value>Produto</Value>
@@ -12187,10 +12187,10 @@
 		<Value>Quantidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.Quantity.Hint">
-		<Value>Entered quantity.</Value>
+		<Value>Quantidade inserida.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.ReasonForReturn">
-		<Value>Reason for return</Value>
+		<Value>Motivo da devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Fields.ReasonForReturn.Hint">
 		<Value>Chosen reason for return.</Value>
@@ -12250,10 +12250,10 @@
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchReturnRequestStatus">
-		<Value>Return status</Value>
+		<Value>Status da devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchReturnRequestStatus.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchReturnRequestStatus.Hint">
 		<Value>Search by a specific return request status e.g. Received.</Value>
@@ -12658,7 +12658,7 @@
 		<Value>Database is restored</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Delete">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Download">
 		<Value>Download</Value>
@@ -12736,7 +12736,7 @@
 		<Value>back to message queue</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.DeleteAll">
-		<Value>Remover todos</Value>
+		<Value>Excluir todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Deleted">
 		<Value>The queued email has been deleted successfully.</Value>
@@ -12745,7 +12745,7 @@
 		<Value>All queued emails have been deleted successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.DeleteSelected">
-		<Value>Remover selecionado</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.EditQueuedEmailDetails">
 		<Value>Edit message queue item</Value>
@@ -13714,13 +13714,13 @@
 		<Value>Dia</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Delete">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.DeleteConfirmation">
-		<Value>Você tem certeza que você quer remover este item?</Value>
+		<Value>Você tem certeza que você quer excluir este item?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.DeleteConfirmationParam">
-		<Value>Você tem certeza que você quer remover "{0}"?</Value>
+		<Value>Você tem certeza que você quer excluir "{0}"?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Edit">
 		<Value>Editar</Value>
@@ -13732,7 +13732,7 @@
 		<Value>Cancelar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Delete">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.DownloadUploadedFile">
 		<Value>Baixar</Value>
@@ -13744,7 +13744,7 @@
 		<Value>Processando arquivos arrastados...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.RemoveDownload">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.FileUploader.Retry">
 		<Value>Repetir</Value>
@@ -13780,7 +13780,7 @@
 		<Value>OK</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Remove">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Common.Save">
 		<Value>Salvar</Value>
@@ -15139,7 +15139,7 @@
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.ShipmentStatusEvents.Event">
 		<Value>Event</Value>
@@ -15691,7 +15691,7 @@
 		<Value>Inbox</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.DateColumn">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.DeleteSelected">
 		<Value>Delete selected</Value>
@@ -15739,7 +15739,7 @@
 		<Value>To:</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.DateColumn">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.DeleteSelected">
 		<Value>Delete selected</Value>
@@ -15763,7 +15763,7 @@
 		<Value>Back to messages</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.DeleteButton">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.View.From">
 		<Value>From:</Value>
@@ -16156,7 +16156,7 @@
 		<Value>Reviews</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.ExistingReviews">
 		<Value>Existing reviews</Value>
@@ -16243,7 +16243,7 @@
 		<Value>Your current balance is {0} reward points ({1}).</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.Date">
-		<Value>Date</Value>
+		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.Message">
 		<Value>Mensagem</Value>
@@ -16543,7 +16543,7 @@
 		<Value>[Auto-ship, Every {0} {1}]</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Remove">
-		<Value>Remover</Value>
+		<Value>Excluir</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.Rent">
 		<Value>Aluguel</Value>
