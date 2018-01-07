@@ -2146,22 +2146,22 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.Fields.IsFeaturedProduct">
-		<Value>Is featured product?</Value>
+		<Value>É produto destacado?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.Fields.Product">
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Products.SaveBeforeEdit">
-		<Value>You need to save the category before you can add products for this category page.</Value>
+		<Value>Você precisa salvar a categoria antes de poder adicionar produtos nesta página de categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.SwitchToListView">
 		<Value>switch to list view</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Updated">
-		<Value>The category has been updated successfully.</Value>
+		<Value>A categoria foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.LowStockReport">
-		<Value>Low stock report</Value>
+		<Value>Relatório de estoque baixo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers">
 		<Value>Fabricantes</Value>
@@ -3031,16 +3031,16 @@
 		<Value>Product cost is a prime product cost. This field is only for internal use, not visible for customers.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductTags">
-		<Value>Product tags</Value>
+		<Value>TAGs de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductTags.Hint">
-		<Value>Product tags are the keywords for product identification. The more products associated with a particular tag, the larger it will show on the tag cloud.</Value>
+		<Value>TAGs de produto são as palavras chave para identificar produtos. Quanto mais produtos estiverem associados à uma TAG, maior será mostrada a palavra na núvem de TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductTags.Placeholder">
-		<Value>Enter tags ...</Value>
+		<Value>Insira TAGs ...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductTemplate">
-		<Value>Product template</Value>
+		<Value>Modelo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductTemplate.Hint">
 		<Value>Choose a product template. This template defines how this product will be displayed in public store.</Value>
@@ -3892,34 +3892,34 @@
 		<Value>The product has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags">
-		<Value>Product tags</Value>
+		<Value>TAGs de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.EditTagDetails">
-		<Value>Edit product tag details</Value>
+		<Value>Editar detalhes da TAG de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.Name">
-		<Value>Tag name</Value>
+		<Value>Nome da TAG</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.Name.Hint">
-		<Value>The name of the product tag.</Value>
+		<Value>O nome da TAG de produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags.Fields.ProductCount">
-		<Value>Tagged products</Value>
+		<Value>Produtos com TAG</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ActionConfirmation">
-		<Value>Are you sure you want to perform this action?</Value>
+		<Value>Você tem certeza que você quer executar esta ação?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNew">
 		<Value>Adicionar novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AddNewRecord">
-		<Value>Add new record</Value>
+		<Value>Adicionar novo registro</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.AreYouSure">
 		<Value>Você tem certeza?</Value>
@@ -3931,13 +3931,13 @@
 		<Value>Mudar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Check">
-		<Value>Check</Value>
+		<Value>Marcar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Clear">
-		<Value>Clear</Value>
+		<Value>Limpar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ConfigurationNotRequired">
-		<Value>Configuration is not required</Value>
+		<Value>Configuração não é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.CsvFile">
 		<Value>Arquivo CSV</Value>
@@ -11299,103 +11299,103 @@
 		<Value>Total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments">
-		<Value>Shipments</Value>
+		<Value>Envios</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Added">
-		<Value>The new shipment has been added successfully.</Value>
+		<Value>O novo envio foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AddNew">
-		<Value>Add shipment</Value>
+		<Value>Adicionar envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AddNew.Title">
-		<Value>Add a new shipment to order #{0}</Value>
+		<Value>Adicionar um novo envio ao pedido #{0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AdminComment.Button">
-		<Value>Set admin comment</Value>
+		<Value>Defnir comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AdminComment.Hint">
-		<Value>Admin comment. For internal use.</Value>
+		<Value>Comentário do administrador. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.BackToOrder">
-		<Value>back to order details</Value>
+		<Value>voltar aos detalhes do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.CustomOrderNumber">
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.CustomOrderNumber.Hint">
-		<Value>The order associated to this shipment.</Value>
+		<Value>O pedido associado a este envio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Deleted">
-		<Value>The shipment has been deleted successfully.</Value>
+		<Value>O envio foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliveryDate">
-		<Value>Date delivered</Value>
+		<Value>Data de entrega</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliveryDate.Button">
-		<Value>Set as delivered</Value>
+		<Value>Defina como entregue</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliveryDate.EnterUtc">
-		<Value>Date and time should entered in Coordinated Universal Time (UTC)</Value>
+		<Value>Data e hora devem ser inseridos em Tempo Universal Coordenado (UTC)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliveryDate.Hint">
-		<Value>The date this shipment was delivered.</Value>
+		<Value>A data que este envio foi entregue.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliveryDate.NotYet">
-		<Value>Not yet</Value>
+		<Value>Ainda não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.DeliverySelected">
-		<Value>Set as delivered (selected)</Value>
+		<Value>Defina como entregue (selecionado)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ID">
-		<Value>Shipment #</Value>
+		<Value>Envio #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List">
-		<Value>Shipments</Value>
+		<Value>Envios</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.City">
 		<Value>Cidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.City.Hint">
-		<Value>Search by a specific city.</Value>
+		<Value>Buscar por cidade específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Country">
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Country.Hint">
-		<Value>Search by a specific country.</Value>
+		<Value>Buscar por país específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.EndDate.Hint">
-		<Value>The end date (shipment creation date) for the search.</Value>
+		<Value>A data final (data de criação do envio) para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.LoadNotShipped">
-		<Value>Load not shipped</Value>
+		<Value>Carga não enviada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.LoadNotShipped.Hint">
 		<Value>Load only not shipped shipments.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StartDate.Hint">
-		<Value>The start date (shipment creation date) for the search.</Value>
+		<Value>A data de início (data de criação do envio) para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StateProvince">
 		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.StateProvince.Hint">
-		<Value>Search by a specific state.</Value>
+		<Value>Buscar por estado específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.TrackingNumber">
-		<Value>Tracking number</Value>
+		<Value>Número de rastreamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.TrackingNumber.Hint">
-		<Value>Search by a specific tracking number.</Value>
+		<Value>Buscar por número de rastreamento específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.Warehouse">
 		<Value>Armazén</Value>
@@ -11404,10 +11404,10 @@
 		<Value>Load shipments with products from a specified warehouse.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.NoProductsSelected">
-		<Value>No products selected</Value>
+		<Value>Nenhum produto selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.NoShipmentsSelected">
-		<Value>No shipments selected</Value>
+		<Value>Nenhum envio selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.PrintPackagingSlip">
 		<Value>Print packaging slip</Value>
@@ -11422,7 +11422,7 @@
 		<Value>Print packaging slips (selected)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products">
-		<Value>Products shipped</Value>
+		<Value>Produtos enviados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.ItemDimensions">
 		<Value>Item dimensions</Value>
@@ -11437,7 +11437,7 @@
 		<Value>Qty ordered</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.QtyShipped">
-		<Value>Qty shipped</Value>
+		<Value>Qtd enviada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.QtyToShip">
 		<Value>Qty to ship</Value>
@@ -11446,7 +11446,7 @@
 		<Value>this product should be shipped separately!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.ShipSeparately.Warning">
-		<Value>Warning: </Value>
+		<Value>Aviso: </Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.SKU">
 		<Value>SKU</Value>
@@ -11455,10 +11455,10 @@
 		<Value>Armazén</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.Warehouse.ChooseQty">
-		<Value>{0} ({1} qty in stock, {2} qty reserved, {3} qty planned)</Value>
+		<Value>{0} ({1} qtd em estoque, {2} qtd reservada, {3} qtd planejada)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.Warehouse.NotAvailabe">
-		<Value>No warehouses available. You cannot ship this product.</Value>
+		<Value>Nenhum armazén disponível. Você não pode enviar este produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.Products.Warehouse.QuantityNotEnough">
 		<Value>[Reserved - Planned] quantity value of some products are less than specified quantity to be shipped. Are you sure?</Value>
@@ -11473,16 +11473,16 @@
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Event">
-		<Value>Event</Value>
+		<Value>Evento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Location">
 		<Value>Location</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShippedDate">
-		<Value>Date shipped</Value>
+		<Value>Data de envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShippedDate.Button">
-		<Value>Set as shipped</Value>
+		<Value>Defina como enviado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShippedDate.EnterUtc">
 		<Value>Date and time should entered in Coordinated Universal Time (UTC)</Value>
@@ -11491,85 +11491,85 @@
 		<Value>The date this shipment was shipped.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShippedDate.NotYet">
-		<Value>Not yet</Value>
+		<Value>Ainda não</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipSelected">
-		<Value>Set as shipped (selected)</Value>
+		<Value>Defina com enviado (selecionado)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TotalWeight">
-		<Value>Total weight</Value>
+		<Value>Peso total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TotalWeight.Hint">
 		<Value>Shipment total weight.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber">
-		<Value>Tracking number</Value>
+		<Value>Número de rastreamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.Button">
-		<Value>Set tracking number</Value>
+		<Value>Defina o número de rastreamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.Hint">
 		<Value>Set a tracking number of the current shipment.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.ViewOnline">
-		<Value>View tracking info</Value>
+		<Value>Ver informação de rastreamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ViewDetails">
-		<Value>View shipment details</Value>
+		<Value>Ver detalhes do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.ShippingInfo">
-		<Value>Shipping info</Value>
+		<Value>Informções do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.ShippingInfo.NotRequired">
 		<Value>Shipping not required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Display">
-		<Value>{0} - {1} of {2} items</Value>
+		<Value>{0} - {1} of {2} itens</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Empty">
-		<Value>No items to display</Value>
+		<Value>Nenhum item para mostrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.First">
-		<Value>Go to the first page</Value>
+		<Value>Ir para a primeira página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.ItemsPerPage">
-		<Value>items per page</Value>
+		<Value>itens por página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Last">
-		<Value>Go to the last page</Value>
+		<Value>Ir para a última página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.MorePages">
-		<Value>More pages</Value>
+		<Value>Mais páginas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Next">
-		<Value>Go to the next page</Value>
+		<Value>Ir para a próxima página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Of">
-		<Value>of {0}</Value>
+		<Value>de {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Page">
-		<Value>Page</Value>
+		<Value>Página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Previous">
-		<Value>Go to the previous page</Value>
+		<Value>Ir para a página anterior</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Refresh">
-		<Value>Refresh</Value>
+		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.PageTitle">
-		<Value>nopCommerce administration</Value>
+		<Value>nopCommerce administração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Picture.RemovePicture">
-		<Value>Remove picture</Value>
+		<Value>Remover foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Plugins">
 		<Value>Plugins</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Plugins.Saved">
-		<Value>The plugin has been updated successfully.</Value>
+		<Value>O plugin foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions">
 		<Value>Promoções</Value>
@@ -11584,10 +11584,10 @@
 		<Value>Adicionar uma nova campanha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.BackToList">
-		<Value>back to campaign list</Value>
+		<Value>voltar à lista de campanhas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Deleted">
-		<Value>The campaign has been deleted successfully.</Value>
+		<Value>A campanha foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.EditCampaignDetails">
 		<Value>Editar campanha</Value>
@@ -11602,10 +11602,10 @@
 		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.Body.Hint">
-		<Value>The body of your campaign email.</Value>
+		<Value>O corpo do email da campanha.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.Body.Required">
-		<Value>Body is required</Value>
+		<Value>Corpo é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -16672,7 +16672,7 @@
 		<Value>Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Sitemap.ProductTags">
-		<Value>Product tags</Value>
+		<Value>TAGs de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="StoreClosed">
 		<Value>Esta loja está fechada no momento</Value>
