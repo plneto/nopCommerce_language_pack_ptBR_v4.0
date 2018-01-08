@@ -15859,7 +15859,7 @@
 		<Value>Desculpe - este produto não está mais disponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.DownloadSample">
-		<Value>Download sample</Value>
+		<Value>Baixar amostra</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend">
 		<Value>Envie um e-mail para um amigo</Value>
