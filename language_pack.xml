@@ -2461,7 +2461,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchText">
 		<Value>Mensagem</Value>
@@ -2926,19 +2926,19 @@
 		<Value>The maximum number of downloads.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaDescription.Hint">
 		<Value>Meta description to be added to product page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaKeywords.Hint">
 		<Value>Meta keywords to be added to product page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaTitle.Hint">
 		<Value>Override the page title. The default is the name of the product.</Value>
@@ -3850,7 +3850,7 @@
 		<Value>Select customer role for which the tier price will be available.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.EndDateTimeUtc">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.EndDateTimeUtc.Hint">
 		<Value>The end date of the tier price in Coordinated Universal Time (UTC).</Value>
@@ -3868,7 +3868,7 @@
 		<Value>Specify quantity for which this tier price will be available.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.StartDateTimeUtc">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.StartDateTimeUtc.Hint">
 		<Value>The start date of the tier price in Coordinated Universal Time (UTC).</Value>
@@ -3877,7 +3877,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Store.All">
-		<Value>All stores</Value>
+		<Value>Todas as lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Store.Hint">
 		<Value>Option to limit this tier price to a certain store. If you have multiple stores, choose one from the list.</Value>
@@ -4555,7 +4555,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -4741,7 +4741,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -4765,7 +4765,7 @@
 		<Value>Void</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Payment.Methods.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins">
 		<Value>Plugins</Value>
@@ -4822,7 +4822,7 @@
 		<Value>The display order of the plugin. 1 represents the top of the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.FriendlyName.Hint">
 		<Value>The friendly name of the plugin.</Value>
@@ -4861,7 +4861,7 @@
 		<Value>Logo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Fields.Uninstall">
 		<Value>Desinstalar</Value>
@@ -7651,7 +7651,7 @@
 		<Value>Multi-store configuration for</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.StoreScope.AllStores">
-		<Value>All stores</Value>
+		<Value>Todas as lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.StoreScope.CheckAll">
 		<Value>Check/uncheck all</Value>
@@ -8065,7 +8065,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -8074,7 +8074,7 @@
 		<Value>Logo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.PickupPoints">
 		<Value>Pickup points</Value>
@@ -8134,7 +8134,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -8143,7 +8143,7 @@
 		<Value>Logo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Providers.Title">
 		<Value>Shipping rate computation methods (providers)</Value>
@@ -8212,13 +8212,13 @@
 		<Value>Configure</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.SMSProviders.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.SMSProviders.Fields.IsActive">
 		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.SMSProviders.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Stores">
 		<Value>Lojas</Value>
@@ -8344,7 +8344,7 @@
 		<Value>You can download more plugins in our &lt;a href="https://www.nopcommerce.com/marketplace.aspx?category=11&amp;utm_source=admin-panel&amp;utm_medium=tax-plugins&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.IsPrimaryTaxProvider">
 		<Value>Is primary provider</Value>
@@ -8353,7 +8353,7 @@
 		<Value>Mark as primary provider</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Updated">
 		<Value>The settings have been updated successfully.</Value>
@@ -8410,13 +8410,13 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate.Hint">
 		<Value>Set the blog post end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language">
-		<Value>Language</Value>
+		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language.Hint">
 		<Value>The language of this blog entry. A customer will only see the blog entries for their selected language.</Value>
@@ -8428,22 +8428,22 @@
 		<Value>Option to limit this blog post to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription.Hint">
 		<Value>Meta description to be added to blog post page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords.Hint">
 		<Value>Meta keywords to be added to blog post page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaTitle.Hint">
-		<Value>Override the page title. The default is the title of the blog post.</Value>
+		<Value>Substitui o título da página. O padão é o título da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.SeName">
 		<Value>Nome amigável da página para mecanismo de busca.</Value>
@@ -8452,7 +8452,7 @@
 		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-postagem-do-blog' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-postagem-do-blog'. Deixe vazio para gerá-lo automaticamente baseado no título da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate.Hint">
 		<Value>Set the blog post start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
@@ -8467,16 +8467,16 @@
 		<Value>Dots are not supported by tags.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Placeholder">
-		<Value>Enter tags ...</Value>
+		<Value>Insira TAGs ...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Title">
-		<Value>Title</Value>
+		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Title.Hint">
-		<Value>The title of this blog entry.</Value>
+		<Value>O título desta postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Title.Required">
-		<Value>Title is required.</Value>
+		<Value>Título é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Info">
 		<Value>Informações</Value>
@@ -8485,7 +8485,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Updated">
 		<Value>The blog post has been updated successfully.</Value>
@@ -8497,7 +8497,7 @@
 		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.DisapproveSelected">
 		<Value>Disapprove selected</Value>
@@ -8521,7 +8521,7 @@
 		<Value>Store name</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom">
-		<Value>Created from</Value>
+		<Value>Criado a partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom.Hint">
 		<Value>The creation from date for the search.</Value>
@@ -8536,7 +8536,7 @@
 		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.ApprovedOnly">
 		<Value>Approved only</Value>
@@ -8650,7 +8650,7 @@
 		<Value>The forum group has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Manage">
-		<Value>Manage Forums</Value>
+		<Value>Gerenciar Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates">
 		<Value>Modelos de mensagens</Value>
@@ -8662,7 +8662,7 @@
 		<Value>The message template has been copied successfully</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Copy">
-		<Value>Copy template</Value>
+		<Value>Copiar modelo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Deleted">
 		<Value>The message template has been deleted successfully.</Value>
@@ -8821,7 +8821,7 @@
 		<Value>The blind carbon copy (BCC) recipients for this e-mail message.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Body">
-		<Value>Body</Value>
+		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Body.Hint">
 		<Value>The body of your message.</Value>
@@ -8893,7 +8893,7 @@
 		<Value>Enviar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.SendTo">
-		<Value>Send email to</Value>
+		<Value>Enviar email para</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.SendTo.Hint">
 		<Value>Send test email to ensure that everything is properly configured.</Value>
@@ -8953,16 +8953,16 @@
 		<Value>News item</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.StoreName">
-		<Value>Store name</Value>
+		<Value>Nome da loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnFrom">
-		<Value>Created from</Value>
+		<Value>Criado a partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnFrom.Hint">
 		<Value>The creation from date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnTo">
-		<Value>Created to</Value>
+		<Value>Criado até</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnTo.Hint">
 		<Value>The creation to date for the search.</Value>
@@ -8971,7 +8971,7 @@
 		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchApproved.All">
-		<Value>All</Value>
+		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchApproved.ApprovedOnly">
 		<Value>Approved only</Value>
@@ -9007,19 +9007,19 @@
 		<Value>Edit news item details</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.AllowComments">
-		<Value>Allow comments</Value>
+		<Value>Permitir comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.AllowComments.Hint">
 		<Value>When checked, customers can leave comments about your news entry.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Comments">
-		<Value>View comments</Value>
+		<Value>Ver comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.CreatedOn">
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.EndDate.Hint">
 		<Value>Set the news item end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
@@ -9034,7 +9034,7 @@
 		<Value>Full description is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Language">
-		<Value>Language</Value>
+		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Language.Hint">
 		<Value>The language of this news entry. A customer will only see the news entries for their selected language.</Value>
@@ -9046,19 +9046,19 @@
 		<Value>Option to limit this news item to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to news page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaKeywords.Hint">
 		<Value>Meta keywords to be added to news page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaTitle.Hint">
 		<Value>Override the page title. The default is the title of the news.</Value>
@@ -9085,19 +9085,19 @@
 		<Value>Short description is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.StartDate.Hint">
 		<Value>Set the news item start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Title">
-		<Value>Title</Value>
+		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Title.Hint">
 		<Value>The title of this news entry.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Title.Required">
-		<Value>Title is required.</Value>
+		<Value>Título é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Info">
 		<Value>Informações</Value>
@@ -9106,7 +9106,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Updated">
 		<Value>The news item has been updated successfully.</Value>
@@ -9118,10 +9118,10 @@
 		<Value>The new poll has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.AddNew">
-		<Value>Add a new poll</Value>
+		<Value>Adicionar uma nova enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers">
-		<Value>Poll answers</Value>
+		<Value>Respostas da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9130,7 +9130,7 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.Name.Required">
-		<Value>Name is required.</Value>
+		<Value>Nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.NumberOfVotes">
 		<Value>Number of votes</Value>
@@ -9139,34 +9139,34 @@
 		<Value>You need to save the poll before you can add answers for this poll page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.BackToList">
-		<Value>back to poll list</Value>
+		<Value>voltar à lista de enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Deleted">
-		<Value>The poll has been deleted successfully.</Value>
+		<Value>A enquete foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.EditPollDetails">
-		<Value>Edit poll details</Value>
+		<Value>Editar detalhes da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.AllowGuestsToVote">
-		<Value>Allow guests to vote</Value>
+		<Value>Permitir que convidados possam votar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.AllowGuestsToVote.Hint">
-		<Value>Check to allow guests to vote.</Value>
+		<Value>Marque para permitir que convidados possam votar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder.Hint">
-		<Value>The display order of this poll. 1 represents the top of the list.</Value>
+		<Value>A orderm de exibição desta enquete. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate.Hint">
 		<Value>Set the poll end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language">
-		<Value>Language</Value>
+		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language.Hint">
 		<Value>The language of this poll. A customer will only see the polls for their selected language.</Value>
@@ -9175,10 +9175,10 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Hint">
-		<Value>The name of this poll.</Value>
+		<Value>O nome desta enquete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Required">
-		<Value>Name is required.</Value>
+		<Value>Nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published">
 		<Value>Publicado</Value>
@@ -9187,49 +9187,49 @@
 		<Value>Determines whether this poll is published (visible) in your store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage">
-		<Value>Show on home page</Value>
+		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage.Hint">
 		<Value>Check if you want to show poll on the home page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate.Hint">
 		<Value>Set the poll start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword">
-		<Value>System keyword</Value>
+		<Value>Palavra-chave do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword.Hint">
 		<Value>The system keyword for this poll. For example, you can enter 'LeftColumnPoll' in order to display it in the left column.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Info">
-		<Value>Poll Info</Value>
+		<Value>Informações da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Updated">
-		<Value>The poll has been updated successfully.</Value>
+		<Value>A enquete foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics">
 		<Value>Tópicos (páginas)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Added">
-		<Value>The new topic has been added successfully.</Value>
+		<Value>O novo tópico foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.AddNew">
-		<Value>Add a new topic</Value>
+		<Value>Adicionar um novo tópico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.BackToList">
-		<Value>back to topic list</Value>
+		<Value>voltar à lista de tópicos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Deleted">
-		<Value>The topic has been deleted successfully.</Value>
+		<Value>O tópico foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.EditTopicDetails">
-		<Value>Edit topic details</Value>
+		<Value>Editar os detalhes do tópico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.AccessibleWhenStoreClosed">
-		<Value>Accessible when store closed</Value>
+		<Value>Acessível quando a loja estiver fechada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.AccessibleWhenStoreClosed.Hint">
 		<Value>Check to allow customer to view this topic details page when the store is closed.</Value>
@@ -9241,10 +9241,10 @@
 		<Value>Select customer roles for which the topic will be shown. Leave empty if you want this topic to be visible to all users.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Body">
-		<Value>Body</Value>
+		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Body.Hint">
-		<Value>The body of your topic.</Value>
+		<Value>O corpo do seu tópico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9277,13 +9277,13 @@
 		<Value>Marque para incluir este tópico no mapa do site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.IncludeInTopMenu">
-		<Value>Include in top menu</Value>
+		<Value>Incluir no menu superior</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.IncludeInTopMenu.Hint">
 		<Value>Check to include this topic in the top menu.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.IsPasswordProtected">
-		<Value>Password protected</Value>
+		<Value>Protegido por senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.IsPasswordProtected.Hint">
 		<Value>Check if this topic is password protected.</Value>
@@ -9295,19 +9295,19 @@
 		<Value>Option to limit this topic to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaDescription.Hint">
 		<Value>Meta description to be added to topic page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaKeywords.Hint">
 		<Value>Meta keywords to be added to topic page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.MetaTitle.Hint">
 		<Value>Override the page title. The default is the name of the topic.</Value>
@@ -9334,19 +9334,19 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store.AllStores">
-		<Value>All stores</Value>
+		<Value>Todas as lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store.Hint">
 		<Value>Choose a store this topic is assigned to.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.SystemName.Hint">
 		<Value>System name of this topic.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Title">
-		<Value>Title</Value>
+		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Title.Hint">
 		<Value>The title of your topic.</Value>
@@ -9361,7 +9361,7 @@
 		<Value>URL</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.URL.Hint">
-		<Value>The URL of this topic.</Value>
+		<Value>A URL deste tópico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Info">
 		<Value>Informações</Value>
@@ -9394,7 +9394,7 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.FriendlyName">
-		<Value>Friendly name</Value>
+		<Value>Nome amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Widgets.Fields.IsActive">
 		<Value>Está ativo</Value>
@@ -9604,7 +9604,7 @@
 		<Value>Remove</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.SystemName">
-		<Value>System name</Value>
+		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.SystemName.CantEditSystem">
 		<Value>The system name of system customer roles can't be edited.</Value>
@@ -10252,7 +10252,7 @@
 		<Value>Customers by order total</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -10285,7 +10285,7 @@
 		<Value>Search by a specific shipping status e.g. Not yet shipped.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -11032,7 +11032,7 @@
 		<Value>Filter by customer billing last name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -11080,7 +11080,7 @@
 		<Value>Search by a specific shipping statuses e.g. Not yet shipped.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -11089,7 +11089,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Store.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Vendor">
 		<Value>Fornecedor</Value>
@@ -11662,7 +11662,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.List.Stores.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Campaigns.MassEmailSentToCustomers">
 		<Value>{0} emails have been successfully queued.</Value>
@@ -11785,7 +11785,7 @@
 		<Value>The type of discount.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.EndDate.Hint">
 		<Value>The end of the discount period in Coordinated Universal Time (UTC).</Value>
@@ -11833,7 +11833,7 @@
 		<Value>If checked, a customer must supply a valid coupon code for the discount to be applied.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.StartDate.Hint">
 		<Value>The start of the discount period in Coordinated Universal Time (UTC).</Value>
@@ -11977,7 +11977,7 @@
 		<Value>Search by a specific customer role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12007,10 +12007,10 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12082,7 +12082,7 @@
 		<Value>Indicates the payment type (Manual or Automatic).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments.Fields.StartDate.Hint">
 		<Value>Start date of this recurring payment.</Value>
@@ -12244,7 +12244,7 @@
 		<Value>Search by a specific return request identifier.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchEndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchEndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12259,7 +12259,7 @@
 		<Value>Search by a specific return request status e.g. Received.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchStartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchStartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12313,7 +12313,7 @@
 		<Value>Search in a specific category.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12349,7 +12349,7 @@
 		<Value>Run report</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12370,7 +12370,7 @@
 		<Value>Relatório de países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12400,7 +12400,7 @@
 		<Value>Run report</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12433,7 +12433,7 @@
 		<Value>Produtos nunca comprados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12469,7 +12469,7 @@
 		<Value>Load products only by a specific vendor (owned by this vendor).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12691,13 +12691,13 @@
 		<Value>Deleting old exported files</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.EndDate.Hint">
 		<Value>The end date for the search.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12709,7 +12709,7 @@
 		<Value>Deleting guest customers</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12721,7 +12721,7 @@
 		<Value>A value indicating whether we need to find customers without shopping carts/wishlists. If unchecked, then all customers will be found.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -12769,7 +12769,7 @@
 		<Value>Bcc address.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.Body">
-		<Value>Body</Value>
+		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.Fields.Body.Hint">
 		<Value>Corpo da mensagem.</Value>
@@ -12886,7 +12886,7 @@
 		<Value>To name.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.EndDate.Hint">
 		<Value>The end date for the search.</Value>
@@ -12916,7 +12916,7 @@
 		<Value>The maximum number of attempts to send a message.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.StartDate.Hint">
 		<Value>The start date for the search.</Value>
@@ -13003,7 +13003,7 @@
 		<Value>Está ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Language">
-		<Value>Language</Value>
+		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Language.Standard">
 		<Value>Padrão</Value>
@@ -13312,19 +13312,19 @@
 		<Value>Email is required.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaDescription.Hint">
 		<Value>Meta description to be added to vendor page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaKeywords.Hint">
 		<Value>Meta keywords to be added to vendor page header.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.MetaTitle.Hint">
 		<Value>Override the page title. The default is the name of the vendor.</Value>
@@ -14896,7 +14896,7 @@
 		<Value>Enter comment text</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.CommentTitle">
-		<Value>Title</Value>
+		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.CommentTitle.MaxLengthValidation">
 		<Value>Max length of comment title is {0} chars</Value>
