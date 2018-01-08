@@ -1198,28 +1198,28 @@
 		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Description">
-		<Value>If the default form fields are not enough for your needs, then you can manage additional address attributes below.</Value>
+		<Value>Se os campos padrões do formulário não forem suficientes para suas necessidades, então você pode gerenciar atributos de endereço adicionais abaixo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.EditAttributeDetails">
-		<Value>Edit address attribute details</Value>
+		<Value>Editar detalhes do atributo de endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType">
-		<Value>Control type</Value>
+		<Value>Tipo de controle</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType.Hint">
-		<Value>Choose how to display your attribute values.</Value>
+		<Value>Escolha como mostrar seus valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder.Hint">
-		<Value>The address attribute display order. 1 represents the first item in the list.</Value>
+		<Value>A ordem de exibição do atributo de endereço. 1 representa o primeiro item na lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired">
 		<Value>Obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired.Hint">
-		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
+		<Value>Quando um atributo é obrigatório, o cliente deve escolher um valor apropriado de valor de atributo antes de poderem continuar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name">
 		<Value>Nome</Value>
@@ -1231,61 +1231,61 @@
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Info">
-		<Value>Attribute info</Value>
+		<Value>Informações do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values">
-		<Value>Attribute values</Value>
+		<Value>Valores do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.AddNew">
-		<Value>Add a new address value</Value>
+		<Value>Adicionar um novo valor de endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.EditValueDetails">
-		<Value>Edit address value details</Value>
+		<Value>Editar detalhes de valor de endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder.Hint">
-		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+		<Value>A ordem de exibição do valor de atributo. 1 representa o primeiro item da lista de valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected">
-		<Value>Pre-selected</Value>
+		<Value>Pré-selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected.Hint">
-		<Value>Determines whether this attribute value is pre-selected for the address.</Value>
+		<Value>Determina se este valor de atributo fica pré-selecionado para o endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Hint">
-		<Value>The name of the address value.</Value>
+		<Value>O nome do valor de endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Values.SaveBeforeEdit">
-		<Value>You need to save the address attribute before you can add values for this address attribute page.</Value>
+		<Value>Você precisa salvar o atributo de endereço antes de poder adicionar valores nesta página de atributos de endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address1">
-		<Value>Endereço 1</Value>
+		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address1.Hint">
-		<Value>Enter address 1.</Value>
+		<Value>Insira o endereço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address1.Required">
-		<Value>Endereço 1 é obrigatório.</Value>
+		<Value>Endereço é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2">
-		<Value>Endereço 2</Value>
+		<Value>Complemento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2.Hint">
-		<Value>Insira o endereço 2.</Value>
+		<Value>Insira o Complemento.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.Address2.Required">
-		<Value>Endereço 2 é obrigatório.</Value>
+		<Value>Complemento é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.Fields.City">
 		<Value>Cidade</Value>
@@ -1378,7 +1378,7 @@
 		<Value>CEP é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.OtherNonUS">
-		<Value>Other (Non US)</Value>
+		<Value>Outro (Fora dos EUA)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.SelectCountry">
 		<Value>Selecione o país</Value>
@@ -1390,94 +1390,94 @@
 		<Value>Afiliados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Added">
-		<Value>The new affiliate has been added successfully.</Value>
+		<Value>O novo afiliado foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.AddNew">
-		<Value>Add a new affiliate</Value>
+		<Value>Adicionar um novo afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.BackToList">
-		<Value>back to affiliate list</Value>
+		<Value>voltar à lista de afiliados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Customers">
-		<Value>Affiliated customers</Value>
+		<Value>Clientes afiliados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Customers.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Deleted">
-		<Value>The affiliate has been deleted successfully.</Value>
+		<Value>O afiliado foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Description">
-		<Value>Affiliate is an Internet-based marketing practice in which a business rewards one or more affiliates for each visitor or customer. It is a web-based pay-for-performance program designed to compensate affiliate partner for driving qualified leads or sales to a merchant web site.</Value>
+		<Value>Afiliado é uma prática de marketing na Internet em que uma empresa recompensa um ou mais afiliados por cada visitante ou cliente. É um programa de pagamento por desempenho baseado na web projetado para compensar o parceiro afiliado por conduzir vendas em potencial ou vendas qualificados para um site comercial.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.EditAffiliateDetails">
-		<Value>Edit affiliate details</Value>
+		<Value>Editar detalhes do afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.Active">
 		<Value>Ativo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.Active.Hint">
-		<Value>A value indicating whether the affiliate is active.</Value>
+		<Value>Um valor que indica se o afiliado está ativo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.AdminComment.Hint">
-		<Value>Admin comment. For internal use.</Value>
+		<Value>Comentário do administrador. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName">
-		<Value>Friendly URL name</Value>
+		<Value>Nome de URL amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName.Hint">
-		<Value>A friendly name for generated affiliate URL (by default affiliate ID is used). It's more friendly for marketing purposes. Leave empty to use affiliate identifier.</Value>
+		<Value>Um nome amigável para URLs geradas para afiliados (O ID do afiliado é usado por padrão). É mais amigável para para fins de marketing. Deixe vazio para usar o identificador do afiliado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.URL">
-		<Value>Affiliate URL</Value>
+		<Value>URL do afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Fields.URL.Hint">
-		<Value>When this hyperlink is clicked from the affiliate site, this site looks for an Affiliate ID query string parameter. If one exists, the customer is tagged with that affiliate.</Value>
+		<Value>Quando este hiperlink é clicado do site do afiliado, este site procura pelo ID do Afiliado nos parâmetros da query string. Se existir um, o cliente é associado com este afiliado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Info">
-		<Value>Affiliate info</Value>
+		<Value>Informação do afiliado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.LoadOnlyWithOrders">
-		<Value>Load only with orders</Value>
+		<Value>Carregar somente com pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.LoadOnlyWithOrders.Hint">
-		<Value>Check to load affiliates only with orders placed (by affiliated customers).</Value>
+		<Value>Marque para carregar afiliados somente com pedidos feitos (por clientes afiliados).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.OrdersCreatedFromUtc">
-		<Value>Orders start date</Value>
+		<Value>Data de início de pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.OrdersCreatedFromUtc.Hint">
-		<Value>The start date for the order search.</Value>
+		<Value>A data de início para a busca de pedidos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.OrdersCreatedToUtc">
-		<Value>Orders end date</Value>
+		<Value>Data final de pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.OrdersCreatedToUtc.Hint">
-		<Value>The end date for the order search.</Value>
+		<Value>A data final para a busca de pedidos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchFirstName">
-		<Value>First name</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchFirstName.Hint">
-		<Value>Search by a first name.</Value>
+		<Value>Buscar por primeiro nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchFriendlyUrlName">
-		<Value>Friendly URL name</Value>
+		<Value>Nome de URL amigável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchFriendlyUrlName.Hint">
-		<Value>Search by a friendly URL name.</Value>
+		<Value>Buscar por nome de URL amigável.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchLastName">
-		<Value>Last name</Value>
+		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.List.SearchLastName.Hint">
-		<Value>Search by a last name.</Value>
+		<Value>Buscar por sobrenome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders">
-		<Value>Affiliated orders</Value>
+		<Value>Pedidos afiliados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.CreatedOn">
 		<Value>Criado em</Value>
@@ -1486,40 +1486,40 @@
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.EndDate">
-		<Value>End date</Value>
+		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.OrderStatus">
 		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.OrderStatus.Hint">
-		<Value>Search by a specific order status e.g. Complete.</Value>
+		<Value>Buscar por status específico de pedido, por exemplo, Completo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.OrderTotal">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.PaymentStatus.Hint">
-		<Value>Search by a specific payment status e.g. Paid.</Value>
+		<Value>Buscar por satus específico de pagamento, por exemplo, Pago.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.ShippingStatus">
-		<Value>Shipping status</Value>
+		<Value>Status do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.ShippingStatus.Hint">
-		<Value>Search by a specific shipping status e.g. Not yet shipped.</Value>
+		<Value>Buscar por status específico de envio, por exemplo, Ainda não enviado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Orders.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início da busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Affiliates.Updated">
-		<Value>The affiliate has been updated successfully.</Value>
+		<Value>O afiliado foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog">
 		<Value>Catálogo</Value>
@@ -1615,109 +1615,109 @@
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this attribute to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+		<Value>Opção para limitar este atributo à uma certa loja. Se você tem várias lojas, escolha uma ou várias da lista. Se você não usar esta opção apenas deixe este campo em branco.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.MaxLength">
-		<Value>Maximum length</Value>
+		<Value>Tamanho máximo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.MaxLength.Hint">
-		<Value>Specify maximum length. Leave empty to skip this validation.</Value>
+		<Value>Especifique o tamanho máximo. Deixe vazio para pular esta validação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.MinLength">
-		<Value>Minimum length</Value>
+		<Value>Tamanho mínimo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.MinLength.Hint">
-		<Value>Specify minimum length. Leave empty to skip this validation.</Value>
+		<Value>Especifique o tamanho mínimo. Deixe vazio para pular esta validação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.Name.Hint">
-		<Value>The name of the checkout attribute.</Value>
+		<Value>O nome do atributo de checkout.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.ShippableProductRequired">
-		<Value>Shippable product required</Value>
+		<Value>Produto que pode ser enviado é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.ShippableProductRequired.Hint">
-		<Value>An option indicating whether shippable products are required in order to display this attribute.</Value>
+		<Value>Uma opção que indica se produtos que podem ser enviados são obrigatórios no pedido para mosrar este atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TaxCategory">
 		<Value>Categoria de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TaxCategory.Hint">
-		<Value>The tax classification for this attribute (used to calculate tax). You can manage tax categories by selecting Configuration : Tax : Tax Categories.</Value>
+		<Value>A categoria de imposto para este atributo (usado para calcular imposto). Você pode gerenciar categorias de imposto na seção Configuração : Imposto : Categorias de Imposto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TextPrompt">
-		<Value>Text prompt</Value>
+		<Value>Prompt de texto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Fields.TextPrompt.Hint">
-		<Value>Enter text prompt.</Value>
+		<Value>Insira o prompt de texto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Info">
-		<Value>Attribute info</Value>
+		<Value>Informações do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values">
-		<Value>Attribute values</Value>
+		<Value>Valores de atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.AddNew">
-		<Value>Add a new checkout value</Value>
+		<Value>Adicionar um novo valor de checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.EditValueDetails">
-		<Value>Edit checkout value details</Value>
+		<Value>Editar detalhes do valor de checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.ColorSquaresRgb">
-		<Value>RGB color</Value>
+		<Value>Cor RGB</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.ColorSquaresRgb.Hint">
-		<Value>Choose color to be used with the color squares attribute control.</Value>
+		<Value>Escolha a cor a ser usada com os atributos de quadrado de cor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.DisplayOrder.Hint">
-		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+		<Value>A ordem de exibição do valor de atributo. 1 representa o primeiro item na lista de valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.IsPreSelected">
-		<Value>Pre-selected</Value>
+		<Value>Pré-selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.IsPreSelected.Hint">
-		<Value>Determines whether this attribute value is pre-selected for the customer.</Value>
+		<Value>Determina se este valor de atributo é pré-selecionado para o cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.Name.Hint">
-		<Value>The name of the checkout value.</Value>
+		<Value>O nome do valor de checkout.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.PriceAdjustment">
-		<Value>Price adjustment</Value>
+		<Value>Ajuste de preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.PriceAdjustment.Hint">
-		<Value>The price adjustment applied when choosing this attribute value e.g. '10' to add 10 dollars.</Value>
+		<Value>O ajuse de preço aplicado quando escolher este valor de atributo, por exemplo, '10' para adicionar 10 reais.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.WeightAdjustment">
-		<Value>Weight adjustment</Value>
+		<Value>Ajuste de peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.Fields.WeightAdjustment.Hint">
-		<Value>The weight adjustment applied when choosing this attribute value.</Value>
+		<Value>O ajust de peso aplicado quando escolher este valor de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Values.SaveBeforeEdit">
-		<Value>You need to save the checkout attribute before you can add values for this checkout attribute page.</Value>
+		<Value>Você precisa salvar o atributo de checkout antes de poder adicionar valores nesta página de atributo de checkout.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes">
 		<Value>Atributos do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.AddNew">
 		<Value>Add a new product attribute</Value>
@@ -2578,7 +2578,7 @@
 		<Value>The additional shipping charge.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AdminComment">
-		<Value>Comentário do Admin</Value>
+		<Value>Comentário do Administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.AdminComment.Hint">
 		<Value>Este comentário é somente para uso interno, invisível para cliente.</Value>
@@ -7102,7 +7102,7 @@
 		<Value>Additional shipping charge</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AllowAddingOnlyExistingAttributeCombinations">
 		<Value>Allow only existing attribute combinations</Value>
@@ -8185,10 +8185,10 @@
 		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.AdminComment.Hint">
-		<Value>Admin comment. For internal use.</Value>
+		<Value>Comentário do administrador. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Fields.Name">
 		<Value>Nome</Value>
@@ -9736,10 +9736,10 @@
 		<Value>Is this customer's account active. To disable/suspend a customer's account, uncheck this.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.AdminComment">
-		<Value>Comentário do admin</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.AdminComment.Hint">
-		<Value>Comentário do admin. Para uso interno.</Value>
+		<Value>Comentário do administrador. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate">
 		<Value>Afiliado</Value>
@@ -11314,7 +11314,7 @@
 		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AdminComment.Button">
-		<Value>Defnir comentário do administrador</Value>
+		<Value>Definir comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.AdminComment.Hint">
 		<Value>Comentário do administrador. Para uso interno.</Value>
@@ -13270,10 +13270,10 @@
 		<Value>A value indicating whether the vendor is active.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.AdminComment">
-		<Value>Admin comment</Value>
+		<Value>Comentário do administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.AdminComment.Hint">
-		<Value>Admin comment. For internal use.</Value>
+		<Value>Comentário do administrador. Para uso interno.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.AllowCustomersToSelectPageSize">
 		<Value>Allow customers to select page size</Value>
