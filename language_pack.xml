@@ -487,34 +487,34 @@
 		<Value>New Customer</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.NewCustomerText">
-		<Value>By creating an account on our website you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.</Value>
+		<Value>Ao criar uma conta no nosso website você poderá comprar mais rápido, ficar atualizado sobre o status dos pedidos, e acompanhar os pedidos feitos anteriormente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.ReturningCustomer">
-		<Value>Returning Customer</Value>
+		<Value>Cliente existente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Unsuccessful">
-		<Value>Login was unsuccessful. Please correct the errors and try again.</Value>
+		<Value>Login mal sucedido. Por favor corrija os erros e tente novamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Welcome">
-		<Value>Welcome, Please Sign In!</Value>
+		<Value>Bem vindo, Por favor faça o Login!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials">
-		<Value>The credentials provided are incorrect</Value>
+		<Value>As credenciais fornecidas estão incorretas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials.CustomerNotExist">
-		<Value>No customer account found</Value>
+		<Value>Nenhuma conta de cliente encontrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials.Deleted">
-		<Value>Customer is deleted</Value>
+		<Value>O cliente foi excluído</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials.LockedOut">
-		<Value>Customer is locked out</Value>
+		<Value>O cliente está bloqueado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials.NotActive">
-		<Value>Account is not active</Value>
+		<Value>A conta não está ativa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.WrongCredentials.NotRegistered">
-		<Value>Account is not registered</Value>
+		<Value>A conta não está registrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Logout">
 		<Value>Sair</Value>
@@ -547,19 +547,19 @@
 		<Value>Insira seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.EmailHasBeenSent">
-		<Value>Email with instructions has been sent to you.</Value>
+		<Value>Um email com instruções foi enviado para você.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.EmailNotFound">
 		<Value>Email não encontrado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.LinkExpired">
-		<Value>Your password recovery link is expired</Value>
+		<Value>Seu link de recuperação de senha expirou</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword">
 		<Value>Nova senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.EnteredPasswordsDoNotMatch">
-		<Value>The new password and confirmation password do not match.</Value>
+		<Value>A nova senha e confirmação de senha não correspondem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.NewPassword.LengthValidation">
 		<Value>A senha deve ter pelo menos {0} caracteres.</Value>
@@ -583,10 +583,10 @@
 		<Value>Recuperar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.Tooltip">
-		<Value>Please enter your email address below. You will receive a link to reset your password.</Value>
+		<Value>Por favor insira seu endereço de email abaixo. Você irá receber um link para redefinir sua senha.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.PasswordRecovery.WrongToken">
-		<Value>Wrong password recovery token</Value>
+		<Value>Token de recuperação de senha incorreto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Preferences">
 		<Value>Preferências</Value>
@@ -598,37 +598,37 @@
 		<Value>Registrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.EmailAlreadyExists">
-		<Value>The specified email already exists</Value>
+		<Value>O endereço de email especificado já existe</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.EmailIsNotProvided">
 		<Value>Email é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.PasswordIsNotProvided">
-		<Value>Password is not provided</Value>
+		<Value>Senha não fornecida</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.UsernameAlreadyExists">
-		<Value>The specified username already exists</Value>
+		<Value>O nome de usuário especificado já existe</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
 		<Value>Nome de usuário é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.AdminApproval">
-		<Value>Your account will be activated after approving by administrator.</Value>
+		<Value>Sua conta será ativada após aprovação do administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.Continue">
-		<Value>Continue</Value>
+		<Value>Continuar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.Disabled">
-		<Value>Registration not allowed. You can edit this in the admin area.</Value>
+		<Value>Registro não permitido. Você pode editar isto na área de administração.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.EmailValidation">
-		<Value>Your registration has been successfully completed. You have just been sent an email containing membership activation instructions.</Value>
+		<Value>Seu registro foi concluído com sucesso. Acabamos de enviar um e-mail contendo as instruções de ativação de adesão.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.Standard">
 		<Value>Seu registro está completo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Unsuccessful">
-		<Value>Registration was not complete. Please correct the errors and try again.</Value>
+		<Value>O registro não foi concluído. Por favor corrija os erros e tente novamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.RewardPoints">
 		<Value>Pontos de recompensa</Value>
@@ -16294,7 +16294,7 @@
 		<Value>Please enter some search keyword</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.IncludeSubCategories">
-		<Value>Automatically search sub categories</Value>
+		<Value>Buscar automaticamente nas sub-categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.Manufacturer">
 		<Value>Fabricante</Value>
@@ -16318,7 +16318,7 @@
 		<Value>Buscar nas descrições dos produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTerm">
-		<Value>Buscar por palavra-chave</Value>
+		<Value>Termo da pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchTermMinimumLengthIsNCharacters">
 		<Value>O tamanho mínimo da pesquisa é de {0} caracteres</Value>
