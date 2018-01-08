@@ -25,7 +25,7 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.EmailAlreadyExists">
-		<Value>A user with the specified email has been already registered. If this is your account, and you want to associate it with '{0}' external record, please login firstly.</Value>
+		<Value>Um usuário com o email especificado já foi registrado. Se esta é a sua conta, e você quer associá-la com '{0}' registro externo, por favor faça o login primeiro.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.AssociatedExternalAuth.ExternalIdentifier">
 		<Value>Identificador externo</Value>
@@ -55,10 +55,10 @@
 		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.Description">
-		<Value>You will receive an e-mail when a particular product is back in stock.</Value>
+		<Value>Você irá receber um e-mail quando um produto específico voltar ao estoque.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.NoSubscriptions">
-		<Value>You are not currently subscribed to any Back In Stock notification lists</Value>
+		<Value>Você não está atualmente inscrito em qualquer Volta em Estoque lista de notificações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.ProductColumn">
 		<Value>Produto</Value>
@@ -70,10 +70,10 @@
 		<Value>Mudar senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.EmailIsNotProvided">
-		<Value>Email is not entered</Value>
+		<Value>Email não inserido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.EmailNotFound">
-		<Value>The specified email could not be found</Value>
+		<Value>O email especificado não pôde ser encontrado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.OldPasswordDoesntMatch">
 		<Value>A senha antiga não corresponde</Value>
@@ -82,7 +82,7 @@
 		<Value>A senha não for inserida</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Errors.PasswordMatchesWithPrevious">
-		<Value>You entered the password that is the same as one of the last passwords you used. Please create a new password.</Value>
+		<Value>Você inseriu uma senha que é igual à uma das umas últimas senha que você usou. Por favor crie uma senha nova.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword">
 		<Value>Confirmar senha</Value>
@@ -124,10 +124,10 @@
 		<Value>Nome de usuário atual</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.EnterUsername">
-		<Value>Please enter username</Value>
+		<Value>Por favor insira o nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.NotAvailable">
-		<Value>Username not available</Value>
+		<Value>Nome de usuário indisponível</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CompanyDetails">
 		<Value>Dados da Empresa</Value>
@@ -136,7 +136,7 @@
 		<Value>Endereços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses.AddNew">
-		<Value>Add new address</Value>
+		<Value>Adicionar novo endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerAddresses.Edit">
 		<Value>Editar endereço</Value>
@@ -175,31 +175,31 @@
 		<Value>Cancelar pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.CycleInfo">
-		<Value>Cycle info</Value>
+		<Value>Informações do ciclo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.CyclesRemaining">
-		<Value>Cycles remaining</Value>
+		<Value>Ciclos restantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.InitialOrder">
-		<Value>Initial order</Value>
+		<Value>Pedido inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.NextPayment">
 		<Value>Próximo pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.RetryLastPayment">
-		<Value>Retry last payment</Value>
+		<Value>Tentar novamente o último pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.StartDate">
-		<Value>Start date</Value>
+		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.TotalCycles">
-		<Value>Total cycles</Value>
+		<Value>Total de ciclos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.RecurringOrders.ViewInitialOrder">
-		<Value>View order (Order number - {0})</Value>
+		<Value>Ver pedido (Número do pedido - {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerOrders.ReturnItems">
-		<Value>Return Item(s)</Value>
+		<Value>Devolver Item(ns)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews">
 		<Value>Minhas avaliações de produtos</Value>
@@ -214,37 +214,37 @@
 		<Value>Você ainda não escreveu nenhuma avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerProductReviews.ProductReviewFor">
-		<Value>Product review for</Value>
+		<Value>Avaliação de produto para</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests">
-		<Value>Return requests</Value>
+		<Value>Pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Action">
-		<Value>Return Action:</Value>
+		<Value>Ação de Devolução:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Comments">
 		<Value>Seus Comentários:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Date">
-		<Value>Date Requested:</Value>
+		<Value>Data do Pedido:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Item">
-		<Value>Returned Item:</Value>
+		<Value>Item Devolvido:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Reason">
-		<Value>Return Reason:</Value>
+		<Value>Motivo da Devolução:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Title">
-		<Value>Return #{0} - {1}</Value>
+		<Value>Devolução #{0} - {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.UploadedFile">
 		<Value>Arquivo enviado:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.UploadedFile.Download">
-		<Value>Download</Value>
+		<Value>Baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.DownloadableProducts">
-		<Value>Produtos para download</Value>
+		<Value>Produtos para baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation">
 		<Value>Validação de email</Value>
@@ -313,7 +313,7 @@
 		<Value>Data de nascimento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth.MinimumAge">
-		<Value>You have to be {0}</Value>
+		<Value>Você precisa ter {0} anos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.DateOfBirth.Required">
 		<Value>Data de nascimento é obrigatório</Value>
@@ -322,7 +322,7 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Email.EnteredEmailsDoNotMatch">
-		<Value>The email and confirmation email do not match.</Value>
+		<Value>O email e email de confirmação não correspondem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Email.Required">
 		<Value>Email é obrigatório.</Value>
@@ -331,7 +331,7 @@
 		<Value>Novo email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.EmailToRevalidate.Note">
-		<Value>(not validated yet)</Value>
+		<Value>(não validado ainda)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Fax">
 		<Value>Fax</Value>
@@ -367,16 +367,16 @@
 		<Value>Senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password.EnteredPasswordsDoNotMatch">
-		<Value>The password and confirmation password do not match.</Value>
+		<Value>A senha e a confirmação da senha não correspondem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password.LengthValidation">
-		<Value>The password should have at least {0} characters.</Value>
+		<Value>A senha deve ter pelo menos {0} caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Password.Required">
 		<Value>Senha é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Phone">
-		<Value>Phone</Value>
+		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Phone.Required">
 		<Value>Telefone é obrigatório</Value>
@@ -391,16 +391,16 @@
 		<Value>Estado é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StreetAddress">
-		<Value>Street address</Value>
+		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StreetAddress.Required">
-		<Value>Street address is required</Value>
+		<Value>Endereço é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StreetAddress2">
-		<Value>Street address 2</Value>
+		<Value>Complemento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.StreetAddress2.Required">
-		<Value>Street address 2 is required</Value>
+		<Value>Complemento é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Timezone">
 		<Value>Fuso horário</Value>
@@ -412,10 +412,10 @@
 		<Value>Nome de usuário é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.VatNumber">
-		<Value>VAT number</Value>
+		<Value>Número IVA</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.VatNumber.Note">
-		<Value>NOTE: Enter VAT number with country code (e.g. GB 111 111 11)</Value>
+		<Value>NOTA: Insira o número IVA com o código do país (por exemplo, GB 111 111 11)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.VatNumber.Status">
 		<Value>Status</Value>
@@ -430,37 +430,37 @@
 		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions">
-		<Value>Forum subscriptions</Value>
+		<Value>Assinaturas do Fórum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
 		<Value>Excluir Selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.Description">
-		<Value>You will receive an e-mail when a new forum topic/post is created.</Value>
+		<Value>Você irá receber um e-mail quando um novo tópico/postagem for criado(a).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.InfoColumn">
-		<Value>Forum/Topic</Value>
+		<Value>Fórum/Tópico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.NoSubscriptions">
-		<Value>You are not currently subscribed to any forums</Value>
+		<Value>Você não está inscrito em nenhum fórum atualmente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ImpersonatedAs">
-		<Value>Impersonated as {0}</Value>
+		<Value>Personificado como {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ImpersonatedAs.Finish">
-		<Value>finish impersonated session</Value>
+		<Value>terminar sessão personificada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
-		<Value>Click here to finish impersonated session.</Value>
+		<Value>Clique aqui para finalizar a sessão personificada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login">
 		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.CheckoutAsGuest">
-		<Value>Checkout as Guest</Value>
+		<Value>Fazer o checkout como Convidado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.CheckoutAsGuestOrRegister">
-		<Value>Checkout as a guest or register</Value>
+		<Value>Fazer o checkout como convidado ou registrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.Email">
 		<Value>Email</Value>
@@ -484,7 +484,7 @@
 		<Value>Entrar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.NewCustomer">
-		<Value>New Customer</Value>
+		<Value>Novo Cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.NewCustomerText">
 		<Value>Ao criar uma conta no nosso website você poderá comprar mais rápido, ficar atualizado sobre o status dos pedidos, e acompanhar os pedidos feitos anteriormente.</Value>
@@ -658,7 +658,7 @@
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture.ErrorMessage">
-		<Value>You can add only picture file</Value>
+		<Value>Você pode adicionar somente arquivo de foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.VendorInfo.Picture.Remove">
 		<Value>Excluir foto</Value>
@@ -667,7 +667,7 @@
 		<Value>Seu endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourContactInformation">
-		<Value>Your Contact Information</Value>
+		<Value>Suas Informações de Contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.YourPassword">
 		<Value>Sua Senha</Value>
@@ -730,163 +730,163 @@
 		<Value>Novo fabricante adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewMeasureDimension">
-		<Value>Added a new measure dimension (ID = {0})</Value>
+		<Value>Nova dimensão de medida adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewMeasureWeight">
-		<Value>Added a new measure weight (ID = {0})</Value>
+		<Value>Nova dimensão de peso adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewNews">
-		<Value>Added a new news (ID = {0})</Value>
+		<Value>Nova novidade adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewProduct">
-		<Value>Added a new product ('{0}')</Value>
+		<Value>Novo produto adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewProductAttribute">
-		<Value>Added a new product attribute ('{0}')</Value>
+		<Value>Novo atributo de produto adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewSetting">
-		<Value>Added a new setting ('{0}')</Value>
+		<Value>Nova configuração adicionada ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewSpecAttribute">
-		<Value>Added a new specification attribute ('{0}')</Value>
+		<Value>Novo atributo de especificação adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewStateProvince">
-		<Value>Added a new state or province (ID = {0})</Value>
+		<Value>Novo estado adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewStore">
-		<Value>Added a new store (ID = {0})</Value>
+		<Value>Nova loja adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewTopic">
-		<Value>Added a new topic ('{0}')</Value>
+		<Value>Novo tópico adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewVendor">
-		<Value>Added a new vendor (ID = {0})</Value>
+		<Value>Novo fornecedor adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewWarehouse">
-		<Value>Added a new warehouse (ID = {0})</Value>
+		<Value>Novo armazén adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewWidget">
-		<Value>Added a new widget (ID = {0})</Value>
+		<Value>Novo widget adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteActivityLog">
-		<Value>Deleted activity log</Value>
+		<Value>Log de atividade excluído</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAddressAttribute">
-		<Value>Deleted an address attribute (ID = {0})</Value>
+		<Value>Atributo de endereço excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAddressAttributeValue">
-		<Value>Deleted an address attribute value (ID = {0})</Value>
+		<Value>Valor de atributo de endereço excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAffiliate">
-		<Value>Deleted an affiliate (ID = {0})</Value>
+		<Value>Afiliado excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteBlogPost">
-		<Value>Deleted a blog post (ID = {0})</Value>
+		<Value>Postagem do blog excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteBlogPostComment">
-		<Value>Deleted a blog post comment (ID = {0})</Value>
+		<Value>Comentário da postagem do blog excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCampaign">
-		<Value>Deleted a campaign (ID = {0})</Value>
+		<Value>Campanha excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCategory">
-		<Value>Deleted a category ('{0}')</Value>
+		<Value>Categoria excluída ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCheckoutAttribute">
-		<Value>Deleted a checkout attribute ('{0}')</Value>
+		<Value>Atributo de checkout excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCountry">
-		<Value>Deleted a country (ID = {0})</Value>
+		<Value>País excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCurrency">
-		<Value>Deleted a currency (ID = {0})</Value>
+		<Value>Moeda excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomer">
-		<Value>Deleted a customer (ID = {0})</Value>
+		<Value>Cliente excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerAttribute">
-		<Value>Deleted a customer attribute (ID = {0})</Value>
+		<Value>Atributo de cliente excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerAttributeValue">
-		<Value>Deleted a customer attribute value (ID = {0})</Value>
+		<Value>Valor de atributo de cliente excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerRole">
-		<Value>Deleted a customer role ('{0}')</Value>
+		<Value>Papél de cliente excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteDiscount">
-		<Value>Deleted a discount ('{0}')</Value>
+		<Value>Desconto excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteEmailAccount">
-		<Value>Deleted an email account (ID = {0})</Value>
+		<Value>Conta de email excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteGiftCard">
-		<Value>Deleted a gift card ('{0}')</Value>
+		<Value>Cartão presente excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteLanguage">
-		<Value>Deleted a language (ID = {0})</Value>
+		<Value>Idioma excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteManufacturer">
-		<Value>Deleted a manufacturer ('{0}')</Value>
+		<Value>Fabricante excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMeasureDimension">
-		<Value>Deleted a measure dimension (ID = {0})</Value>
+		<Value>Medida de dimensão excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMeasureWeight">
-		<Value>Deleted a measure weight (ID = {0})</Value>
+		<Value>Medida de peso excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMessageTemplate">
-		<Value>Deleted a message template (ID = {0})</Value>
+		<Value>Modelo de mensagem excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNews">
-		<Value>Deleted a news (ID = {0})</Value>
+		<Value>Novidade excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNewsComment">
-		<Value>Deleted a news comment (ID = {0})</Value>
+		<Value>Comentário de novidade excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteOrder">
-		<Value>Deleted an order (ID = {0})</Value>
+		<Value>Pedido excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeletePlugin">
-		<Value>Deleted a plugin (FriendlyName: '{0}')</Value>
+		<Value>Plugin excluído (FriendlyName: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProduct">
-		<Value>Deleted a product ('{0}')</Value>
+		<Value>Produto excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProductAttribute">
-		<Value>Deleted a product attribute ('{0}')</Value>
+		<Value>Atributo de produto excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProductReview">
-		<Value>Deleted a product review (ID = {0})</Value>
+		<Value>Avaliação de produto excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteReturnRequest">
-		<Value>Deleted a return request (ID = {0})</Value>
+		<Value>Pedido de devolução excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSetting">
-		<Value>Deleted a setting ('{0}')</Value>
+		<Value>Configuração excluída ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSpecAttribute">
-		<Value>Deleted a specification attribute ('{0}')</Value>
+		<Value>Atributo de especificação excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteStateProvince">
-		<Value>Deleted a state or province (ID = {0})</Value>
+		<Value>Estado excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteStore">
-		<Value>Deleted a store (ID = {0})</Value>
+		<Value>Loja excluída (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSystemLog">
-		<Value>Deleted system log</Value>
+		<Value>Log de sistema excluído</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteTopic">
-		<Value>Deleted a topic ('{0}')</Value>
+		<Value>Tópico excluído ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteVendor">
-		<Value>Deleted a vendor (ID = {0})</Value>
+		<Value>Fornecedor excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteWarehouse">
-		<Value>Deleted a warehouse (ID = {0})</Value>
+		<Value>Armazén excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteWidget">
-		<Value>Deleted a widget (ID = {0})</Value>
+		<Value>Widget excluído (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditActivityLogTypes">
 		<Value>Edited activity log types</Value>
