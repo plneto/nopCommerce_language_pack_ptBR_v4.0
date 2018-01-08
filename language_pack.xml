@@ -113,7 +113,7 @@
 	</LocaleResource>
 	<LocaleResource Name="Account.ChangePassword.Success">
 		<Value>A senha foi alterada</Value>
-	</LocaleResource>>
+	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.Available">
 		<Value>Nome de usuário disponível</Value>
 	</LocaleResource>
@@ -8506,7 +8506,7 @@
 		<Value>Blog post</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Comment">
-		<Value>Comment</Value>
+		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -9616,7 +9616,7 @@
 		<Value>Isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Fields.TaxExempt.Hint">
-		<Value>Check to allow customers in this role to make tax free purchases.</Value>
+		<Value>Marque para permitir que clientes com este papél possam fazer compras isentos de imposto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Updated">
 		<Value>The customer role has been updated successfully.</Value>
@@ -9631,7 +9631,7 @@
 		<Value>Activity Log Type</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog.Comment">
-		<Value>Comment</Value>
+		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ActivityLog.CreatedOn">
 		<Value>Criado em</Value>
@@ -9655,16 +9655,16 @@
 		<Value>Endereços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.AddButton">
-		<Value>Add new address</Value>
+		<Value>Adicionar novo endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.Added">
 		<Value>The new address has been added successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.AddNew">
-		<Value>Add a new address</Value>
+		<Value>Adicionar um novo endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.BackToCustomer">
-		<Value>back to customer details</Value>
+		<Value>voltar aos detalhes do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Addresses.EditAddress">
 		<Value>Editar endereço</Value>
@@ -9688,7 +9688,7 @@
 		<Value>Autenticação externa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Fields.AuthMethodName">
-		<Value>Authentication method</Value>
+		<Value>Forma de autenticação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Fields.Email">
 		<Value>Email</Value>
@@ -9868,7 +9868,7 @@
 		<Value>Última página visitada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.LastVisitedPage.Hint">
-		<Value>The last visited date (public store).</Value>
+		<Value>A data da última visita (loja pública).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Newsletter">
 		<Value>Newsletter</Value>
@@ -9916,13 +9916,13 @@
 		<Value>Street address is required</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress2">
-		<Value>Address 2</Value>
+		<Value>Complemento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress2.Hint">
-		<Value>The address 2.</Value>
+		<Value>O complemento.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress2.Required">
-		<Value>Street address 2 is required</Value>
+		<Value>Complemento é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.SystemName">
 		<Value>Nome do sistema</Value>
@@ -9946,28 +9946,28 @@
 		<Value>Please provide a username.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumber">
-		<Value>VAT number</Value>
+		<Value>Número IVA</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumber.Hint">
 		<Value>Enter company VAT number. NOTE: Enter VAT number with country code (e.g. GB 111 111 11).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumber.MarkAsInvalid">
-		<Value>Mark VAT number as invalid</Value>
+		<Value>Marcar número IVA como inválido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumber.MarkAsValid">
-		<Value>Mark VAT number as valid</Value>
+		<Value>Marcar número IVA como válido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumberStatus">
 		<Value>status: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Vendor">
-		<Value>Manager of vendor</Value>
+		<Value>Gerenciador do fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.Hint">
-		<Value>Choose a vendor associated to this customer account. When associated this customer will be able to login to the chosen vendor portal and manage his products and orders.</Value>
+		<Value>Escolha um fornecedor associado a esta conta de cliente. Quando associado este cliente poderá fazer login no portal do fornecedor escolhido e gerenciar seus produtos e pedidos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.None">
-		<Value>Not a vendor</Value>
+		<Value>Não é um fornecedor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode">
 		<Value>CEP</Value>
@@ -9979,10 +9979,10 @@
 		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.GuestsAndRegisteredRolesError">
-		<Value>The customer cannot be in both 'Guests' and 'Registered' customer roles</Value>
+		<Value>O cliente não pode estar em ambos papéis de cliente 'Convidados' e 'Registrado'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Impersonate">
-		<Value>Place order (impersonate)</Value>
+		<Value>Fazer pedido (personificar)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Impersonate.Button">
 		<Value>Fazer pedido</Value>
@@ -10000,10 +10000,10 @@
 		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles.Hint">
-		<Value>Filter by customer role.</Value>
+		<Value>Filtrar por papél de cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchCompany">
-		<Value>Company</Value>
+		<Value>Empresa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchCompany.Hint">
 		<Value>Search by company.</Value>
@@ -10024,43 +10024,43 @@
 		<Value>Email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchEmail.Hint">
-		<Value>Search by a specific email.</Value>
+		<Value>Buscar por email específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchFirstName">
-		<Value>First name</Value>
+		<Value>Primeiro nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchFirstName.Hint">
-		<Value>Search by a first name.</Value>
+		<Value>Buscar por primeiro nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchIpAddress">
-		<Value>IP address</Value>
+		<Value>Endereço de IP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchIpAddress.Hint">
-		<Value>Search by IP address.</Value>
+		<Value>Buscar por endereço de IP.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchLastName">
-		<Value>Last name</Value>
+		<Value>Sobrenome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchLastName.Hint">
-		<Value>Search by a last name.</Value>
+		<Value>Buscar por sobrenome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchPhone">
-		<Value>Phone</Value>
+		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchPhone.Hint">
-		<Value>Search by a phone number.</Value>
+		<Value>Buscar por número de telefone.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername">
 		<Value>Nome de usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername.Hint">
-		<Value>Search by a specific username.</Value>
+		<Value>Buscar por nome de usuário específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchZipCode">
-		<Value>Zip code</Value>
+		<Value>CEP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchZipCode.Hint">
-		<Value>Search by zip code.</Value>
+		<Value>Buscar por CEP.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.NonAdminNotImpersonateAsAdminError">
 		<Value>A non-admin user cannot impersonate as an administrator</Value>
@@ -10084,37 +10084,37 @@
 		<Value>Status do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.OrderTotal">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.ShippingStatus">
-		<Value>Shipping status</Value>
+		<Value>Status do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Orders.Store">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.PasswordChanged">
-		<Value>The password has been changed successfully.</Value>
+		<Value>A senha foi alterada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ReSendActivationMessage">
-		<Value>Re-send activation message</Value>
+		<Value>Reenviar mensagem de ativação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.ReSendActivationMessage.Success">
-		<Value>Activation email has been successfully sent.</Value>
+		<Value>Email de ativação foi enviado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints">
 		<Value>Pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.ActivatedLater">
-		<Value>The points will be activated on {0}</Value>
+		<Value>Os pontos serão ativados em {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.AddButton">
-		<Value>Add (reduce) reward points</Value>
+		<Value>Adicionar (reduzir) pontos de recompensa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.AddTitle">
-		<Value>Add (reduce) points</Value>
+		<Value>Adicionar (reduzir) pontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.AddRewardPointsMessage">
 		<Value>Mensagem</Value>
@@ -10141,7 +10141,7 @@
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.Points">
-		<Value>Points</Value>
+		<Value>Pontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.RewardPoints.Fields.PointsBalance">
 		<Value>Points balance</Value>
@@ -10150,13 +10150,13 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail">
-		<Value>Send email</Value>
+		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.Body">
-		<Value>The email body</Value>
+		<Value>O corpo do email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.Body.Hint">
-		<Value>Enter the message.</Value>
+		<Value>Insira a mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.DontSendBeforeDate">
 		<Value>Planned date of sending</Value>
@@ -10168,22 +10168,22 @@
 		<Value>The email has been queued successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.SendImmediately">
-		<Value>Send immediately</Value>
+		<Value>Enviar imediatamente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.SendImmediately.Hint">
-		<Value>Send message immediately.</Value>
+		<Value>Enviar mensagem imediatamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.Subject">
-		<Value>The subject</Value>
+		<Value>O assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendEmail.Subject.Hint">
-		<Value>Enter the subject of email.</Value>
+		<Value>Insira o assunto do email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendPM">
-		<Value>Send private message</Value>
+		<Value>Enviar mensagem privada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendPM.Message">
-		<Value>The message</Value>
+		<Value>A mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendPM.Message.Hint">
 		<Value>Enter the message of PM.</Value>
@@ -10192,13 +10192,13 @@
 		<Value>The PM has been sent successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendPM.Subject">
-		<Value>The subject</Value>
+		<Value>O assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendPM.Subject.Hint">
 		<Value>Enter the subject of PM.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendWelcomeMessage">
-		<Value>Send welcome message</Value>
+		<Value>Enviar mensagem de boas vindas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.SendWelcomeMessage.Success">
 		<Value>Welcome email has been successfully sent.</Value>
@@ -10216,16 +10216,16 @@
 		<Value>Note: if you have a vendor associated with this customer, then also ensure it is in "Vendors" customer role.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Guest">
-		<Value>Guest</Value>
+		<Value>Convidado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers">
 		<Value>Clientes online</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.CustomerInfo">
-		<Value>Customer info</Value>
+		<Value>Informações do cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.IPAddress">
-		<Value>IP Address</Value>
+		<Value>Endereço de IP</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.IPAddress.Disabled">
 		<Value>"Store IP addresses" setting is disabled</Value>
@@ -10240,7 +10240,7 @@
 		<Value>"Store last visited page" setting is disabled</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.Location">
-		<Value>Location</Value>
+		<Value>Localização</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports">
 		<Value>Relatórios de clientes</Value>
@@ -10255,7 +10255,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.Customer">
 		<Value>Cliente</Value>
@@ -10264,7 +10264,7 @@
 		<Value>Number of orders</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.OrderTotal">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.OrderStatus">
 		<Value>Status do pedido</Value>
@@ -10273,13 +10273,13 @@
 		<Value>Search by a specific order status e.g. Complete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.PaymentStatus.Hint">
 		<Value>Search by a specific payment status e.g. Paid.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.ShippingStatus">
-		<Value>Shipping status</Value>
+		<Value>Status do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.ShippingStatus.Hint">
 		<Value>Search by a specific shipping status e.g. Not yet shipped.</Value>
@@ -10288,43 +10288,43 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.BestBy.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics">
-		<Value>New customers</Value>
+		<Value>Novos clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Month">
 		<Value>Mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Week">
-		<Value>Week</Value>
+		<Value>Semana</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.CustomerStatistics.Year">
 		<Value>Ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers">
-		<Value>Registered customers</Value>
+		<Value>Clientes registrados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Customers">
-		<Value>Count</Value>
+		<Value>Contagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Period">
 		<Value>Period</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Period.14days">
-		<Value>In the last 14 days</Value>
+		<Value>Nos últimos 14 dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Period.7days">
-		<Value>In the last 7 days</Value>
+		<Value>Nos últimos 7 dias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Period.month">
-		<Value>In the last month</Value>
+		<Value>No último mês</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Period.year">
-		<Value>In the last year</Value>
+		<Value>No último ano</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Reports.RunReport">
-		<Value>Run report</Value>
+		<Value>Executar relatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Dashboard">
 		<Value>Painel de início</Value>
@@ -10354,94 +10354,94 @@
 		<Value>Pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Dashboard.NumberOfPendingReturnRequests">
-		<Value>Pedidos pendente de devolução</Value>
+		<Value>Pedidos de devolução pendente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.DownloadUploadedFile">
-		<Value>Download uploaded file</Value>
+		<Value>Baixar arquivo enviado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.DownloadURL">
-		<Value>Download URL</Value>
+		<Value>URL para baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.DownloadURLSaved">
-		<Value>Download object is saved</Value>
+		<Value>Objeto de download foi salvo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.RemoveDownload">
-		<Value>Remove download</Value>
+		<Value>Excluír download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.SaveDownloadURL">
-		<Value>Save download</Value>
+		<Value>Salvar download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.UploadFile">
-		<Value>Upload file</Value>
+		<Value>Enviar arquivo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Download.UseDownloadURL">
-		<Value>Use download URL</Value>
+		<Value>Usar URL para baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards">
 		<Value>Cartões presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Added">
-		<Value>The new gift card has been added successfully.</Value>
+		<Value>O novo cartão presente foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.AddNew">
-		<Value>Add a new gift card</Value>
+		<Value>Adicionar um novo cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.BackToList">
-		<Value>back to gift card list</Value>
+		<Value>voltar à lista de cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Deleted">
-		<Value>The gift card has been deleted successfully.</Value>
+		<Value>O cartão presente foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.EditGiftCardDetails">
-		<Value>Edit gift card details</Value>
+		<Value>Editar detalhes do cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.Amount">
-		<Value>Initial value</Value>
+		<Value>Valor inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.Amount.Hint">
-		<Value>The initial value of this gift card.</Value>
+		<Value>O valor inicial deste cartão presente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.CreatedOn">
-		<Value>Creation date</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.CreatedOn.Hint">
-		<Value>The date/time the gift card was created/purchased.</Value>
+		<Value>A data/hora em que o cartão presente foi criado/comprado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.CustomOrderNumber">
-		<Value>Order</Value>
+		<Value>Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.CustomOrderNumber.Hint">
-		<Value>The gift card was purchased with this order.</Value>
+		<Value>O cartão presente foi comprado com este pedido.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.GiftCardCouponCode">
-		<Value>Coupon code</Value>
+		<Value>Código do cupom</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.GiftCardCouponCode.Generate">
-		<Value>Generate code</Value>
+		<Value>Gerar código</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.GiftCardCouponCode.Hint">
-		<Value>The gift card coupon code (used during checkout).</Value>
+		<Value>O código do cupom do cartão presente (usar durante o checkout).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.GiftCardType">
-		<Value>Gift card type</Value>
+		<Value>Tipo de cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.GiftCardType.Hint">
-		<Value>The gift card type.</Value>
+		<Value>O tipo de cartão presente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.IsGiftCardActivated">
-		<Value>Is gift card activated</Value>
+		<Value>O cartão presente está ativado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.IsGiftCardActivated.Hint">
-		<Value>Determines whether gift this card is activated and can be used.</Value>
+		<Value>Determina se este cartão presente está ativado e pode ser usado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.IsRecipientNotified">
-		<Value>Is recipient notified</Value>
+		<Value>O destinatário foi notificado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.IsRecipientNotified.Hint">
-		<Value>Is recipient notified.</Value>
+		<Value>O destinatário foi notificado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.IsRecipientNotified.Notify">
-		<Value>Notify recipient</Value>
+		<Value>Notificar destinatário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.Message">
 		<Value>Mensagem</Value>
@@ -10450,43 +10450,43 @@
 		<Value>Enter message.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.OrderId">
-		<Value>Order</Value>
+		<Value>Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.OrderId.Hint">
-		<Value>The gift card was purchased with this order.</Value>
+		<Value>O cartão presente foi comprado com este pedido.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RecipientEmail">
-		<Value>Recipient's Email</Value>
+		<Value>Email do Destinatário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RecipientEmail.Hint">
-		<Value>Enter recipient's email.</Value>
+		<Value>Insira o email do destinatário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RecipientName">
-		<Value>Recipient's Name</Value>
+		<Value>Nome do Destinatário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RecipientName.Hint">
-		<Value>Enter recipient's name.</Value>
+		<Value>Insira o nome do destinatário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RemainingAmount">
-		<Value>Remaining amount</Value>
+		<Value>Montante restante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.RemainingAmount.Hint">
-		<Value>The remaining amount of this gift card.</Value>
+		<Value>O montante restante deste cartão presente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.SenderEmail">
-		<Value>Sender's Email</Value>
+		<Value>Email do Remetente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.SenderEmail.Hint">
-		<Value>Enter sender's email.</Value>
+		<Value>Insira o email do remetente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.SenderName">
-		<Value>Sender's Name</Value>
+		<Value>Nome do Remetente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.Fields.SenderName.Hint">
-		<Value>Sender's name is required.</Value>
+		<Value>Nome do remetente é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.History">
-		<Value>Usage history</Value>
+		<Value>Histórico de uso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.GiftCards.History.CreatedOn">
 		<Value>Used</Value>
@@ -10852,7 +10852,7 @@
 		<Value>incl tax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.OrderTotal">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.OrderTotal.Hint">
 		<Value>The total cost of this order (includes discounts, shipping and tax).</Value>
@@ -10900,7 +10900,7 @@
 		<Value>incl tax</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.PaymentStatus.Hint">
 		<Value>The status of the payment.</Value>
@@ -10969,7 +10969,7 @@
 		<Value>The customers chosen shipping method for this order. You can manage shipping methods from Configuration : Shipping : Shipping Methods.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.ShippingStatus">
-		<Value>Shipping status</Value>
+		<Value>Status do envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Fields.ShippingStatus.Hint">
 		<Value>The status of the shipping.</Value>
@@ -11035,7 +11035,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.GoDirectlyToNumber">
 		<Value>Go directly to order #</Value>
@@ -11083,7 +11083,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.List.Store">
 		<Value>Loja</Value>
@@ -11476,7 +11476,7 @@
 		<Value>Evento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShipmentStatusEvents.Location">
-		<Value>Location</Value>
+		<Value>Localização</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ShippedDate">
 		<Value>Data de envio</Value>
@@ -11752,7 +11752,7 @@
 		<Value>Check to apply discount to subcategories of the selected parent. But please note that it can affect performance if you have a lot of nested subcategories.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.CouponCode">
-		<Value>Coupon code</Value>
+		<Value>Código do cupom</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.Fields.CouponCode.Hint">
 		<Value>The discount coupon code.</Value>
@@ -11857,7 +11857,7 @@
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.History.OrderTotal">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.IgnoreDiscounts.Warning">
 		<Value>In order to use this functionality you have to disable the following setting: Configuration &gt; Catalog settings &gt; Ignore discounts (sitewide).</Value>
@@ -11866,7 +11866,7 @@
 		<Value>Discount info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.List.SearchDiscountCouponCode">
-		<Value>Coupon code</Value>
+		<Value>Código do cupom</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.Discounts.List.SearchDiscountCouponCode.Hint">
 		<Value>Search by discount coupon code.</Value>
@@ -11980,7 +11980,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.SearchActive">
 		<Value>Ativo</Value>
@@ -12013,7 +12013,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.RecurringPayments">
 		<Value>Pagamentos recorrentes</Value>
@@ -12247,7 +12247,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchEndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchReturnRequestStatus">
 		<Value>Status da devolução</Value>
@@ -12262,7 +12262,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.SearchStartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Updated">
 		<Value>The return request has been updated successfully.</Value>
@@ -12316,7 +12316,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Fields.Name">
 		<Value>Nome</Value>
@@ -12340,7 +12340,7 @@
 		<Value>Search by a specific order status e.g. Complete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.PaymentStatus.Hint">
 		<Value>Search by a specific payment status e.g. Paid.</Value>
@@ -12352,7 +12352,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Bestsellers.Store">
 		<Value>Loja</Value>
@@ -12373,13 +12373,13 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.Fields.CountryName">
 		<Value>País</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.Fields.SumOrders">
-		<Value>Order total</Value>
+		<Value>Total do pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.Fields.TotalOrders">
 		<Value>Number of orders</Value>
@@ -12391,7 +12391,7 @@
 		<Value>Search by a specific order status e.g. Complete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.PaymentStatus">
-		<Value>Payment status</Value>
+		<Value>Status do pagamento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.PaymentStatus.Hint">
 		<Value>Search by a specific payment status e.g. Paid.</Value>
@@ -12403,7 +12403,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Country.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Incomplete">
 		<Value>Incomplete orders</Value>
@@ -12436,7 +12436,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.Fields.Name">
 		<Value>Nome</Value>
@@ -12472,7 +12472,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.NeverSold.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.OrderStatistics">
 		<Value>Pedidos</Value>
@@ -12694,13 +12694,13 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.StartDate">
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.TotalDeleted">
 		<Value>{0} files were deleted</Value>
@@ -12712,7 +12712,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart">
 		<Value>Somente sem carrinhos de compra</Value>
@@ -12724,7 +12724,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Maintenance.DeleteGuests.TotalDeleted">
 		<Value>{0} customers were deleted</Value>
@@ -12889,7 +12889,7 @@
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.EndDate.Hint">
-		<Value>The end date for the search.</Value>
+		<Value>A data final para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.FromEmail">
 		<Value>From address</Value>
@@ -12919,7 +12919,7 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.StartDate.Hint">
-		<Value>The start date for the search.</Value>
+		<Value>A data de início para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.QueuedEmails.List.ToEmail">
 		<Value>To address</Value>
@@ -14542,7 +14542,7 @@
 		<Value>Latest Post</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Location">
-		<Value>Location</Value>
+		<Value>Localização</Value>
 	</LocaleResource>
 	<LocaleResource Name="Forum.Moderator">
 		<Value>Moderator</Value>
@@ -14890,7 +14890,7 @@
 		<Value>Comments</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.CommentText">
-		<Value>Comment</Value>
+		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.CommentText.Required">
 		<Value>Enter comment text</Value>
@@ -15028,7 +15028,7 @@
 		<Value>Payment method additional fee</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Phone">
-		<Value>Phone</Value>
+		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.PickupAddress">
 		<Value>Pickup point address</Value>
@@ -15097,7 +15097,7 @@
 		<Value>Pedido #</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.Phone">
-		<Value>Phone</Value>
+		<Value>Telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.PickupAddress">
 		<Value>Pickup point address</Value>
@@ -16249,7 +16249,7 @@
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.Points">
-		<Value>Points</Value>
+		<Value>Pontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="RewardPoints.Fields.PointsBalance">
 		<Value>Points balance</Value>
@@ -16804,7 +16804,7 @@
 		<Value>Enter your email address.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Required">
-		<Value>Enter your email</Value>
+		<Value>Insira seu email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.HeaderQuantity">
 		<Value>({0})</Value>
@@ -16819,9 +16819,9 @@
 		<Value>Atualizar lista de desejos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.WishlistOf">
-		<Value>Wishlist of {0}</Value>
+		<Value>Lista de desejos de {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.YourWishlistURL">
-		<Value>Your wishlist URL for sharing</Value>
+		<Value>Sua URL da lista de desejos para compartilhar</Value>
 	</LocaleResource>
 </Language>
