@@ -2098,10 +2098,10 @@
 		<Value>Marque para publicar esta categoria (visível na loja). Desmarque para despublicar (categoria indisponível na loja).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.SeName">
-		<Value>Nome amigável da página do mecanismo de busca</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.SeName.Hint">
-		<Value>Configure um nome amigável para a página do mecanismo de busca, por exemplo, 'a-melhor-categoria' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-categoria'. Deixe vazio para gerá-lo automaticamente baseado no nome da categoria.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-categoria' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-categoria'. Deixe vazio para gerá-lo automaticamente baseado no nome da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomePage">
 		<Value>Mostrar na página inicial</Value>
@@ -2263,19 +2263,19 @@
 		<Value>Tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize.Hint">
-		<Value>Set the page size for products in this manufacturer e.g. '4' products per page.</Value>
+		<Value>Configure o tamanho da página para os produtos deste fabricante, por exemplo, '4' produtos por página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize.Positive">
-		<Value>Page size should have a positive value.</Value>
+		<Value>Tamanho da página deve ter um valor positivo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSizeOptions">
-		<Value>Page Size options (comma separated)</Value>
+		<Value>Opções de Tamanho da Página (separados por vírgula)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSizeOptions.Hint">
-		<Value>Comma separated list of page size options (e.g. 10, 5, 15, 20). First option is the default page size if none are selected.</Value>
+		<Value>Lista separada por vírgula de opções de tamanho de página (por exemplo, 10, 5, 15, 20). A primeira opção é o tamanho de página padrão se nenhum estiver selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSizeOptions.ShouldHaveUniqueItems">
-		<Value>Page Size options should have unique items.</Value>
+		<Value>Opções de tamanho de página deve ter itens únicos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Picture">
 		<Value>Foto</Value>
@@ -2284,31 +2284,31 @@
 		<Value>A foto do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PriceRanges">
-		<Value>Price ranges</Value>
+		<Value>Faixas de preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PriceRanges.Hint">
-		<Value>Define the price ranges for the store price range filter. Separate ranges with a semicolon e.g. '0-199;200-300;301-;' (301- means 301 and over).</Value>
+		<Value>Defina as faixas de preço para o filtro de faixas de preço da loja. Separe as faixas com ponto e vírgula, por exemplo, '0-199;200-300;301-;' (301- significa 301 ou mais).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Published">
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Published.Hint">
-		<Value>Check to publish this manufacturer (visible in store). Uncheck to unpublish (manufacturer not available in store).</Value>
+		<Value>Marque para publicar este fabricante (visível na loja). Desmarque para despublicar (fabricante indisponível na loja).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-manufacturer' to make your page URL 'http://www.yourStore.com/the-best-manufacturer'. Leave empty to generate it automatically based on the name of the manufacturer.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'o-melhor-fabricante' para tornar a URL da sua página 'http://www.yourStore.com/o-melhor-fabricante'. Deixe vazio para gerá-lo automaticamente baseado no nome do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Imported">
 		<Value>Os fabricantes foram importados com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Info">
-		<Value>Manufacturer info</Value>
+		<Value>Informações do fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.ImportFromExcelTip">
-		<Value>Imported manufacturers are distinguished by ID. If the ID already exists, then its corresponding manufacturer will be updated. You should not specify ID (leave 0) for new manufacturers.</Value>
+		<Value>Fabricantes importados são distintos por ID. Se o ID já existe, então seu fabricante correspondente será atualizado. Você não deve especificar o ID (deixe 0) para novos fabricantes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.List.SearchManufacturerName">
 		<Value>Nome do fabricante</Value>
@@ -2332,16 +2332,16 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.IsFeaturedProduct">
-		<Value>Is featured product?</Value>
+		<Value>É produto em destaque?</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.Product">
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Products.SaveBeforeEdit">
-		<Value>You need to save the manufacturer before you can add products for this manufacturer page.</Value>
+		<Value>Você precisa salvar o fabricante antes de poder adicionar produtos nesta página de fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Updated">
-		<Value>The manufacturer has been updated successfully.</Value>
+		<Value>O fabricante foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews">
 		<Value>Avaliações de produto</Value>
@@ -2386,34 +2386,34 @@
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Product.Hint">
-		<Value>The name of the product that the review is for.</Value>
+		<Value>O nome do produto para qual a avaliação foi escrita.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Rating">
-		<Value>Rating</Value>
+		<Value>Avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Rating.Hint">
-		<Value>The customer's product rating.</Value>
+		<Value>A avaliação do produto pelo cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReplyText">
-		<Value>Reply text</Value>
+		<Value>Texto de resposta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReplyText.Hint">
-		<Value>The reply text (by a store owner). If specified, then it'll be visible to a customer. Leave empty to ignore this functionality.</Value>
+		<Value>O texto de resposta (por um dono da loja). Se especificado, então será visível ao cliente. Deixe vazio para ignorar esta funcionalidade.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText">
-		<Value>Review text</Value>
+		<Value>Text de avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText.Hint">
-		<Value>The review text.</Value>
+		<Value>O texto de avaliação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText.Required">
-		<Value>Review text is required.</Value>
+		<Value>O text de avaliação é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Store">
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Store.Hint">
-		<Value>A store name in which this review was written.</Value>
+		<Value>O nome da loja na qual esta avaliação foi escrita.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title">
 		<Value>Título</Value>
@@ -2422,40 +2422,40 @@
 		<Value>O título da avaliação do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title.Required">
-		<Value>Title is required.</Value>
+		<Value>Título é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.CreatedOnFrom">
-		<Value>Created from</Value>
+		<Value>Criado a partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.CreatedOnFrom.Hint">
-		<Value>The creation from date for the search.</Value>
+		<Value>A data "Criado a partir de" para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.CreatedOnTo">
-		<Value>Created to</Value>
+		<Value>Criado até</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.CreatedOnTo.Hint">
-		<Value>The creation to date for the search.</Value>
+		<Value>A data "Criado até" para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved">
 		<Value>Aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.All">
-		<Value>All</Value>
+		<Value>Todas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.ApprovedOnly">
-		<Value>Approved only</Value>
+		<Value>Apenas aprovadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.DisapprovedOnly">
-		<Value>Disapproved only</Value>
+		<Value>Apenas desaprovadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.Hint">
-		<Value>Search by a "Approved" property.</Value>
+		<Value>Buscar pela propriedade "Aprovada".</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchProduct">
 		<Value>Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchProduct.Hint">
-		<Value>Search by a specific product.</Value>
+		<Value>Buscar por produto específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchStore">
 		<Value>Loja</Value>
@@ -3112,10 +3112,10 @@
 		<Value>The sample download file.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-product' to make your page URL 'http://www.yourStore.com/the-best-product'. Leave empty to generate it automatically based on the name of the product.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'o-melhor-produto' para tornar a URL da sua página 'http://www.yourStore.com/o-melhor-produto'. Deixe vazio para gerá-lo automaticamente baseado no nome do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ShipSeparately">
 		<Value>Enviar separadamente</Value>
@@ -8446,10 +8446,11 @@
 		<Value>Override the page title. The default is the title of the blog post.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.SeName.Hint">
 		<Value>Set a search engine friendly page name e.g. 'the-best-blog-post' to make your page URL 'http://www.yourStore.com/the-best-blog-post'. Leave empty to generate it automatically based on the title of the blog post.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-postagem-do-blog' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-postagem-do-blog'. Deixe vazio para gerá-lo automaticamente baseado no título da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate">
 		<Value>Start date</Value>
@@ -9070,10 +9071,10 @@
 		<Value>Determines whether the news item is published (visible) in your store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-news' to make your page URL 'http://www.yourStore.com/the-best-news'. Leave empty to generate it automatically based on the title of the news.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-novidade' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-novidade'. Deixe vazio para gerá-lo automaticamente baseado no título da novidade.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Short">
 		<Value>Descrição curta</Value>
@@ -9325,10 +9326,10 @@
 		<Value>Determines whether this topic is published (visible) in your store.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'some-topic-name' to make your page URL 'http://www.yourStore.com/some-topic-name'. Leave empty to generate it automatically based on the title of the topic.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'um-nome-de-topico' para tornar a URL da sua página 'http://www.yourStore.com/um-nome-de-topico'. Deixe vazio para gerá-lo automaticamente baseado no título do tópico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store">
 		<Value>Loja</Value>
@@ -13363,10 +13364,10 @@
 		<Value>The vendor picture.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-vendor' to make your page URL 'http://www.yourStore.com/the-best-vendor'. Leave empty to generate it automatically based on the name of the vendor.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'o-melhor-fornecedor' para tornar a URL da sua página 'http://www.yourStore.com/o-melhor-fornecedor'. Deixe vazio para gerá-lo automaticamente baseado no nome do fornecedor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Vendors.Info">
 		<Value>Vendor Info</Value>
