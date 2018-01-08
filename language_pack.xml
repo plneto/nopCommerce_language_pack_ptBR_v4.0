@@ -1528,7 +1528,7 @@
 		<Value>Atributos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes">
-		<Value>Atributos do Checkout</Value>
+		<Value>Atributos de Checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Added">
 		<Value>O novo atributo foi adicionado com sucesso.</Value>
@@ -1537,7 +1537,7 @@
 		<Value>Adicionar um novo atributo do checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.BackToList">
-		<Value>Voltar para lista de atributos do checkout</Value>
+		<Value>Voltar para lista de atributos de checkout</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition">
 		<Value>Condição</Value>
@@ -1714,7 +1714,7 @@
 		<Value>Você precisa salvar o atributo de checkout antes de poder adicionar valores nesta página de atributo de checkout.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes">
-		<Value>Atributos do produto</Value>
+		<Value>Atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Added">
 		<Value>O novo atributo foi adicionado com sucesso.</Value>
@@ -1837,7 +1837,7 @@
 		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Description">
-		<Value>Atributos de especificação são funcionalidades de produtos, por exemplo, tamanho de dela, número de portas USB, visíveis na página de detalhes de produto. Atributos de especificação podem ser usados para filtrar produtos na página de detalhes de categoria. Ao contrário dos atributos do produto, atributos de especificação são usados para fins de informação. Você pode adicionar atributos aos produtos existentes na página de detalhes do produto.</Value>
+		<Value>Atributos de especificação são funcionalidades de produtos, por exemplo, tamanho de dela, número de portas USB, visíveis na página de detalhes de produto. Atributos de especificação podem ser usados para filtrar produtos na página de detalhes de categoria. Ao contrário dos atributos de produto, atributos de especificação são usados para fins de informação. Você pode adicionar atributos aos produtos existentes na página de detalhes do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.EditAttributeDetails">
 		<Value>Editar detalhes de atributo de especificação</Value>
@@ -1969,22 +1969,22 @@
 		<Value>Editar os detalhes da categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.AclCustomerRoles">
-		<Value>Limited to customer roles</Value>
+		<Value>Limitado a papéis de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.AclCustomerRoles.Hint">
-		<Value>Select customer roles for which the category will be shown. Leave empty if you want this category to be visible to all users.</Value>
+		<Value>Selecione papéis de cliente os quais a categoria será mostrada. Deixe vazio se você quiser que esta categoria fique visível para todos os usuários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.AllowCustomersToSelectPageSize">
-		<Value>Allow customers to select page size</Value>
+		<Value>Permitir que clientes selecionem o tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.AllowCustomersToSelectPageSize.Hint">
-		<Value>Whether customers are allowed to select the page size from a predefined list of options.</Value>
+		<Value>Se clientes tem permissão para selecionar o tamanho da página em uma lista pré-definida com opções.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.CategoryTemplate">
-		<Value>Category template</Value>
+		<Value>Modelo de categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.CategoryTemplate.Hint">
-		<Value>Choose a category template. This template defines how this category (and its products) will be displayed.</Value>
+		<Value>Escolha o modelo de categoria. Este modelo define como esta categoria (e seus produtos) serão mostrados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -1996,52 +1996,52 @@
 		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Description.Hint">
-		<Value>The description of the category.</Value>
+		<Value>A descrição da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts">
 		<Value>Descontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts.Hint">
-		<Value>Select discounts to apply to this category. You can manage discounts by selecting Discounts from the Promotions menu.</Value>
+		<Value>Selecione descontos para aplicar à esta categoria. Você pode gerenciar descontos ao selecionar Descontos no menu Promoções.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts.NoDiscounts">
-		<Value>No discounts available. Create at least one discount before mapping.</Value>
+		<Value>Nenhum desconto disponível. Crie pelo menos um desconto antes de mapear.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.DisplayOrder.Hint">
-		<Value>Set the category's display order. 1 represents the top of the list.</Value>
+		<Value>Configure a ordem de exibição da categoria. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.IncludeInTopMenu">
-		<Value>Include in top menu</Value>
+		<Value>Incluir no menu superior</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.IncludeInTopMenu.Hint">
-		<Value>Display in the top menu bar. If this category is a subcategory, then ensure that its parent category also has this property enabled.</Value>
+		<Value>Mostrar na barra do menu superior. Se esta categoria é uma sub-categoria, então assegure-se que a categoria pai também tem esta propriedade habilitada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this category to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+		<Value>Opção para limitar esta categoria a uma certa loja. Se você tem várias lojas, escolha uma ou várias da lista. Se você não usar esta opção apenas deixe este campo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to category page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaKeywords.Hint">
-		<Value>Meta keywords to be added to category page header.</Value>
+		<Value>Palavras-chave meta a serem adicionadas ao cabeçalho da página da categori.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.MetaTitle.Hint">
-		<Value>Override the page title. The default is the name of the category.</Value>
+		<Value>Substitui o título da página. O padrão é o nome da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Name">
 		<Value>Nome</Value>
@@ -2056,70 +2056,70 @@
 		<Value>Tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSize.Hint">
-		<Value>Set the page size for products in this category e.g. '4' products per page.</Value>
+		<Value>Configure o tamanho da página para os produtos desta categoria, por exemplo,  '4' produtos por página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSize.Positive">
-		<Value>Page size should have a positive value.</Value>
+		<Value>Tamanho da página deve ter um valor positivo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSizeOptions">
-		<Value>Page Size options (comma separated)</Value>
+		<Value>Opções de tamanho de página (separadas por vírgula)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSizeOptions.Hint">
-		<Value>Comma separated list of page size options (e.g. 10, 5, 15, 20). First option is the default page size if none are selected.</Value>
+		<Value>Lista de opções de tamanho de página (por exemplo, 10, 5, 15, 20). A primeira opção é o tamanho padrão da página se nenhuma opção estiver selecionada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PageSizeOptions.ShouldHaveUniqueItems">
-		<Value>Page Size options should not have duplicate items.</Value>
+		<Value>Opções de tamanho de página não pode ter valores duplicados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Parent">
 		<Value>Categoria pai</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Parent.Hint">
-		<Value>Select a parent category for this category. Leave this field empty to make this the root level category.</Value>
+		<Value>Selecione uma categoria pai para esta categoria. Deixe este campo vazio para tornar esta categoria como raíz.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Parent.None">
-		<Value>[None]</Value>
+		<Value>[Nenhum]</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Picture">
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Picture.Hint">
-		<Value>The category picture.</Value>
+		<Value>A foto da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PriceRanges">
-		<Value>Price ranges</Value>
+		<Value>Faixas de preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.PriceRanges.Hint">
-		<Value>Define the price ranges for the store price range filter. Separate ranges with a semicolon e.g. '0-199;200-300;301-;' (301- means 301 and over).</Value>
+		<Value>Defina as faixas de preço do filtro de faixas de preço da loja. Separe as faixas com ponto e vírgula, por exemplo, '0-199;200-300;301-;' (301- significa 301 ou mais).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Published">
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.Published.Hint">
-		<Value>Check to publish this category (visible in store). Uncheck to unpublish (category not available in store).</Value>
+		<Value>Marque para publicar esta categoria (visível na loja). Desmarque para despublicar (categoria indisponível na loja).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.SeName">
-		<Value>Search engine friendly page name</Value>
+		<Value>Nome amigável da página do mecanismo de busca</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-category' to make your page URL 'http://www.yourStore.com/the-best-category'. Leave empty to generate it automatically based on the name of the category.</Value>
+		<Value>Configure um nome amigável para a página do mecanismo de busca, por exemplo, 'a-melhor-categoria' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-categoria'. Deixe vazio para gerá-lo automaticamente baseado no nome da categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomePage">
-		<Value>Show on home page</Value>
+		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomePage.Hint">
-		<Value>Check if you want to show a category on home page.</Value>
+		<Value>Marque se você quiser mostrar a categoria na página inicial.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Import.CategoriesArentImported">
-		<Value>Categories with the following names aren''t imported - {0}</Value>
+		<Value>Categorias com os seguintes nomes não são importadas - {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Imported">
-		<Value>Categories have been imported successfully.</Value>
+		<Value>As categorias foram importadas com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Info">
-		<Value>Category info</Value>
+		<Value>informações da categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.List.ImportFromExcelTip">
-		<Value>Imported categories are distinguished by ID. If the ID already exists, then its corresponding category will be updated. You should not specify ID (leave 0) for new categories.</Value>
+		<Value>Categorias importadas são distintas por ID. Se o ID já existir, então sua categoria correspondente será atualizada. Você não deve especificar o ID (deixe 0) para novas categorias.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.List.SearchCategoryName">
 		<Value>Nome da categoria</Value>
@@ -2131,7 +2131,7 @@
 		<Value>Loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.List.SearchStore.Hint">
-		<Value>Search by a specific store.</Value>
+		<Value>Buscar por por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Manage">
 		<Value>Gerenciar Categorias</Value>
@@ -2155,7 +2155,7 @@
 		<Value>Você precisa salvar a categoria antes de poder adicionar produtos nesta página de categoria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.SwitchToListView">
-		<Value>switch to list view</Value>
+		<Value>mudar para exibição de lista</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Updated">
 		<Value>A categoria foi atualizada com sucesso.</Value>
@@ -2182,16 +2182,16 @@
 		<Value>Editar os detalhes do fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AclCustomerRoles">
-		<Value>Limited to customer roles</Value>
+		<Value>Limitado a papéis de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AclCustomerRoles.Hint">
-		<Value>Select customer roles for which the manufacturer will be shown. Leave empty if you want this manufacturer to be visible to all users.</Value>
+		<Value>Selecione papéis de cliente os quais este fabricante será mostrado. Deixe vazio se você quiser que este fabricante fique visível para todos os usuários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AllowCustomersToSelectPageSize">
 		<Value>Permitir que clientes selecionem o tamanho da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.AllowCustomersToSelectPageSize.Hint">
-		<Value>Whether customers are allowed to select the page size from a predefined list of options.</Value>
+		<Value>Se clientes tem permissão de selecionar o tamanho da página de um lista pré-definida de opções.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -2203,52 +2203,52 @@
 		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Description.Hint">
-		<Value>The description of the manufacturer.</Value>
+		<Value>A descrição do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts">
 		<Value>Descontos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts.Hint">
-		<Value>Select discounts to apply to this manufacturer. You can manage discounts by selecting Discounts from the Promotions menu.</Value>
+		<Value>Selecione descontos para aplicar a este fabricante. Você pode gerenciar descontos na página Descontos do menu Promoções.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts.NoDiscounts">
-		<Value>No discounts available. Create at least one discount before mapping.</Value>
+		<Value>Nenhum desconto disponível. Crie pelo menos um desconto antes de mapear.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.DisplayOrder.Hint">
-		<Value>Set the manufacturer's display order. 1 represents the top of the list.</Value>
+		<Value>Configure a ordem de exibição do fabricante. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this manufacturer to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+		<Value>Opção para limitar este fabricante a uma loja específica. Se você tem várias lojas, escolha uma ou várias da lista. Se você não usar esta opção apenas deixe este campo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.ManufacturerTemplate">
-		<Value>Manufacturer template</Value>
+		<Value>Modelo de fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.ManufacturerTemplate.Hint">
-		<Value>Choose a manufacturer template. This template defines how this manufacturer (and its products) will be displayed.</Value>
+		<Value>Escolha um modelo de fabricante. Este modelo define como este fabricante (e seus produtos) serão mostrados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaDescription">
-		<Value>Meta description</Value>
+		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to manufacturer page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaKeywords">
-		<Value>Meta keywords</Value>
+		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaKeywords.Hint">
-		<Value>Meta keywords to be added to manufacturer page header.</Value>
+		<Value>Palavras-chave meta a serem adicionadas ao cabeçalho da página do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaTitle">
-		<Value>Meta title</Value>
+		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.MetaTitle.Hint">
-		<Value>Override the page title. The default is the name of the manufacturer.</Value>
+		<Value>Substitui o título da página. O padrão é o nome do fabricante.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Name">
 		<Value>Nome</Value>
@@ -3355,7 +3355,7 @@
 		<Value>Preços</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes">
-		<Value>Atributos do produto</Value>
+		<Value>Atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations">
 		<Value>Attribute combinations</Value>
@@ -3656,8 +3656,8 @@
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Hint">
 		<Value>
-      Os atributos do produto são aspectos quantificáveis ou descritivos de um produto (assim como, cor). Por exemplo, se você fosse criar um atributo para cor, com os valores azul, verde, amarelo, e outras, você pode querer aplicar este atributo à camisas, as quais você vende em várias cores (você pode ajustar o preço ou peso para cada atributo existente).
-      Você pode adicionar atributos para seu produto usando a lista existente de atributos, ou se você precisar criar um atributo novo vá para Catálogo &gt; Atributos &gt; Attributos do produto. Por favor observe que se você quiser gerenciar estoque por atributo do produto (por exemplo 5 camisas verdes e 3 camisas azuis), então assegure-se que a "Forma de inventário" está configurado para "Controlar estoque por atributos do produto".
+      Os atributos de produto são aspectos quantificáveis ou descritivos de um produto (assim como, cor). Por exemplo, se você fosse criar um atributo para cor, com os valores azul, verde, amarelo, e outras, você pode querer aplicar este atributo à camisas, as quais você vende em várias cores (você pode ajustar o preço ou peso para cada atributo existente).
+      Você pode adicionar atributos para seu produto usando a lista existente de atributos, ou se você precisar criar um atributo novo vá para Catálogo &gt; Atributos &gt; Attributos do produto. Por favor observe que se você quiser gerenciar estoque por atributo do produto (por exemplo 5 camisas verdes e 3 camisas azuis), então assegure-se que a "Forma de inventário" está configurado para "Controlar estoque por atributos de produto".
 		</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.NoAttributesAvailable">
@@ -7264,7 +7264,7 @@
 		<Value>PAngV (base price) enabled</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductAttributes">
-		<Value>Atributos do produto</Value>
+		<Value>Atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductAvailabilityRange">
 		<Value>Product availability range</Value>
@@ -9451,7 +9451,7 @@
 		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Description">
-		<Value>Se os campos padrões do formulário não forem suficientes para suas necessidades, então você pode gerenciar atributos do cliente adicionais abaixo.</Value>
+		<Value>Se os campos padrões do formulário não forem suficientes para suas necessidades, então você pode gerenciar atributos de cliente adicionais abaixo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.EditAttributeDetails">
 		<Value>Editar detalhes do atributo de cliente</Value>
