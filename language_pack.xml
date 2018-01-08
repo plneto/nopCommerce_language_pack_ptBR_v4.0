@@ -676,349 +676,349 @@
 		<Value>Seus Dados Pessoais</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAddressAttribute">
-		<Value>Novo atributo de endereço adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAddressAttributeValue">
-		<Value>Novo valor de atributo de endereço adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo valor de atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAffiliate">
-		<Value>Novo afiliado adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo afiliado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewBlogPost">
-		<Value>Nova postagem do blog adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova postagem do blog (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCampaign">
-		<Value>Nova campanha adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova campanha (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCategory">
-		<Value>Nova categoria adicionada ('{0}')</Value>
+		<Value>Adicionou uma nova categoria ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCheckoutAttribute">
-		<Value>Novo atributo de checkout adicionado ('{0}')</Value>
+		<Value>Adicionou um novo atributo de checkout ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCountry">
-		<Value>Novo país adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo país (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCurrency">
-		<Value>Nova moeda adicionada (ID = {0})</Value>
+		<Value>Adicionou um nova moeda (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomer">
-		<Value>Novo cliente adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerAttribute">
-		<Value>Novo atributo de cliente adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerAttributeValue">
-		<Value>Novo valor de atributo de cliente adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo valor de atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerRole">
-		<Value>Novo papél de cliente adicionado ('{0}')</Value>
+		<Value>Adicionou um novo papél de cliente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewDiscount">
-		<Value>Novo desconto adicionado ('{0}')</Value>
+		<Value>Adicionou um novo desconto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewEmailAccount">
-		<Value>Nova conta de email adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova conta de email (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewGiftCard">
-		<Value>Novo cartão presente adicionado ('{0}')</Value>
+		<Value>Adicionou um novo cartão presente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewLanguage">
-		<Value>Novo idioma adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo idioma (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewManufacturer">
-		<Value>Novo fabricante adicionado ('{0}')</Value>
+		<Value>Adicionou um novo fabricante ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewMeasureDimension">
-		<Value>Nova dimensão de medida adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova dimensão de medida (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewMeasureWeight">
-		<Value>Nova dimensão de peso adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova dimensão de peso (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewNews">
-		<Value>Nova novidade adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova novidade (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewProduct">
-		<Value>Novo produto adicionado ('{0}')</Value>
+		<Value>Adicionou um novo produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewProductAttribute">
-		<Value>Novo atributo de produto adicionado ('{0}')</Value>
+		<Value>Adicionou um novo atributo de produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewSetting">
-		<Value>Nova configuração adicionada ('{0}')</Value>
+		<Value>Adicionou uma nova configuração ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewSpecAttribute">
-		<Value>Novo atributo de especificação adicionado ('{0}')</Value>
+		<Value>Adicionou um novo atributo de especificação ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewStateProvince">
-		<Value>Novo estado adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo estado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewStore">
-		<Value>Nova loja adicionada (ID = {0})</Value>
+		<Value>Adicionou uma nova loja (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewTopic">
-		<Value>Novo tópico adicionado ('{0}')</Value>
+		<Value>Adicionou um novo tópico ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewVendor">
-		<Value>Novo fornecedor adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo fornecedor (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewWarehouse">
-		<Value>Novo armazén adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo armazén (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewWidget">
-		<Value>Novo widget adicionado (ID = {0})</Value>
+		<Value>Adicionou um novo widget (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteActivityLog">
-		<Value>Log de atividade excluído</Value>
+		<Value>Excluiu um log de atividade</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAddressAttribute">
-		<Value>Atributo de endereço excluído (ID = {0})</Value>
+		<Value>Excluiu um atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAddressAttributeValue">
-		<Value>Valor de atributo de endereço excluído (ID = {0})</Value>
+		<Value>Excluiu um valor de atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteAffiliate">
-		<Value>Afiliado excluído (ID = {0})</Value>
+		<Value>Excluiu um afiliado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteBlogPost">
-		<Value>Postagem do blog excluída (ID = {0})</Value>
+		<Value>Excluiu uma postagem de blog (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteBlogPostComment">
-		<Value>Comentário da postagem do blog excluído (ID = {0})</Value>
+		<Value>Excluiu um comentário de postagem de blog (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCampaign">
-		<Value>Campanha excluída (ID = {0})</Value>
+		<Value>Excluiu uma campanha (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCategory">
-		<Value>Categoria excluída ('{0}')</Value>
+		<Value>Excluiu uma categoria ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCheckoutAttribute">
-		<Value>Atributo de checkout excluído ('{0}')</Value>
+		<Value>Excluiu um atributo de checkout ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCountry">
-		<Value>País excluído (ID = {0})</Value>
+		<Value>Excluiu um país (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCurrency">
-		<Value>Moeda excluída (ID = {0})</Value>
+		<Value>Excluiu uma moeda (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomer">
-		<Value>Cliente excluído (ID = {0})</Value>
+		<Value>Excluiu um cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerAttribute">
-		<Value>Atributo de cliente excluído (ID = {0})</Value>
+		<Value>Excluiu um atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerAttributeValue">
-		<Value>Valor de atributo de cliente excluído (ID = {0})</Value>
+		<Value>Excluiu um valor de atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteCustomerRole">
-		<Value>Papél de cliente excluído ('{0}')</Value>
+		<Value>Excluiu um papél de cliente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteDiscount">
-		<Value>Desconto excluído ('{0}')</Value>
+		<Value>Excluiu um desconto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteEmailAccount">
-		<Value>Conta de email excluída (ID = {0})</Value>
+		<Value>Excluiu uma conta de email (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteGiftCard">
-		<Value>Cartão presente excluído ('{0}')</Value>
+		<Value>Excluiu um cartão presente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteLanguage">
-		<Value>Idioma excluído (ID = {0})</Value>
+		<Value>Excluiu um idioma (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteManufacturer">
-		<Value>Fabricante excluído ('{0}')</Value>
+		<Value>Excluiu um fabricante ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMeasureDimension">
-		<Value>Medida de dimensão excluída (ID = {0})</Value>
+		<Value>Excluiu uma medida de dimensão (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMeasureWeight">
-		<Value>Medida de peso excluída (ID = {0})</Value>
+		<Value>Excluiu uma medida de peso (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteMessageTemplate">
-		<Value>Modelo de mensagem excluído (ID = {0})</Value>
+		<Value>Excluiu um modelo de mensagem (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNews">
-		<Value>Novidade excluída (ID = {0})</Value>
+		<Value>Excluiu uma novidade (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNewsComment">
-		<Value>Comentário de novidade excluído (ID = {0})</Value>
+		<Value>Excluiu um comentário de novidade (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteOrder">
-		<Value>Pedido excluído (ID = {0})</Value>
+		<Value>Excluiu um pedido (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeletePlugin">
-		<Value>Plugin excluído (FriendlyName: '{0}')</Value>
+		<Value>Excluiu um plugin (FriendlyName: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProduct">
-		<Value>Produto excluído ('{0}')</Value>
+		<Value>Excluiu um produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProductAttribute">
-		<Value>Atributo de produto excluído ('{0}')</Value>
+		<Value>Excluiu um atributo de produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteProductReview">
-		<Value>Avaliação de produto excluída (ID = {0})</Value>
+		<Value>Excluiu uma avaliação de produto (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteReturnRequest">
-		<Value>Pedido de devolução excluído (ID = {0})</Value>
+		<Value>Excluiu um pedido de devolução (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSetting">
-		<Value>Configuração excluída ('{0}')</Value>
+		<Value>Excluiu uma configuração ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSpecAttribute">
-		<Value>Atributo de especificação excluído ('{0}')</Value>
+		<Value>Excluiu um atributo de especificação ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteStateProvince">
-		<Value>Estado excluído (ID = {0})</Value>
+		<Value>Excluiu um estado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteStore">
-		<Value>Loja excluída (ID = {0})</Value>
+		<Value>Excluiu uma loja (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteSystemLog">
-		<Value>Log de sistema excluído</Value>
+		<Value>Excluiu um log de sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteTopic">
-		<Value>Tópico excluído ('{0}')</Value>
+		<Value>Excluiu um tópico ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteVendor">
-		<Value>Fornecedor excluído (ID = {0})</Value>
+		<Value>Excluiu um fornecedor (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteWarehouse">
-		<Value>Armazén excluído (ID = {0})</Value>
+		<Value>Excluiu um armazén (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteWidget">
-		<Value>Widget excluído (ID = {0})</Value>
+		<Value>Excluiu um widget (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditActivityLogTypes">
-		<Value>Edited activity log types</Value>
+		<Value>Editou um tipo de log de atividade</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditAddressAttribute">
-		<Value>Edited an address attribute (ID = {0})</Value>
+		<Value>Editou um atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditAddressAttributeValue">
-		<Value>Edited an address attribute value (ID = {0})</Value>
+		<Value>Editou um valor de atributo de endereço (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditAffiliate">
-		<Value>Edited an affiliate (ID = {0})</Value>
+		<Value>Editou um afiliado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditBlogComment">
-		<Value>Edited a blog comment (ID = {0})</Value>
+		<Value>Editou um comentário de blog (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditBlogPost">
-		<Value>Edited a blog post (ID = {0})</Value>
+		<Value>Editou uma postagem de blog (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCampaign">
-		<Value>Edited a campaign (ID = {0})</Value>
+		<Value>Editou uma campanha (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCategory">
-		<Value>Edited a category ('{0}')</Value>
+		<Value>Editou uma categoria ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCheckoutAttribute">
-		<Value>Edited a checkout attribute ('{0}')</Value>
+		<Value>Editou um atributo do checkout ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCountry">
-		<Value>Edited a country (ID = {0})</Value>
+		<Value>Editou um país (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCurrency">
-		<Value>Edited a currency (ID = {0})</Value>
+		<Value>Editou uma moeda (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCustomer">
-		<Value>Edited a customer (ID = {0})</Value>
+		<Value>Editou um cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCustomerAttribute">
-		<Value>Edited a customer attribute (ID = {0})</Value>
+		<Value>Editou um atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCustomerAttributeValue">
-		<Value>Edited a customer attribute value (ID = {0})</Value>
+		<Value>Editou um valor de atributo de cliente (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditCustomerRole">
-		<Value>Edited a customer role ('{0}')</Value>
+		<Value>Editou um papél de cliente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditDiscount">
-		<Value>Edited a discount ('{0}')</Value>
+		<Value>Editou um desconto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditEmailAccount">
-		<Value>Edited an email account (ID = {0})</Value>
+		<Value>Editou uma conta de email (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditGiftCard">
-		<Value>Edited a gift card ('{0}')</Value>
+		<Value>Editou um cartão presente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditLanguage">
-		<Value>Edited a language (ID = {0})</Value>
+		<Value>Editou um idioma (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditManufacturer">
-		<Value>Edited a manufacturer ('{0}')</Value>
+		<Value>Editou um fabricante ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditMeasureDimension">
-		<Value>Edited a measure dimension (ID = {0})</Value>
+		<Value>Editou uma medida de dimensão (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditMeasureWeight">
-		<Value>Edited a measure weight (ID = {0})</Value>
+		<Value>Editou uma medida de peso (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditMessageTemplate">
-		<Value>Edited a message template (ID = {0})</Value>
+		<Value>Editou um modelo de mensagem (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditNews">
-		<Value>Edited a news (ID = {0})</Value>
+		<Value>Editou uma novidade (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditNewsComment">
-		<Value>Edited a news comment (ID = {0})</Value>
+		<Value>Editou um comentário de novidade (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditOrder">
-		<Value>Edited an order (Order number = {0}). See order notes for details</Value>
+		<Value>Editou um pedido (Número do pedido = {0}). Veja as observações do pedido para detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditPlugin">
-		<Value>Edited a plugin (FriendlyName: '{0}')</Value>
+		<Value>Editou um plugin (Nome amigável: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditProduct">
-		<Value>Edited a product ('{0}')</Value>
+		<Value>Editou um produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditProductAttribute">
-		<Value>Edited a product attribute ('{0}')</Value>
+		<Value>Editou um atributo de produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditProductReview">
-		<Value>Edited a product review (ID = {0})</Value>
+		<Value>Editou uma avaliação de produto (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditReturnRequest">
-		<Value>Edited a return request (ID = {0})</Value>
+		<Value>Editou um pedido de devolução (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditSettings">
-		<Value>Edited settings</Value>
+		<Value>Editou uma configuração</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditSpecAttribute">
-		<Value>Edited a specification attribute ('{0}')</Value>
+		<Value>Editou um atributo de especificação ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditStateProvince">
-		<Value>Edited a state or province (ID = {0})</Value>
+		<Value>Editou um estado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditStore">
-		<Value>Edited a store (ID = {0})</Value>
+		<Value>Editou uma loja (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditTask">
-		<Value>Edited a task (ID = {0})</Value>
+		<Value>Editou uma tarefa (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditTopic">
-		<Value>Edited a topic ('{0}')</Value>
+		<Value>Editou um tópico ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditVendor">
-		<Value>Edited a vendor (ID = {0})</Value>
+		<Value>Editou um fornecedor (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditWarehouse">
-		<Value>Edited a warehouse (ID = {0})</Value>
+		<Value>Editou um armazén (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditWidget">
-		<Value>Edited a widget (ID = {0})</Value>
+		<Value>Editou um widget (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.Impersonation.Finished.Customer">
-		<Value>Impersonation by store owner was finished (Email: {0}, ID = {1})</Value>
+		<Value>Personificação por dono de loja foi terminada (Email: {0}, ID = {1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.Impersonation.Finished.StoreOwner">
-		<Value>Finished customer impersonation (Email: {0}, ID = {1})</Value>
+		<Value>Terminou personificação de cliente (Email: {0}, ID = {1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.Impersonation.Started.Customer">
-		<Value>Impersonated by store owner (Email: {0}, ID = {1})</Value>
+		<Value>Personificação por dono de loja (Email: {0}, ID = {1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.Impersonation.Started.StoreOwner">
-		<Value>Started customer impersonation (Email: {0}, ID = {1})</Value>
+		<Value>Começou personificação de cliente (Email: {0}, ID = {1})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.ImportCategories">
 		<Value>{0} categorias foram importadas</Value>
@@ -1033,13 +1033,13 @@
 		<Value>{0} estados foram importados</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.InstallNewPlugin">
-		<Value>Installed a new plugin (FriendlyName: '{0}')</Value>
+		<Value>Instalou um novo plugin (Nome amigável: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddBlogComment">
-		<Value>Added a blog comment</Value>
+		<Value>Adicionou um novo comentário de blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddNewsComment">
-		<Value>Added a news comment</Value>
+		<Value>Adicionou um novo comentário de novidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
 		<Value>Adicionou uma avaliação de produto ('{0}')</Value>
@@ -1054,7 +1054,7 @@
 		<Value>Adicionou um produto à lista de desejos ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ContactUs">
-		<Value>Used contact us form</Value>
+		<Value>Usou formulário de contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.Login">
 		<Value>Entrar</Value>
@@ -1066,40 +1066,40 @@
 		<Value>Fez um novo pedido (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.SendPM">
-		<Value>Sent PM to customer ('{0}')</Value>
+		<Value>Enviou mensagem privada ao cliente ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewCategory">
-		<Value>Loja pública. Viewed a category details page ('{0}')</Value>
+		<Value>Loja pública. Visualizou uma página de detalhes de categoria ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewManufacturer">
-		<Value>Loja pública. Viewed a manufacturer details page ('{0}')</Value>
+		<Value>Loja pública. Visualizou uma página de detalhes de fabricante ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.ViewProduct">
-		<Value>Loja pública. Viewed a product details page ('{0}')</Value>
+		<Value>Loja pública. Visualizou uma página de detalhes de produto ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.UninstallPlugin">
-		<Value>Uninstalled a plugin (FriendlyName: '{0}')</Value>
+		<Value>Desinstalou um plugin (Nome amigável: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.UploadNewPlugin">
-		<Value>Uploaded a new plugin (FriendlyName: '{0}')</Value>
+		<Value>Fez upload de um novo plugin (Nome amigável: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.UploadNewTheme">
-		<Value>Uploaded a new theme (FriendlyName: '{0}')</Value>
+		<Value>Fez upload de um novo tema (Nome amigável: '{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address">
 		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address1">
-		<Value>Endereço 1</Value>
+		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address1.Required">
-		<Value>Endereço 1 é obrigatório.</Value>
+		<Value>Endereço é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address2">
-		<Value>Address 2</Value>
+		<Value>Complemento</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.Address2.Required">
-		<Value>Endereço 2 é obrigatório.</Value>
+		<Value>Complemento é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.Fields.City">
 		<Value>Cidade</Value>
@@ -1162,7 +1162,7 @@
 		<Value>CEP é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.OtherNonUS">
-		<Value>Other (Non US)</Value>
+		<Value>Outro (Fora dos EUA)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Address.SelectCountry">
 		<Value>Selecione o país</Value>
@@ -1171,31 +1171,31 @@
 		<Value>Selecione o estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin">
-		<Value>Admin</Value>
+		<Value>Administrador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.AccessDenied.Description">
-		<Value>You do not have permission to perform the selected operation.</Value>
+		<Value>Você não tem permissão para executar a operação selecionada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.AccessDenied.Title">
-		<Value>Access denied.</Value>
+		<Value>Accesso negado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address">
 		<Value>Endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes">
-		<Value>Custom address attributes</Value>
+		<Value>Atributos de endereço personalizados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.AddNew">
-		<Value>Add a new address attribute</Value>
+		<Value>Adicionar um novo atributo de endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.BackToList">
-		<Value>back to address attribute list</Value>
+		<Value>voltar à lista de atributos de endereço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Deleted">
-		<Value>The attribute has been deleted successfully.</Value>
+		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Address.AddressAttributes.Description">
 		<Value>If the default form fields are not enough for your needs, then you can manage additional address attributes below.</Value>
