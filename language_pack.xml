@@ -676,58 +676,58 @@
 		<Value>Seus Dados Pessoais</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAddressAttribute">
-		<Value>Added a new address attribute (ID = {0})</Value>
+		<Value>Novo atributo de endereço adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAddressAttributeValue">
-		<Value>Added a new address attribute value (ID = {0})</Value>
+		<Value>Novo valor de atributo de endereço adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewAffiliate">
-		<Value>Added a new affiliate (ID = {0})</Value>
+		<Value>Novo afiliado adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewBlogPost">
-		<Value>Added a new blog post (ID = {0})</Value>
+		<Value>Nova postagem do blog adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCampaign">
-		<Value>Added a new campaign (ID = {0})</Value>
+		<Value>Nova campanha adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCategory">
-		<Value>Added a new category ('{0}')</Value>
+		<Value>Nova categoria adicionada ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCheckoutAttribute">
-		<Value>Added a new checkout attribute ('{0}')</Value>
+		<Value>Novo atributo de checkout adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCountry">
-		<Value>Added a new country (ID = {0})</Value>
+		<Value>Novo país adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCurrency">
-		<Value>Added a new currency (ID = {0})</Value>
+		<Value>Nova moeda adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomer">
-		<Value>Added a new customer (ID = {0})</Value>
+		<Value>Novo cliente adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerAttribute">
-		<Value>Added a new customer attribute (ID = {0})</Value>
+		<Value>Novo atributo de cliente adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerAttributeValue">
-		<Value>Added a new customer attribute value (ID = {0})</Value>
+		<Value>Novo valor de atributo de cliente adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewCustomerRole">
-		<Value>Added a new customer role ('{0}')</Value>
+		<Value>Novo papél de cliente adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewDiscount">
-		<Value>Added a new discount ('{0}')</Value>
+		<Value>Novo desconto adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewEmailAccount">
-		<Value>Added a new email account (ID = {0})</Value>
+		<Value>Nova conta de email adicionada (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewGiftCard">
-		<Value>Added a new gift card ('{0}')</Value>
+		<Value>Novo cartão presente adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewLanguage">
-		<Value>Added a new language (ID = {0})</Value>
+		<Value>Novo idioma adicionado (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewManufacturer">
-		<Value>Added a new manufacturer ('{0}')</Value>
+		<Value>Novo fabricante adicionado ('{0}')</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewMeasureDimension">
 		<Value>Added a new measure dimension (ID = {0})</Value>
@@ -5803,25 +5803,25 @@
 		<Value>Check if you want to allow customers to display "unsubscribe" option in the newsletter block.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterEnabled">
-		<Value>'Newsletter' enabled</Value>
+		<Value>'Newsletter' habilitada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterEnabled.Hint">
-		<Value>Set if 'Newsletter' is enabled.</Value>
+		<Value>Configure se a 'Newsletter' está habilitada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterTickedByDefault">
-		<Value>Newsletter ticked by default</Value>
+		<Value>Newsletter marcada por padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterTickedByDefault.Hint">
 		<Value>A value indicating whether 'Newsletter' checkbox is ticked by default on the registration page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NotifyNewCustomerRegistration">
-		<Value>Notify about new customer registration</Value>
+		<Value>Notificar sobre novos registros de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NotifyNewCustomerRegistration.Hint">
-		<Value>Notify the store owner when a new customer is registered.</Value>
+		<Value>Notificar o dono da loja quando um novo cliente for registrado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime">
-		<Value>Password lifetime</Value>
+		<Value>Expiração da senha</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime.Hint">
 		<Value>Specify number of days for password expiration. Don't forget to check "EnablePasswordLifetime" property on customer role edit page for those roles, who will have to change passwords.</Value>
@@ -6322,7 +6322,7 @@
 		<Value>Display EU cookie law warning</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning.Hint">
-		<Value>Make the site EU cookie law compliant. When enabled, new customers will see an appropriate warning box.</Value>
+		<Value>Fazer o site complacente com a lei de cookie da EU. Quando habilitado, novos clientes irão ver uma caixa de aviso apropriada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableCssBundling">
 		<Value>CSS bundling and minification</Value>
@@ -9436,97 +9436,97 @@
 		<Value>Clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes">
-		<Value>Custom customer attributes</Value>
+		<Value>Atributos personalizados de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.AddNew">
-		<Value>Add a new customer attribute</Value>
+		<Value>Adicionar um novo atributo de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.BackToList">
-		<Value>back to customer attribute list</Value>
+		<Value>voltar à lista de atributos de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Deleted">
-		<Value>The attribute has been deleted successfully.</Value>
+		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Description">
-		<Value>If the default form fields are not enough for your needs, then you can manage additional customer attributes below.</Value>
+		<Value>Se os campos padrões do formulário não forem suficientes para suas necessidades, então você pode gerenciar atributos do cliente adicionais abaixo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.EditAttributeDetails">
-		<Value>Edit customer attribute details</Value>
+		<Value>Editar detalhes do atributo de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.AttributeControlType">
-		<Value>Control type</Value>
+		<Value>Tipo de controle</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.AttributeControlType.Hint">
-		<Value>Choose how to display your attribute values.</Value>
+		<Value>Escolha como mostrar seus valores do atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.DisplayOrder.Hint">
-		<Value>The customer attribute display order. 1 represents the first item in the list.</Value>
+		<Value>A ordem de exibição do atributo do cliente. 1 representa o primeiro item da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.IsRequired">
-		<Value>Required</Value>
+		<Value>Obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.IsRequired.Hint">
-		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
+		<Value>Quando um atributo é obrigatório, o cliente deve escolher um valor apropriado para o atributo ants de poder continuar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.Name.Hint">
-		<Value>The name of the customer attribute.</Value>
+		<Value>O nome do atributo de cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Info">
-		<Value>Attribute info</Value>
+		<Value>Informações do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values">
-		<Value>Attribute values</Value>
+		<Value>Valores do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.AddNew">
-		<Value>Add a new customer value</Value>
+		<Value>Adicionar um novo valor de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.EditValueDetails">
-		<Value>Edit customer value details</Value>
+		<Value>Editar detalhes de valor de cliente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.DisplayOrder.Hint">
-		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+		<Value>A ordem de exibição do valor do atributo. 1 representa o primeiro item na lista de valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.IsPreSelected">
-		<Value>Pre-selected</Value>
+		<Value>Pré-selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.IsPreSelected.Hint">
-		<Value>Determines whether this attribute value is pre-selected for the customer.</Value>
+		<Value>Determina se este valor de atributo é pré-selecionado para o cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.Name.Hint">
-		<Value>The name of the customer value.</Value>
+		<Value>O nome do valor do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerAttributes.Values.SaveBeforeEdit">
-		<Value>You need to save the customer attribute before you can add values for this customer attribute page.</Value>
+		<Value>Você precisa salvar o atributo de cliente antes de poder adicionar valores para esta página de atributos de cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles">
 		<Value>Papéis de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.Added">
-		<Value>The new customer role has been added successfully.</Value>
+		<Value>O novo papél de cliente foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.CustomerRoles.AddNew">
 		<Value>Add a new customer role</Value>
