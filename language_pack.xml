@@ -1720,31 +1720,31 @@
 		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.AddNew">
-		<Value>Add a new product attribute</Value>
+		<Value>Adicionar um novo atributo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.BackToList">
-		<Value>back to product attribute list</Value>
+		<Value>voltar à lista de atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Deleted">
-		<Value>The attribute has been deleted successfully.</Value>
+		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Description">
-		<Value>Product attributes are quantifiable or descriptive aspects of a product (such as, color). For example, if you were to create an attribute for color, with the values of blue, green, yellow, and so on, you may want to apply this attribute to shirts, which you sell in various colors (you can adjust a price or weight for any of existing attribute values). You can add attributes to existing product on a product details page.</Value>
+		<Value>Atributos de produto são aspectos quantificáveis ou descritivos de um produto (assim como, cor). Por exemplo, se você criasse um atributo para cor, com os valores azul, verde, amarelo, e outras, você pode querer aplicar este atributo a camisas, as quais você vende em várias cores (você pode ajustar o preço ou peso de cada valor existende de atributo). Você pode adicionar atributos à produtos existentes na página de detalhes do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.EditAttributeDetails">
-		<Value>Edit product attribute details</Value>
+		<Value>Editar detalhes de atributo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Description">
 		<Value>Descrição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Description.Hint">
-		<Value>The description of the product attribute.</Value>
+		<Value>A descrião do atributo de produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Name.Hint">
-		<Value>The name of the product attribute.</Value>
+		<Value>O nome do atributo de produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
@@ -1753,67 +1753,67 @@
 		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues">
-		<Value>Predefined values</Value>
+		<Value>Valores pré-definidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.AddNew">
-		<Value>Add a new value</Value>
+		<Value>Adicionar um novo valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.EditValueDetails">
-		<Value>Edit value</Value>
+		<Value>Editar valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Cost">
-		<Value>Cost</Value>
+		<Value>Custo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Cost.Hint">
-		<Value>The attribute value cost is the cost of all the different components which make up this value. This may be either the purchase price if the components are bought from outside suppliers, or the combined cost of materials and manufacturing processes if the component is made in-house.</Value>
+		<Value>O custo do valor do atributo é o custo de todos os componentes diferentes que compõem este valor. Isto pode ser tanto quanto o preço de compra se os componentes forem comprados de fornecedores de fora, ou o custo combinado dos materiais e processo de fabricação se o componente é feito internamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.DisplayOrder.Hint">
-		<Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+		<Value>A ordem de exibição do valor de atributo. 1 representa o primeiro item da lista de valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.IsPreSelected">
-		<Value>Is pre-selected</Value>
+		<Value>É pré-selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.IsPreSelected.Hint">
-		<Value>Determines whether this attribute value is pre-selected for the customer.</Value>
+		<Value>Determina se este valor de atributo é pré-selecionado para o cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Name.Hint">
-		<Value>The attribute value name e.g. 'Blue' for Color attributes.</Value>
+		<Value>O nom do valor de atributo, por exemplo, 'Azul' para atributos de Cor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.PriceAdjustment">
-		<Value>Price adjustment</Value>
+		<Value>Ajuste de preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.PriceAdjustment.Hint">
-		<Value>The price adjustment applied when choosing this attribute value e.g. '10' to add 10 dollars.</Value>
+		<Value>O ajuste de preço aplicado quando escolher este valor de atributo, por exemplo, '10' para adicionar 10 reais.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.WeightAdjustment">
-		<Value>Weight adjustment</Value>
+		<Value>Ajuste de peso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Fields.WeightAdjustment.Hint">
-		<Value>The weight adjustment applied when choosing this attribute value.</Value>
+		<Value>O ajuste de peso aplicado quando escolher este valor de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.Hint">
-		<Value>Predefined (default) values are helpful for a store owner when creating new products. Then when you add the attribute to a product, you don't have to create the values again.</Value>
+		<Value>Valores pré-definidos (padrão) são úteis para um dono de loja ao criar novos produtos. Então quando você adicionar o atributo a um produto, você não precisa criar os valores mais uma vez.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.PredefinedValues.SaveBeforeEdit">
-		<Value>You need to save the product attribute before you can add values for this page.</Value>
+		<Value>Você precisa salvar o atributo de produto antes de poder adicionar valores nesta página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.UsedByProducts">
-		<Value>Used by products</Value>
+		<Value>Usado por produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.UsedByProducts.Hint">
-		<Value>Here you can see a list of products which use this attribute.</Value>
+		<Value>Aqui você pode ver uma lista de produtos que usam este atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.UsedByProducts.Product">
 		<Value>Produto</Value>
@@ -1825,40 +1825,40 @@
 		<Value>Atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.AddNew">
-		<Value>Add a new specification attribute</Value>
+		<Value>Adicionar um novo atributo de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.BackToList">
-		<Value>back to specification attribute list</Value>
+		<Value>voltar à lista de atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Deleted">
-		<Value>The attribute has been deleted successfully.</Value>
+		<Value>O atributo foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Description">
-		<Value>Specification attributes are product features i.e, screen size, number of USB-ports, visible on product details page. Specification attributes can be used for filtering products on the category details page. Unlike product attributes, specification attributes are used for information purposes only. You can add attributes to existing product on a product details page.</Value>
+		<Value>Atributos de especificação são funcionalidades de produtos, por exemplo, tamanho de dela, número de portas USB, visíveis na página de detalhes de produto. Atributos de especificação podem ser usados para filtrar produtos na página de detalhes de categoria. Ao contrário dos atributos do produto, atributos de especificação são usados para fins de informação. Você pode adicionar atributos aos produtos existentes na página de detalhes do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.EditAttributeDetails">
-		<Value>Edit specification attribute details</Value>
+		<Value>Editar detalhes de atributo de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.DisplayOrder.Hint">
-		<Value>The display order of the specification attribute.</Value>
+		<Value>A ordem de exibição do atributo de especificação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.Name.Hint">
-		<Value>The name of the specification attribute.</Value>
+		<Value>O nome do atributo de especificação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Info">
-		<Value>Attribute info</Value>
+		<Value>Informações do atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options">
 		<Value>Opções</Value>
@@ -1867,25 +1867,25 @@
 		<Value>Adicionar uma nova opção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.EditOptionDetails">
-		<Value>Edit option details</Value>
+		<Value>Editar detalhes da opção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.ColorSquaresRgb">
-		<Value>RGB color</Value>
+		<Value>Cor RGB</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.ColorSquaresRgb.Hint">
-		<Value>Choose color to be used instead of an option text name (it'll be displayed as "color square").</Value>
+		<Value>Escolha a cor a ser usada ao invéz de uma opção com texto (a opção será mostrada como "quadrado colorido").</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.DisplayOrder.Hint">
-		<Value>The display order of the option.</Value>
+		<Value>A ordem de exibição da opção.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.EnableColorSquaresRgb">
-		<Value>Specify color</Value>
+		<Value>Especifique a cor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.EnableColorSquaresRgb.Hint">
-		<Value>Check to choose color to be used instead of an option text name (it'll be displayed as "color square").</Value>
+		<Value>Marque para escolher a cor a ser usada ao invéz de uma opção com texto (a opção será mostrada como "quadrado colorido").</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.Name">
 		<Value>Nome</Value>
@@ -1897,10 +1897,10 @@
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.Fields.NumberOfAssociatedProducts">
-		<Value>Number of associated products</Value>
+		<Value>Número de produtos associados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Options.SaveBeforeEdit">
-		<Value>You need to save the specification attribute before you can add options for this specification attribute page.</Value>
+		<Value>Você precisa salvar o atributo de especificação antes de poder adicionar opções nesta página de atributo de especificação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Updated">
 		<Value>O atributo foi atualizado com sucesso.</Value>
@@ -11527,7 +11527,7 @@
 		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Display">
-		<Value>{0} - {1} of {2} itens</Value>
+		<Value>{0} - {1} of {2} item(ns)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Pager.Empty">
 		<Value>Nenhum item para mostrar</Value>
