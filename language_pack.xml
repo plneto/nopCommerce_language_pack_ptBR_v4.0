@@ -15274,7 +15274,7 @@
 		<Value>Mensagens Privadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductEmailAFriend">
-		<Value>Envar Email para Amigo</Value>
+		<Value>Envar Email para Amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductReviews">
 		<Value>Product Reviews</Value>
@@ -15862,34 +15862,34 @@
 		<Value>Baixar amostra</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend">
-		<Value>Envie um e-mail para um amigo</Value>
+		<Value>Envie um e-mail para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.Button">
 		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail">
-		<Value>Email do amigo(a)</Value>
+		<Value>Email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail.Hint">
-		<Value>Insira o email do amigo(a).</Value>
+		<Value>Insira o email do(a) amigo(a).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.FriendEmail.Required">
-		<Value>Insira o email do amigo(a)</Value>
+		<Value>Insira o email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.OnlyRegisteredUsers">
-		<Value>Somente clientes registrados podem usar a funcionalidade "Envie um e-mail para um amigo"</Value>
+		<Value>Somente clientes registrados podem usar a funcionalidade "Envie um e-mail para um(a) amigo(a)"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.PersonalMessage">
-		<Value>Mensagem Pessoal</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.PersonalMessage.Hint">
-		<Value>Insira uma mensagem pessoal (opcional).</Value>
+		<Value>Insira uma mensagem (opcional).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.SuccessfullySent">
 		<Value>Sua mensagem foi enviada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.Title">
-		<Value>Envie um e-mail para um amigo</Value>
+		<Value>Envie um e-mail para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.EmailAFriend.YourEmailAddress">
 		<Value>Seu endereço de email</Value>
