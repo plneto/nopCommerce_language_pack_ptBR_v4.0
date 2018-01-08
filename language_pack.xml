@@ -8449,7 +8449,6 @@
 		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.SeName.Hint">
-		<Value>Set a search engine friendly page name e.g. 'the-best-blog-post' to make your page URL 'http://www.yourStore.com/the-best-blog-post'. Leave empty to generate it automatically based on the title of the blog post.</Value>
 		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-postagem-do-blog' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-postagem-do-blog'. Deixe vazio para gerá-lo automaticamente baseado no título da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate">
