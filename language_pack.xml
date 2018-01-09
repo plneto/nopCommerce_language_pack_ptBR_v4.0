@@ -2782,79 +2782,79 @@
 		<Value>GTIN (global trade item number)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.GTIN.Hint">
-		<Value>Enter global trade item number (GTIN). These identifiers include UPC (in North America), EAN (in Europe), JAN (in Japan), and ISBN (for books).</Value>
+		<Value>Insira o global trade item number (GTIN). Estes identificadores incluem UPC (na América do Norte), EAN (na Europa), JAN (no Japão), e ISBN (para livros).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.HasSampleDownload">
-		<Value>Has sample download file</Value>
+		<Value>Tem um arquivo de download de amostra</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.HasSampleDownload.Hint">
-		<Value>You can download file using URL or uploading from the computer. If you want to download file using URL check the box Use download URL.</Value>
+		<Value>Você pode baixar o arquivo usando uma URL ou enviar de um computador. Se você quiser baixar o arquivo usando uma URL marque a caixa Usar URL para baixar.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.HasUserAgreement">
-		<Value>Has user agreement</Value>
+		<Value>Tem Termo de Acordo do Usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.HasUserAgreement.Hint">
-		<Value>Select this checkbox if the customer has a user agreement (a customer must agree with this user agreement when trying to download the product).</Value>
+		<Value>Marque esta caixa se o cliente tem um termo de acordo do usuário (o cliente deve concordar com este termo de acordo do usuário quando tentar baixar o produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Height">
-		<Value>Height</Value>
+		<Value>Altura</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Height.Hint">
-		<Value>The product height.</Value>
+		<Value>A altura do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ID">
 		<Value>ID</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ID.Hint">
-		<Value>The product identifier.</Value>
+		<Value>O identificador do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsDownload">
-		<Value>Downloadable product</Value>
+		<Value>Produto para baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsDownload.Hint">
-		<Value>Check if the product is downloadable. When customers purchase a downloadable product, they can download it direct from your store. The link will be visible after checkout.</Value>
+		<Value>Marque se o produto é entregue pela internet (por download). Quando clientes comprarem um produto para baixar, eles podem baixá-lo diretamente da sua loja. O link ficará visível após o checkout.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsFreeShipping">
-		<Value>Free shipping</Value>
+		<Value>Frete grátis</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsFreeShipping.Hint">
-		<Value>Check if this product comes with FREE shipping.</Value>
+		<Value>Marque se este produto tem frete grátis.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsGiftCard">
-		<Value>Is gift card</Value>
+		<Value>É cartão presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsGiftCard.Hint">
-		<Value>Check if it is a gift card. After adding gift card products to the shopping cart and completing the purchases, you can then search and view the list of all the purchased gift cards by selecting Gift Cards from the Sales menu.</Value>
+		<Value>Marque se este produto é cartão presente. Após adicionar produtos cartão presente ao carrinho de compras e completar as compras, você pode então buscar e ver a lista de todos os cartões presente comprados indo à página Cartões Presente do menu Vendas.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRecurring">
 		<Value>Produto recorrente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRecurring.Hint">
-		<Value>Check if it is a recurring product. For any product, you can define a recurring cycle to enable the system to automatically create orders that repeat when a customer purchases such products.</Value>
+		<Value>Marque se o produto é recorrente. Para qualquer produto, você pode definir um ciclo recorrente para habilitar o sistema a automaticamente criar pedidos que repetem quando um cliente compra tais produtos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRental">
-		<Value>Is rental</Value>
+		<Value>É aluguel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsRental.Hint">
-		<Value>Check if this is a rental product (price is set for some period). Please note that inventory management is not fully supported for rental products yet. It's recommended to set 'Manage inventory method' to 'Don't track inventory' now.</Value>
+		<Value>Marque se este é um produto de aluguel (preço é configurado para um período). Por favor observe que o gerenciamento de invenário não totalmente suportado para produtos de aluguel ainda. É recomendado configurar 'Gerenciar forma de inventário' como 'Não acompanhe o inventário' no momento.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsShipEnabled">
 		<Value>Envio habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsShipEnabled.Hint">
-		<Value>Check if the product can be shipped. You can manage shipping settings by selecting Configuration &gt; Shipping.</Value>
+		<Value>Marque se o produto pode ser enviado. Você pode gerenciar configurações de envio na página Configuração &gt; Envio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTaxExempt">
 		<Value>Isento de imposto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTaxExempt.Hint">
-		<Value>Determines whether this product is tax exempt (tax will not be applied to this product at checkout).</Value>
+		<Value>Determina se este produto é isento de imposto (imposto não será aplicado a este produto no checkout).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTelecommunicationsOrBroadcastingOrElectronicServices">
-		<Value>Telecommunications, broadcasting and electronic services</Value>
+		<Value>Telecomunicações, radiodifusão e serviços eletrônicos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.IsTelecommunicationsOrBroadcastingOrElectronicServices.Hint">
-		<Value>Check if it's telecommunications, broadcasting and electronic services. It's used for tax calculation in Europe Union.</Value>
+		<Value>Marque se é telecomunicações, radiodifusão e serviços electrónicos. É usado para o cálculo do imposto na União Européia.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Length">
 		<Value>Comprimento</Value>
