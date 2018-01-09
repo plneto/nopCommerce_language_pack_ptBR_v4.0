@@ -2866,31 +2866,31 @@
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this product to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty. In order to use this functionality you have to disable the following setting: Configuration &gt; Catalog settings &gt; Ignore "limit per store" rules (sitewide).</Value>
+		<Value>Opção para limitar este produto a uma certa loja. Se você tem várias lojas, escolha uma ou mais na lista. Se você não usar esta opção apenas deixe este campo vazio. Para poder usar esta funcionalidade você tem que desativar as seguintes configurações: Configuração &gt; Configurações de catálogo &gt; Ignorar regra "limite por loja" (em todo o site).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LowStockActivity">
-		<Value>Low stock activity</Value>
+		<Value>Atividade de estoque baixo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.LowStockActivity.Hint">
-		<Value>Action to be taken when your current stock quantity falls below (reaches) the 'Minimum stock quantity'.</Value>
+		<Value>Ação a ser tomada quando sua quantidade em estoque atual estiver abaixo (alcançar) a 'Quantidade mínima em estoque'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod">
-		<Value>Método de inventário</Value>
+		<Value>Forma de inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod.Hint">
-		<Value>Select inventory method. There are three methods: Don’t track inventory, Track inventory and Track inventory by attributes. You should use Track inventory by attributes when the product has different combinations of these attributes and then manage inventory for this combinations.</Value>
+		<Value>Selecione a forma de inventário. Existem três formas: Não acompanhar inventário, Acompanhar inventário e Acompanhar inventário por atributos. Você deve usar Acompanhar inventário por atributos quando o produto tem combinações diferentes destes atributos e então gerenciar inventário destas combinações.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManufacturerPartNumber">
-		<Value>Manufacturer part number</Value>
+		<Value>Número da peça de fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ManufacturerPartNumber.Hint">
-		<Value>The manufacturer's part number for this product.</Value>
+		<Value>O Número da peça de fabricante deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers">
 		<Value>Fabricantes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.Hint">
-		<Value>Choose the manufacturer. You can manage manufacturers by selecting Catalog &gt; Manufacturers.</Value>
+		<Value>Escolha o fabricante. Você pode gerenciar fabricantes na página Catálogo &gt; Fabricantes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.NoManufacturersAvailable">
 		<Value>Nenhum fabricante disponível.</Value>
@@ -2899,61 +2899,61 @@
 		<Value>Marcar como novo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNew.Hint">
-		<Value>Check to mark  the product as new. Use this option for promoting new products.</Value>
+		<Value>Marque para marcar o produto como novo. Use esta opção para promover novos produtos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNewEndDateTimeUtc">
-		<Value>Mark as new. End date</Value>
+		<Value>Marcar como novo. Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNewEndDateTimeUtc.Hint">
-		<Value>Set Product as New to Date in Coordinated Universal Time (UTC).</Value>
+		<Value>Configure a data final para marcar o Produto como Novo em Tempo Universal Coordenado (UTC).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNewStartDateTimeUtc">
-		<Value>Mark as new. Start date</Value>
+		<Value>Marcar como novo. Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNewStartDateTimeUtc.Hint">
-		<Value>Set Product as New from Date in Coordinated Universal Time (UTC).</Value>
+		<Value>Configure a data de início para marcar o Produto como Novo em Tempo Universal Coordenado (UTC).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MaximumCustomerEnteredPrice">
-		<Value>Maximum amount</Value>
+		<Value>Montante máximo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MaximumCustomerEnteredPrice.Hint">
-		<Value>Enter a maximum amount.</Value>
+		<Value>Insira um montante máximo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MaxNumberOfDownloads">
 		<Value>Max. downloads</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MaxNumberOfDownloads.Hint">
-		<Value>The maximum number of downloads.</Value>
+		<Value>O número máximo de downloads.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaDescription">
 		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to product page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaKeywords">
 		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaKeywords.Hint">
-		<Value>Meta keywords to be added to product page header.</Value>
+		<Value>Palavras-chave meta a serem adicionada ao cabeçalho da página do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaTitle">
 		<Value>Título meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MetaTitle.Hint">
-		<Value>Override the page title. The default is the name of the product.</Value>
+		<Value>Substitui o título da página. O padrão é o nome do produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MinimumCustomerEnteredPrice">
-		<Value>Minimum amount</Value>
+		<Value>Montante mínimo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MinimumCustomerEnteredPrice.Hint">
-		<Value>Enter a minimum amount.</Value>
+		<Value>Insira um montante mínimo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MinStockQuantity">
-		<Value>Minimum stock qty</Value>
+		<Value>Qtd mínima em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.MinStockQuantity.Hint">
-		<Value>If you have enabled 'Manage Stock' you can perform a number of different actions when the current stock quantity falls below (reaches) your minimum stock quantity.</Value>
+		<Value>Se você habilitou 'Gerenciar Estoque' você pode executar um número de ações diferentes quando a quantidade em estoque atual estiver abaixo (alcançar) sua quantidade mínima em estoque.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Name">
 		<Value>Nome do produto</Value>
@@ -2965,40 +2965,40 @@
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.NotifyAdminForQuantityBelow">
-		<Value>Notify for qty below</Value>
+		<Value>Notificar qtd abaixo de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.NotifyAdminForQuantityBelow.Hint">
-		<Value>When the current stock quantity falls below (reaches) this quantity, a store owner will receive a notification.</Value>
+		<Value>Quando a quantidade em estoque atual estiver abaixo (alcançar) esta quantidade, o dono da loja receberá uma notificação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.NotReturnable">
-		<Value>Not returnable</Value>
+		<Value>Não retornável</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.NotReturnable.Hint">
-		<Value>Check if this product is not returnable. In this case a customer won't be allowed to submit return request.</Value>
+		<Value>Marque se este produto não pode ser devolvido. Neste caso o cliente não poderá enviar um pedido de devolução.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice">
 		<Value>Preço antigo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice.Hint">
-		<Value>The old price of the product. If you set an old price, this will display alongside the current price on the product page to show the difference in price.</Value>
+		<Value>O preço antigo do produto. Se você configurar um preço antigo, este preço irá ser exibido ao lado do preço atual na página do produto para mostrar a diferença no preço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OrderMaximumQuantity">
-		<Value>Maximum cart qty</Value>
+		<Value>Qtd máxima no carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OrderMaximumQuantity.Hint">
-		<Value>Set the maximum quantity allowed in a customer's shopping cart e.g. set to 5 to only allow customers to purchase 5 of this product.</Value>
+		<Value>Configure a quantidade máxima permitida no carrinho de compras do cliente, por exemplo, configure para 5 para permitir que clientes comprem somente 5 deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OrderMinimumQuantity">
-		<Value>Minimum cart qty</Value>
+		<Value>Qtd mínima no carrinho</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OrderMinimumQuantity.Hint">
-		<Value>Set the minimum quantity allowed in a customer's shopping cart e.g. set to 3 to only allow customers to purchase 3 or more of this product.</Value>
+		<Value>Configure a quantidade mínima permitida no carrinho de compras do cliente, por exemplo, configure para 3 para permitir que clienes comprem somente 3 ou mais deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OverriddenGiftCardAmount">
-		<Value>Overridden gift card amount</Value>
+		<Value>Montante do cartão presente substiuído</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.OverriddenGiftCardAmount.Hint">
-		<Value>Enter gift card amount that can be used after purchase. If not specified, then product price will be used.</Value>
+		<Value>Insira o montante do cartão presente que poderá ser usado depois da compra. Se não especificado, então o preço do produto será usado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.PictureThumbnailUrl">
 		<Value>Foto</Value>
