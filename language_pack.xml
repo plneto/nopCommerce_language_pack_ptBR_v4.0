@@ -2677,7 +2677,7 @@
 		<Value>Orçamento por telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice.Hint">
-		<Value>Marque para mostrar "Orçamento por telefone" ou "Contate-nos para pedir uma cotação" ao invés do preço.</Value>
+		<Value>Marque para mostrar "Orçamento por telefone" ou "Entre em contato para pedir uma cotação" ao invés do preço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Categories">
 		<Value>Categorias</Value>
@@ -13819,7 +13819,7 @@
 		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs">
-		<Value>Contate-nos</Value>
+		<Value>Contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Button">
 		<Value>Enviar</Value>
@@ -13834,13 +13834,13 @@
 		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry">
-		<Value>Pergunta</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Hint">
-		<Value>Insira sua pergunta.</Value>
+		<Value>Insira sua mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Required">
-		<Value>Insira a pergunta</Value>
+		<Value>Insira a mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName">
 		<Value>Seu nome</Value>
@@ -13861,7 +13861,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
-		<Value>Sua pergunta foi enviada com sucesso para o dono da loja.</Value>
+		<Value>Sua mensagem foi enviada com sucesso para o dono da loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor">
 		<Value>Entre em contato com o fornecedor</Value>
@@ -13879,13 +13879,13 @@
 		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry">
-		<Value>Pergunta</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Hint">
-		<Value>Insira a pergunta.</Value>
+		<Value>Insira a mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Required">
-		<Value>Insira a pergunta</Value>
+		<Value>Insira a mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName">
 		<Value>Seu nome</Value>
@@ -13906,7 +13906,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.YourEnquiryHasBeenSent">
-		<Value>Sua pergunta foi enviada ao fabricante com sucesso.</Value>
+		<Value>Sua mensagem foi enviada ao fabricante com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Content.CopyrightNotice">
 		<Value>Copyright &amp;copy; {0} {1}. Todos os direitos reservados.</Value>
@@ -15235,7 +15235,7 @@
 		<Value>Comparar Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactUs">
-		<Value>Contate-nos</Value>
+		<Value>Contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactVendor">
 		<Value>Entre em contato com o fornecedor - {0}</Value>
