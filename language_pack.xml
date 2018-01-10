@@ -2017,7 +2017,7 @@
 		<Value>Incluir no menu superior</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.IncludeInTopMenu.Hint">
-		<Value>Mostrar na barra do menu superior. Se esta categoria é uma sub-categoria, então assegure-se que a categoria pai também tem esta propriedade habilitada.</Value>
+		<Value>Mostrar na barra do menu superior. Se esta categoria é uma sub-categoria, então assegure-se que a categoria pai também tenha esta propriedade habilitada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
