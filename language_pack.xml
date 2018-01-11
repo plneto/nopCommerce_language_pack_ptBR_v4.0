@@ -14008,37 +14008,37 @@
 		<Value>Nada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Unpublish">
-		<Value>Unpublish</Value>
+		<Value>Despublicar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.DontManageStock">
-		<Value>Don't track inventory</Value>
+		<Value>Não acompanhar inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStock">
-		<Value>Track inventory</Value>
+		<Value>Acompanhar inventário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStockByAttributes">
-		<Value>Track inventory by product attributes</Value>
+		<Value>Acompanhar inventário por atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
-		<Value>Nome: A to Z</Value>
+		<Value>Nome: A a Z</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameDesc">
-		<Value>Nome: Z to A</Value>
+		<Value>Nome: Z a A</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.Position">
 		<Value>Posição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceAsc">
-		<Value>Preço: Baixo a Alto</Value>
+		<Value>Preço: baixo a alto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceDesc">
-		<Value>Preço: Alto a Baixo</Value>
+		<Value>Preço: alto a baixo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.GroupedProduct">
-		<Value>Grouped (product with variants)</Value>
+		<Value>Agrupado (produto com variantes)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.SimpleProduct">
 		<Value>Simples</Value>
