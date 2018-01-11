@@ -2350,7 +2350,7 @@
 		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.BackToList">
-		<Value>voltar à list de avaliações de produto</Value>
+		<Value>voltar à lista de avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Deleted">
 		<Value>A avaliação do produto foi removida com sucesso.</Value>
@@ -2503,7 +2503,7 @@
 		<Value>Você precisa salvar o produto antes de poder adicionar produtos associados na página deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.BackToList">
-		<Value>voltar à list de produtos</Value>
+		<Value>voltar à lista de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.CommonInfo">
 		<Value>Informações gerais</Value>
@@ -12136,7 +12136,7 @@
 		<Value>Pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.BackToList">
-		<Value>voltar à list de pedidos de devolução</Value>
+		<Value>voltar à lista de pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Deleted">
 		<Value>O pedido de devolução foi excluído com sucesso.</Value>
@@ -13837,10 +13837,10 @@
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Hint">
-		<Value>Insira sua mensagem.</Value>
+		<Value>Digite sua mensagem aqui.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Required">
-		<Value>Insira a mensagem</Value>
+		<Value>Digite uma mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName">
 		<Value>Seu nome</Value>
