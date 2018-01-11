@@ -2017,7 +2017,7 @@
 		<Value>Incluir no menu superior</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.IncludeInTopMenu.Hint">
-		<Value>Mostrar na barra do menu superior. Se esta categoria é uma sub-categoria, então assegure-se que a categoria pai também tem esta propriedade habilitada.</Value>
+		<Value>Mostrar na barra do menu superior. Se esta categoria é uma sub-categoria, então assegure-se que a categoria pai também tenha esta propriedade habilitada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Categories.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
@@ -2677,7 +2677,7 @@
 		<Value>Orçamento por telefone</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice.Hint">
-		<Value>Marque para mostrar "Orçamento por telefone" ou "Contate-nos para pedir uma cotação" ao invés do preço.</Value>
+		<Value>Marque para mostrar "Orçamento por telefone" ou "Entre em contato para pedir uma cotação" ao invés do preço.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Categories">
 		<Value>Categorias</Value>
@@ -9112,16 +9112,16 @@
 		<Value>The news item has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls">
-		<Value>Enquetes</Value>
+		<Value>Pesquisas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Added">
-		<Value>The new poll has been added successfully.</Value>
+		<Value>A nova pesquisa foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.AddNew">
-		<Value>Adicionar uma nova enquete</Value>
+		<Value>Adicionar uma nova pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers">
-		<Value>Respostas da enquete</Value>
+		<Value>Respostas da pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9133,19 +9133,19 @@
 		<Value>Nome é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.NumberOfVotes">
-		<Value>Number of votes</Value>
+		<Value>Número de votos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.SaveBeforeEdit">
-		<Value>You need to save the poll before you can add answers for this poll page.</Value>
+		<Value>Você precisa salvar a pesquisa antes de poder adicionar resposta na página desta pesquisa.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.BackToList">
-		<Value>voltar à lista de enquetes</Value>
+		<Value>voltar à lista de pesquisas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Deleted">
-		<Value>A enquete foi excluída com sucesso.</Value>
+		<Value>A pesquisa foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.EditPollDetails">
-		<Value>Editar detalhes da enquete</Value>
+		<Value>Editar detalhes da pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.AllowGuestsToVote">
 		<Value>Permitir que convidados possam votar</Value>
@@ -9157,25 +9157,25 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder.Hint">
-		<Value>A orderm de exibição desta enquete. 1 representa o topo da lista.</Value>
+		<Value>A orderm de exibição desta pesquisa. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate">
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate.Hint">
-		<Value>Set the poll end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configura a data final da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language">
 		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language.Hint">
-		<Value>The language of this poll. A customer will only see the polls for their selected language.</Value>
+		<Value>O idioma desta pesquisa. Os cliente irão ver somente as pesquisas que estão no seu idioma selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Hint">
-		<Value>O nome desta enquete.</Value>
+		<Value>O nome desta pesquisa.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Required">
 		<Value>Nome é obrigatório.</Value>
@@ -9184,31 +9184,31 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published.Hint">
-		<Value>Determines whether this poll is published (visible) in your store.</Value>
+		<Value>Determina se esta pesquisa está publicada (visível) na sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage">
 		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage.Hint">
-		<Value>Check if you want to show poll on the home page.</Value>
+		<Value>Marque se você quiser exibir a pesquisa na página inicial.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate">
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate.Hint">
-		<Value>Set the poll start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configure a data de início da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword">
 		<Value>Palavra-chave do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword.Hint">
-		<Value>The system keyword for this poll. For example, you can enter 'LeftColumnPoll' in order to display it in the left column.</Value>
+		<Value>A palavra-chave do sistema desta pesquisa. Por exemplo, você pode inserir 'LeftColumnPoll' para exibi-la na coluna da esquerda.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Info">
-		<Value>Informações da enquete</Value>
+		<Value>Informações da pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Updated">
-		<Value>A enquete foi atualizada com sucesso.</Value>
+		<Value>A pesquisa foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics">
 		<Value>Tópicos (páginas)</Value>
@@ -13819,7 +13819,7 @@
 		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs">
-		<Value>Contate-nos</Value>
+		<Value>Contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Button">
 		<Value>Enviar</Value>
@@ -13834,13 +13834,13 @@
 		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry">
-		<Value>Pergunta</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Hint">
-		<Value>Insira sua pergunta.</Value>
+		<Value>Digite sua mensagem aqui.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.Enquiry.Required">
-		<Value>Insira a pergunta</Value>
+		<Value>Digite uma mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.FullName">
 		<Value>Seu nome</Value>
@@ -13861,7 +13861,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
-		<Value>Sua pergunta foi enviada com sucesso para o dono da loja.</Value>
+		<Value>Sua mensagem foi enviada com sucesso para o dono da loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor">
 		<Value>Entre em contato com o fornecedor</Value>
@@ -13879,13 +13879,13 @@
 		<Value>Insira o email</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry">
-		<Value>Pergunta</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Hint">
-		<Value>Insira a pergunta.</Value>
+		<Value>Insira a mensagem.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.Enquiry.Required">
-		<Value>Insira a pergunta</Value>
+		<Value>Insira a mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.FullName">
 		<Value>Seu nome</Value>
@@ -13906,7 +13906,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor.YourEnquiryHasBeenSent">
-		<Value>Sua pergunta foi enviada ao fabricante com sucesso.</Value>
+		<Value>Sua mensagem foi enviada ao fabricante com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Content.CopyrightNotice">
 		<Value>Copyright &amp;copy; {0} {1}. Todos os direitos reservados.</Value>
@@ -15235,7 +15235,7 @@
 		<Value>Comparar Produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactUs">
-		<Value>Contate-nos</Value>
+		<Value>Contato</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ContactVendor">
 		<Value>Entre em contato com o fornecedor - {0}</Value>
@@ -15619,7 +15619,7 @@
 		<Value>Área de administração. Manage Plugins</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManagePolls">
-		<Value>Área de administração. Manage Polls</Value>
+		<Value>Área de administração. Gerenciar Pesquisas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProductReviews">
 		<Value>Área de administração. Manage Product Reviews</Value>
@@ -15676,19 +15676,19 @@
 		<Value>Por favor selecione uma resposta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.Title">
-		<Value>Community poll</Value>
+		<Value>Pesquisa</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.TotalVotes">
 		<Value>{0} voto(s)...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.Vote">
-		<Value>Vote</Value>
+		<Value>Votar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Polls.VotesResultLine">
-		<Value>{0} ({1} vote(s) - {2}%)</Value>
+		<Value>{0} ({1} voto(s) - {2}%)</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox">
-		<Value>Inbox</Value>
+		<Value>Caixa de Entrada</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.DateColumn">
 		<Value>Data</Value>
@@ -16312,7 +16312,7 @@
 		<Value>a</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchBox.Tooltip">
-		<Value>Buscar</Value>
+		<Value>Digite aqui...</Value>
 	</LocaleResource>
 	<LocaleResource Name="Search.SearchInDescriptions">
 		<Value>Buscar nas descrições dos produtos</Value>
