@@ -2350,7 +2350,7 @@
 		<Value>Aprovar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.BackToList">
-		<Value>voltar à list de avaliações de produto</Value>
+		<Value>voltar à lista de avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductReviews.Deleted">
 		<Value>A avaliação do produto foi removida com sucesso.</Value>
@@ -2503,7 +2503,7 @@
 		<Value>Você precisa salvar o produto antes de poder adicionar produtos associados na página deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.BackToList">
-		<Value>voltar à list de produtos</Value>
+		<Value>voltar à lista de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.CommonInfo">
 		<Value>Informações gerais</Value>
@@ -12136,7 +12136,7 @@
 		<Value>Pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.BackToList">
-		<Value>voltar à list de pedidos de devolução</Value>
+		<Value>voltar à lista de pedidos de devolução</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ReturnRequests.Deleted">
 		<Value>O pedido de devolução foi excluído com sucesso.</Value>
@@ -13507,7 +13507,7 @@
 		<Value>Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Categories.Breadcrumb.Top">
-		<Value>Início</Value>
+		<Value>INÍCIO</Value>
 	</LocaleResource>
 	<LocaleResource Name="Categories.TotalProducts">
 		<Value>({0})</Value>
@@ -15814,7 +15814,7 @@
 		<Value>equates to {0} per {1} {2}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.Breadcrumb.Top">
-		<Value>Início</Value>
+		<Value>INÍCIO</Value>
 	</LocaleResource>
 	<LocaleResource Name="Products.CallForPrice">
 		<Value>Orçamento por telefone</Value>
@@ -16753,7 +16753,7 @@
 		<Value>Your request has been submitted successfully. We'll contact you soon.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.List">
-		<Value>List de fornecedores</Value>
+		<Value>Lista de fornecedores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ViewAll">
 		<Value>Ver todos</Value>
