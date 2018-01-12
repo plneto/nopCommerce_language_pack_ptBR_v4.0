@@ -4144,130 +4144,130 @@
 		<Value>Editar detalhes do país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ExportToCsv">
-		<Value>Exportar países para CSV</Value>
+		<Value>Exportar estados para CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsBilling">
-		<Value>Allows billing</Value>
+		<Value>Permite cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsBilling.Hint">
-		<Value>Allow billing to customers located in this country.</Value>
+		<Value>Permite cobrança a clientes localizados neste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping">
 		<Value>Permite envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping.Hint">
-		<Value>Allow shipping to customers located in this country.</Value>
+		<Value>Permite envio para os clientes localizados neste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder.Hint">
-		<Value>The display order for this country. 1 represents the top of the list.</Value>
+		<Value>A ordem de exibição para este país. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
-	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this country to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+	<LocaleResource Name="admin.configuration.countries.fields.limitedtostores.hint">
+		<Value>Opção para limitar este país para uma determinada loja. Se tiver várias lojas, escolha uma ou várias da lista. Se você não usar esta opção simplesmente deixar este campo em branco.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name.Hint">
-		<Value>The name of the country.</Value>
+		<Value>O nome do país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumberOfStates">
-		<Value>Number of states</Value>
+		<Value>Número de estados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode">
-		<Value>Numeric ISO code</Value>
+		<Value>Código ISO numérico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode.Hint">
-		<Value>The numeric ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_numeric.</Value>
+		<Value>O código ISO numérico para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_numeric</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Published">
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Published.Hint">
-		<Value>Determines whether this country is published (visible for creation of shipping/billing addresses).</Value>
+		<Value>Determina se este país está publicado (visível para a criação de endereços de envio/cobrança).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.SubjectToVat">
-		<Value>Subject to VAT</Value>
+		<Value>Sujeito a IVA</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.SubjectToVat.Hint">
-		<Value>Value indicating whether customers in this country must be charged EU VAT (the European Union Value Added Tax).</Value>
+		<Value>Valor indicando se os clientes neste país devem ser cobrados IVA da UE (Imposto União Europeia Value Added).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode">
-		<Value>Three letter ISO code</Value>
+		<Value>Código ISO de três letras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Hint">
-		<Value>The three letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
+		<Value>O código ISO de três letras para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Length">
-		<Value>Three letter ISO code should be 3 characters long.</Value>
+		<Value>O código ISO de três letras deve conter 3 caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Required">
-		<Value>Three letter ISO code is required.</Value>
+		<Value>O código ISO de três letras é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode">
-		<Value>Two letter ISO code</Value>
+		<Value>Código ISO de duas letras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Hint">
-		<Value>The two letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
+		<Value>O código ISO de duas letras para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Length">
-		<Value>Two letter ISO code should be 2 characters long.</Value>
+		<Value>O código ISO de duas letras deve conter 2 caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Required">
-		<Value>Two letter ISO code is required.</Value>
+		<Value>O código ISO de duas letras é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportFromCsv">
-		<Value>Import states from CSV</Value>
+		<Value>Importar estados de arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportSuccess">
-		<Value>{0} states have been successfully imported</Value>
+		<Value>{0} estados foram importados com sucesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportTip">
-		<Value>You can download a CSV file with a list of states for other countries on the following page:</Value>
+		<Value>Você pode baixar um arquivo CSV com uma lista de estados para outros países na seguinte página:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Info">
-		<Value>Country info</Value>
+		<Value>Informação do país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.PublishSelected">
-		<Value>Publish selected</Value>
+		<Value>Publicar selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States">
-		<Value>States and provinces</Value>
+		<Value>Estados e províncias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.AddNew">
-		<Value>Add a new state/province</Value>
+		<Value>Adicioar um novo estado/província</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.CantDeleteWithAddresses">
-		<Value>The state can't be deleted. It has associated addresses.</Value>
+		<Value>O estado não pôde ser excluído. Ele contém endereços associados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.EditStateDetails">
-		<Value>Edit state/province</Value>
+		<Value>Editar estado/província</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Abbreviation">
-		<Value>Abbreviation</Value>
+		<Value>Abreviação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Abbreviation.Hint">
-		<Value>An abbreviation for this state/province.</Value>
+		<Value>Uma abreviação para este estado/província.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder.Hint">
-		<Value>The display order for this state. 1 represents the top of the list.</Value>
+		<Value>A ordem de exibição para este estado. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Hint">
-		<Value>The name of the state.</Value>
+		<Value>O nome do estado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
@@ -4276,25 +4276,25 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Published.Hint">
-		<Value>Determines whether this state is published.</Value>
+		<Value>Determinea se este estado está publicado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.SaveBeforeEdit">
-		<Value>You need to save the country before you can add states for this country page.</Value>
+		<Value>Você precisa salvar o país antes de poder adicionar estados na página deste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.UnpublishSelected">
-		<Value>Unpublish selected</Value>
+		<Value>Despublicar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Updated">
-		<Value>The country has been updated successfully.</Value>
+		<Value>O país foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies">
 		<Value>Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Added">
-		<Value>The new currency has been added successfully.</Value>
+		<Value>A nova moeda foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.AddNew">
-		<Value>Add a new currency</Value>
+		<Value>Adicionar uma nova moeda</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.ApplyRate">
 		<Value>Apply rate</Value>
