@@ -3424,16 +3424,16 @@
 		<Value>Atributos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.AddNew">
-		<Value>Add a new attribute</Value>
+		<Value>Adicionar um novo atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.AlreadyExists">
-		<Value>This attribute is already added to this product</Value>
+		<Value>Este atributo já foi adicionado a este produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.BackToProduct">
-		<Value>back to product details</Value>
+		<Value>voltar aos detalhes do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Condition">
 		<Value>Condição</Value>
@@ -3460,19 +3460,19 @@
 		<Value>O atributo foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.EditAttributeDetails">
-		<Value>Edit product attribute</Value>
+		<Value>Editar atributo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.Attribute">
 		<Value>Atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.Attribute.Hint">
-		<Value>Choose an attribute.</Value>
+		<Value>Escolha um atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.AttributeControlType">
-		<Value>Control type</Value>
+		<Value>Tipo de controle</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.AttributeControlType.Hint">
-		<Value>Choose how to display your attribute values.</Value>
+		<Value>Escolha como exibir seu valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -3481,34 +3481,34 @@
 		<Value>The attribute display order. 1 represents the first item in the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.IsRequired">
-		<Value>Is Required</Value>
+		<Value>É obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.IsRequired.Hint">
 		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.TextPrompt">
-		<Value>Text prompt</Value>
+		<Value>Prompt de texto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.TextPrompt.Hint">
-		<Value>Enter text prompt (you can leave it empty).</Value>
+		<Value>Insira o prompt de texto (você pode deixá-lo vazio).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Info">
 		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules">
-		<Value>Validation rules</Value>
+		<Value>Regras de validação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.DefaultValue">
 		<Value>Valor padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.DefaultValue.Hint">
-		<Value>Enter default value for attribute.</Value>
+		<Value>Insira o valor padrão do atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.FileAllowedExtensions">
-		<Value>Allowed file extensions</Value>
+		<Value>Extensões de arquivo permitidas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.FileAllowedExtensions.Hint">
 		<Value>Specify a comma-separated list of allowed file extensions. Leave empty to allow any file extension.</Value>
@@ -3520,22 +3520,22 @@
 		<Value>Specify maximum file size in kilobytes. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MaxLength">
-		<Value>Maximum length</Value>
+		<Value>Tamanho máximo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MaxLength.Hint">
 		<Value>Specify maximum length. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MinLength">
-		<Value>Minimum length</Value>
+		<Value>Tamanho mínimo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MinLength.Hint">
 		<Value>Specify minimum length. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.ViewLink">
-		<Value>Edit rules</Value>
+		<Value>Editar regras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values">
-		<Value>Values</Value>
+		<Value>Valores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.AddNew">
 		<Value>Add a new value</Value>
@@ -3544,13 +3544,13 @@
 		<Value>Add/Edit values for [{0}] attribute. Product: {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.EditValueDetails">
-		<Value>Edit value</Value>
+		<Value>Editar valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct">
-		<Value>Associated product</Value>
+		<Value>Produto associado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.AddNew">
-		<Value>Associate a product</Value>
+		<Value>Associe um produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.Choose">
 		<Value>Choose an associated product</Value>
@@ -3889,7 +3889,7 @@
 		<Value>You need to save the product before you can add tier prices for this product page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Updated">
-		<Value>The product has been updated successfully.</Value>
+		<Value>O produto foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags">
 		<Value>TAGs de produto</Value>
@@ -3970,13 +3970,13 @@
 		<Value>Exportar para Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.All">
-		<Value>Export para Excel (todos)</Value>
+		<Value>Exportar para Excel (todos)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.Selected">
-		<Value>Export para Excel (selecionados)</Value>
+		<Value>Exportar para Excel (selecionados)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml">
-		<Value>Export para XML</Value>
+		<Value>Exportar para XML</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml.All">
 		<Value>Exportar para XML (todos)</Value>
@@ -4027,13 +4027,13 @@
 		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Select">
-		<Value>Select</Value>
+		<Value>Selecione</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.SEO">
 		<Value>SEO</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Show">
-		<Value>Show</Value>
+		<Value>Exibir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Standard">
 		<Value>Padrão</Value>
@@ -4042,34 +4042,34 @@
 		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.UploadFile">
-		<Value>Please upload a file</Value>
+		<Value>Por favor envie um arquivo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.View">
 		<Value>Ver</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.WrongEmail">
-		<Value>Wrong email</Value>
+		<Value>Email incorreto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Yes">
-		<Value>Yes</Value>
+		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ZipFile">
-		<Value>Zip file</Value>
+		<Value>Arquivo Zip</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration">
 		<Value>Configuração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL">
-		<Value>Access control list</Value>
+		<Value>Lista de controle de acesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Description">
 		<Value>Access control list is a list of permissions attached to customer roles. This list specifies the access rights of users to objects.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Permission">
-		<Value>Permission name</Value>
+		<Value>Nome da permissão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Updated">
-		<Value>The ACL has been updated successfully.</Value>
+		<Value>A LCA foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog">
 		<Value>Log de Atividades</Value>
@@ -4078,7 +4078,7 @@
 		<Value>Log de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.ActivityLogType">
-		<Value>Activity Log Type</Value>
+		<Value>Tipo de Log de Atividade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.ActivityLogType.Hint">
 		<Value>The Activity Log Type.</Value>
@@ -4123,28 +4123,28 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLogType.Updated">
-		<Value>The types have been updated successfully.</Value>
+		<Value>Os tipos foram atualizados com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries">
 		<Value>Países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Added">
-		<Value>The new country has been added successfully.</Value>
+		<Value>O novo país foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.AddNew">
-		<Value>Add a new country</Value>
+		<Value>Adicionar um novo país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.BackToList">
-		<Value>back to country list</Value>
+		<Value>voltar à lista de países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Deleted">
-		<Value>The country has been deleted successfully.</Value>
+		<Value>O país foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.EditCountryDetails">
-		<Value>Edit country details</Value>
+		<Value>Editar detalhes do país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ExportToCsv">
-		<Value>Export states to CSV</Value>
+		<Value>Exportar países para CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsBilling">
 		<Value>Allows billing</Value>
@@ -4153,7 +4153,7 @@
 		<Value>Allow billing to customers located in this country.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping">
-		<Value>Allows shipping</Value>
+		<Value>Permite envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping.Hint">
 		<Value>Allow shipping to customers located in this country.</Value>
@@ -14908,22 +14908,22 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.LeaveYourComment">
-		<Value>Leave your comment</Value>
+		<Value>Deixe seu comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.OnlyRegisteredUsersLeaveComments">
-		<Value>Only registered users can leave comments.</Value>
+		<Value>Somente usuários cadastrados podem deixar comentários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SeeAfterApproving">
-		<Value>News comment is successfully added. You will see it after approving by a store administrator.</Value>
+		<Value>Comentário adicionado com sucesso. Você irá vê-lo após ser aprovado por um administrador da loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SubmitButton">
-		<Value>New comment</Value>
+		<Value>Novo comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SuccessfullyAdded">
-		<Value>News comment is successfully added.</Value>
+		<Value>Comentário adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.MoreInfo">
-		<Value>details</Value>
+		<Value>detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.RSS">
 		<Value>RSS</Value>
@@ -14932,7 +14932,7 @@
 		<Value>Click here to be informed automatically when we add new items to our site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.ViewAll">
-		<Value>View News Archive</Value>
+		<Value>Ver Arquivo de Novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Email.Placeholder">
 		<Value>Insira seu email aqui...</Value>
@@ -16141,7 +16141,7 @@
 		<Value>Submit return request</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Submitted">
-		<Value>Your return request has been submitted successfully.</Value>
+		<Value>Seu pedido de devolução foi enviado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Title">
 		<Value>Return item(s) from &lt;a href="{0}"&gt;order #{1}&lt;/a&gt;</Value>
@@ -16180,7 +16180,7 @@
 		<Value>Título da avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.MaxLengthValidation">
-		<Value>Max length of product review title is {0} chars</Value>
+		<Value>O comprimento máximo do título da avalição de produto é de {0} caracteres</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.Required">
 		<Value>Título da avaliação é obrigatório.</Value>
@@ -16228,7 +16228,7 @@
 		<Value>Enviar avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SuccessfullyAdded">
-		<Value>Product review is successfully added.</Value>
+		<Value>Avalição de produto adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.TotalReviews">
 		<Value>{0} avaliação(ões)</Value>
@@ -16429,7 +16429,7 @@
 		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
-		<Value>Enter your destination to get a shipping estimate</Value>
+		<Value>Insira o destino para obter uma estimativa</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
 		<Value>CEP</Value>
@@ -16438,13 +16438,13 @@
 		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.FileUploaded">
-		<Value>Your file successfully uploaded!</Value>
+		<Value>Seu arquivo foi enviado com sucesso!</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode">
 		<Value>Cartões Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Applied">
-		<Value>The gift card code was applied</Value>
+		<Value>O código do cartão presente foi aplicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Button">
 		<Value>Adicionar cartão presente</Value>
@@ -16741,16 +16741,16 @@
 		<Value>Insira o nome do fornecedor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Name.Required">
-		<Value>Vendor name is required.</Value>
+		<Value>Nome do fornecedor é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture">
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture.ErrorMessage">
-		<Value>You can add only picture file</Value>
+		<Value>Você pode adicionar somente arquivos de foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Submitted">
-		<Value>Your request has been submitted successfully. We'll contact you soon.</Value>
+		<Value>Seu pedido foi enviado com sucesso. Nós entraremos em contato em breve.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.List">
 		<Value>Lista de fornecedores</Value>
@@ -16765,43 +16765,43 @@
 		<Value>Some product(s) from wishlist could not be moved to the cart for some reasons.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.CartIsEmpty">
-		<Value>The wishlist is empty!</Value>
+		<Value>A lista de desejos está vazia!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend">
-		<Value>Email a friend</Value>
+		<Value>Envie um email para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.Button">
 		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail">
-		<Value>Friend's email</Value>
+		<Value>Email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Hint">
-		<Value>Enter friend's email.</Value>
+		<Value>Insira o email do(a) amigo(a).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Required">
-		<Value>Enter friend's email</Value>
+		<Value>Insira o email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.OnlyRegisteredUsers">
-		<Value>Only registered customers can use email a friend feature</Value>
+		<Value>Somente clientes registrados podem usar a funcionalidade "Envie um email para um(a) amigo(a)"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage">
-		<Value>Personal message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage.Hint">
-		<Value>Enter personal message (optional).</Value>
+		<Value>Digite uma mensagem (opcional).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.SuccessfullySent">
 		<Value>Sua mensagem foi enviada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.Title">
-		<Value>Email your wishlist to a friend</Value>
+		<Value>Envie sua lista de desejos por email para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress">
 		<Value>Seu endereço de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Hint">
-		<Value>Enter your email address.</Value>
+		<Value>Insira seu endereço de email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Required">
 		<Value>Insira seu email</Value>
@@ -16810,10 +16810,10 @@
 		<Value>({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.TaxShipping.ExclTax">
-		<Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+		<Value>Todos os preços são inseridos sem incluir imposto. Sem incluir &lt;a href="{0}"&gt;envio&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.TaxShipping.InclTax">
-		<Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+		<Value>Todos os preços são inseridos com imposto incluso. Incluindo &lt;a href="{0}"&gt;envio&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.UpdateCart">
 		<Value>Atualizar lista de desejos</Value>
