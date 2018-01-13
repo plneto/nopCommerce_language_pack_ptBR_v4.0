@@ -3247,25 +3247,25 @@
 		<Value>Insira o SKU do produto e clique em Ir.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.ImportFromExcelTip">
-		<Value>Imported products are distinguished by SKU. If the SKU already exists, then its corresponding product will be updated.</Value>
+		<Value>Produtos importados são distinguidos pelo SKU. Se o SKU já existir, então o produto correspondente será atualizado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchCategory">
 		<Value>Categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchCategory.Hint">
-		<Value>Search by a specific category.</Value>
+		<Value>Buscar por uma categoria específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories">
-		<Value>Search sub categories</Value>
+		<Value>Buscar sub categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories.Hint">
-		<Value>Check to search in sub categories.</Value>
+		<Value>Marque para buscar nas sub categorias.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer">
 		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer.Hint">
-		<Value>Buscar por fabricante específico.</Value>
+		<Value>Buscar por um fabricante específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductName">
 		<Value>Nome do produto</Value>
@@ -3328,28 +3328,28 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.DisplayOrder.Hint">
-		<Value>Display order of the picture. 1 represents the top of the list.</Value>
+		<Value>Ordem de exibição da foto. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideAltAttribute">
 		<Value>Alt</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideAltAttribute.Hint">
-		<Value>Override "alt" attribute for "img" HTML element. If empty, then a default rule will be used (e.g. product name).</Value>
+		<Value>Substituir o atributo "alt" do elemento HTML "img". Se vazio, então uma regra padrão será usada (por exemplo, nome do produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideTitleAttribute">
 		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideTitleAttribute.Hint">
-		<Value>Override "title" attribute for "img" HTML element. If empty, then a default rule will be used (e.g. product name).</Value>
+		<Value>Substituir o atributo "title" do elemento HTML "img". Se vazio, então uma regra padrão será usada (por exemplo, nome do produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.Picture">
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.Picture.Hint">
-		<Value>Choose a picture to upload. If the picture size exceeds your stores max image size setting, it will be automatically resized.</Value>
+		<Value>Escolha uma foto para enviar. Se o tamanho da imagem exceder o tamanho máximo da configuração da sua loja, ela será redimensionada automaticamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.SaveBeforeEdit">
-		<Value>You need to save the product before you can upload pictures for this product page.</Value>
+		<Value>Você precisa salvar o produto antes de poder enviar fotos na página deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Prices">
 		<Value>Preços</Value>
@@ -3358,10 +3358,10 @@
 		<Value>Atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations">
-		<Value>Attribute combinations</Value>
+		<Value>Combinações de atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.AddNew">
-		<Value>Add combination</Value>
+		<Value>Adicionar combinação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.AddTitle">
 		<Value>Select new combination and enter details below</Value>
@@ -3373,7 +3373,7 @@
 		<Value>Note that some attribute control types that support custom user input (e.g. file upload, textboxes, date picker) are useless with attribute combinations</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders">
-		<Value>Allow out of stock</Value>
+		<Value>Permitir fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders.Hint">
 		<Value>A value indicating whether to allow orders when out of stock.</Value>
@@ -3400,7 +3400,7 @@
 		<Value>When the current stock quantity falls below (reaches) this quantity, a store owner will receive a notification.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.OverriddenPrice">
-		<Value>Overridden price</Value>
+		<Value>Preço substituído</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.OverriddenPrice.Hint">
 		<Value>Override price for this attribute combination. This way a store owner can override the default product price when this attribute combination is added to the cart. For example, you can give a discount this way. Leave empty to ignore field. All other applied discounts will be ignored when this field is specified.</Value>
