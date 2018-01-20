@@ -5023,55 +5023,55 @@
 		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved">
-		<Value>Blog comments must be approved</Value>
+		<Value>Comentários do blog devem ser aprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved.Hint">
-		<Value>Check if blog comments must be approved by administrator.</Value>
+		<Value>Marque se os comentários do blog devem ser aprovados por um administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.Enabled">
-		<Value>Blog enabled</Value>
+		<Value>Blog habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.Enabled.Hint">
-		<Value>Check to enable the blog in your store.</Value>
+		<Value>Marque para habilitar o blog na sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments">
-		<Value>Notify about new blog comments</Value>
+		<Value>Notificar sobre novos comentários do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments.Hint">
-		<Value>Check to notify store owner about new blog comments.</Value>
+		<Value>Marque para notificar o dono da loja sobre novos comentários do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NumberOfTags">
-		<Value>Number of tags (cloud)</Value>
+		<Value>Número de TAGs (núvem)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NumberOfTags.Hint">
-		<Value>The number of blog tags that appear in the tag cloud.</Value>
+		<Value>O número de TAGs do blog que aparecem na núvem de TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.PostsPageSize">
-		<Value>Posts page size</Value>
+		<Value>Tamanho da página de postagems</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.PostsPageSize.Hint">
-		<Value>Set the page size for posts.</Value>
+		<Value>Configure o tamanho da página para postagems.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore">
-		<Value>Blog comments per store</Value>
+		<Value>Comentários do blog por loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore.Hint">
-		<Value>Check to display blog comments written in the current store only.</Value>
+		<Value>Marque para exibir somente comentários do blog escritos na loja atual.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl">
-		<Value>Display blog RSS feed link in the browser address bar</Value>
+		<Value>Exibir o link de RSS feed na barra de endereços do navegador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl.Hint">
-		<Value>Check to enable the blog RSS feed link in customers browser address bar.</Value>
+		<Value>Marque para habilitar o link de RSS feed na barra de endereços do navegador do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog">
 		<Value>Configurações de catálogo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend">
-		<Value>Allow anonymous users to email a friend</Value>
+		<Value>Permitir que usuários anônimos enviem emails aos(às) amigos(as)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend.Hint">
-		<Value>Check if you want to allow anonymous users to email a friend.</Value>
+		<Value>Marque se você quer permitir que usuários anônimos enviem emails aos(às) amigos(as).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct">
 		<Value>Allow anonymous users to write product reviews</Value>
@@ -8356,7 +8356,7 @@
 		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Updated">
-		<Value>The settings have been updated successfully.</Value>
+		<Value>As configurações foram atualizadas com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement">
 		<Value>Gerenc. de conteúdo</Value>
@@ -8368,76 +8368,76 @@
 		<Value>Postagens do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Added">
-		<Value>The new blog post has been added successfully.</Value>
+		<Value>A nova postagem do blog foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.AddNew">
 		<Value>Adicionar uma nova publicação no blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.BackToList">
-		<Value>back to blog post list</Value>
+		<Value>voltar à lista de postagems do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Deleted">
-		<Value>The blog post has been deleted successfully.</Value>
+		<Value>A postagem do blog foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.EditBlogPostDetails">
-		<Value>Edit blog post details</Value>
+		<Value>Editar os detalhes da postagem do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.AllowComments">
 		<Value>Permitir comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.AllowComments.Hint">
-		<Value>When checked, customers can leave comments about your blog entry.</Value>
+		<Value>Quando marcado, clientes podem deixar comentários sobre a postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body">
 		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body.Hint">
-		<Value>The body of this blog entry.</Value>
+		<Value>O corpo da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body.Required">
-		<Value>Body is required.</Value>
+		<Value>Corpo é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.BodyOverview">
-		<Value>Body overview</Value>
+		<Value>Visão geral do corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.BodyOverview.Hint">
-		<Value>Brief overview of this blog post. If specified, then it will be used instead of full body on the main blog page. HTML is supported.</Value>
+		<Value>Breve visão geral desta postagem do blog. Se especificado, então será usada ao invés do corpo inteiro na página principal do blog. HTML é suportado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Comments">
-		<Value>View comments</Value>
+		<Value>Ver comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate">
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate.Hint">
-		<Value>Set the blog post end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configure a data final da postagem do blog em em Tempo Universal Coordenado (UTC). Você também pode deixar vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language">
 		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language.Hint">
-		<Value>The language of this blog entry. A customer will only see the blog entries for their selected language.</Value>
+		<Value>O idioma desta postagem do blog. Os clientes só verão as postagems do blog para o idioma selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this blog post to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+		<Value>Opção para limitar esta postagem do blog a uma certa loja. Se você tem várias lojas, escolha uma ou várias da lista. Se você não usar esta opção apenas deixe este campo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription">
 		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to blog post page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords">
 		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords.Hint">
-		<Value>Meta keywords to be added to blog post page header.</Value>
+		<Value>Palavras-chave meta a serem adicionadas ao cabeçalho da página da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaTitle">
 		<Value>Título meta</Value>
@@ -8455,16 +8455,16 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate.Hint">
-		<Value>Set the blog post start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configure a data de início da postagem do blog em Tempo Universal Coordenado (UTC). Você também pode deixar vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags">
-		<Value>Tags</Value>
+		<Value>TAGs</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Hint">
-		<Value>Tags are keywords that this blog post can also be identified by. Enter a comma separated list of the tags to be associated with this blog post.</Value>
+		<Value>TAGs são palavras-chave que podem ser usadas para identificar esta postagem do blog. Insira uma lista separada por vírgula das TAGs a serem associadas a esta postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.NoDots">
-		<Value>Dots are not supported by tags.</Value>
+		<Value>Pontos não são permitidos nas TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Placeholder">
 		<Value>Insira TAGs ...</Value>
@@ -8488,7 +8488,7 @@
 		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Updated">
-		<Value>The blog post has been updated successfully.</Value>
+		<Value>A postagem do blog foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments">
 		<Value>Comentários do blog</Value>
@@ -8500,16 +8500,16 @@
 		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.DisapproveSelected">
-		<Value>Disapprove selected</Value>
+		<Value>Desaprovar selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.BlogPost">
-		<Value>Blog post</Value>
+		<Value>Postagem do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Comment">
 		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Customer">
 		<Value>Cliente</Value>
@@ -8518,19 +8518,19 @@
 		<Value>Está aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.StoreName">
-		<Value>Store name</Value>
+		<Value>Nome da loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom">
 		<Value>Criado a partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom.Hint">
-		<Value>The creation from date for the search.</Value>
+		<Value>A data de início de criação para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnTo">
-		<Value>Created to</Value>
+		<Value>Criado até</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnTo.Hint">
-		<Value>The creation to date for the search.</Value>
+		<Value>A data final de criação para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved">
 		<Value>Aprovado</Value>
@@ -8539,31 +8539,31 @@
 		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.ApprovedOnly">
-		<Value>Approved only</Value>
+		<Value>Somente aprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.DisapprovedOnly">
-		<Value>Disapproved only</Value>
+		<Value>Somente desaprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.Hint">
-		<Value>Search by a "Approved" property.</Value>
+		<Value>Buscar pela propriedade "Aprovado".</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText">
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText.Hint">
-		<Value>Search in comment text.</Value>
+		<Value>Buscar no texto do comentário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums">
 		<Value>Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum">
-		<Value>Forum</Value>
+		<Value>Fórum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Added">
-		<Value>The new forum has been added successfully.</Value>
+		<Value>O novo fórum foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.BackToList">
-		<Value>back to forum list</Value>
+		<Value>voltar à lista de fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.CreateForum">
 		<Value>Add New Forum</Value>
@@ -13861,7 +13861,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
-		<Value>Sua mensagem foi enviada com sucesso para o dono da loja.</Value>
+		<Value>Sua mensagem foi enviada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor">
 		<Value>Entre em contato com o fornecedor</Value>
@@ -15553,19 +15553,19 @@
 		<Value>Área de administração. Manage Attributes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageBlog">
-		<Value>Área de administração. Manage Blog</Value>
+		<Value>Área de administração. Gerenciar o Blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCampaigns">
-		<Value>Área de administração. Manage Campaigns</Value>
+		<Value>Área de administração. Gerenciar Campanhas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCategories">
-		<Value>Área de administração. Manage Categories</Value>
+		<Value>Área de administração. Gerenciar Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCountries">
-		<Value>Área de administração. Manage Countries</Value>
+		<Value>Área de administração. Gerenciar Países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrencies">
-		<Value>Área de administração. Manage Currencies</Value>
+		<Value>Área de administração. Gerenciar Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrentCarts">
 		<Value>Área de administração. Manage Current Carts</Value>
