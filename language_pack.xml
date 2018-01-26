@@ -6367,10 +6367,16 @@
 		<Value>Encryption private key must be 16 characters long</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FacebookLink">
-		<Value>Facebook page URL</Value>
+		<Value>URL da página do Facebook</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FacebookLink.Hint">
-		<Value>Specify your Facebook page URL. Leave empty if you have no such page.</Value>
+		<Value>Especifique a URL da sua página do Facebook. Deixe vazio se você não tiver uma página.</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink">
+		<Value>URL da página do Instagram</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink.Hint">
+		<Value>Especifique a URL da sua página do Instagram. Deixe vazio se você não tiver uma página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ForceSslForAllPages">
 		<Value>Force SSL for all site pages</Value>
@@ -14429,6 +14435,9 @@
 	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs.Facebook">
 		<Value>Facebook</Value>
+	</LocaleResource>
+	<LocaleResource Name="Footer.FollowUs.Instagram">
+		<Value>Instagram</Value>
 	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs.GooglePlus">
 		<Value>Google+</Value>
