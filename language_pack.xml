@@ -3994,10 +3994,10 @@
 		<Value>Importar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromCsv">
-		<Value>Importar de arquivo CSV</Value>
+		<Value>Importar arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel">
-		<Value>Importar de arquivo do Excel</Value>
+		<Value>Importar arquivo do Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel.ManyRecordsWarning">
 		<Value>A importação requer bastante memória. Por este motivo não recomendamos importar mais do que 500 - 1,000 itens de cada vez. Se você tem mais itens, é recomendado dividí-los em vários arquivos de Excel e importá-los separadamente.</Value>
@@ -9112,16 +9112,16 @@
 		<Value>The news item has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls">
-		<Value>Pesquisas</Value>
+		<Value>Enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Added">
-		<Value>A nova pesquisa foi adicionada com sucesso.</Value>
+		<Value>A nova enquete foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.AddNew">
-		<Value>Adicionar uma nova pesquisa</Value>
+		<Value>Adicionar uma nova enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers">
-		<Value>Respostas da pesquisa</Value>
+		<Value>Respostas da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9136,16 +9136,16 @@
 		<Value>Número de votos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.SaveBeforeEdit">
-		<Value>Você precisa salvar a pesquisa antes de poder adicionar resposta na página desta pesquisa.</Value>
+		<Value>Você precisa salvar a enquete antes de poder adicionar resposta na página desta enquete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.BackToList">
-		<Value>voltar à lista de pesquisas</Value>
+		<Value>voltar à lista de enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Deleted">
-		<Value>A pesquisa foi excluída com sucesso.</Value>
+		<Value>A enquete foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.EditPollDetails">
-		<Value>Editar detalhes da pesquisa</Value>
+		<Value>Editar detalhes da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.AllowGuestsToVote">
 		<Value>Permitir que convidados possam votar</Value>
@@ -9157,25 +9157,25 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder.Hint">
-		<Value>A orderm de exibição desta pesquisa. 1 representa o topo da lista.</Value>
+		<Value>A orderm de exibição desta enquete. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate">
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate.Hint">
-		<Value>Configura a data final da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
+		<Value>Configura a data final da enquete em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language">
 		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language.Hint">
-		<Value>O idioma desta pesquisa. Os cliente irão ver somente as pesquisas que estão no seu idioma selecionado.</Value>
+		<Value>O idioma desta enquete. Os cliente irão ver somente as enquetes que estão no seu idioma selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Hint">
-		<Value>O nome desta pesquisa.</Value>
+		<Value>O nome desta enquete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Required">
 		<Value>Nome é obrigatório.</Value>
@@ -9184,31 +9184,31 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published.Hint">
-		<Value>Determina se esta pesquisa está publicada (visível) na sua loja.</Value>
+		<Value>Determina se esta enquete está publicada (visível) na sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage">
 		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage.Hint">
-		<Value>Marque se você quiser exibir a pesquisa na página inicial.</Value>
+		<Value>Marque se você quiser exibir a enquete na página inicial.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate">
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate.Hint">
-		<Value>Configure a data de início da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
+		<Value>Configure a data de início da enquete em Tempo Universal Coordenado (UTC). Você também pode deixá-la em branco.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword">
 		<Value>Palavra-chave do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword.Hint">
-		<Value>A palavra-chave do sistema desta pesquisa. Por exemplo, você pode inserir 'LeftColumnPoll' para exibi-la na coluna da esquerda.</Value>
+		<Value>A palavra-chave do sistema desta enquete. Por exemplo, você pode inserir 'LeftColumnPoll' para exibi-la na coluna da esquerda.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Info">
-		<Value>Informações da pesquisa</Value>
+		<Value>Informações da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Updated">
-		<Value>A pesquisa foi atualizada com sucesso.</Value>
+		<Value>A enquete foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics">
 		<Value>Tópicos (páginas)</Value>
