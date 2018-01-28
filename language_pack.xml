@@ -16824,4 +16824,10 @@
 	<LocaleResource Name="Wishlist.YourWishlistURL">
 		<Value>Sua URL da lista de desejos para compartilhar</Value>
 	</LocaleResource>
+	<LocaleResource Name="Plugins.Widgets.HeaderContactDetails.ContactDetails">
+		<Value>Detalhes de contato</Value>
+	</LocaleResource>
+	<LocaleResource Name="Plugins.Widgets.HeaderContactDetails.PhoneNumber">
+		<Value>Telefone:</Value>
+	</LocaleResource>
 </Language>
