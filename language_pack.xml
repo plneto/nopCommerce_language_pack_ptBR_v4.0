@@ -3247,25 +3247,25 @@
 		<Value>Insira o SKU do produto e clique em Ir.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.ImportFromExcelTip">
-		<Value>Imported products are distinguished by SKU. If the SKU already exists, then its corresponding product will be updated.</Value>
+		<Value>Produtos importados são distinguidos pelo SKU. Se o SKU já existir, então o produto correspondente será atualizado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchCategory">
 		<Value>Categoria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchCategory.Hint">
-		<Value>Search by a specific category.</Value>
+		<Value>Buscar por uma categoria específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories">
-		<Value>Search sub categories</Value>
+		<Value>Buscar sub categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories.Hint">
-		<Value>Check to search in sub categories.</Value>
+		<Value>Marque para buscar nas sub categorias.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer">
 		<Value>Fabricante</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer.Hint">
-		<Value>Buscar por fabricante específico.</Value>
+		<Value>Buscar por um fabricante específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.List.SearchProductName">
 		<Value>Nome do produto</Value>
@@ -3328,28 +3328,28 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.DisplayOrder.Hint">
-		<Value>Display order of the picture. 1 represents the top of the list.</Value>
+		<Value>Ordem de exibição da foto. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideAltAttribute">
 		<Value>Alt</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideAltAttribute.Hint">
-		<Value>Override "alt" attribute for "img" HTML element. If empty, then a default rule will be used (e.g. product name).</Value>
+		<Value>Substituir o atributo "alt" do elemento HTML "img". Se vazio, então uma regra padrão será usada (por exemplo, nome do produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideTitleAttribute">
 		<Value>Título</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.OverrideTitleAttribute.Hint">
-		<Value>Override "title" attribute for "img" HTML element. If empty, then a default rule will be used (e.g. product name).</Value>
+		<Value>Substituir o atributo "title" do elemento HTML "img". Se vazio, então uma regra padrão será usada (por exemplo, nome do produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.Picture">
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.Fields.Picture.Hint">
-		<Value>Choose a picture to upload. If the picture size exceeds your stores max image size setting, it will be automatically resized.</Value>
+		<Value>Escolha uma foto para enviar. Se o tamanho da imagem exceder o tamanho máximo da configuração da sua loja, ela será redimensionada automaticamente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Pictures.SaveBeforeEdit">
-		<Value>You need to save the product before you can upload pictures for this product page.</Value>
+		<Value>Você precisa salvar o produto antes de poder enviar fotos na página deste produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Prices">
 		<Value>Preços</Value>
@@ -3358,10 +3358,10 @@
 		<Value>Atributos de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations">
-		<Value>Attribute combinations</Value>
+		<Value>Combinações de atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.AddNew">
-		<Value>Add combination</Value>
+		<Value>Adicionar combinação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.AddTitle">
 		<Value>Select new combination and enter details below</Value>
@@ -3373,7 +3373,7 @@
 		<Value>Note that some attribute control types that support custom user input (e.g. file upload, textboxes, date picker) are useless with attribute combinations</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders">
-		<Value>Allow out of stock</Value>
+		<Value>Permitir fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders.Hint">
 		<Value>A value indicating whether to allow orders when out of stock.</Value>
@@ -3400,7 +3400,7 @@
 		<Value>When the current stock quantity falls below (reaches) this quantity, a store owner will receive a notification.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.OverriddenPrice">
-		<Value>Overridden price</Value>
+		<Value>Preço substituído</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.OverriddenPrice.Hint">
 		<Value>Override price for this attribute combination. This way a store owner can override the default product price when this attribute combination is added to the cart. For example, you can give a discount this way. Leave empty to ignore field. All other applied discounts will be ignored when this field is specified.</Value>
@@ -3424,16 +3424,16 @@
 		<Value>Atributos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Added">
-		<Value>The new attribute has been added successfully.</Value>
+		<Value>O novo atributo foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.AddNew">
-		<Value>Add a new attribute</Value>
+		<Value>Adicionar um novo atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.AlreadyExists">
-		<Value>This attribute is already added to this product</Value>
+		<Value>Este atributo já foi adicionado a este produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.BackToProduct">
-		<Value>back to product details</Value>
+		<Value>voltar aos detalhes do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Condition">
 		<Value>Condição</Value>
@@ -3460,19 +3460,19 @@
 		<Value>O atributo foi removido com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.EditAttributeDetails">
-		<Value>Edit product attribute</Value>
+		<Value>Editar atributo de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.Attribute">
 		<Value>Atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.Attribute.Hint">
-		<Value>Choose an attribute.</Value>
+		<Value>Escolha um atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.AttributeControlType">
-		<Value>Control type</Value>
+		<Value>Tipo de controle</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.AttributeControlType.Hint">
-		<Value>Choose how to display your attribute values.</Value>
+		<Value>Escolha como exibir seu valores de atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -3481,34 +3481,34 @@
 		<Value>The attribute display order. 1 represents the first item in the list.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.IsRequired">
-		<Value>Is Required</Value>
+		<Value>É obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.IsRequired.Hint">
 		<Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.TextPrompt">
-		<Value>Text prompt</Value>
+		<Value>Prompt de texto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Fields.TextPrompt.Hint">
-		<Value>Enter text prompt (you can leave it empty).</Value>
+		<Value>Insira o prompt de texto (você pode deixá-lo vazio).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Info">
 		<Value>Informações</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Updated">
-		<Value>The attribute has been updated successfully.</Value>
+		<Value>O atributo foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules">
-		<Value>Validation rules</Value>
+		<Value>Regras de validação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.DefaultValue">
 		<Value>Valor padrão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.DefaultValue.Hint">
-		<Value>Enter default value for attribute.</Value>
+		<Value>Insira o valor padrão do atributo.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.FileAllowedExtensions">
-		<Value>Allowed file extensions</Value>
+		<Value>Extensões de arquivo permitidas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.FileAllowedExtensions.Hint">
 		<Value>Specify a comma-separated list of allowed file extensions. Leave empty to allow any file extension.</Value>
@@ -3520,22 +3520,22 @@
 		<Value>Specify maximum file size in kilobytes. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MaxLength">
-		<Value>Maximum length</Value>
+		<Value>Tamanho máximo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MaxLength.Hint">
 		<Value>Specify maximum length. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MinLength">
-		<Value>Minimum length</Value>
+		<Value>Tamanho mínimo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.MinLength.Hint">
 		<Value>Specify minimum length. Leave empty to skip this validation.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.ValidationRules.ViewLink">
-		<Value>Edit rules</Value>
+		<Value>Editar regras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values">
-		<Value>Values</Value>
+		<Value>Valores</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.AddNew">
 		<Value>Add a new value</Value>
@@ -3544,13 +3544,13 @@
 		<Value>Add/Edit values for [{0}] attribute. Product: {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.EditValueDetails">
-		<Value>Edit value</Value>
+		<Value>Editar valor</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct">
-		<Value>Associated product</Value>
+		<Value>Produto associado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.AddNew">
-		<Value>Associate a product</Value>
+		<Value>Associe um produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.Choose">
 		<Value>Choose an associated product</Value>
@@ -3889,7 +3889,7 @@
 		<Value>You need to save the product before you can add tier prices for this product page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Updated">
-		<Value>The product has been updated successfully.</Value>
+		<Value>O produto foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.ProductTags">
 		<Value>TAGs de produto</Value>
@@ -3970,13 +3970,13 @@
 		<Value>Exportar para Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.All">
-		<Value>Export para Excel (todos)</Value>
+		<Value>Exportar para Excel (todos)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToExcel.Selected">
-		<Value>Export para Excel (selecionados)</Value>
+		<Value>Exportar para Excel (selecionados)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml">
-		<Value>Export para XML</Value>
+		<Value>Exportar para XML</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ExportToXml.All">
 		<Value>Exportar para XML (todos)</Value>
@@ -3994,10 +3994,10 @@
 		<Value>Importar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromCsv">
-		<Value>Importar de arquivo CSV</Value>
+		<Value>Importar arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel">
-		<Value>Importar de arquivo do Excel</Value>
+		<Value>Importar arquivo do Excel</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ImportFromExcel.ManyRecordsWarning">
 		<Value>A importação requer bastante memória. Por este motivo não recomendamos importar mais do que 500 - 1,000 itens de cada vez. Se você tem mais itens, é recomendado dividí-los em vários arquivos de Excel e importá-los separadamente.</Value>
@@ -4027,13 +4027,13 @@
 		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Select">
-		<Value>Select</Value>
+		<Value>Selecione</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.SEO">
 		<Value>SEO</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Show">
-		<Value>Show</Value>
+		<Value>Exibir</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Standard">
 		<Value>Padrão</Value>
@@ -4042,34 +4042,34 @@
 		<Value>Atualizar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.UploadFile">
-		<Value>Please upload a file</Value>
+		<Value>Por favor envie um arquivo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.View">
 		<Value>Ver</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.WrongEmail">
-		<Value>Wrong email</Value>
+		<Value>Email incorreto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.Yes">
-		<Value>Yes</Value>
+		<Value>Sim</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Common.ZipFile">
-		<Value>Zip file</Value>
+		<Value>Arquivo Zip</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration">
 		<Value>Configuração</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL">
-		<Value>Access control list</Value>
+		<Value>Lista de controle de acesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Description">
 		<Value>Access control list is a list of permissions attached to customer roles. This list specifies the access rights of users to objects.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Permission">
-		<Value>Permission name</Value>
+		<Value>Nome da permissão</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ACL.Updated">
-		<Value>The ACL has been updated successfully.</Value>
+		<Value>A LCA foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog">
 		<Value>Log de Atividades</Value>
@@ -4078,7 +4078,7 @@
 		<Value>Log de Atividades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.ActivityLogType">
-		<Value>Activity Log Type</Value>
+		<Value>Tipo de Log de Atividade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.ActivityLogType.Hint">
 		<Value>The Activity Log Type.</Value>
@@ -4123,151 +4123,151 @@
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLogType.Updated">
-		<Value>The types have been updated successfully.</Value>
+		<Value>Os tipos foram atualizados com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries">
 		<Value>Países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Added">
-		<Value>The new country has been added successfully.</Value>
+		<Value>O novo país foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.AddNew">
-		<Value>Add a new country</Value>
+		<Value>Adicionar um novo país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.BackToList">
-		<Value>back to country list</Value>
+		<Value>voltar à lista de países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Deleted">
-		<Value>The country has been deleted successfully.</Value>
+		<Value>O país foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.EditCountryDetails">
-		<Value>Edit country details</Value>
+		<Value>Editar detalhes do país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ExportToCsv">
-		<Value>Export states to CSV</Value>
+		<Value>Exportar estados para CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsBilling">
-		<Value>Allows billing</Value>
+		<Value>Permite cobrança</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsBilling.Hint">
-		<Value>Allow billing to customers located in this country.</Value>
+		<Value>Permite cobrança a clientes localizados neste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping">
-		<Value>Allows shipping</Value>
+		<Value>Permite envio</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.AllowsShipping.Hint">
-		<Value>Allow shipping to customers located in this country.</Value>
+		<Value>Permite envio para os clientes localizados neste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.DisplayOrder.Hint">
-		<Value>The display order for this country. 1 represents the top of the list.</Value>
+		<Value>A ordem de exibição para este país. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
-	<LocaleResource Name="Admin.Configuration.Countries.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this country to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+	<LocaleResource Name="admin.configuration.countries.fields.limitedtostores.hint">
+		<Value>Opção para limitar este país para uma determinada loja. Se tiver várias lojas, escolha uma ou várias da lista. Se você não usar esta opção simplesmente deixar este campo em branco.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name.Hint">
-		<Value>The name of the country.</Value>
+		<Value>O nome do país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumberOfStates">
-		<Value>Number of states</Value>
+		<Value>Número de estados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode">
-		<Value>Numeric ISO code</Value>
+		<Value>Código ISO numérico</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode.Hint">
-		<Value>The numeric ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_numeric.</Value>
+		<Value>O código ISO numérico para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_numeric</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Published">
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.Published.Hint">
-		<Value>Determines whether this country is published (visible for creation of shipping/billing addresses).</Value>
+		<Value>Determina se este país está publicado (visível para a criação de endereços de envio/cobrança).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.SubjectToVat">
-		<Value>Subject to VAT</Value>
+		<Value>Sujeito a IVA</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.SubjectToVat.Hint">
-		<Value>Value indicating whether customers in this country must be charged EU VAT (the European Union Value Added Tax).</Value>
+		<Value>Valor indicando se os clientes neste país devem ser cobrados IVA da UE (Imposto União Europeia Value Added).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode">
-		<Value>Three letter ISO code</Value>
+		<Value>Código ISO de três letras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Hint">
-		<Value>The three letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
+		<Value>O código ISO de três letras para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Length">
-		<Value>Three letter ISO code should be 3 characters long.</Value>
+		<Value>O código ISO de três letras deve conter 3 caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Required">
-		<Value>Three letter ISO code is required.</Value>
+		<Value>O código ISO de três letras é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode">
-		<Value>Two letter ISO code</Value>
+		<Value>Código ISO de duas letras</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Hint">
-		<Value>The two letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
+		<Value>O código ISO de duas letras para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Length">
-		<Value>Two letter ISO code should be 2 characters long.</Value>
+		<Value>O código ISO de duas letras deve conter 2 caracteres.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Required">
-		<Value>Two letter ISO code is required.</Value>
+		<Value>O código ISO de duas letras é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportFromCsv">
-		<Value>Import states from CSV</Value>
+		<Value>Importar estados de arquivo CSV</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportSuccess">
-		<Value>{0} states have been successfully imported</Value>
+		<Value>{0} estados foram importados com sucesso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.ImportTip">
-		<Value>You can download a CSV file with a list of states for other countries on the following page:</Value>
+		<Value>Você pode baixar um arquivo CSV com uma lista de estados para outros países na seguinte página:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Info">
-		<Value>Country info</Value>
+		<Value>Informação do país</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.PublishSelected">
-		<Value>Publish selected</Value>
+		<Value>Publicar selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States">
-		<Value>States and provinces</Value>
+		<Value>Estados e províncias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.AddNew">
-		<Value>Add a new state/province</Value>
+		<Value>Adicioar um novo estado/província</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.CantDeleteWithAddresses">
-		<Value>The state can't be deleted. It has associated addresses.</Value>
+		<Value>O estado não pôde ser excluído. Ele contém endereços associados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.EditStateDetails">
-		<Value>Edit state/province</Value>
+		<Value>Editar estado/província</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Abbreviation">
-		<Value>Abbreviation</Value>
+		<Value>Abreviação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Abbreviation.Hint">
-		<Value>An abbreviation for this state/province.</Value>
+		<Value>Uma abreviação para este estado/província.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.DisplayOrder.Hint">
-		<Value>The display order for this state. 1 represents the top of the list.</Value>
+		<Value>A ordem de exibição para este estado. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Hint">
-		<Value>The name of the state.</Value>
+		<Value>O nome do estado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Required">
 		<Value>Por favor informe o nome.</Value>
@@ -4276,25 +4276,25 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.Fields.Published.Hint">
-		<Value>Determines whether this state is published.</Value>
+		<Value>Determinea se este estado está publicado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.States.SaveBeforeEdit">
-		<Value>You need to save the country before you can add states for this country page.</Value>
+		<Value>Você precisa salvar o país antes de poder adicionar estados na página deste país.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.UnpublishSelected">
-		<Value>Unpublish selected</Value>
+		<Value>Despublicar selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Countries.Updated">
-		<Value>The country has been updated successfully.</Value>
+		<Value>O país foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies">
 		<Value>Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Added">
-		<Value>The new currency has been added successfully.</Value>
+		<Value>A nova moeda foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.AddNew">
-		<Value>Add a new currency</Value>
+		<Value>Adicionar uma nova moeda</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.ApplyRate">
 		<Value>Apply rate</Value>
@@ -5023,55 +5023,55 @@
 		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved">
-		<Value>Blog comments must be approved</Value>
+		<Value>Comentários do blog devem ser aprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved.Hint">
-		<Value>Check if blog comments must be approved by administrator.</Value>
+		<Value>Marque se os comentários do blog devem ser aprovados por um administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.Enabled">
-		<Value>Blog enabled</Value>
+		<Value>Blog habilitado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.Enabled.Hint">
-		<Value>Check to enable the blog in your store.</Value>
+		<Value>Marque para habilitar o blog na sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments">
-		<Value>Notify about new blog comments</Value>
+		<Value>Notificar sobre novos comentários do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments.Hint">
-		<Value>Check to notify store owner about new blog comments.</Value>
+		<Value>Marque para notificar o dono da loja sobre novos comentários do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NumberOfTags">
-		<Value>Number of tags (cloud)</Value>
+		<Value>Número de TAGs (núvem)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.NumberOfTags.Hint">
-		<Value>The number of blog tags that appear in the tag cloud.</Value>
+		<Value>O número de TAGs do blog que aparecem na núvem de TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.PostsPageSize">
-		<Value>Posts page size</Value>
+		<Value>Tamanho da página de postagems</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.PostsPageSize.Hint">
-		<Value>Set the page size for posts.</Value>
+		<Value>Configure o tamanho da página para postagems.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore">
-		<Value>Blog comments per store</Value>
+		<Value>Comentários do blog por loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore.Hint">
-		<Value>Check to display blog comments written in the current store only.</Value>
+		<Value>Marque para exibir somente comentários do blog escritos na loja atual.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl">
-		<Value>Display blog RSS feed link in the browser address bar</Value>
+		<Value>Exibir o link de RSS feed na barra de endereços do navegador</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl.Hint">
-		<Value>Check to enable the blog RSS feed link in customers browser address bar.</Value>
+		<Value>Marque para habilitar o link de RSS feed na barra de endereços do navegador do cliente.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog">
 		<Value>Configurações de catálogo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend">
-		<Value>Allow anonymous users to email a friend</Value>
+		<Value>Permitir que usuários anônimos enviem emails aos(às) amigos(as)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend.Hint">
-		<Value>Check if you want to allow anonymous users to email a friend.</Value>
+		<Value>Marque se você quer permitir que usuários anônimos enviem emails aos(às) amigos(as).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct">
 		<Value>Allow anonymous users to write product reviews</Value>
@@ -6367,10 +6367,16 @@
 		<Value>Encryption private key must be 16 characters long</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FacebookLink">
-		<Value>Facebook page URL</Value>
+		<Value>URL da página do Facebook</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FacebookLink.Hint">
-		<Value>Specify your Facebook page URL. Leave empty if you have no such page.</Value>
+		<Value>Especifique a URL da sua página do Facebook. Deixe vazio se você não tiver uma página.</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink">
+		<Value>URL da página do Instagram</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink.Hint">
+		<Value>Especifique a URL da sua página do Instagram. Deixe vazio se você não tiver uma página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ForceSslForAllPages">
 		<Value>Force SSL for all site pages</Value>
@@ -8356,7 +8362,7 @@
 		<Value>Nome do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Updated">
-		<Value>The settings have been updated successfully.</Value>
+		<Value>As configurações foram atualizadas com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement">
 		<Value>Gerenc. de conteúdo</Value>
@@ -8368,76 +8374,76 @@
 		<Value>Postagens do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Added">
-		<Value>The new blog post has been added successfully.</Value>
+		<Value>A nova postagem do blog foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.AddNew">
 		<Value>Adicionar uma nova publicação no blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.BackToList">
-		<Value>back to blog post list</Value>
+		<Value>voltar à lista de postagems do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Deleted">
-		<Value>The blog post has been deleted successfully.</Value>
+		<Value>A postagem do blog foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.EditBlogPostDetails">
-		<Value>Edit blog post details</Value>
+		<Value>Editar os detalhes da postagem do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.AllowComments">
 		<Value>Permitir comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.AllowComments.Hint">
-		<Value>When checked, customers can leave comments about your blog entry.</Value>
+		<Value>Quando marcado, clientes podem deixar comentários sobre a postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body">
 		<Value>Corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body.Hint">
-		<Value>The body of this blog entry.</Value>
+		<Value>O corpo da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Body.Required">
-		<Value>Body is required.</Value>
+		<Value>Corpo é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.BodyOverview">
-		<Value>Body overview</Value>
+		<Value>Visão geral do corpo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.BodyOverview.Hint">
-		<Value>Brief overview of this blog post. If specified, then it will be used instead of full body on the main blog page. HTML is supported.</Value>
+		<Value>Breve visão geral desta postagem do blog. Se especificado, então será usada ao invés do corpo inteiro na página principal do blog. HTML é suportado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Comments">
-		<Value>View comments</Value>
+		<Value>Ver comentários</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate">
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate.Hint">
-		<Value>Set the blog post end date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configure a data final da postagem do blog em em Tempo Universal Coordenado (UTC). Você também pode deixar vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language">
 		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Language.Hint">
-		<Value>The language of this blog entry. A customer will only see the blog entries for their selected language.</Value>
+		<Value>O idioma desta postagem do blog. Os clientes só verão as postagems do blog para o idioma selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores">
 		<Value>Limitado às lojas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.LimitedToStores.Hint">
-		<Value>Option to limit this blog post to a certain store. If you have multiple stores, choose one or several from the list. If you don't use this option just leave this field empty.</Value>
+		<Value>Opção para limitar esta postagem do blog a uma certa loja. Se você tem várias lojas, escolha uma ou várias da lista. Se você não usar esta opção apenas deixe este campo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription">
 		<Value>Descrição meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaDescription.Hint">
-		<Value>Meta description to be added to blog post page header.</Value>
+		<Value>Descrição meta a ser adicionada ao cabeçalho da página da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords">
 		<Value>Palavras-chave meta</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaKeywords.Hint">
-		<Value>Meta keywords to be added to blog post page header.</Value>
+		<Value>Palavras-chave meta a serem adicionadas ao cabeçalho da página da postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.MetaTitle">
 		<Value>Título meta</Value>
@@ -8455,16 +8461,16 @@
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate.Hint">
-		<Value>Set the blog post start date in Coordinated Universal Time (UTC). You can also leave it empty.</Value>
+		<Value>Configure a data de início da postagem do blog em Tempo Universal Coordenado (UTC). Você também pode deixar vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags">
-		<Value>Tags</Value>
+		<Value>TAGs</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Hint">
-		<Value>Tags are keywords that this blog post can also be identified by. Enter a comma separated list of the tags to be associated with this blog post.</Value>
+		<Value>TAGs são palavras-chave que podem ser usadas para identificar esta postagem do blog. Insira uma lista separada por vírgula das TAGs a serem associadas a esta postagem do blog.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.NoDots">
-		<Value>Dots are not supported by tags.</Value>
+		<Value>Pontos não são permitidos nas TAGs.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Placeholder">
 		<Value>Insira TAGs ...</Value>
@@ -8488,7 +8494,7 @@
 		<Value>Buscar por loja específica.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Updated">
-		<Value>The blog post has been updated successfully.</Value>
+		<Value>A postagem do blog foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments">
 		<Value>Comentários do blog</Value>
@@ -8500,16 +8506,16 @@
 		<Value>Excluir selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.DisapproveSelected">
-		<Value>Disapprove selected</Value>
+		<Value>Desaprovar selecionado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.BlogPost">
-		<Value>Blog post</Value>
+		<Value>Postagem do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Comment">
 		<Value>Comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Customer">
 		<Value>Cliente</Value>
@@ -8518,19 +8524,19 @@
 		<Value>Está aprovado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.StoreName">
-		<Value>Store name</Value>
+		<Value>Nome da loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom">
 		<Value>Criado a partir de</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom.Hint">
-		<Value>The creation from date for the search.</Value>
+		<Value>A data de início de criação para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnTo">
-		<Value>Created to</Value>
+		<Value>Criado até</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnTo.Hint">
-		<Value>The creation to date for the search.</Value>
+		<Value>A data final de criação para a busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved">
 		<Value>Aprovado</Value>
@@ -8539,31 +8545,31 @@
 		<Value>Todos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.ApprovedOnly">
-		<Value>Approved only</Value>
+		<Value>Somente aprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.DisapprovedOnly">
-		<Value>Disapproved only</Value>
+		<Value>Somente desaprovados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.Hint">
-		<Value>Search by a "Approved" property.</Value>
+		<Value>Buscar pela propriedade "Aprovado".</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText">
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText.Hint">
-		<Value>Search in comment text.</Value>
+		<Value>Buscar no texto do comentário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums">
 		<Value>Fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum">
-		<Value>Forum</Value>
+		<Value>Fórum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.Added">
-		<Value>The new forum has been added successfully.</Value>
+		<Value>O novo fórum foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.BackToList">
-		<Value>back to forum list</Value>
+		<Value>voltar à lista de fóruns</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Forums.Forum.CreateForum">
 		<Value>Add New Forum</Value>
@@ -9112,16 +9118,16 @@
 		<Value>The news item has been updated successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls">
-		<Value>Pesquisas</Value>
+		<Value>Enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Added">
-		<Value>A nova pesquisa foi adicionada com sucesso.</Value>
+		<Value>A nova enquete foi adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.AddNew">
-		<Value>Adicionar uma nova pesquisa</Value>
+		<Value>Adicionar uma nova enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers">
-		<Value>Respostas da pesquisa</Value>
+		<Value>Respostas da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.Fields.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -9136,16 +9142,16 @@
 		<Value>Número de votos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Answers.SaveBeforeEdit">
-		<Value>Você precisa salvar a pesquisa antes de poder adicionar resposta na página desta pesquisa.</Value>
+		<Value>Você precisa salvar a enquete antes de poder adicionar resposta na página desta enquete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.BackToList">
-		<Value>voltar à lista de pesquisas</Value>
+		<Value>voltar à lista de enquetes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Deleted">
-		<Value>A pesquisa foi excluída com sucesso.</Value>
+		<Value>A enquete foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.EditPollDetails">
-		<Value>Editar detalhes da pesquisa</Value>
+		<Value>Editar detalhes da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.AllowGuestsToVote">
 		<Value>Permitir que convidados possam votar</Value>
@@ -9157,25 +9163,25 @@
 		<Value>Ordem de exibição</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.DisplayOrder.Hint">
-		<Value>A orderm de exibição desta pesquisa. 1 representa o topo da lista.</Value>
+		<Value>A orderm de exibição desta enquete. 1 representa o topo da lista.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate">
 		<Value>Data final</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.EndDate.Hint">
-		<Value>Configura a data final da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
+		<Value>Configura a data final da enquete em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language">
 		<Value>Idioma</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Language.Hint">
-		<Value>O idioma desta pesquisa. Os cliente irão ver somente as pesquisas que estão no seu idioma selecionado.</Value>
+		<Value>O idioma desta enquete. Os cliente irão ver somente as enquetes que estão no seu idioma selecionado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name">
 		<Value>Nome</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Hint">
-		<Value>O nome desta pesquisa.</Value>
+		<Value>O nome desta enquete.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Required">
 		<Value>Nome é obrigatório.</Value>
@@ -9184,31 +9190,31 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published.Hint">
-		<Value>Determina se esta pesquisa está publicada (visível) na sua loja.</Value>
+		<Value>Determina se esta enquete está publicada (visível) na sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage">
 		<Value>Mostrar na página inicial</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage.Hint">
-		<Value>Marque se você quiser exibir a pesquisa na página inicial.</Value>
+		<Value>Marque se você quiser exibir a enquete na página inicial.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate">
 		<Value>Data de início</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate.Hint">
-		<Value>Configure a data de início da pesquisa em Tempo Universal Coordenado (UTC). Você também pode deixá-lo vazio.</Value>
+		<Value>Configure a data de início da enquete em Tempo Universal Coordenado (UTC). Você também pode deixá-la em branco.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword">
 		<Value>Palavra-chave do sistema</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Fields.SystemKeyword.Hint">
-		<Value>A palavra-chave do sistema desta pesquisa. Por exemplo, você pode inserir 'LeftColumnPoll' para exibi-la na coluna da esquerda.</Value>
+		<Value>A palavra-chave do sistema desta enquete. Por exemplo, você pode inserir 'LeftColumnPoll' para exibi-la na coluna da esquerda.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Info">
-		<Value>Informações da pesquisa</Value>
+		<Value>Informações da enquete</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Polls.Updated">
-		<Value>A pesquisa foi atualizada com sucesso.</Value>
+		<Value>A enquete foi atualizada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.Topics">
 		<Value>Tópicos (páginas)</Value>
@@ -13444,7 +13450,7 @@
 		<Value>Insira comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.CreatedOn">
-		<Value>Criado em</Value>
+		<Value>Data de criação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.LeaveYourComment">
 		<Value>Deixe seu comentário</Value>
@@ -13453,19 +13459,19 @@
 		<Value>Somente usuários registrados podem deixar comentários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SeeAfterApproving">
-		<Value>Blog comment is successfully added. You will see it after approving by a store administrator.</Value>
+		<Value>O comentário do blog foi adicionada com sucesso. Você irá vê-lo após ser aprovado por um administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SubmitButton">
 		<Value>Novo comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Comments.SuccessfullyAdded">
-		<Value>Blog comment is successfully added.</Value>
+		<Value>O comentário do blog foi adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.CommentsLink">
 		<Value>Comentários ({0:d})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.FilteredByMonth">
-		<Value>Blog posts of '{0}' '{1}'</Value>
+		<Value>Postagems do blog de '{0}' '{1}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.MoreInfo">
 		<Value>detalhes</Value>
@@ -13477,13 +13483,13 @@
 		<Value>Clique aqui para ser informado automaticamente quando adicionarmos novos itens no nosso site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.TagCloud">
-		<Value>Popular blog tags</Value>
+		<Value>TAGs populares do blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.TaggedWith">
-		<Value>Blog posts tagged with '{0}'</Value>
+		<Value>Postagems do blog com as TAGs '{0}'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Blog.Tags">
-		<Value>Tags</Value>
+		<Value>TAGs</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.OrderBy">
 		<Value>Ordernar por</Value>
@@ -13498,7 +13504,7 @@
 		<Value>Ver como</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.ViewMode.Grid">
-		<Value>Grid</Value>
+		<Value>Grade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Catalog.ViewMode.List">
 		<Value>Lista</Value>
@@ -13861,7 +13867,7 @@
 		<Value>Por favor insira o assunto</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
-		<Value>Sua mensagem foi enviada com sucesso para o dono da loja.</Value>
+		<Value>Sua mensagem foi enviada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ContactVendor">
 		<Value>Entre em contato com o fornecedor</Value>
@@ -14430,6 +14436,9 @@
 	<LocaleResource Name="Footer.FollowUs.Facebook">
 		<Value>Facebook</Value>
 	</LocaleResource>
+	<LocaleResource Name="Footer.FollowUs.Instagram">
+		<Value>Instagram</Value>
+	</LocaleResource>
 	<LocaleResource Name="Footer.FollowUs.GooglePlus">
 		<Value>Google+</Value>
 	</LocaleResource>
@@ -14908,22 +14917,22 @@
 		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.LeaveYourComment">
-		<Value>Leave your comment</Value>
+		<Value>Deixe seu comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.OnlyRegisteredUsersLeaveComments">
-		<Value>Only registered users can leave comments.</Value>
+		<Value>Somente usuários cadastrados podem deixar comentários.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SeeAfterApproving">
-		<Value>News comment is successfully added. You will see it after approving by a store administrator.</Value>
+		<Value>Comentário adicionado com sucesso. Você irá vê-lo após ser aprovado por um administrador da loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SubmitButton">
-		<Value>New comment</Value>
+		<Value>Novo comentário</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Comments.SuccessfullyAdded">
-		<Value>News comment is successfully added.</Value>
+		<Value>Comentário adicionado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.MoreInfo">
-		<Value>details</Value>
+		<Value>detalhes</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.RSS">
 		<Value>RSS</Value>
@@ -14932,7 +14941,7 @@
 		<Value>Click here to be informed automatically when we add new items to our site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.ViewAll">
-		<Value>View News Archive</Value>
+		<Value>Ver Arquivo de Novidades</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Email.Placeholder">
 		<Value>Insira seu email aqui...</Value>
@@ -15553,19 +15562,19 @@
 		<Value>Área de administração. Manage Attributes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageBlog">
-		<Value>Área de administração. Manage Blog</Value>
+		<Value>Área de administração. Gerenciar o Blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCampaigns">
-		<Value>Área de administração. Manage Campaigns</Value>
+		<Value>Área de administração. Gerenciar Campanhas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCategories">
-		<Value>Área de administração. Manage Categories</Value>
+		<Value>Área de administração. Gerenciar Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCountries">
-		<Value>Área de administração. Manage Countries</Value>
+		<Value>Área de administração. Gerenciar Países</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrencies">
-		<Value>Área de administração. Manage Currencies</Value>
+		<Value>Área de administração. Gerenciar Moedas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageCurrentCarts">
 		<Value>Área de administração. Manage Current Carts</Value>
@@ -16141,7 +16150,7 @@
 		<Value>Submit return request</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Submitted">
-		<Value>Your return request has been submitted successfully.</Value>
+		<Value>Seu pedido de devolução foi enviado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="ReturnRequests.Title">
 		<Value>Return item(s) from &lt;a href="{0}"&gt;order #{1}&lt;/a&gt;</Value>
@@ -16180,7 +16189,7 @@
 		<Value>Título da avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.MaxLengthValidation">
-		<Value>Max length of product review title is {0} chars</Value>
+		<Value>O comprimento máximo do título da avalição de produto é de {0} caracteres</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title.Required">
 		<Value>Título da avaliação é obrigatório.</Value>
@@ -16228,7 +16237,7 @@
 		<Value>Enviar avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SuccessfullyAdded">
-		<Value>Product review is successfully added.</Value>
+		<Value>Avalição de produto adicionada com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.TotalReviews">
 		<Value>{0} avaliação(ões)</Value>
@@ -16429,7 +16438,7 @@
 		<Value>Estado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
-		<Value>Enter your destination to get a shipping estimate</Value>
+		<Value>Insira o destino para obter uma estimativa</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
 		<Value>CEP</Value>
@@ -16438,13 +16447,13 @@
 		<Value>CEP é obrigatório</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.FileUploaded">
-		<Value>Your file successfully uploaded!</Value>
+		<Value>Seu arquivo foi enviado com sucesso!</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode">
 		<Value>Cartões Presente</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Applied">
-		<Value>The gift card code was applied</Value>
+		<Value>O código do cartão presente foi aplicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.GiftCardCouponCode.Button">
 		<Value>Adicionar cartão presente</Value>
@@ -16741,16 +16750,16 @@
 		<Value>Insira o nome do fornecedor.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Name.Required">
-		<Value>Vendor name is required.</Value>
+		<Value>Nome do fornecedor é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture">
 		<Value>Foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Picture.ErrorMessage">
-		<Value>You can add only picture file</Value>
+		<Value>Você pode adicionar somente arquivos de foto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.ApplyAccount.Submitted">
-		<Value>Your request has been submitted successfully. We'll contact you soon.</Value>
+		<Value>Seu pedido foi enviado com sucesso. Nós entraremos em contato em breve.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Vendors.List">
 		<Value>Lista de fornecedores</Value>
@@ -16765,43 +16774,43 @@
 		<Value>Some product(s) from wishlist could not be moved to the cart for some reasons.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.CartIsEmpty">
-		<Value>The wishlist is empty!</Value>
+		<Value>A lista de desejos está vazia!</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend">
-		<Value>Email a friend</Value>
+		<Value>Envie um email para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.Button">
 		<Value>Enviar email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail">
-		<Value>Friend's email</Value>
+		<Value>Email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Hint">
-		<Value>Enter friend's email.</Value>
+		<Value>Insira o email do(a) amigo(a).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Required">
-		<Value>Enter friend's email</Value>
+		<Value>Insira o email do(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.OnlyRegisteredUsers">
-		<Value>Only registered customers can use email a friend feature</Value>
+		<Value>Somente clientes registrados podem usar a funcionalidade "Envie um email para um(a) amigo(a)"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage">
-		<Value>Personal message</Value>
+		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage.Hint">
-		<Value>Enter personal message (optional).</Value>
+		<Value>Digite uma mensagem (opcional).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.SuccessfullySent">
 		<Value>Sua mensagem foi enviada.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.Title">
-		<Value>Email your wishlist to a friend</Value>
+		<Value>Envie sua lista de desejos por email para um(a) amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress">
 		<Value>Seu endereço de email</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Hint">
-		<Value>Enter your email address.</Value>
+		<Value>Insira seu endereço de email.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Required">
 		<Value>Insira seu email</Value>
@@ -16810,10 +16819,10 @@
 		<Value>({0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.TaxShipping.ExclTax">
-		<Value>All prices are entered excluding tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+		<Value>Todos os preços são inseridos sem incluir imposto. Sem incluir &lt;a href="{0}"&gt;envio&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.TaxShipping.InclTax">
-		<Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+		<Value>Todos os preços são inseridos com imposto incluso. Incluindo &lt;a href="{0}"&gt;envio&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Wishlist.UpdateCart">
 		<Value>Atualizar lista de desejos</Value>
