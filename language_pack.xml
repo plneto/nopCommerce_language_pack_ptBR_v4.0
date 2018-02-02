@@ -6544,7 +6544,7 @@
 		<Value>Mapa do site inclui categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeCategories.Hint">
-		<Value>Check if you want to include categories in sitemap.</Value>
+		<Value>Marque se você quiser incluir categorias no mapa do site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeManufacturers">
 		<Value>Mapa do site inclui fabricantes</Value>
@@ -6556,7 +6556,7 @@
 		<Value>Mapa do site inclui produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeProducts.Hint">
-		<Value>Check if you want to include products in sitemap.</Value>
+		<Value>Marque se você quiser incluir produtos no mapa do site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SitemapIncludeProductTags">
 		<Value>Mapa do site inclui TAGs de produto</Value>
@@ -6568,13 +6568,13 @@
 		<Value>Loja fechada</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreClosed.Hint">
-		<Value>Check to close the store. Uncheck to re-open.</Value>
+		<Value>Marque para fechar a loja. Desmarque para reabrir.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SubjectFieldOnContactUsForm">
-		<Value>Contact us page. 'Subject' field</Value>
+		<Value>Página de contato. Campo 'Assunto'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SubjectFieldOnContactUsForm.Hint">
-		<Value>Check to allow a customer to type a subject on the contact us page.</Value>
+		<Value>Marque para permitir que clientes possam escrever um assunto na página de contato.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.TwitterLink">
 		<Value>URL da página do Twitter</Value>
@@ -16669,7 +16669,7 @@
 		<Value>Categorias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Sitemap.Description">
-		<Value>View the sitemap for this website below, with links to each of the pages and brief descriptions of what to find in each section</Value>
+		<Value>Veja o mapa deste website abaixo, com links para cada página e breves descrições do que encontrar em cada seção</Value>
 	</LocaleResource>
 	<LocaleResource Name="Sitemap.General">
 		<Value>Geral</Value>
