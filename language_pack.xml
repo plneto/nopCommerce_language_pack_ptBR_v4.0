@@ -244,7 +244,7 @@
 		<Value>Baixar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.DownloadableProducts">
-		<Value>Produtos para baixar</Value>
+		<Value>Produtos para download</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailRevalidation">
 		<Value>Validação de email</Value>
@@ -5785,16 +5785,16 @@
 		<Value>Marque para esconder a aba 'Notificações de produtos fora de estoque' na página 'Minha conta'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideDownloadableProductsTab">
-		<Value>Hide 'Downloadable products' tab</Value>
+		<Value>Esconder guia 'Produtos para download'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideDownloadableProductsTab.Hint">
-		<Value>Check to hide 'Downloadable products' tab on 'My account' page.</Value>
+		<Value>Marque para esconder a guia 'Produtos para download' na página 'Minha conta'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideNewsletterBlock">
-		<Value>Hide newsletter box</Value>
+		<Value>Esconder caixa de newsletter</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideNewsletterBlock.Hint">
-		<Value>Check if you want to hide the newsletter subscription box.</Value>
+		<Value>Marque se você quiser esconder a caixa de assinatura de newsletter.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.NewsletterBlockAllowToUnsubscribe">
 		<Value>Newsletter box. Allow to unsubscribe</Value>
@@ -13945,13 +13945,13 @@
 		<Value>Concordo</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.NoItems">
-		<Value>There are no downloadable products</Value>
+		<Value>Não há produtos para download</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.ReachedMaximumNumber">
-		<Value>You have reached maximum number of downloads {0}</Value>
+		<Value>Você atingiu o número máximo de downloads {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="DownloadableProducts.UserAgreement">
-		<Value>User agreement</Value>
+		<Value>Termo de Acordo do Usuário</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Checkboxes">
 		<Value>Checkboxes</Value>
