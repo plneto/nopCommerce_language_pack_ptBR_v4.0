@@ -5074,10 +5074,10 @@
 		<Value>Marque se você quer permitir que usuários anônimos enviem emails aos(às) amigos(as).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct">
-		<Value>Allow anonymous users to write product reviews</Value>
+		<Value>Permitir que usuários anônimos possam escrever avaliações de produtos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct.Hint">
-		<Value>Check to allow anonymous users to write product reviews.</Value>
+		<Value>Marque para permitir que usuários anônimos possam escrever avaliações de produtos.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowProductSorting">
 		<Value>Allow product sorting</Value>
@@ -5281,10 +5281,10 @@
 		<Value>The number of products to display when 'New products' page is enabled.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews">
-		<Value>Notify about new product reviews</Value>
+		<Value>Notificar sobre novas avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews.Hint">
-		<Value>Check to notify store owner about new product reviews.</Value>
+		<Value>Marque para notificar o(a) dono(a) da loja sobew novas avaliações de produto.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfBestsellersOnHomepage">
 		<Value>Number of best sellers on home page</Value>
@@ -5305,22 +5305,22 @@
 		<Value>A page share button code. By default, we're using AddThis service.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewPossibleOnlyAfterPurchasing">
-		<Value>Product review possible only after product purchasing</Value>
+		<Value>Avaliação de produto somente possível após a compra do produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewPossibleOnlyAfterPurchasing.Hint">
-		<Value>Check if product can be reviewed only by customer who have already ordered it.</Value>
+		<Value>Marque se o produto só pode ser avaliado se cliente o tenha comprado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsMustBeApproved">
-		<Value>Product reviews must be approved</Value>
+		<Value>Avaliações de produto devem ser aprovadas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsMustBeApproved.Hint">
-		<Value>Check if product reviews must be approved by administrator.</Value>
+		<Value>Marque se avaliações de produto devem ser aprovadas por um administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsPageSizeOnAccountPage">
-		<Value>Product reviews page size</Value>
+		<Value>Tamanho da página de avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsPageSizeOnAccountPage.Hint">
-		<Value>Set the page size for product reviews e.g. '10' reviews per page.</Value>
+		<Value>Configure o tamanho da página das avaliações de produto, por exemplo, '10' avaliações por página.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductsAlsoPurchasedEnabled">
 		<Value>'Products also purchased' enabled</Value>
@@ -5443,16 +5443,16 @@
 		<Value>Determines whether product images should be displayed in the autocomplete search box.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsPerStore">
-		<Value>Reviews per store</Value>
+		<Value>Avaliações por loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsPerStore.Hint">
-		<Value>Check to display reviews written in the current store only (on a product details page).</Value>
+		<Value>Marque para exibir avaliações escritas somente na loja atual (na página de detalhes do produto).</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsTabOnAccountPage">
-		<Value>Show product reviews tab on 'My account' page</Value>
+		<Value>Mostrar guia de avaliações de produto na página 'Minha conta'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsTabOnAccountPage.Hint">
-		<Value>Check to show product reviews tab on 'My account' page.</Value>
+		<Value>Marque para exibir guia de avaliações de produto na página 'Minha conta'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductsFromSubcategories">
 		<Value>Incluir produtos das subcategorias</Value>
@@ -6220,10 +6220,10 @@
 		<Value>Check to show CAPTCHA on news page when writing a comment.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage">
-		<Value>Show on product reviews page</Value>
+		<Value>Exibir na página de avaliações de produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage.Hint">
-		<Value>Check to show CAPTCHA on product reviews page when writing a review.</Value>
+		<Value>Marque para exibir CAPTCHA na página de avaliações de produto ao escrever uma avaliação.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnRegistrationPage">
 		<Value>Show on registration page</Value>
@@ -7117,7 +7117,7 @@
 		<Value>Permitir notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AllowCustomerReviews">
-		<Value>Allow customer reviews</Value>
+		<Value>Permitir avaliações de clientes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AllowedQuantities">
 		<Value>Allowed quantities</Value>
@@ -15286,7 +15286,7 @@
 		<Value>Envar Email para Amigo(a)</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductReviews">
-		<Value>Product Reviews</Value>
+		<Value>Avaliações de Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="PageTitle.ProductsByTag">
 		<Value>Produtos marcados com '{0}'</Value>
@@ -15631,7 +15631,7 @@
 		<Value>Área de administração. Gerenciar Pesquisas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProductReviews">
-		<Value>Área de administração. Manage Product Reviews</Value>
+		<Value>Área de administração. Gerenciar Avaliações de Produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Permission.ManageProducts">
 		<Value>Área de administração. Manage Products</Value>
@@ -16171,7 +16171,7 @@
 		<Value>Avaliações existentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Rating">
-		<Value>Rating</Value>
+		<Value>Nota</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Rating.Bad">
 		<Value>Ruim</Value>
@@ -16180,10 +16180,10 @@
 		<Value>Excelente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.ReviewText">
-		<Value>Review text</Value>
+		<Value>Texto da avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.ReviewText.Required">
-		<Value>Review text is required.</Value>
+		<Value>Texto da avaliação é obrigatório.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Fields.Title">
 		<Value>Título da avaliação</Value>
@@ -16222,16 +16222,16 @@
 		<Value>avaliação(ões)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.ProductReviewPossibleOnlyAfterPurchasing">
-		<Value>Product can be reviewed only after purchasing it</Value>
+		<Value>O produto só pode ser avaliado após a compra</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.ProductReviewsFor">
-		<Value>Product reviews for</Value>
+		<Value>Avaliações de produto para</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.Reply">
-		<Value>A manager responded to this review</Value>
+		<Value>Um gerente respondeu a esta avaliação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SeeAfterApproving">
-		<Value>You will see the product review after approving by a store administrator.</Value>
+		<Value>A avaliação ficará disponível após ser aprovada por um administrador.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Reviews.SubmitButton">
 		<Value>Enviar avaliação</Value>
