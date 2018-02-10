@@ -736,7 +736,7 @@
 		<Value>Adicionou uma nova dimensão de peso (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewNews">
-		<Value>Adicionou uma nova novidade (ID = {0})</Value>
+		<Value>Adicionou uma nova notícia (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.AddNewProduct">
 		<Value>Adicionou um novo produto ('{0}')</Value>
@@ -838,10 +838,10 @@
 		<Value>Excluiu um modelo de mensagem (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNews">
-		<Value>Excluiu uma novidade (ID = {0})</Value>
+		<Value>Excluiu uma notícia (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteNewsComment">
-		<Value>Excluiu um comentário de novidade (ID = {0})</Value>
+		<Value>Excluiu um comentário de notícia (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.DeleteOrder">
 		<Value>Excluiu um pedido (ID = {0})</Value>
@@ -958,10 +958,10 @@
 		<Value>Editou um modelo de mensagem (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditNews">
-		<Value>Editou uma novidade (ID = {0})</Value>
+		<Value>Editou uma notícia (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditNewsComment">
-		<Value>Editou um comentário de novidade (ID = {0})</Value>
+		<Value>Editou um comentário de notícia (ID = {0})</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.EditOrder">
 		<Value>Editou um pedido (Número do pedido = {0}). Veja as observações do pedido para detalhes</Value>
@@ -1039,7 +1039,7 @@
 		<Value>Adicionou um novo comentário de blog</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddNewsComment">
-		<Value>Adicionou um novo comentário de novidade</Value>
+		<Value>Adicionou um novo comentário de notícia</Value>
 	</LocaleResource>
 	<LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
 		<Value>Adicionou uma avaliação de produto ('{0}')</Value>
@@ -5779,10 +5779,10 @@
 		<Value>Configure se 'Sexo' está habilitado.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideBackInStockSubscriptionsTab">
-		<Value>Esconder aba 'Notificações de produtos fora de estoque'</Value>
+		<Value>Esconder guia 'Notificações de produtos fora de estoque'</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideBackInStockSubscriptionsTab.Hint">
-		<Value>Marque para esconder a aba 'Notificações de produtos fora de estoque' na página 'Minha conta'.</Value>
+		<Value>Marque para esconder a guia 'Notificações de produtos fora de estoque' na página 'Minha conta'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.HideDownloadableProductsTab">
 		<Value>Esconder guia 'Produtos para download'</Value>
@@ -6751,7 +6751,7 @@
 		<Value>Comum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.BlockTitle.NewsComments">
-		<Value>Comentários das novidades</Value>
+		<Value>Comentários das notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.News.Enabled">
 		<Value>News enabled</Value>
@@ -8677,7 +8677,7 @@
 		<Value>This message template is used when a new blog comment to the certain blog post is created. The message is received by a store owner. You can set up this option by ticking the checkbox &lt;strong&gt;Notify about new blog comments&lt;/strong&gt; in Configuration - Settings - Blog settings.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.BackInStock">
-		<Value>Este modelo de mensagem é usado quando o cliente se inscrever para certos produtos os quais estão indisponíveis no momento para notificar o cliente sobre o produto estar em estoque novamente. Você pode configurar esta opção ao marcar a caixa &lt;strong&gt;Notificações de produtos fora de estoque&lt;/strong&gt; na aba Informações do produto - Seção inventário.</Value>
+		<Value>Este modelo de mensagem é usado quando o cliente se inscrever para certos produtos os quais estão indisponíveis no momento para notificar o cliente sobre o produto estar em estoque novamente. Você pode configurar esta opção ao marcar a caixa &lt;strong&gt;Notificações de produtos fora de estoque&lt;/strong&gt; na guia Informações do produto - Seção inventário.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.EmailRevalidationMessage">
 		<Value>This message template is used when a customer changes an email address in his account. The customer receives a message to confirm an email address used when changing email address.</Value>
@@ -8926,10 +8926,10 @@
 		<Value>O modelo da mensagem foi atualizado com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News">
-		<Value>Novidades</Value>
+		<Value>Notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments">
-		<Value>Comentários das novidades</Value>
+		<Value>Comentários das notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.Comments.ApproveSelected">
 		<Value>Aprovar selecionados</Value>
@@ -8995,7 +8995,7 @@
 		<Value>Search in title and comment text.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems">
-		<Value>Postagens de novidades</Value>
+		<Value>Postagens de notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Added">
 		<Value>The new news item has been added successfully.</Value>
@@ -9079,7 +9079,7 @@
 		<Value>Nome amigável da página para mecanismo de busca.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.SeName.Hint">
-		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-novidade' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-novidade'. Deixe vazio para gerá-lo automaticamente baseado no título da novidade.</Value>
+		<Value>Configure um nome amigável para a página para o mecanismo de busca, por exemplo, 'a-melhor-noticia' para tornar a URL da sua página 'http://www.yourStore.com/a-melhor-noticia'. Deixe vazio para gerá-lo automaticamente baseado no título da notícia.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Short">
 		<Value>Descrição curta</Value>
@@ -10570,7 +10570,7 @@
 		<Value>Buscar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.NopCommerceNews">
-		<Value>Novidades do NopCommerce</Value>
+		<Value>Notícias do NopCommerce</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.NopCommerceNews.HideAdv">
 		<Value>Esconder anúncios</Value>
@@ -14890,7 +14890,7 @@
 		<Value>Discount:</Value>
 	</LocaleResource>
 	<LocaleResource Name="News">
-		<Value>Novidades</Value>
+		<Value>Notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.Archive">
 		<Value>News archive</Value>
@@ -14941,7 +14941,7 @@
 		<Value>Click here to be informed automatically when we add new items to our site.</Value>
 	</LocaleResource>
 	<LocaleResource Name="News.ViewAll">
-		<Value>Ver Arquivo de Novidades</Value>
+		<Value>Ver Arquivo de Notícias</Value>
 	</LocaleResource>
 	<LocaleResource Name="Newsletter.Email.Placeholder">
 		<Value>Insira seu email aqui...</Value>
