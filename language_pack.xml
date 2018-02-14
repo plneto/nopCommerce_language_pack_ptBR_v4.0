@@ -3013,7 +3013,7 @@
 		<Value>Preço</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Price.Hint">
-		<Value>The price of the product. You can manage currency by selecting Configuration &gt; Currencies.</Value>
+		<Value>O preço do produto. Voçê pode gerenciar moedas na página Configuração &gt; Moedas.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductAvailabilityRange">
 		<Value>Product availability range</Value>
@@ -3022,7 +3022,7 @@
 		<Value>Choose the product availability range that indicates when the product is expected to be available when out of stock (e.g. Available in 10-14 days). You can manage availability ranges by selecting Configuration &gt; Shipping &gt; Dates and ranges.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductAvailabilityRange.None">
-		<Value>None</Value>
+		<Value>Nenhum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.ProductCost">
 		<Value>Custo do produto</Value>
@@ -3202,7 +3202,7 @@
 		<Value>Choose the warehouse which will be used when calculating shipping rates. You can manage warehouses by selecting  Configuration &gt; Shipping &gt; Warehouses.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Warehouse.None">
-		<Value>None</Value>
+		<Value>Nenhum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.Fields.Weight">
 		<Value>Peso</Value>
@@ -3811,10 +3811,10 @@
 		<Value>Stock quantity history</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Combination">
-		<Value>Attribute combination</Value>
+		<Value>Combinação de atributo</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.CreatedOn">
-		<Value>Created On</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Message">
 		<Value>Mensagem</Value>
@@ -4090,7 +4090,7 @@
 		<Value>Mensagem</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CreatedOn">
-		<Value>Created On</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CreatedOnFrom">
 		<Value>Created from</Value>
@@ -6256,70 +6256,70 @@
 		<Value>The default meta keywords for pages in your store. You can override these for individual categories / products / manufacturer pages.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultStoreTheme">
-		<Value>Default store theme</Value>
+		<Value>Tema padrão da loja</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultStoreTheme.GetMore">
-		<Value>You can get more themes in our &lt;a href="https://www.nopcommerce.com/marketplace.aspx?category=4&amp;utm_source=admin-panel&amp;utm_medium=theme-settings&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;</Value>
+		<Value>Você pode obter mais temas no nosso &lt;a href="https://www.nopcommerce.com/marketplace.aspx?category=4&amp;utm_source=admin-panel&amp;utm_medium=theme-settings&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultStoreTheme.Hint">
-		<Value>The public store theme. You can download themes from the extensions page at www.nopcommerce.com.</Value>
+		<Value>O tema da loja pública. Você pode baixar temas na página de extensões do site www.nopcommerce.com.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultTitle">
-		<Value>Default page title</Value>
+		<Value>Título padrão da página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultTitle.Hint">
-		<Value>The default title for pages in your store.</Value>
+		<Value>O título padrão das páginas da sua loja.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisablePdfInvoicesForPendingOrders">
-		<Value>Disable PDF invoices for pending orders</Value>
+		<Value>Desativar faturas em PDF nos pedidos pendentes</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisablePdfInvoicesForPendingOrders.Hint">
-		<Value>If checked, customers won't be allowed to print PDF invoices for pending orders.</Value>
+		<Value>Se marcado, clientes não terão permissão para imprimir faturas em PDF nos pedidos pendentes.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayBlogMenuItem">
-		<Value>Display "Blog"</Value>
+		<Value>Exibir "Blog"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayBlogMenuItem.Hint">
-		<Value>Check if "Blog" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Blog" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayContactUsMenuItem">
-		<Value>Display "Contact us"</Value>
+		<Value>Exibir "Contato"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayContactUsMenuItem.Hint">
-		<Value>Check if "Contact us" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Contato" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayCustomerInfoMenuItem">
-		<Value>Display "My account"</Value>
+		<Value>Exibir "Minha conta"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayCustomerInfoMenuItem.Hint">
-		<Value>Check if "My account" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Minha conta" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayForumsMenuItem">
-		<Value>Display "Forums"</Value>
+		<Value>Exibir "Fóruns"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayForumsMenuItem.Hint">
-		<Value>Check if "Forums" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Fóruns" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayHomePageMenuItem">
-		<Value>Display "Home page"</Value>
+		<Value>Exibir "Página inicial"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayHomePageMenuItem.Hint">
-		<Value>Check if "Home page" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Página inicial" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayNewProductsMenuItem">
-		<Value>Display "New products"</Value>
+		<Value>Exibir "Novos produtos"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayNewProductsMenuItem.Hint">
-		<Value>Check if "New products" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Novos produtos" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayProductSearchMenuItem">
-		<Value>Display "Search"</Value>
+		<Value>Exibir "Busca"</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayProductSearchMenuItem.Hint">
-		<Value>Check if "Search" menu item should be displayed in the top menu.</Value>
+		<Value>Marque se o item "Busca" do menu deve ser exibido no menu superior.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning">
-		<Value>Display EU cookie law warning</Value>
+		<Value>Exibir aviso da lei de cookies da UE</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning.Hint">
 		<Value>Fazer o site complacente com a lei de cookie da EU. Quando habilitado, novos clientes irão ver uma caixa de aviso apropriada.</Value>
@@ -7291,13 +7291,13 @@
 		<Value>Publicado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.PurchasedWithOrders">
-		<Value>Purchased with orders</Value>
+		<Value>Comprado com pedidos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.RecurringProduct">
-		<Value>Recurring product</Value>
+		<Value>Produto recorrente</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.RelatedProducts">
-		<Value>Related products</Value>
+		<Value>Produtos relacionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.RequireOtherProductsAddedToTheCart">
 		<Value>Require other products</Value>
@@ -7315,7 +7315,7 @@
 		<Value>Atributos de especificação</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.StockQuantityHistory">
-		<Value>Stock quantity history</Value>
+		<Value>Histórico de quantidade em estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Stores">
 		<Value>Lojas</Value>
@@ -12280,7 +12280,7 @@
 		<Value>Order totals</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.OrderStatus">
-		<Value>Order Status</Value>
+		<Value>Status do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.SalesReport.Average.SumAllTimeOrders">
 		<Value>All time</Value>
@@ -12535,7 +12535,7 @@
 		<Value>from the {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.ImportProduct.Edit">
-		<Value>The stock quantity has been changed by importing product</Value>
+		<Value>A quantidade em estoque foi alterada ao importar o produto</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.StockQuantityHistory.Messages.ImportProduct.EditWarehouse">
 		<Value>Products have been moved {0} {1} by importing product</Value>
@@ -15001,7 +15001,7 @@
 		<Value>Note(s)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Notes.CreatedOn">
-		<Value>Created On</Value>
+		<Value>Criado em</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Notes.Download">
 		<Value>Download attached file</Value>
@@ -15019,7 +15019,7 @@
 		<Value>Order information</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.OrderStatus">
-		<Value>Order Status</Value>
+		<Value>Status do Pedido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.OrderTotal">
 		<Value>Total do Pedido</Value>
