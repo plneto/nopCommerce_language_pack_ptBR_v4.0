@@ -52,7 +52,7 @@
 		<Value>Notificações de produtos fora de estoque</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
-		<Value>Excluir selecionado</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.BackInStockSubscriptions.Description">
 		<Value>Você irá receber um e-mail quando um produto específico voltar ao estoque.</Value>
@@ -433,7 +433,7 @@
 		<Value>Assinaturas do Fórum</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
-		<Value>Excluir Selecionado</Value>
+		<Value>Excluir Selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.ForumSubscriptions.Description">
 		<Value>Você irá receber um e-mail quando um novo tópico/postagem for criado(a).</Value>
@@ -4306,13 +4306,13 @@
 		<Value>back to currency list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.CantDeleteExchange">
-		<Value>The primary exchange rate currency can't be deleted.</Value>
+		<Value>A taxa de câmbio primária não pode ser excluída.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.CantDeletePrimary">
-		<Value>The primary store currency can't be deleted.</Value>
+		<Value>A moeda primária da loja não pode ser excluída.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.Deleted">
-		<Value>The currency has been deleted successfully.</Value>
+		<Value>A moeda foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Currencies.EditCurrencyDetails">
 		<Value>Edit currency details</Value>
@@ -4456,7 +4456,7 @@
 		<Value>back to email account list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.Deleted">
-		<Value>The email account has been deleted successfully.</Value>
+		<Value>A conta de email foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.EmailAccounts.EditEmailAccountDetails">
 		<Value>Edit email account details</Value>
@@ -4576,7 +4576,7 @@
 		<Value>voltar à lista de idiomas</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.Deleted">
-		<Value>The language has been deleted successfully.</Value>
+		<Value>O idioma foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Languages.EditLanguageDetails">
 		<Value>Editar detalhes do idioma</Value>
@@ -4774,7 +4774,7 @@
 		<Value>Additional info</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Deleted">
-		<Value>The plugin has been deleted.</Value>
+		<Value>O plugin foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Plugins.Description">
 		<Value>Manual plugin installation</Value>
@@ -5968,10 +5968,10 @@
 		<Value>Set the page size for active discussions page e.g. '10' results per page.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Forums.AllowCustomersToDeletePosts">
-		<Value>Allow customers to delete posts</Value>
+		<Value>Permitir que clientes excluam postagems</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Forums.AllowCustomersToDeletePosts.Hint">
-		<Value>A value indicating whether customers are allowed to delete posts that they created.</Value>
+		<Value>Um valor que indica se clientes tem permissão para excluir postagens que eles(as) criaram.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Forums.AllowCustomersToEditPosts">
 		<Value>Allow customers to edit posts</Value>
@@ -6652,7 +6652,7 @@
 		<Value>Default image quality (0 - 100)</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.DefaultImageQuality.Hint">
-		<Value>The image quality to be used for uploaded images. Once changed you have to manually delete already generated thumbs.</Value>
+		<Value>A qualidade da imagem a ser usada para imagens enviadas. Quando mudado, você deve excluir manualmente os thumbs que já foram gerados.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Media.DefaultPictureZoomEnabled">
 		<Value>Picture zoom</Value>
@@ -6898,7 +6898,7 @@
 		<Value>Deactivate gift cards after deleting of an order</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.DeactivateGiftCardsAfterDeletingOrder.Hint">
-		<Value>Check to deactivate related gift cards when an order is deleted.</Value>
+		<Value>Marque para desativar cartões-presente relacionados quando um pedido for excluído.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.DisableBillingAddressCheckoutStep">
 		<Value>Disable "Billing address" step</Value>
@@ -6982,7 +6982,7 @@
 		<Value>back to return request action list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Deleted">
-		<Value>The return request action has been deleted successfully.</Value>
+		<Value>A ação de pedido de devolução foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -7042,7 +7042,7 @@
 		<Value>back to return request reason list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Deleted">
-		<Value>The return request reason has been deleted successfully.</Value>
+		<Value>O motivo de pedido de devolução foi excluído com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.DisplayOrder">
 		<Value>Ordem de exibição</Value>
@@ -7915,7 +7915,7 @@
 		<Value>back to delivery date list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Deleted">
-		<Value>The delivery date has been deleted successfully.</Value>
+		<Value>A data de entreda foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.EditDeliveryDateDetails">
 		<Value>Edit delivery date details</Value>
@@ -7948,7 +7948,7 @@
 		<Value>Dimensions</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.CantDeletePrimary">
-		<Value>The primary dimension can't be deleted.</Value>
+		<Value>A dimensão primária não pode ser excluída.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Description">
 		<Value>NOTE: if you change your primary dimension, then do not forget to update the appropriate ratios of the units</Value>
@@ -7981,7 +7981,7 @@
 		<Value>Weights</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.CantDeletePrimary">
-		<Value>The primary weight can't be deleted.</Value>
+		<Value>O peso primário não pode ser excluído.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Description">
 		<Value>NOTE: if you change your primary weight, then do not forget to update the appropriate ratios of the units</Value>
@@ -8023,7 +8023,7 @@
 		<Value>back to shipping method list</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Deleted">
-		<Value>The shipping method has been deleted successfully.</Value>
+		<Value>A forma de envio foi excluída com sucesso.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Shipping.Methods.Description">
 		<Value>Shipping methods used by offline shipping providers. For example, "Manual (Fixed or By Weight)".</Value>
@@ -12568,7 +12568,7 @@
 		<Value>The log entry has been deleted successfully.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.Log.Fields.CreatedOn">
 		<Value>Criado em</Value>
@@ -12991,16 +12991,16 @@
 		<Value>Search engine friendly page names</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.DeleteSelected">
-		<Value>Delete selected</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Details">
-		<Value>Edit page</Value>
+		<Value>Editar página</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.EntityId">
-		<Value>Entity ID</Value>
+		<Value>ID da entidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.EntityName">
-		<Value>Entity name</Value>
+		<Value>Nome da entidade</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.System.SeNames.Id">
 		<Value>ID</Value>
@@ -15703,7 +15703,7 @@
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.DeleteSelected">
-		<Value>Excluir selecionado</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Inbox.FromColumn">
 		<Value>De</Value>
@@ -15751,7 +15751,7 @@
 		<Value>Data</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.DeleteSelected">
-		<Value>Excluir selecionado</Value>
+		<Value>Excluir selecionados</Value>
 	</LocaleResource>
 	<LocaleResource Name="PrivateMessages.Sent.SubjectColumn">
 		<Value>Assunto</Value>
